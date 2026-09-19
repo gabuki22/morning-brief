@@ -14,3 +14,4 @@
 | 2026-09-19 | Fable 5.1 | `.github/workflows/daily.yml schedule` | 주석 → `20 21 * * *`(06:20 KST) | 기쁨 "매일 갱신되는 거지?" — 그 전까진 수동뿐이었다 |
 | 2026-09-19 | Fable 5.1 | `daily.yml` actions/checkout v4→v6 · setup-python v5→v6 | Node 20 경고 | 클라우드 첫 실행 경고 |
 | 2026-09-19 | Fable 5.1 | `tools/build.py` 수집기 경고 보존 | 검증 경고로 덮어씀 → 앞에 이어 붙임 | 클라우드 빌드에서 레저 1건인 이유(Naver 키 없음)가 화면에 안 보였다 |
+| 2026-09-19 | Fable 5.1 | `daily.yml` commit 단계 | `git push` → `git pull --rebase origin main` 후 `push origin HEAD:main` | 옛 실행 Re-run 이 non-fast-forward 로 실패(#1 재실행) |
