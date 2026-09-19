@@ -64,7 +64,7 @@
 
   function statusBar(index) {
     $("#status").innerHTML = Object.entries(index.modules).map(([m, s]) =>
-      `<span><i class="dot ${s.level}"></i>${esc(m)} ${s.level === "off" ? "꺼짐" : `${s.count}건`}${s.warn && s.warn.length ? ` · ${esc(s.warn.join(", "))}` : ""}${s.block && s.block.length ? ` · ${esc(s.block.join(", "))}` : ""}</span>`
+      `<span><i class="dot ${s.level}"></i>${esc(m)} ${s.level === "off" ? "준비 중" : `${s.count}건`}${s.warn && s.warn.length ? ` · ${esc(s.warn.join(", "))}` : ""}${s.block && s.block.length ? ` · ${esc(s.block.join(", "))}` : ""}</span>`
     ).join("") + `<span>빌드 ${esc((index.built_at || "").replace("T", " ").slice(0, 16))}</span>`;
   }
 
