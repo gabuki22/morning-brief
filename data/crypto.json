@@ -1,6 +1,6 @@
 {
  "module": "crypto",
- "fetched_at": "2026-09-19T16:28:41+09:00",
+ "fetched_at": "2026-09-19T16:58:22+09:00",
  "source": {
   "name": "CoinGecko + Upbit + Bithumb + Binance",
   "url": "https://www.coingecko.com/ko",
@@ -9,17 +9,17 @@
  "items": [
   {
    "id": "18c91f56d2cb940c",
-   "title": "Ethereum (ETH) ₩3,642,173",
+   "title": "Ethereum (ETH) ₩3,642,622",
    "url": "https://www.coingecko.com/en/coins/ethereum",
    "published_at": "2026-09-19",
-   "summary": "24시간 +5.62% · 7일 +4.60% · 시총 2위 · 이슈: 비트 코인 ·이더리움도 양자컴퓨터 대비 시작…핵심은 '얼마나 빨리 옮기.",
+   "summary": "24시간 +5.86% · 7일 +4.60% · 시총 2위",
    "tags": [
     "코인",
     "큰 변동"
    ],
    "metrics": {
-    "last": 3642173,
-    "chg_1d": 5.62,
+    "last": 3642622,
+    "chg_1d": 5.86,
     "chg_7d": 4.6,
     "market_cap_rank": 2,
     "series": [
@@ -141,19 +141,10 @@
      ],
      [
       "2026-09-19",
-      3596000.0
+      3595000.0
      ]
     ],
-    "news": [
-     {
-      "title": "비트 코인 ·이더리움도 양자컴퓨터 대비 시작…핵심은 '얼마나 빨리 옮기...",
-      "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=90247"
-     },
-     {
-      "title": "비트 코인 ·이더리움 ‘양자컴퓨터 위협’ 현실화하나…구글이 제시한 5...",
-      "url": "http://coinreaders.com/259179"
-     }
-    ]
+    "news": []
    },
    "is_new": true,
    "streak_days": 1,
@@ -161,17 +152,17 @@
   },
   {
    "id": "a73d767e1f056bc6",
-   "title": "XRP (XRP) ₩1,967",
+   "title": "XRP (XRP) ₩1,957",
    "url": "https://www.coingecko.com/en/coins/ripple",
    "published_at": "2026-09-19",
-   "summary": "24시간 +6.97% · 7일 +4.20% · 시총 5위 · 이슈: [저녁 시세브리핑] 암호화폐 시장 상승세… 비트 코인 81,013달러, ",
+   "summary": "24시간 +6.67% · 7일 +4.20% · 시총 5위",
    "tags": [
     "코인",
     "큰 변동"
    ],
    "metrics": {
-    "last": 1966.73,
-    "chg_1d": 6.97,
+    "last": 1957.12,
+    "chg_1d": 6.67,
     "chg_7d": 4.2,
     "market_cap_rank": 5,
     "series": [
@@ -293,19 +284,10 @@
      ],
      [
       "2026-09-19",
-      1942.0
+      1932.0
      ]
     ],
-    "news": [
-     {
-      "title": "[저녁 시세브리핑] 암호화폐 시장 상승세… 비트 코인 81,013달러, 이더리...",
-      "url": "https://www.tokenpost.kr/news/briefing/410744"
-     },
-     {
-      "title": "[저녁 뉴스브리핑] 비트 코인 ·이더리움 ETF 순유입 外",
-      "url": "https://www.tokenpost.kr/news/briefing/410742"
-     }
-    ]
+    "news": []
    },
    "is_new": true,
    "streak_days": 1,
@@ -313,17 +295,17 @@
   },
   {
    "id": "573eb6ed2f47508a",
-   "title": "Solana (SOL) ₩155,026",
+   "title": "Solana (SOL) ₩154,753",
    "url": "https://www.coingecko.com/en/coins/solana",
    "published_at": "2026-09-19",
-   "summary": "24시간 +5.90% · 7일 +10.00% · 시총 7위 · 이슈: XRP, 6개월 뒤 3달러 직행?...130% 폭등론 실현될까",
+   "summary": "24시간 +5.86% · 7일 +10.00% · 시총 7위",
    "tags": [
     "코인",
     "큰 변동"
    ],
    "metrics": {
-    "last": 155026,
-    "chg_1d": 5.9,
+    "last": 154753,
+    "chg_1d": 5.86,
     "chg_7d": 10.0,
     "market_cap_rank": 7,
     "series": [
@@ -445,19 +427,10 @@
      ],
      [
       "2026-09-19",
-      153100.0
+      152700.0
      ]
     ],
-    "news": [
-     {
-      "title": "XRP, 6개월 뒤 3달러 직행?...130% 폭등론 실현될까",
-      "url": "http://coinreaders.com/259091"
-     },
-     {
-      "title": "비트 코인 (BTC), 금리 인상 뚫고 40만 달러 폭등?...\"2,600% 신화 다시 쓴...",
-      "url": "http://coinreaders.com/259079"
-     }
-    ]
+    "news": []
    },
    "is_new": true,
    "streak_days": 1,
@@ -465,29 +438,20 @@
   },
   {
    "id": "f6b18db9a4f56551",
-   "title": "Zcash (ZEC) ₩2,174,156",
+   "title": "Zcash (ZEC) ₩2,173,359",
    "url": "https://www.coingecko.com/en/coins/zcash",
    "published_at": "2026-09-19",
-   "summary": "24시간 +5.59% · 7일 +38.70% · 시총 9위 · 이슈: 1300억 원대 ' Zcash 혈세' 둘러싼 이권 다툼… 2028년 전량",
+   "summary": "24시간 +5.87% · 7일 +38.70% · 시총 9위",
    "tags": [
     "코인",
     "큰 변동"
    ],
    "metrics": {
-    "last": 2174156,
-    "chg_1d": 5.59,
+    "last": 2173359,
+    "chg_1d": 5.87,
     "chg_7d": 38.7,
     "market_cap_rank": 9,
-    "news": [
-     {
-      "title": "1300억 원대 ' Zcash 혈세' 둘러싼 이권 다툼… 2028년 전량 몰수 가능성...",
-      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=488650"
-     },
-     {
-      "title": "지캐시 X 언급량 6.8배…NU7 투표 99.9% 지지",
-      "url": "https://www.tokenpost.kr/news/cryptocurrency/410563"
-     }
-    ]
+    "news": []
    },
    "is_new": true,
    "streak_days": 1,
@@ -495,16 +459,16 @@
   },
   {
    "id": "e8a3d105df1c968b",
-   "title": "Bitcoin (BTC) ₩112,382,695",
+   "title": "Bitcoin (BTC) ₩112,443,135",
    "url": "https://www.coingecko.com/en/coins/bitcoin",
    "published_at": "2026-09-19",
-   "summary": "24시간 +4.47% · 7일 +4.90% · 시총 1위 · 빗썸 ₩110,980,000",
+   "summary": "24시간 +4.60% · 7일 +4.90% · 시총 1위 · 빗썸 ₩110,950,000",
    "tags": [
     "코인"
    ],
    "metrics": {
-    "last": 112382695,
-    "chg_1d": 4.47,
+    "last": 112443135,
+    "chg_1d": 4.6,
     "chg_7d": 4.9,
     "market_cap_rank": 1,
     "series": [
@@ -626,11 +590,10 @@
      ],
      [
       "2026-09-19",
-      111034000.0
+      110928000.0
      ]
     ],
-    "bithumb_krw": 110980000.0,
-    "binance_usdt": 81078.0,
+    "bithumb_krw": 110950000.0,
     "news": []
    },
    "is_new": true,
@@ -647,7 +610,7 @@
     "코인"
    ],
    "metrics": {
-    "last": 1385.5,
+    "last": 1385.69,
     "chg_1d": 0.23,
     "chg_7d": 0.0,
     "market_cap_rank": 3,
@@ -659,16 +622,16 @@
   },
   {
    "id": "651e4d5f72f77bc5",
-   "title": "BNB (BNB) ₩1,055,385",
+   "title": "BNB (BNB) ₩1,054,777",
    "url": "https://www.coingecko.com/en/coins/binancecoin",
    "published_at": "2026-09-19",
-   "summary": "24시간 +1.02% · 7일 +3.90% · 시총 4위",
+   "summary": "24시간 +1.24% · 7일 +3.90% · 시총 4위",
    "tags": [
     "코인"
    ],
    "metrics": {
-    "last": 1055385,
-    "chg_1d": 1.02,
+    "last": 1054777,
+    "chg_1d": 1.24,
     "chg_7d": 3.9,
     "market_cap_rank": 4,
     "news": []
@@ -687,7 +650,7 @@
     "코인"
    ],
    "metrics": {
-    "last": 1385.65,
+    "last": 1385.8,
     "chg_1d": 0.2,
     "chg_7d": 0.0,
     "market_cap_rank": 6,
@@ -702,13 +665,13 @@
    "title": "TRON (TRX) ₩468",
    "url": "https://www.coingecko.com/en/coins/tron",
    "published_at": "2026-09-19",
-   "summary": "24시간 +0.69% · 7일 -1.70% · 시총 8위",
+   "summary": "24시간 +0.62% · 7일 -1.70% · 시총 8위",
    "tags": [
     "코인"
    ],
    "metrics": {
-    "last": 468.16,
-    "chg_1d": 0.69,
+    "last": 468.29,
+    "chg_1d": 0.62,
     "chg_7d": -1.7,
     "market_cap_rank": 8,
     "news": []
@@ -722,13 +685,13 @@
    "title": "Figure Heloc (FIGR_HELOC) ₩1,428",
    "url": "https://www.coingecko.com/en/coins/figure-heloc",
    "published_at": "2026-09-19",
-   "summary": "24시간 +0.41% · 7일 +1.40% · 시총 10위",
+   "summary": "24시간 +0.40% · 7일 +1.40% · 시총 10위",
    "tags": [
     "코인"
    ],
    "metrics": {
-    "last": 1428.22,
-    "chg_1d": 0.41,
+    "last": 1428.33,
+    "chg_1d": 0.4,
     "chg_7d": 1.4,
     "market_cap_rank": 10,
     "news": []

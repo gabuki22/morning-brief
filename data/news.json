@@ -1,6 +1,6 @@
 {
  "module": "news",
- "fetched_at": "2026-09-19T16:29:41+09:00",
+ "fetched_at": "2026-09-19T16:58:18+09:00",
  "source": {
   "name": "매체 RSS 9곳",
   "url": "https://news.google.com/?hl=ko&gl=KR",
@@ -15,7 +15,7 @@
    "summary": "",
    "tags": [],
    "metrics": {
-    "cluster": 33,
+    "cluster": 32,
     "outlets": 4,
     "cluster_tags": [
      "정치"
@@ -35,7 +35,7 @@
     "정치"
    ],
    "metrics": {
-    "cluster": 33,
+    "cluster": 32,
     "outlets": 4,
     "cluster_tags": [
      "정치"
@@ -55,7 +55,7 @@
     "정치"
    ],
    "metrics": {
-    "cluster": 33,
+    "cluster": 32,
     "outlets": 4,
     "cluster_tags": [
      "정치"
@@ -75,7 +75,7 @@
     "정치"
    ],
    "metrics": {
-    "cluster": 33,
+    "cluster": 32,
     "outlets": 4,
     "cluster_tags": [
      "정치"
@@ -84,6 +84,24 @@
    "is_new": true,
    "streak_days": 1,
    "source_name": "매일경제"
+  },
+  {
+   "id": "bc1736a9f493d338",
+   "title": "경기 안성 한 플리마켓 행사장에 트럭 돌진… 2명 숨지고 5명 부상",
+   "url": "https://www.chosun.com/national/regional/2026/09/19/OLS2HGLVGFHPTKK4JEIB7GBZEU/",
+   "published_at": "2026-09-19T13:51:35+09:00",
+   "summary": "경기 안성시 한 플리마켓 행사장으로 트럭이 돌진해 2명이 숨지고, 5명이 다쳤다.",
+   "tags": [],
+   "metrics": {
+    "cluster": 17,
+    "outlets": 3,
+    "cluster_tags": [
+     "사회"
+    ]
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "조선일보"
   },
   {
    "id": "89a3503d4687c9bf",
@@ -95,7 +113,7 @@
     "정치"
    ],
    "metrics": {
-    "cluster": 1,
+    "cluster": 7,
     "outlets": 3,
     "cluster_tags": [
      "사회",
@@ -111,13 +129,13 @@
    "title": "청와대 “김지용 중수청장 후보자 추가 검증 중…꼼꼼히 살펴보고 있다” - 경향신문",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjN0xLY2F2QWNjNThDcjh3QXk5bW9INEgyRG5xMkZtbUJfSElwWE5sbmNMZGJMSFBvU1hVNklQazNMcUhEdDZIR2Jqd1Z0bm12eVU3ZmU0SUFmUdIBX0FVX3lxTE1uYVZhY0pHUVphOEg2YklqcjFLQ2dzb1NQdzlKcTlueWxSX0RuSUpDLUdwcW5DTTlzcVEzdUljbkFwX29iYlcweVRiUHBHNFN3aHBrNEdtbmFjbFJnY01R?oc=5",
    "published_at": "2026-09-19T14:03:00+09:00",
-   "summary": "청와대 “김지용 중수청장 후보자 추가 검증 중…꼼꼼히 살펴보고 있다” 경향신문 “이게 국민이 요구한 검찰개혁인가?”…추미애 이어 이성윤도 중수청 때리기 문화일보 청와대 “이 대통령 농담 걷어내고 담백하게 회견했다” 주간경향 윤 장모와 소송 동업자 “김지용, 윤석열 일가 엄정 수사한 의로",
+   "summary": "청와대 “김지용 중수청장 후보자 추가 검증 중…꼼꼼히 살펴보고 있다” 경향신문 “이게 국민이 요구한 검찰개혁인가?”…추미애 이어 이성윤도 중수청 때리기 문화일보 靑 \"김지용, 아직 추가 검증중…좀 꼼꼼히 살펴보고 있다\" v.daum.net 법무부 수장 공백 속 다음 달 공소청 출범 '빨",
    "tags": [
     "정치",
     "사회"
    ],
    "metrics": {
-    "cluster": 1,
+    "cluster": 7,
     "outlets": 3,
     "cluster_tags": [
      "사회",
@@ -129,64 +147,22 @@
    "source_name": "구글뉴스 KR"
   },
   {
-   "id": "e1ceba193e04a2bb",
-   "title": "이 대통령 \"청년정책 전담 조직 신설 고민…현장서 해법 찾겠다\" - 연합뉴스TV",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5aN1VSQjZmbTZ0WWJBVjg5MkNPeUw0R2MwS2thbVlGVEI4U0U1cHEwYjFCeS1oYWViZGo3Njgtc0puRjNQLWc2VWZRaUk2WHdReE84bm4tTVpJWGtkeUJDOVAwZTFMNWM?oc=5",
-   "published_at": "2026-09-19T15:37:00+09:00",
-   "summary": "이 대통령 \"청년정책 전담 조직 신설 고민…현장서 해법 찾겠다\" 연합뉴스TV 李대통령 \"가장 열심히 사는 청년이 가장 불안…청년정책 전담조직 검토\" v.daum.net 이재명 대통령 '청년들과 인사' 뉴스1 [속보]李 \"오늘날 청년, 가장 치열하게 경쟁한 세대인데도 미래가 가장 불안\" ",
-   "tags": [
-    "정치"
-   ],
+   "id": "e253ca8c0ff594c0",
+   "title": "안성 플리마켓 인파에 트럭 돌진…어머니와 아들 사망·5명 부상(종합) - 연합뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0zeG41OEV4bXJzeHZuYkY3YzA3WmdlZ24yaGdGeU9INURhYjZUeV9fdVgyRC00cHc3TGJEc1RiSXYtOThxbXlFaDVXYnJDUGpseXpadF9rVkJqY1XSAWBBVV95cUxPSXljSWhDc0ZacEhTZ0FmbG1jVXJqVUFxbGFNaWRMcVdoX29RS3ZjMGNWaVJJM0pYU2dxVVJ6c0RaRjFXTnQ5QW9laXNEYkdkenpMdzFncVFvd0RPdThZWjU?oc=5",
+   "published_at": "2026-09-19T15:29:45+09:00",
+   "summary": "안성 플리마켓 인파에 트럭 돌진…어머니와 아들 사망·5명 부상(종합) 연합뉴스 Google 뉴스에서 헤드라인 및 의견 더보기",
+   "tags": [],
    "metrics": {
-    "cluster": 29,
+    "cluster": 17,
     "outlets": 3,
     "cluster_tags": [
-     "정치"
+     "사회"
     ]
    },
    "is_new": true,
    "streak_days": 1,
    "source_name": "구글뉴스 KR"
-  },
-  {
-   "id": "6d9e14b9f30daaf0",
-   "title": "이 대통령 “청년정책 전담 조직 신설 고민…현장서 해법 찾겠다\"",
-   "url": "https://www.chosun.com/politics/assembly/2026/09/19/RP3QHTODINHZRKUYUSMADY6P7E/",
-   "published_at": "2026-09-19T15:47:02+09:00",
-   "summary": "이재명 대통령이 19일 “청년 문제는 단순한 특정 집단의 문제가 아니라 대한민국이 지속적으로 성장·발전할 수 있는 나라로 남을 수 있는지에 대한 근본적인 문제”라며 “청년 정책을 총괄 전담할 별도 전담 조직을 만들어야 하지 않는지 고민 중”이라고 했다.",
-   "tags": [
-    "정치"
-   ],
-   "metrics": {
-    "cluster": 29,
-    "outlets": 3,
-    "cluster_tags": [
-     "정치"
-    ]
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "조선일보"
-  },
-  {
-   "id": "a5c2c984fd2fdac4",
-   "title": "이 대통령 “청년정책 전담 조직 신설 고민 중···이대로는 비상상황 못 벗어나”",
-   "url": "https://www.khan.co.kr/article/202609191551001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-   "published_at": "2026-09-19T15:51:00+09:00",
-   "summary": "청년의 날 기념식 기념사 “청년, 가장 불안한 세대”“젊은 세대에 기회 줘보려 하나 경력 따지니 구인난”이재명 대통령이 19일 청와대에서 열린 청년의 날 기념식에서 기념사를 하고 있다. 연합뉴스이재명 대통령은 청년의 날인 19일 “청년정책을 총괄 전담할 별도의 전담 조직을 만들어야 되지",
-   "tags": [
-    "정치"
-   ],
-   "metrics": {
-    "cluster": 29,
-    "outlets": 3,
-    "cluster_tags": [
-     "정치"
-    ]
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "경향신문"
   },
   {
    "id": "651fa3e112a1b667",
@@ -198,7 +174,7 @@
     "정치"
    ],
    "metrics": {
-    "cluster": 1,
+    "cluster": 7,
     "outlets": 3,
     "cluster_tags": [
      "사회",
@@ -210,21 +186,58 @@
    "source_name": "연합뉴스"
   },
   {
-   "id": "f93d57bbdbbc5061",
-   "title": "청 “이 대통령, 트럼프 ‘중동 협조 요청’ 거절한 것 아니다”",
-   "url": "https://www.hani.co.kr/arti/politics/politics_general/1278594.html",
+   "id": "4442892af638734e",
+   "title": "안성 플리마켓 트럭 돌진…어머니와 아들 사망·5명 부상",
+   "url": "https://www.khan.co.kr/article/202609191624001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "published_at": "2026-09-19T16:24:00+09:00",
+   "summary": "운전자 “제동장치를 가속페달로 착각” 진술했다 “급발진” 말 바꿔안성 플리마켓으로 돌진한 트럭. 안성소방서 제공19일 오전 경기 안성시의 한 플리마켓 행사장에 1t 트럭이 돌진해 40대 여성과 10대 남성이 숨지고 5명이 다쳤다.경찰과 소방당국에 따르면 이날 오전 11시 18분쯤 안성시",
+   "tags": [
+    "사회"
+   ],
+   "metrics": {
+    "cluster": 17,
+    "outlets": 3,
+    "cluster_tags": [
+     "사회"
+    ]
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "경향신문"
+  },
+  {
+   "id": "c9dc67ea81d5501f",
+   "title": "한국 남자 테니스, 사상 첫 데이비스컵 8강 진출…볼로냐행 확정 ‘신화 창조’",
+   "url": "https://www.hani.co.kr/arti/sports/sports_general/1278608.html",
+   "published_at": "2026-09-19",
+   "summary": "",
+   "tags": [],
+   "metrics": {
+    "cluster": 62,
+    "outlets": 2,
+    "cluster_tags": []
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "한겨레"
+  },
+  {
+   "id": "b2ad49a72d236855",
+   "title": "미중 정상회담 ‘AI’ ‘관세’ 주요 의제…미 빅테크 CEO들 만찬 참석",
+   "url": "https://www.hani.co.kr/arti/international/international_general/1278601.html",
    "published_at": "2026-09-19",
    "summary": "",
    "tags": [
-    "정치",
-    "국제"
+    "IT",
+    "AI"
    ],
    "metrics": {
-    "cluster": 96,
+    "cluster": 90,
     "outlets": 2,
     "cluster_tags": [
-     "국제",
-     "정치"
+     "AI",
+     "IT",
+     "국제"
     ]
    },
    "is_new": true,
@@ -232,21 +245,23 @@
    "source_name": "한겨레"
   },
   {
-   "id": "f3a12a45ed842105",
-   "title": "청 “이 대통령, 트럼프 ‘중동 협조 요청’ 거절한 것 아니다” - 한겨레",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5LVnJOTTVBQ0Y3ZUE1NHh1dnJsd1JoTW14WEVZeVBzc0EwZUMzUldGMDVBVTBKdWxNVjBuZ3VGR1dEZENxRFJpRzQ1SFpLUXZNdjdoUjk2VzV6RDZEbXdvY1Q0VWxNZHI1TFFXOE9DQ1BoTEVV?oc=5",
-   "published_at": "2026-09-19T11:55:00+09:00",
-   "summary": "청 “이 대통령, 트럼프 ‘중동 협조 요청’ 거절한 것 아니다” 한겨레 李 “전쟁 파병 없다” 다음날…靑 “트럼프 요청 거절은 아냐” v.daum.net \"전쟁 파병은 없다\"...파병 필요성은 강조 YTN 박현도 “파병하면 이란은 1000% 우리를 공격할 것” [김은지의 뉴스IN] 시사",
+   "id": "25190ff3f60b305d",
+   "title": "미중 정상회담 ‘AI’ ‘관세’ 주요 의제…미 빅테크 CEO들 만찬 참석 - 한겨레",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSEFSdXp1WlVlN0VTOEg2dGRkb0NNd0VCMDFHdHBleFlMZ0NIMk1NUTdzelV6anNMS0tTSWp1TGFDT0VZdmk0ZXZ1dDYxTTU2a2x4NF9EMTZQVk5uTnhNVngtSC1YZy1GS0U3OG5qbVAxNkJBbjl2cXdFUUhUYnp3WUx3?oc=5",
+   "published_at": "2026-09-19T14:52:00+09:00",
+   "summary": "미중 정상회담 ‘AI’ ‘관세’ 주요 의제…미 빅테크 CEO들 만찬 참석 한겨레 트럼프 직접 나온다는데···‘시진핑 맞이’ 다른 정상들은 어땠을까 경향신문 \"미중정상회담 앞둔 美, 대만 무기판매 결정 연말로 연기 검토\" 연합뉴스 미·중 정상회담 의제는…AI·관세 등 논의할 듯 연합인포맥",
    "tags": [
-    "정치",
-    "국제"
+    "국제",
+    "IT",
+    "AI"
    ],
    "metrics": {
-    "cluster": 96,
+    "cluster": 90,
     "outlets": 2,
     "cluster_tags": [
-     "국제",
-     "정치"
+     "AI",
+     "IT",
+     "국제"
     ]
    },
    "is_new": true,
@@ -254,46 +269,14 @@
    "source_name": "구글뉴스 KR"
   },
   {
-   "id": "fa696c0a8b315836",
-   "title": "후티 공세에 사우디 수도 리야드 첫 공습경보…전면전 우려",
-   "url": "https://www.hankyung.com/article/2026091952107",
-   "published_at": "2026-09-19T14:57:29+09:00",
-   "summary": "",
+   "id": "3abefa07dbcee3bf",
+   "title": "세종포천고속도서 화물차가 SUV 추돌…남매 부부 4명 사상(종합)",
+   "url": "https://www.yna.co.kr/view/AKR20260919028551061",
+   "published_at": "2026-09-19T15:55:48+09:00",
+   "summary": "(용인=연합뉴스) 이영주 기자 = 19일 오전 8시 45분께 경기도 용인시 세종포천고속도로 세종 방면 포곡1터널 부근 3차로에서 60대 A씨가 ...",
    "tags": [],
    "metrics": {
-    "cluster": 64,
-    "outlets": 2,
-    "cluster_tags": []
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "한국경제"
-  },
-  {
-   "id": "6cff6553ac2ffea0",
-   "title": "후티 공세에 사우디 수도 리야드 첫 공습경보…전면전 우려",
-   "url": "https://www.donga.com/news/Inter/article/all/20260919/134700765/1",
-   "published_at": "2026-09-19T15:19:50+09:00",
-   "summary": "사우디아라비아와 예멘의 친(親)이란 반군 후티의 무력 충돌이 격화하고 있는 가운데, 사우디의 수도인 리야드에 첫 공습경보가 발령됐다. 올해 7월 후티가 사우디를 향해 해상 봉쇄를 선언한 후 리야드에 발령된 첫 경보다.19일(현지 간) 영국 BBC 방송 등에 따르면 사우디 민방위국은 현지",
-   "tags": [],
-   "metrics": {
-    "cluster": 64,
-    "outlets": 2,
-    "cluster_tags": []
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "동아일보"
-  },
-  {
-   "id": "d1171fac9fae688c",
-   "title": "안성 플리마켓 인파에 트럭 돌진…어머니와 아들 사망·5명 부상(종합)",
-   "url": "https://www.yna.co.kr/view/AKR20260919037951061",
-   "published_at": "2026-09-19T15:29:45+09:00",
-   "summary": "(안성=연합뉴스) 이영주 기자 = 19일 오전 경기 안성시의 한 플리마켓 행사장에 1t 트럭이 돌진해 모자 관계인 40대 여성과 10대 남성이 ...",
-   "tags": [],
-   "metrics": {
-    "cluster": 13,
+    "cluster": 12,
     "outlets": 2,
     "cluster_tags": [
      "사회"
@@ -304,32 +287,83 @@
    "source_name": "연합뉴스"
   },
   {
-   "id": "a511ea0ff3287100",
-   "title": "아산 공장 건물서 공조설비 작업 중 60대 근로자 추락사",
-   "url": "https://www.yna.co.kr/view/AKR20260919045300063",
-   "published_at": "2026-09-19T15:36:45+09:00",
-   "summary": "(세종=연합뉴스) 양영석 기자 = 충남 아산의 한 공장에서 작업 중이던 근로자가 4ｍ가량 아래로 떨어져 숨졌다.",
+   "id": "0d903707866cdbf0",
+   "title": "에이스 권순우 펄펄…한국 남자 테니스, 사상 첫 데이비스컵 8강 진출",
+   "url": "https://www.donga.com/news/Sports/article/all/20260919/134700791/1",
+   "published_at": "2026-09-19T16:22:48+09:00",
+   "summary": "한국 남자 테니스가 에이스 면모를 한껏 과시한 권순우(157위·충남체육회)를 앞세워 사상 최초로 국가 대항전인 데이비스컵 파이널(8강)에 진출했다. 권순우는 19일 서울 송파구 올림픽공원 테니스장에서 열린 2026 데이비스컵 최종 본선 진출전 2라운드(4단1복식) 인도와의 경기 단식에서",
    "tags": [],
    "metrics": {
-    "cluster": 9,
+    "cluster": 62,
     "outlets": 2,
     "cluster_tags": []
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "동아일보"
+  },
+  {
+   "id": "aebbd85d39c39ce0",
+   "title": "트럼프는 'AI 위험' 사기라고 했지만…백악관 내부선 신중론도",
+   "url": "https://www.yna.co.kr/view/AKR20260919047200009",
+   "published_at": "2026-09-19T16:23:51+09:00",
+   "summary": "(서울=연합뉴스) 고일환 기자 = 도널드 트럼프 미국 대통령은 인공지능(AI)의 위험을 '사기'라고 일축했지만, 백악관 내부에서는 AI 규제에 ...",
+   "tags": [
+    "정치",
+    "국제",
+    "IT",
+    "AI"
+   ],
+   "metrics": {
+    "cluster": 6,
+    "outlets": 2,
+    "cluster_tags": [
+     "AI",
+     "IT",
+     "국제",
+     "정치"
+    ]
    },
    "is_new": true,
    "streak_days": 1,
    "source_name": "연합뉴스"
   },
   {
-   "id": "4442892af638734e",
-   "title": "안성 플리마켓 인파에 트럭 돌진…어머니와 아들 사망·5명 부상",
-   "url": "https://www.khan.co.kr/article/202609191624001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-   "published_at": "2026-09-19T16:24:00+09:00",
-   "summary": "안성 플리마켓으로 돌진한 트럭. 안성소방서 제공19일 오전 경기 안성시의 한 플리마켓 행사장에 1t 트럭이 돌진해 40대 여성과 10대 남성이 숨지고 5명이 다쳤다.경찰과 소방당국에 따르면 이날 오전 11시 18분쯤 안성시 공도읍 공도도서관 앞 공도10호 어린이공원 플리마켓 행사장에서 ",
+   "id": "1c7e079ae2007ee2",
+   "title": "트럼프는 'AI 위험' 사기라고 했지만…백악관 내부선 신중론도 - v.daum.net",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAwc3R5WmlPVWpZczVlZmotVXVEME11cktPVjNzMzZZbHhvcnpibXN6d0NfZ2cwREFCaENDU00tSVRIeEZtNWxYQmJ6QS1ISHM?oc=5",
+   "published_at": "2026-09-19T16:25:51+09:00",
+   "summary": "트럼프는 'AI 위험' 사기라고 했지만…백악관 내부선 신중론도 v.daum.net Google 뉴스에서 헤드라인 및 의견 더보기",
+   "tags": [
+    "국제",
+    "IT",
+    "AI"
+   ],
+   "metrics": {
+    "cluster": 6,
+    "outlets": 2,
+    "cluster_tags": [
+     "AI",
+     "IT",
+     "국제",
+     "정치"
+    ]
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "구글뉴스 KR"
+  },
+  {
+   "id": "2274b3681f5aacae",
+   "title": "세종포천고속도로에서 화물차가 승용차 추돌…남매·부부 4명 사상",
+   "url": "https://www.khan.co.kr/article/202609191645001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "published_at": "2026-09-19T16:45:00+09:00",
+   "summary": "경기소방재판본부 제공경기 용인시 처인구 세종포천고속도로에서 60대 운전자가 몰던 화물차가 앞서 가던 승용차를 추돌해 4명이 사상했다.19일 오전 8시45분쯤 세종포천고속도로 세종방향 포곡1터널을 진출한 3.5t 화물차가 니로 승용차 뒤를 들이받았다. 사고가 발생한 구간에서는 정체가 빚어",
    "tags": [
     "사회"
    ],
    "metrics": {
-    "cluster": 13,
+    "cluster": 12,
     "outlets": 2,
     "cluster_tags": [
      "사회"
@@ -340,20 +374,20 @@
    "source_name": "경향신문"
   },
   {
-   "id": "c823a5d47c792d8e",
-   "title": "충남 아산 공장 건물서 공조설비 작업 중 60대 근로자 추락사",
-   "url": "https://www.mk.co.kr/news/society/12157110",
-   "published_at": "2026-09-20T00:45:12+09:00",
-   "summary": "충남 아산의 한 공장에서 작업 중이던 근로자가 약 4ｍ 아래로 추락해 숨졌다. 19일 충남소방본부에 따르면 전날 오전 9시 55분께 아산시 음봉면 한 공장 건물 2층에서 에어컨 등..",
+   "id": "e20912828ff813a2",
+   "title": "김승원 사퇴 배경에 ‘성추행 의혹 탄원서’ 보도…야권 “사퇴 아닌 도주”",
+   "url": "https://www.hani.co.kr/arti/politics/politics_general/1278609.html",
+   "published_at": "2026-09-19",
+   "summary": "",
    "tags": [],
    "metrics": {
-    "cluster": 9,
-    "outlets": 2,
+    "cluster": 84,
+    "outlets": 1,
     "cluster_tags": []
    },
    "is_new": true,
    "streak_days": 1,
-   "source_name": "매일경제"
+   "source_name": "한겨레"
   },
   {
    "id": "6e96ea6fe6d04dcb",
@@ -363,7 +397,7 @@
    "summary": "",
    "tags": [],
    "metrics": {
-    "cluster": 84,
+    "cluster": 85,
     "outlets": 1,
     "cluster_tags": []
    },
@@ -379,7 +413,7 @@
    "summary": "",
    "tags": [],
    "metrics": {
-    "cluster": 85,
+    "cluster": 86,
     "outlets": 1,
     "cluster_tags": []
    },
@@ -398,7 +432,7 @@
     "국제"
    ],
    "metrics": {
-    "cluster": 86,
+    "cluster": 87,
     "outlets": 1,
     "cluster_tags": [
      "경제",
@@ -417,7 +451,7 @@
    "summary": "",
    "tags": [],
    "metrics": {
-    "cluster": 87,
+    "cluster": 88,
     "outlets": 1,
     "cluster_tags": []
    },
@@ -433,31 +467,9 @@
    "summary": "",
    "tags": [],
    "metrics": {
-    "cluster": 88,
-    "outlets": 1,
-    "cluster_tags": []
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "한겨레"
-  },
-  {
-   "id": "b2ad49a72d236855",
-   "title": "미중 정상회담 ‘AI’ ‘관세’ 주요 의제…미 빅테크 CEO들 만찬 참석",
-   "url": "https://www.hani.co.kr/arti/international/international_general/1278601.html",
-   "published_at": "2026-09-19",
-   "summary": "",
-   "tags": [
-    "IT",
-    "AI"
-   ],
-   "metrics": {
     "cluster": 89,
     "outlets": 1,
-    "cluster_tags": [
-     "AI",
-     "IT"
-    ]
+    "cluster_tags": []
    },
    "is_new": true,
    "streak_days": 1,
@@ -473,7 +485,7 @@
     "정치"
    ],
    "metrics": {
-    "cluster": 90,
+    "cluster": 91,
     "outlets": 1,
     "cluster_tags": [
      "정치"
@@ -491,7 +503,7 @@
    "summary": "",
    "tags": [],
    "metrics": {
-    "cluster": 91,
+    "cluster": 92,
     "outlets": 1,
     "cluster_tags": []
    },
@@ -507,7 +519,7 @@
    "summary": "",
    "tags": [],
    "metrics": {
-    "cluster": 92,
+    "cluster": 93,
     "outlets": 1,
     "cluster_tags": []
    },
@@ -523,7 +535,7 @@
    "summary": "",
    "tags": [],
    "metrics": {
-    "cluster": 93,
+    "cluster": 94,
     "outlets": 1,
     "cluster_tags": []
    },
@@ -539,7 +551,7 @@
    "summary": "",
    "tags": [],
    "metrics": {
-    "cluster": 94,
+    "cluster": 95,
     "outlets": 1,
     "cluster_tags": []
    },
@@ -555,7 +567,7 @@
    "summary": "",
    "tags": [],
    "metrics": {
-    "cluster": 95,
+    "cluster": 96,
     "outlets": 1,
     "cluster_tags": []
    },
@@ -564,33 +576,17 @@
    "source_name": "한겨레"
   },
   {
-   "id": "b00b3ac512261083",
-   "title": "청, 김승원 사퇴에 “국정 부담 줄이고자 한 결정 존중”",
-   "url": "https://www.hani.co.kr/arti/politics/bluehouse/1278593.html",
-   "published_at": "2026-09-19",
-   "summary": "",
-   "tags": [],
-   "metrics": {
-    "cluster": 97,
-    "outlets": 1,
-    "cluster_tags": []
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "한겨레"
-  },
-  {
-   "id": "e93f729e554088f2",
-   "title": "조현, 루비오 미 국무장관에 “호르무즈 통항 회복에 실질적 기여 의지 설명” - 경향신문",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjNHFwbXBDcGk4Vldha0t2ajZsZVNjbWU1YVNmQmZteU5JeUFfX1NrVTJIeWxlR0p3dUpWY1NvSmRUSjZLVmZ6dDZuWFdjWUtqZzdmcEU3d2ZfQdIBX0FVX3lxTE1QTmRlRWRTRWFUa2xSd1dRV3NSZW1JYWhIOFd3TXZmeUV3bnhVTy1QRnp2UUJZN3UxU2Z3aTUwQjgwUWZpMGJRc0dERnVUUTBScmlVT2FnWWpxRmhYekpV?oc=5",
-   "published_at": "2026-09-19T06:41:00+09:00",
-   "summary": "조현, 루비오 미 국무장관에 “호르무즈 통항 회복에 실질적 기여 의지 설명” 경향신문 조현 외교장관, 미국 상·하원 의원 면담…한미 현안 의견 교환 대한민국 정책브리핑 조현, 미 CSIS 면담…\"북미대화 재개·한반도 평화 희망\" v.daum.net 李대통령 “대미투자, 국익 훼손 없이 ",
+   "id": "f6128d2efbc1fd77",
+   "title": "[속보] 조현 외교장관, 美에 \"호르무즈 자유로운 통항 회복 기여 의지 설명\" - 연합뉴스TV",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBob19mMk5RWGdOT3pEbVFWdENINXZjbm9kMlBYbHlYSnhyRy01N3BRbFlKaVhfb1FFTGZLNG81Y05RWktJd3JxX3JNUERJQjdta1I1RkN0Q2tYcFlZRG5kUlNiQ2l0clE?oc=5",
+   "published_at": "2026-09-19T06:38:00+09:00",
+   "summary": "[속보] 조현 외교장관, 美에 \"호르무즈 자유로운 통항 회복 기여 의지 설명\" 연합뉴스TV 조현 외교장관, 미국 상·하원 의원 면담…한미 현안 의견 교환 대한민국 정책브리핑 李대통령 “대미투자, 국익 훼손 없이 한미 모두에 도움되도록 협의” 전기신문 호르무즈 기본입장 전한 韓…미국은 통",
    "tags": [
     "정치",
     "국제"
    ],
    "metrics": {
-    "cluster": 114,
+    "cluster": 115,
     "outlets": 1,
     "cluster_tags": [
      "국제",
@@ -606,7 +602,7 @@
    "title": "이란전쟁 틈타 ‘수조원 담합 혐의‘ 석화업체 경영진 2명 구속 - 한겨레",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9mUGxvNTRBdzgyUnNVWWhlWmxjRWk0SW5qRERsOFRCa1RMSkFfRHVmM0pmQWVPUm50alRVZnhLNmw3SERIZ2pha1FlZDRZRWxkMTNqakUyWVpvWkg5MDBmUmVnd01xSmRxalhXOXJNSlF3QQ?oc=5",
    "published_at": "2026-09-19T08:34:00+09:00",
-   "summary": "이란전쟁 틈타 ‘수조원 담합 혐의‘ 석화업체 경영진 2명 구속 한겨레 [속보] '15조 규모 담합' 석유화학업체 전·현직 경영진 2명 구속 v.daum.net '공정거래법 위반 혐의' 김유신 OCI 대표이사 영장심사 연합뉴스 ‘15조 원대 담합’ 석유화학업체 경영진 2명 구속…“증거 인",
+   "summary": "이란전쟁 틈타 ‘수조원 담합 혐의‘ 석화업체 경영진 2명 구속 한겨레 ‘15조 원대 담합’ 석유화학업체 경영진 2명 구속…“증거 인멸 염려” KBS 뉴스 '15조원대 석화 담합' 첫 구속…OCI 대표 등 경영진 6명은 영장 기각 v.daum.net '공정거래법 위반 혐의' 김유신 OCI",
    "tags": [],
    "metrics": {
     "cluster": 117,
@@ -622,7 +618,7 @@
    "title": "민주당 “국민의힘, 대통령 말 아직도 곡해…듣고 싶은 말만 듣나” - KBS 뉴스",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqcXRMOGVvZVpib3lRSDR5dGtxaU9GZFQtQnBqSkV3ODZXRHhIdnk5UVZhcjRQbkhwdUdSMHp6b2JoRS1hWHFmY1JSa21hUUxwUUw1ZDAxdTd2RGs?oc=5",
    "published_at": "2026-09-19T09:50:00+09:00",
-   "summary": "민주당 “국민의힘, 대통령 말 아직도 곡해…듣고 싶은 말만 듣나” KBS 뉴스 李, 사과로 시작해 사과로 끝난 기자회견…관심은 다시 지지율로 v.daum.net 민주당 \"연임 생각 없다는데 말꼬리‥대통령 회견 왜곡 말라\" imnews.imbc.com 공소취소·연임개헌에 입장 내놓은 이 ",
+   "summary": "민주당 “국민의힘, 대통령 말 아직도 곡해…듣고 싶은 말만 듣나” KBS 뉴스 李, 사과로 시작해 사과로 끝난 기자회견…관심은 다시 지지율로 v.daum.net 민주당 \"연임 생각 없다는데 말꼬리‥대통령 회견 왜곡 말라\" MBC 뉴스 공소취소·연임개헌에 입장 내놓은 이 대통령…30%대 ",
    "tags": [
     "정치"
    ],
@@ -638,11 +634,31 @@
    "source_name": "구글뉴스 KR"
   },
   {
+   "id": "27b1db4a139849fb",
+   "title": "추석에 아프면 어디로? 경북 응급의료기관 36곳 24시간 운영 - v.daum.net",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBIdnZ5STYwRmNjMXBhanFiNUpYeUJVYlJsallXTjE1TmpFUzdHWVhyalozRXRJS1ZzSTVWby05d08tVDQ0SHQzckJqdlpXV1U?oc=5",
+   "published_at": "2026-09-19T10:12:39+09:00",
+   "summary": "추석에 아프면 어디로? 경북 응급의료기관 36곳 24시간 운영 v.daum.net 양산시, 추석 연휴 비상응급 대응체계 가동…응급실 4곳 24시간 운영 뉴스타운 김해시 추석 연휴 종합상황실 운영…의료·교통 공백 차단 등 연합뉴스 동두천시, 추석 종합대책…물가·쓰레기·교통·재난 대응 뉴시",
+   "tags": [
+    "경제"
+   ],
+   "metrics": {
+    "cluster": 118,
+    "outlets": 1,
+    "cluster_tags": [
+     "경제"
+    ]
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "구글뉴스 KR"
+  },
+  {
    "id": "fbbe493c71bc2001",
-   "title": "이 대통령, 지지자 응원 글에 \"위로 많이 돼‥더 개혁해 더 나은 세상\" - imnews.imbc.com",
+   "title": "이 대통령, 지지자 응원 글에 \"위로 많이 돼‥더 개혁해 더 나은 세상\" - MBC 뉴스",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBDbVU1VGpwQ1hfX0VTQ1R0NHFlYTJRVmJKRENEUWw0Rko3VFk4bkJNWFJXaGo5Y1puT3FlT1BtVjBJOVJ3NEFaMEc0Z1dJWDVqTkVqdkpvSk1QR3dGWVF5ZUVfa0cwN1JPdUI0TG1sb1NZQUR1VjNEa9IBeEFVX3lxTE9BcnlZcnZPMDFIZUtMMzlLd2dXTW1kVDlsTVlKa2dKV0hqNjJYa1J5a0pFbFlqY04tdjlGeU1tVkNjTzZEU0Ria0I3cFZjTlF6SlZLRzFWTDVKM0JEVHhlREx4UFlta3FMcGluS040Y1ZEMUtyT29Tcg?oc=5",
    "published_at": "2026-09-19T10:57:13+09:00",
-   "summary": "이 대통령, 지지자 응원 글에 \"위로 많이 돼‥더 개혁해 더 나은 세상\" imnews.imbc.com 李대통령 “불가역적으로 검사가 수사 못하게”… ‘검찰개혁’ 후속 조치는 v.daum.net 커지는 권한, 바닥난 신뢰…경찰, 李 '고강도 개혁 주문' 시험대 뉴시스 \"후퇴 의심 거둬달라",
+   "summary": "이 대통령, 지지자 응원 글에 \"위로 많이 돼‥더 개혁해 더 나은 세상\" MBC 뉴스 李대통령 “불가역적으로 검사가 수사 못하게”… ‘검찰개혁’ 후속 조치는 v.daum.net 커지는 권한, 바닥난 신뢰…경찰, 李 '고강도 개혁 주문' 시험대 뉴시스 \"후퇴 의심 거둬달라\"...'불가역적",
    "tags": [
     "정치",
     "사회"
@@ -669,7 +685,7 @@
     "정치"
    ],
    "metrics": {
-    "cluster": 111,
+    "cluster": 110,
     "outlets": 1,
     "cluster_tags": [
      "정치"
@@ -690,7 +706,7 @@
     "국제"
    ],
    "metrics": {
-    "cluster": 110,
+    "cluster": 109,
     "outlets": 1,
     "cluster_tags": [
      "국제",
@@ -711,7 +727,7 @@
     "정치"
    ],
    "metrics": {
-    "cluster": 109,
+    "cluster": 108,
     "outlets": 1,
     "cluster_tags": [
      "정치"
@@ -731,7 +747,7 @@
     "정치"
    ],
    "metrics": {
-    "cluster": 108,
+    "cluster": 107,
     "outlets": 1,
     "cluster_tags": [
      "정치"
@@ -751,7 +767,7 @@
     "정치"
    ],
    "metrics": {
-    "cluster": 107,
+    "cluster": 106,
     "outlets": 1,
     "cluster_tags": [
      "정치"
@@ -769,7 +785,7 @@
    "summary": "▲ 한미 통합국방협의체 개최한미 국방당국의 고위급 회의체인 '통합국방협의체 KIDD'가 전시작전통제권 전환 가속화를 위…",
    "tags": [],
    "metrics": {
-    "cluster": 105,
+    "cluster": 104,
     "outlets": 1,
     "cluster_tags": []
    },
@@ -788,7 +804,7 @@
     "국제"
    ],
    "metrics": {
-    "cluster": 104,
+    "cluster": 103,
     "outlets": 1,
     "cluster_tags": [
      "국제",
@@ -807,107 +823,13 @@
    "summary": "▲ 2025년 9월에 열린 제75주년 서울수복기념행사 해병대사령부가 주최하고 서울시와 해병대전우회가 후원하는 제76주년 서울수복 전승…",
    "tags": [],
    "metrics": {
-    "cluster": 103,
+    "cluster": 102,
     "outlets": 1,
     "cluster_tags": []
    },
    "is_new": true,
    "streak_days": 1,
    "source_name": "SBS"
-  },
-  {
-   "id": "e6d151afac85b10f",
-   "title": "경기 안성 나눔장터로 트럭 돌진‥모자 2명 심정지·4명 부상 - imnews.imbc.com",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB1cGRkVW1OYUVzcHdDaHBSam9hVUxpVFVuREZpQzg2bmJkV0FqVXJVVXVtdnR0YmZTdDNTei1jVWg3elpPR2VYRDJfLWdFaG1YUnhPX2kzTFZVclM4bTZYaVg5N2V3Tk1seV9QZEV0R2lqdzA1blZr0gF3QVVfeXFMUEdkbU9FMkVBUkJCV2hfYUNkQllnLUJKSWZrYkRlUlRmeXdpTzFpT0pLY2R3RGJXazZqLWMyOTcwTGhQNzlhdEdDYjhyT0lJa1diaVdZOS1rRUFGd1c5T0hrSWduazgwNU04Y1lGMnQ0ZlZBR3hYTkU?oc=5",
-   "published_at": "2026-09-19T13:29:32+09:00",
-   "summary": "경기 안성 나눔장터로 트럭 돌진‥모자 2명 심정지·4명 부상 imnews.imbc.com 안성 플리마켓 인파에 트럭 돌진…어머니와 아들 사망·5명 부상(종합) v.daum.net 행사장 덮친 트럭...30대 어머니·10대 아들 심정지 YTN 경기 안성 도서관 앞 행사장으로 트럭 돌진…2",
-   "tags": [],
-   "metrics": {
-    "cluster": 118,
-    "outlets": 1,
-    "cluster_tags": []
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "구글뉴스 KR"
-  },
-  {
-   "id": "7d580d253a239e9d",
-   "title": "주유소 기름값 18주째 하락…최고가격제 영향에 1800원대 지속 - 경향신문",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82VGF6OUdESkZqd2FFYWhzZ1QxdmloSnB3elBHcG0zT09BcXZDTnV3dE1uUWFFek1OdU9nbGhSNUVwUHNBdXJnc0x3S2ptRThDVFRrY1hwcWZMZ9IBX0FVX3lxTE0ydnB0Z2tCczRiYXBsaGxhZFpWWjJtMzRFSlZTejh0R1N0ZU8yRElsS2pnYXNEWGw0QjVDUUFkRFFLTnN3T1JNWm05M2R4c0x1Tl90bU1YZzBCcjlNQldR?oc=5",
-   "published_at": "2026-09-19T13:35:00+09:00",
-   "summary": "주유소 기름값 18주째 하락…최고가격제 영향에 1800원대 지속 경향신문 (설명자료)10차 석유 최고가격 및 유류세 인하 연장은 결정된 바 없습니다 대한민국 정책브리핑 국제유가, 사우디 공급 차질 우려 완화에 사흘째 하락 연합뉴스 [에너지 오디세이]④흔들리는 중동 공급망…미국산 수입 확",
-   "tags": [
-    "국제"
-   ],
-   "metrics": {
-    "cluster": 123,
-    "outlets": 1,
-    "cluster_tags": [
-     "국제"
-    ]
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "구글뉴스 KR"
-  },
-  {
-   "id": "4d39372d631f036f",
-   "title": "‘조 단위 담합’ 석유화학업체 임원 2명 구속…6명은 영장 기각",
-   "url": "https://www.khan.co.kr/article/202609191340001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-   "published_at": "2026-09-19T13:40:00+09:00",
-   "summary": "장영수 전 PKC 대표이사가 지난 18일 서울 서초구 서울중앙지방법원에서 구속 전 피의자 심문(영장실질심사)을 받기 위해 법정으로 향하고 있다. 장 전 대표에 대한 구속영장 청구는 법원에서 기각됐다. 연합뉴스 제공석유화학제품 담합 혐의를 받는 국내 석유화학업체 전·현직 경영진 8명에 대",
-   "tags": [
-    "사회"
-   ],
-   "metrics": {
-    "cluster": 55,
-    "outlets": 1,
-    "cluster_tags": [
-     "사회"
-    ]
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "경향신문"
-  },
-  {
-   "id": "dcd95d5659523d35",
-   "title": "다음주 방미 앞둔 시진핑... 브릭스 만찬 불참에 ‘건강이상설’ 제기 - 조선일보",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPajNPaldLZjlHZ0pfQ2pVZTQ1Mmg4ajVfRzhNNXRRbHJiUE9IaGIxbzVkSGtaMTEyWUtBMnM2c3FsY1lrMHc3MWRYLVl6d2wxN0pwdUF5YXBVbDdxY1NNS1lSdUFqMVVUakdNRkNPR3dEeTJ3TXBRMDFpQkdQWWszVWNRa1k0NnVkZTJzb0QyN1FOLVh2RUdZcENPOXJRZw?oc=5",
-   "published_at": "2026-09-19T13:41:00+09:00",
-   "summary": "다음주 방미 앞둔 시진핑... 브릭스 만찬 불참에 ‘건강이상설’ 제기 조선일보 시진핑, 건강 이상설 다시 확산…“몸이 안 좋았다” 무슨 일? v.daum.net 브릭스 조기귀국, 시진핑 건강이상설 확산···내주 미중 정상회담 주목 주간경향 시진핑 '뇌졸중' 건강이상설 확산…中 공식 대응",
-   "tags": [],
-   "metrics": {
-    "cluster": 120,
-    "outlets": 1,
-    "cluster_tags": []
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "구글뉴스 KR"
-  },
-  {
-   "id": "5c33dc46832a5b1b",
-   "title": "삼성전자 초기업노조, ‘반도체 노조’ 전환",
-   "url": "https://www.khan.co.kr/article/202609191344001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-   "published_at": "2026-09-19T13:44:00+09:00",
-   "summary": "삼성그룹 초기업노동조합 삼성전자지부 최승호 위원장이 지난 5월 정부세종청사 중앙노동위원회에서 노사협상 결렬 과정을 설명한 뒤 총파업 강행 입장을 밝히고 있다. 연합뉴스 제공삼성그룹 초기업노동조합 삼성전자지부(이하 초기업노조)가 반도체 사업을 담당하는 디바이스솔루션(DS)부문 중심의 노동",
-   "tags": [
-    "IT",
-    "신기술"
-   ],
-   "metrics": {
-    "cluster": 54,
-    "outlets": 1,
-    "cluster_tags": [
-     "IT",
-     "신기술"
-    ]
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "경향신문"
   },
   {
    "id": "f18ddfecb57f461c",
@@ -919,7 +841,7 @@
     "정치"
    ],
    "metrics": {
-    "cluster": 101,
+    "cluster": 100,
     "outlets": 1,
     "cluster_tags": [
      "정치"
@@ -939,7 +861,7 @@
     "정치"
    ],
    "metrics": {
-    "cluster": 106,
+    "cluster": 105,
     "outlets": 1,
     "cluster_tags": [
      "정치"
@@ -957,7 +879,7 @@
    "summary": "김정은 북한 국무위원장이 지난 16~18일 중요 군수공업기업소들의 생산 실태를 료해(점검)했다고 조선중앙TV가 19일 보도했다. 연합뉴스 제공북한 김정은 국무위원장이 군수공업기업소를 시찰하고 포병의 중요성을 강조하면서 포병전투무력개편 및 현대화를 위한 군수분야의 뒷받침을 강조했다.19일",
    "tags": [],
    "metrics": {
-    "cluster": 53,
+    "cluster": 54,
     "outlets": 1,
     "cluster_tags": []
    },
@@ -975,7 +897,7 @@
     "국제"
    ],
    "metrics": {
-    "cluster": 52,
+    "cluster": 53,
     "outlets": 1,
     "cluster_tags": [
      "국제"
@@ -993,7 +915,7 @@
    "summary": "올 가을 청바지는 스트레이트 핏이다. 몸에 지나치게 달라붙지 않으면서도 선은 한층 날렵해졌다. 픽셀즈올가을 데님 팬츠의 실루엣이 달라졌다. 한동안 유행했던 과감한 워싱이나 넉넉한 와이드 핏 대신, 짙은 인디고 컬러에 곧게 떨어지는 스트레이트 핏이 눈에 띈다. 몸에 지나치게 달라붙지 않으",
    "tags": [],
    "metrics": {
-    "cluster": 51,
+    "cluster": 52,
     "outlets": 1,
     "cluster_tags": []
    },
@@ -1002,26 +924,16 @@
    "source_name": "경향신문"
   },
   {
-   "id": "899c635af206e2f3",
-   "title": "\"미중정상회담 앞둔 美, 대만 무기판매 결정 연말로 연기 검토\" - 연합뉴스",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QTnBHNlNlRXdIRVpEVGFleE9KRFRMZExLcDVQdXl5S3duRTVMZXEyWlFpM29YZDNlVk1Md19qbjFkSlJZWkx2TGJIWTFHLXg5UVJUc1AtenR2U3PSAWBBVV95cUxNc1J0YnpES1VzX2VLQmQ5LVpSdld4MDh0X1VGUi1mTEF3ZWFsWFhmc1FwRGdPNjgzaHVSMWFaSVpid21MbXRGWUJYQ3JwRFZsWXU0UlBBUUJkbFVXUWEzX0o?oc=5",
-   "published_at": "2026-09-19T14:17:11+09:00",
-   "summary": "\"미중정상회담 앞둔 美, 대만 무기판매 결정 연말로 연기 검토\" 연합뉴스 트럼프 직접 나온다는데···‘시진핑 맞이’ 다른 정상들은 어땠을까 경향신문 미·중 정상회담 의제는…AI·관세 등 논의할 듯 연합인포맥스 허리펑 中부총리 19~23일 방미…미중 정상회담 앞서 통상 조율 뉴시스 美中 ",
-   "tags": [
-    "정치",
-    "국제",
-    "IT",
-    "AI"
-   ],
+   "id": "64b3fcf68065a1ef",
+   "title": "김여정 \"한국 핵잠엔 침묵하면서 왜 북한 핵무기만\"…IAEA 결의 비판 - 뉴스핌",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE03a0VMU1dtSzdlZEVIc1o0YkhCd0hWMENFbkJYVUF3bXYtanpQeGNsd3FrZWhweFN1VjRSdEdLQzNvdmxHc3p1RWpBb3J6WExUdENncTViYVFhUEZ1?oc=5",
+   "published_at": "2026-09-19T14:19:00+09:00",
+   "summary": "김여정 \"한국 핵잠엔 침묵하면서 왜 북한 핵무기만\"…IAEA 결의 비판 뉴스핌 김여정, ‘핵보유국 지위 불인정’ IAEA 결의에 “간섭할 권한, 자격 없어” v.daum.net \"수위와 빈도↑, 하지만 외부 공개만\"...북 담화 의도는? YTN 김여정, IAEA결의에 \"북한 핵 활동은 ",
+   "tags": [],
    "metrics": {
-    "cluster": 122,
+    "cluster": 121,
     "outlets": 1,
-    "cluster_tags": [
-     "AI",
-     "IT",
-     "국제",
-     "정치"
-    ]
+    "cluster_tags": []
    },
    "is_new": true,
    "streak_days": 1,
@@ -1037,7 +949,7 @@
     "국제"
    ],
    "metrics": {
-    "cluster": 50,
+    "cluster": 51,
     "outlets": 1,
     "cluster_tags": [
      "국제"
@@ -1048,38 +960,16 @@
    "source_name": "경향신문"
   },
   {
-   "id": "5410ac96db4868f7",
-   "title": "사퇴 김승원 “검찰개혁 반드시 완수”…신약로비 의혹 강력 부인 - 한겨레",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9LbHZuWFpuNjI2R1VfRzNIYTFndC1QeGxVNl9aeDd6dERKWlRVMVZIRTJSSUhaMloxVjQ3QkJCWTNHVzFTc21wRWd6RHZvQVRKX21Ubkh3SGJTUEMwOEdaMHFvQ0xyVU1RZ2VMN1NLd3RHTWk3?oc=5",
-   "published_at": "2026-09-19T14:26:00+09:00",
-   "summary": "사퇴 김승원 “검찰개혁 반드시 완수”…신약로비 의혹 강력 부인 한겨레 [단독] 청와대에 전달된 ‘성추행 의혹’ 탄원서…김승원 사퇴 결정적 배경 됐나 KBS 뉴스 국힘, 김승원 '추가 의혹' 부각하며 \"자진 사퇴 아닌 도주\"(종합) 연합뉴스 [속보]김승원 법무장관 후보자, 자진 사퇴…“국",
-   "tags": [
-    "정치",
-    "사회"
-   ],
-   "metrics": {
-    "cluster": 112,
-    "outlets": 1,
-    "cluster_tags": [
-     "사회",
-     "정치"
-    ]
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "구글뉴스 KR"
-  },
-  {
-   "id": "fe34303758acf3af",
-   "title": "美, 중동전쟁에 62.5조원 썼다…의회 추산보다 10조 많아",
-   "url": "https://www.donga.com/news/Inter/article/all/20260919/134700731/1",
-   "published_at": "2026-09-19T14:28:00+09:00",
-   "summary": "미국이 이란과의 전쟁에 쓴 비용이 약 62조 원에 달하는 것으로 나타났다. 전쟁이 장기화되면서 이 비용은 지속적으로 늘고 있다. 18일(현지 시간) CNN에 따르면 미 국방부는 이란 전쟁에 투입된 비용이 451억 달러(약 62조5000억 원)에 달한다고 의회에 보고했다.이달 3일 기준 ",
+   "id": "8d2d56bfc8cdc40e",
+   "title": "트럼프 \"그린란드 美 영구 통제권 확보\" - 연합뉴스TV",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1MMEUyZlA0YlFtbUxnUkVaQWlMWE40YWhwVjMwb2Y3NDVyRzc3cjhWVmh2RDJwbnBYZjVrS2hMU29iQ19wWDFDbU9DUjZZMU5ycW54M0QyTlEzQUQ5cVMxcmhVRlJWOXM?oc=5",
+   "published_at": "2026-09-19T14:23:00+09:00",
+   "summary": "트럼프 \"그린란드 美 영구 통제권 확보\" 연합뉴스TV 트럼프 결국 “그린란드 확보” 선언…미군 주둔 강화 [지금뉴스] KBS 뉴스 트럼프 “그린란드 안보 영구 통제”…병합 대신 미군 주둔 확대 v.daum.net [속보]트럼프, 그린란드 확보 소원 푸나…“그린란드 영구 통제권 확보” 문",
    "tags": [
     "국제"
    ],
    "metrics": {
-    "cluster": 70,
+    "cluster": 120,
     "outlets": 1,
     "cluster_tags": [
      "국제"
@@ -1087,7 +977,7 @@
    },
    "is_new": true,
    "streak_days": 1,
-   "source_name": "동아일보"
+   "source_name": "구글뉴스 KR"
   },
   {
    "id": "a49b46e84d0e0280",
@@ -1097,33 +987,13 @@
    "summary": "수면의 질이 떨어진다 싶을 때, 어떤 채소를 찾아서 먹으면 좋을까. pexels잠을 잘 자고 싶다면 침실 환경만큼 저녁 식탁도 살펴볼 필요가 있다. 잠들기 직전 먹는 음식뿐 아니라 평소 어떤 음식을 얼마나 먹는지가 수면의 질에 영향을 줄 수 있기 때문이다.마그네슘, 트립토판, 칼륨, 비",
    "tags": [],
    "metrics": {
-    "cluster": 49,
+    "cluster": 50,
     "outlets": 1,
     "cluster_tags": []
    },
    "is_new": true,
    "streak_days": 1,
    "source_name": "경향신문"
-  },
-  {
-   "id": "808aae63dbf389fc",
-   "title": "“술 더 마시자” 만취한 여친에 격분…밀어 숨지게 한 30대",
-   "url": "https://www.donga.com/news/Society/article/all/20260919/134700745/1",
-   "published_at": "2026-09-19T14:43:00+09:00",
-   "summary": "술에 취한 여자친구를 넘어뜨려 숨지게 한 30대 남성이 항소심에서도 징역 3년을 선고받았다.19일 법조계에 따르면 대구고법 제1-2형사부는 상해치사 혐의로 기소된 남성(36)에 대한 항소심에서 징역 3년을 선고했다.1심에서도 징역 3년이 내려졌는데, 남성과 검찰은 “양형이 부당하다”며 ",
-   "tags": [
-    "사회"
-   ],
-   "metrics": {
-    "cluster": 69,
-    "outlets": 1,
-    "cluster_tags": [
-     "사회"
-    ]
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "동아일보"
   },
   {
    "id": "2622cb984ed82cf8",
@@ -1135,7 +1005,7 @@
     "국제"
    ],
    "metrics": {
-    "cluster": 68,
+    "cluster": 69,
     "outlets": 1,
     "cluster_tags": [
      "국제"
@@ -1150,12 +1020,12 @@
    "title": "후티 위협 속 사우디 수도서 첫 공습경보…폭발음도 잇따라 - 연합뉴스TV",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5fRW05YmJDTHMzNldFXzVKeWZHRFllRWRneTRycXhCd2ZLVnhxMnhoNzJ1VGU3ZGlZOEdaVy1HUXY4ZEtTQ3FnSGg4THNoTXR1Y0hvWEdYa1l3Q2FxUHV3VVpkUFdhVUE?oc=5",
    "published_at": "2026-09-19T14:58:00+09:00",
-   "summary": "후티 위협 속 사우디 수도서 첫 공습경보…폭발음도 잇따라 연합뉴스TV 배신 당한 사우디, 중국에 손 벌리자…‘판 뒤집은’ 미국 JTBC뉴스 후티, 사우디 수도까지 첫 공습한 듯…\"경보 속 폭발음\" v.daum.net \"일상이 멈췄다\" 후티 공포에 휩싸인 '모카커피의 고향' 연합뉴스 예멘",
+   "summary": "후티 위협 속 사우디 수도서 첫 공습경보…폭발음도 잇따라 연합뉴스TV 배신 당한 사우디, 중국에 손 벌리자…'판 뒤집은' 미국 - JTBC 뉴스 JTBC뉴스 격화하는 후티 공세... 사우디 수도까지 첫 공습 경보 조선일보 파키스탄, 예멘 후티 반군에 맞서 사우디 군사개입 시사 v.dau",
    "tags": [
     "국제"
    ],
    "metrics": {
-    "cluster": 121,
+    "cluster": 114,
     "outlets": 1,
     "cluster_tags": [
      "국제"
@@ -1173,73 +1043,13 @@
    "summary": "고기 포장이 부푸는 원인은 하나가 아니다. pexels마트에서 소고기나 돼지고기 한 팩을 집어 들었는데 포장이 평소보다 볼록하게 부풀어 있다. 집으로 배송된 닭고기 비닐 포장이 빵빵하게 올라와 있는 경우도 있다. 이럴 때 고민하게 된다. ‘진공포장이라 그런가?’ 아니면 ‘고기가 상한 걸",
    "tags": [],
    "metrics": {
-    "cluster": 48,
+    "cluster": 49,
     "outlets": 1,
     "cluster_tags": []
    },
    "is_new": true,
    "streak_days": 1,
    "source_name": "경향신문"
-  },
-  {
-   "id": "848709586f172768",
-   "title": "\"AI·반도체 주도주 2개면 충분\"…압축형 상품 '봇물' [이수의 ETF줌인]",
-   "url": "https://www.hankyung.com/article/2026091842676",
-   "published_at": "2026-09-19T15:00:05+09:00",
-   "summary": "",
-   "tags": [
-    "IT",
-    "AI",
-    "신기술"
-   ],
-   "metrics": {
-    "cluster": 83,
-    "outlets": 1,
-    "cluster_tags": [
-     "AI",
-     "IT",
-     "신기술"
-    ]
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "한국경제"
-  },
-  {
-   "id": "501cff2af5edc287",
-   "title": "\"금리 올렸는데 왜 안 빠져\"…월가가 찜한 '금덩이' 종목",
-   "url": "https://www.hankyung.com/article/202609184001i",
-   "published_at": "2026-09-19T15:00:08+09:00",
-   "summary": "",
-   "tags": [
-    "경제"
-   ],
-   "metrics": {
-    "cluster": 82,
-    "outlets": 1,
-    "cluster_tags": [
-     "경제"
-    ]
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "한국경제"
-  },
-  {
-   "id": "f9f3dc6408294713",
-   "title": "캐릭터로 돈 버는 시대…K팝 IP 라이선싱의 전환 [김예랑의 K컬처인사이드]",
-   "url": "https://www.hankyung.com/article/202609183764H",
-   "published_at": "2026-09-19T15:02:57+09:00",
-   "summary": "",
-   "tags": [],
-   "metrics": {
-    "cluster": 81,
-    "outlets": 1,
-    "cluster_tags": []
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "한국경제"
   },
   {
    "id": "0a43b41671f87739",
@@ -1249,7 +1059,7 @@
    "summary": "지역 생활 커뮤니티 당근 등 중고거래 시장에서 터무니없는 가격 할인을 요구하거나 약속을 일방적으로 파기하는 비매너 행위가 잇따르면서 판매자들의 고통이 깊어지고 있다.최근 온라인 커뮤니티에 따르면 중고거래 플랫폼에서 100만원 상당의 스키복을 32만원으로 깎아달라고 요구하는 등 도를 넘은",
    "tags": [],
    "metrics": {
-    "cluster": 67,
+    "cluster": 68,
     "outlets": 1,
     "cluster_tags": []
    },
@@ -1258,51 +1068,31 @@
    "source_name": "동아일보"
   },
   {
-   "id": "1b18f708f5ece3ea",
-   "title": "한동훈 \"민주당 조폭이냐? 복수할 테면 해봐라\"",
-   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008761478",
-   "published_at": "2026-09-19T15:08:00+09:00",
-   "summary": "무소속 한동훈 의원이 오늘 오후 국회에서 긴급 기자회견을 열었습니다. 민주당을 향해 '조폭'이냐며 자신에게 복수할 테면 하라고 말…",
-   "tags": [
-    "정치"
-   ],
-   "metrics": {
-    "cluster": 100,
-    "outlets": 1,
-    "cluster_tags": [
-     "정치"
-    ]
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "SBS"
-  },
-  {
-   "id": "5770c2cb14fc14bc",
-   "title": "대통령 회견 하루 만에 전격 사퇴…\"국민 눈높이에 못 미쳐\"",
-   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008761441",
-   "published_at": "2026-09-19T15:08:00+09:00",
-   "summary": "김승원 법무장관 후보자가 지명 20일 만인 오늘 자진 사퇴했습니다. 어제 이재명 대통령의 기자회견 뒤 하루만으로, 김 후보자는 \"국민 눈높이에 미치지 못했음을 깊이 받아들인다고 말했습니다.손형안 기자가 보도합니다.",
-   "tags": [
-    "정치"
-   ],
-   "metrics": {
-    "cluster": 102,
-    "outlets": 1,
-    "cluster_tags": [
-     "정치"
-    ]
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "SBS"
-  },
-  {
    "id": "3b962535bed5cbc0",
    "title": "李 “청년정책 총괄할 전담조직 고민…청년 문제 특정 집단의 문제 아냐”",
    "url": "https://www.donga.com/news/Politics/article/all/20260919/134700758/1",
    "published_at": "2026-09-19T15:09:00+09:00",
    "summary": "이재명 대통령은 19일 “청년 정책을 총괄할 별도의 전담조직을 만들어야 되지 않을까 고민을 지금 하고 있다”고 말했다. 이 대통령은 이날 오후 청와대 영빈관에서 열린 ‘2026 청년의 날 기념식’에서 “청년 문제는 단순히 특정한 부류, 집단의 문제가 아니라 대한민국이 지속적으로 성장하고",
+   "tags": [
+    "정치"
+   ],
+   "metrics": {
+    "cluster": 67,
+    "outlets": 1,
+    "cluster_tags": [
+     "정치"
+    ]
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "동아일보"
+  },
+  {
+   "id": "ec21121c2847cb80",
+   "title": "李 “청년들 경력 만들 기회조차 없어…가장 치열한데 미래 불안”",
+   "url": "https://www.donga.com/news/Politics/article/all/20260919/134700756/1",
+   "published_at": "2026-09-19T15:12:00+09:00",
+   "summary": "이재명 대통령이 19일 “청년 정책을 총괄할 별도의 전담조직을 만들어야 되지 않을까 고민을 지금 하고 있다”고 밝혔다. 그는 “청년 문제는 단순히 특정한 부류, 집단의 문제가 아니라 대한민국이 지속적으로 성장하고 발전하는 나라로 남을 수 있느냐는 근본적인 문제”라고도 강조했다. 이 대통",
    "tags": [
     "정치"
    ],
@@ -1318,126 +1108,6 @@
    "source_name": "동아일보"
   },
   {
-   "id": "91013ea8dbb2bf2f",
-   "title": "국가 연주 사고 때문에? 아시안게임 핸드볼에선 애국가 생략",
-   "url": "https://www.chosun.com/sports/sports_special/2026/09/19/ZHINEMUXUND5BJJX7KHWLUTE34/",
-   "published_at": "2026-09-19T15:09:37+09:00",
-   "summary": "북한 국가 연주에 이어 이번엔 애국가 생략이다.",
-   "tags": [
-    "사회"
-   ],
-   "metrics": {
-    "cluster": 15,
-    "outlets": 1,
-    "cluster_tags": [
-     "사회"
-    ]
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "조선일보"
-  },
-  {
-   "id": "bc91f214d6dd6cc6",
-   "title": "잇따른 의혹에 여론 악화까지…20일 만에 자진사퇴한 김승원",
-   "url": "https://www.hankyung.com/article/202609195214i",
-   "published_at": "2026-09-19T15:11:14+09:00",
-   "summary": "",
-   "tags": [],
-   "metrics": {
-    "cluster": 80,
-    "outlets": 1,
-    "cluster_tags": []
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "한국경제"
-  },
-  {
-   "id": "7791331d167ac2ee",
-   "title": "\"2.5초 맞추면 공짜\"…잠실 GS25 부스에 구름 인파 [2026청춘커피페스티벌]",
-   "url": "https://www.hankyung.com/article/202609195186i",
-   "published_at": "2026-09-19T15:11:42+09:00",
-   "summary": "",
-   "tags": [],
-   "metrics": {
-    "cluster": 79,
-    "outlets": 1,
-    "cluster_tags": []
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "한국경제"
-  },
-  {
-   "id": "ec21121c2847cb80",
-   "title": "李 “청년들 경력 만들 기회조차 없어…가장 치열한데 미래 불안”",
-   "url": "https://www.donga.com/news/Politics/article/all/20260919/134700756/1",
-   "published_at": "2026-09-19T15:12:00+09:00",
-   "summary": "이재명 대통령이 19일 “청년 정책을 총괄할 별도의 전담조직을 만들어야 되지 않을까 고민을 지금 하고 있다”고 밝혔다. 그는 “청년 문제는 단순히 특정한 부류, 집단의 문제가 아니라 대한민국이 지속적으로 성장하고 발전하는 나라로 남을 수 있느냐는 근본적인 문제”라고도 강조했다. 이 대통",
-   "tags": [
-    "정치"
-   ],
-   "metrics": {
-    "cluster": 65,
-    "outlets": 1,
-    "cluster_tags": [
-     "정치"
-    ]
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "동아일보"
-  },
-  {
-   "id": "a44c4008c4821062",
-   "title": "\"커피만 마시는 축제 아니었네\"…부모·아이 몰린 잠실 '이곳'[2026 청춘, 커피 페스티벌]",
-   "url": "https://www.hankyung.com/article/202609195164i",
-   "published_at": "2026-09-19T15:16:03+09:00",
-   "summary": "",
-   "tags": [],
-   "metrics": {
-    "cluster": 78,
-    "outlets": 1,
-    "cluster_tags": []
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "한국경제"
-  },
-  {
-   "id": "e4ec6a3d8a100a1d",
-   "title": "김승원 \"기밀 유출 밝힐 것\"…한동훈 \"복수할 테면 하라\"",
-   "url": "https://www.hankyung.com/article/2026091952167",
-   "published_at": "2026-09-19T15:17:16+09:00",
-   "summary": "",
-   "tags": [],
-   "metrics": {
-    "cluster": 77,
-    "outlets": 1,
-    "cluster_tags": []
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "한국경제"
-  },
-  {
-   "id": "2210daa0da66c732",
-   "title": "어른들 커피 축제인 줄 알았는데…애들 놀이터가 된 잠실 [2026청춘커피페스티벌]",
-   "url": "https://www.hankyung.com/article/202609195217i",
-   "published_at": "2026-09-19T15:17:37+09:00",
-   "summary": "",
-   "tags": [],
-   "metrics": {
-    "cluster": 76,
-    "outlets": 1,
-    "cluster_tags": []
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "한국경제"
-  },
-  {
    "id": "632cffd4a273ac08",
    "title": "북적이는 축제속 고요한 커피머신 작동음…카누가 만든 홈카페 [2026청춘커피페스티벌]",
    "url": "https://www.hankyung.com/article/202609195237i",
@@ -1445,13 +1115,29 @@
    "summary": "",
    "tags": [],
    "metrics": {
-    "cluster": 75,
+    "cluster": 83,
     "outlets": 1,
     "cluster_tags": []
    },
    "is_new": true,
    "streak_days": 1,
    "source_name": "한국경제"
+  },
+  {
+   "id": "6cff6553ac2ffea0",
+   "title": "후티 공세에 사우디 수도 리야드 첫 공습경보…전면전 우려",
+   "url": "https://www.donga.com/news/Inter/article/all/20260919/134700765/1",
+   "published_at": "2026-09-19T15:19:50+09:00",
+   "summary": "사우디아라비아와 예멘의 친(親)이란 반군 후티의 무력 충돌이 격화하고 있는 가운데, 사우디의 수도인 리야드에 첫 공습경보가 발령됐다. 올해 7월 후티가 사우디를 향해 해상 봉쇄를 선언한 후 리야드에 발령된 첫 경보다.19일(현지 간) 영국 BBC 방송 등에 따르면 사우디 민방위국은 현지",
+   "tags": [],
+   "metrics": {
+    "cluster": 65,
+    "outlets": 1,
+    "cluster_tags": []
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "동아일보"
   },
   {
    "id": "7e1fa58d57b102e6",
@@ -1461,7 +1147,7 @@
    "summary": "",
    "tags": [],
    "metrics": {
-    "cluster": 74,
+    "cluster": 82,
     "outlets": 1,
     "cluster_tags": []
    },
@@ -1479,7 +1165,7 @@
     "정치"
    ],
    "metrics": {
-    "cluster": 99,
+    "cluster": 98,
     "outlets": 1,
     "cluster_tags": [
      "정치"
@@ -1490,22 +1176,6 @@
    "source_name": "SBS"
   },
   {
-   "id": "2aedb16851bc8465",
-   "title": "거리 나온 수험생·학부모…\"6시 이후 접수 수시원서 취소하라\"",
-   "url": "https://www.yna.co.kr/view/AKR20260919044200530",
-   "published_at": "2026-09-19T15:27:17+09:00",
-   "summary": "(서울=연합뉴스) 오보람 기자 = 일부 수험생·학부모가 2027학년도 대입 수시모집 원서접수 '먹통 사태'와 관련해 교육부 대처를 비판하며 거리...",
-   "tags": [],
-   "metrics": {
-    "cluster": 14,
-    "outlets": 1,
-    "cluster_tags": []
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "연합뉴스"
-  },
-  {
    "id": "e95d402bdee96ca4",
    "title": "“상어가 또 나타났다”···부산 북항 친수공원 연이틀 출몰 ‘주의’",
    "url": "https://www.khan.co.kr/article/202609191528001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
@@ -1513,7 +1183,7 @@
    "summary": "연합뉴스 제공부산 북항 친수공원 수로에서 전날에 이어 이틀째 상어가 발견돼 관계당국이 안전 유의를 당부하고 나섰다.19일 부산시 등에 따르면 이날 오후 1시 5분쯤 부산 동구 북항 친수공원 안 수로에 상어가 출몰했다는 신고가 접수됐다.부산시는 안전 안내 문자를 보내 “이곳을 산책하는 분",
    "tags": [],
    "metrics": {
-    "cluster": 47,
+    "cluster": 48,
     "outlets": 1,
     "cluster_tags": []
    },
@@ -1529,7 +1199,7 @@
    "summary": "",
    "tags": [],
    "metrics": {
-    "cluster": 73,
+    "cluster": 81,
     "outlets": 1,
     "cluster_tags": []
    },
@@ -1545,33 +1215,13 @@
    "summary": "",
    "tags": [],
    "metrics": {
-    "cluster": 72,
+    "cluster": 80,
     "outlets": 1,
     "cluster_tags": []
    },
    "is_new": true,
    "streak_days": 1,
    "source_name": "한국경제"
-  },
-  {
-   "id": "c2025af8c5c49734",
-   "title": "[동정] 농식품부 장관, 추석 앞두고 경기 이천 농촌체험휴양마을 점검",
-   "url": "https://www.yna.co.kr/view/AKR20260919035100030",
-   "published_at": "2026-09-19T15:30:00+09:00",
-   "summary": "▲ 송미령 농림축산식품부 장관은 19일 경기 이천시 백사면 농촌체험휴양마을(산수유마을)을 찾아 농촌체험 프로그램과 숙박시설의 운영 현황, 안전관...",
-   "tags": [
-    "정치"
-   ],
-   "metrics": {
-    "cluster": 12,
-    "outlets": 1,
-    "cluster_tags": [
-     "정치"
-    ]
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "연합뉴스"
   },
   {
    "id": "c6bde8f6b019d7e5",
@@ -1584,7 +1234,7 @@
     "국제"
    ],
    "metrics": {
-    "cluster": 46,
+    "cluster": 47,
     "outlets": 1,
     "cluster_tags": [
      "국제",
@@ -1596,40 +1246,26 @@
    "source_name": "경향신문"
   },
   {
-   "id": "31d3147e1a96bcea",
-   "title": "파키스탄 북서부 경찰청사서 폭탄·총격테러…\"최소 31명 사망\"",
-   "url": "https://www.yna.co.kr/view/AKR20260919045000084",
-   "published_at": "2026-09-19T15:32:39+09:00",
-   "summary": "(하노이=연합뉴스) 박진형 특파원 = 파키스탄 북서부 카이베르 파크툰크와주의 경찰 청사 단지에서 폭탄·총격 테러가 발생, 경찰관 16명을 포함해...",
+   "id": "e90adf7ccf510f5d",
+   "title": "청와대 “이 대통령, 트럼프 중동 협조요청 거절 아냐…전쟁 개입 없이 기여 검토” - 경향신문",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hTkZKM0JhVzNNaGNMWVBWOHBzYzZlWnlEQVZkWW9JbVJxYTJiU0tmVHhyVkJWM3VMTmM0bUhpRVRsU3lPaFFJQTRmVDM4YXd4SDR3UUNXVk5aQdIBX0FVX3lxTE9KM2tQNFFsRjdYVFJhcXdNMEptYW1McDhoOVlJTGw5SW9WUUFZcnFPcGFSN25JNDRMZTJvOXVEaDZPYTFJWFJtTVNfNmc5U0pzSE91NUg1UGpIN3JzWnVr?oc=5",
+   "published_at": "2026-09-19T15:32:00+09:00",
+   "summary": "청와대 “이 대통령, 트럼프 중동 협조요청 거절 아냐…전쟁 개입 없이 기여 검토” 경향신문 李 “전쟁 파병 없다” 다음날…靑 “트럼프 요청 거절은 아냐” v.daum.net “이 대통령, 트럼프 파병 요청 거절한 것 아냐” KBS 뉴스 \"전쟁 파병은 없다\"...파병 필요성은 강조 YTN",
    "tags": [
-    "사회"
+    "정치",
+    "국제"
    ],
    "metrics": {
-    "cluster": 11,
+    "cluster": 112,
     "outlets": 1,
     "cluster_tags": [
-     "사회"
+     "국제",
+     "정치"
     ]
    },
    "is_new": true,
    "streak_days": 1,
-   "source_name": "연합뉴스"
-  },
-  {
-   "id": "f75c0619e86e9fea",
-   "title": "41세 호날두 '은퇴 없다'…A매치 4연전 포르투갈 대표팀 발탁",
-   "url": "https://www.yna.co.kr/view/AKR20260919045200007",
-   "published_at": "2026-09-19T15:33:32+09:00",
-   "summary": "(서울=연합뉴스) 배진남 기자 = 두살 어린 맞수 리오넬 메시(인터 마이애미)는 아르헨티나 국가대표에서 은퇴했지만, 41세의 크리스티아누 호날두...",
-   "tags": [],
-   "metrics": {
-    "cluster": 10,
-    "outlets": 1,
-    "cluster_tags": []
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "연합뉴스"
+   "source_name": "구글뉴스 KR"
   },
   {
    "id": "ca5a2193a1edfdd8",
@@ -1639,7 +1275,7 @@
    "summary": "",
    "tags": [],
    "metrics": {
-    "cluster": 71,
+    "cluster": 79,
     "outlets": 1,
     "cluster_tags": []
    },
@@ -1657,7 +1293,7 @@
     "정치"
    ],
    "metrics": {
-    "cluster": 63,
+    "cluster": 64,
     "outlets": 1,
     "cluster_tags": [
      "정치"
@@ -1677,7 +1313,7 @@
     "정치"
    ],
    "metrics": {
-    "cluster": 45,
+    "cluster": 46,
     "outlets": 1,
     "cluster_tags": [
      "정치"
@@ -1689,10 +1325,10 @@
   },
   {
    "id": "187f136607e7328a",
-   "title": "CNN \"미군, 'AI 환각' 정보로 중국 선박 공격할 뻔\" - imnews.imbc.com",
+   "title": "CNN \"미군, 'AI 환각' 정보로 중국 선박 공격할 뻔\" - MBC 뉴스",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBGQ0xfMW9kSWRneHk0NzhSZW5BdFg2V2RMckl0aHpfZjhmLXpHZEFENVVRb0loU1M3ZWxfei1lREVSSlFEX0ZpSUdUYzItbzRLenJIZks3aDJoY3BUTmFjTG94bGE3OEhVVlQ5eGgxdHVHQVRj0gF0QVVfeXFMTUJtY3ZNODlhdTBEYTBRMDdrbjJ3Mmt4LWpRRm1sN3VfcGQ4X1lhbmhEdWdNdUFvTkxhdVpFQTFnR050Mm9qN2QwbkloRUpTSEtkb205NGpzdUFHQ1VSaG41ejRwMGZQUm02V3E1OFIzODlMUTU?oc=5",
    "published_at": "2026-09-19T15:45:13+09:00",
-   "summary": "CNN \"미군, 'AI 환각' 정보로 중국 선박 공격할 뻔\" imnews.imbc.com “거의 전쟁 날 뻔했다” AI 오판에 미군, 중국 선박 군사작전 준비 v.daum.net 인공지능 정보 보고서 치명적 오류…미중 전쟁 날 뻔 뉴시스 초지능 AI를 통제할 수 있을까?...AI 미래 ",
+   "summary": "CNN \"미군, 'AI 환각' 정보로 중국 선박 공격할 뻔\" MBC 뉴스 Google 뉴스에서 헤드라인 및 의견 더보기",
    "tags": [
     "국제",
     "IT",
@@ -1719,7 +1355,7 @@
    "summary": "(서울=연합뉴스) 안홍석 기자 = 한국 남자 테니스가 '에이스' 권순우(157위·충남체육회)를 앞세워 사상 처음으로 국가대항전 데이비스컵 파이널...",
    "tags": [],
    "metrics": {
-    "cluster": 8,
+    "cluster": 14,
     "outlets": 1,
     "cluster_tags": []
    },
@@ -1728,24 +1364,44 @@
    "source_name": "연합뉴스"
   },
   {
-   "id": "169e2ab893e610f0",
-   "title": "'인생 승부수' 대기업 대신 태극마크, 안정된 직장 대신 테크볼 택했다...이준석, 7경기 무실세트 질주로 최소 은메달 확보",
-   "url": "https://www.chosun.com/sports/sports_general/2026/09/19/MJSGMZRUGBSDKYRUMU2GMZRWGM/",
-   "published_at": "2026-09-19T15:48:00+09:00",
-   "summary": "[OSEN=정승우 기자] 대기업 생산직으로 일하면서 훈련했고 정규직 계약까지 포기했다. 사비를 들여 헝가리로 떠났던 이준석(27)의 도전이 대한민국 선수단의 2026 아이치·나고야 아시안게임 첫 메달로 이어졌다.이준석은 19일 일본 나고야 히가시 스포츠센터에서 열린 대회 테크볼 남자 단",
+   "id": "b1cbe7fb10c3275a",
+   "title": "국민의힘 “‘탄원서’에도 김승원 임명 저울질한 청와대…인사 참사 사과하라” - KBS 뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9aS3ZiUjNmRDcyS0dJbnAwLXFZRUNUWEpyX0FPb184TmhXZkUtSjZjd0tyQWVRR2JGeGRONmN1aXJuY3FoWk1OLVozeHJaeGdWUUliZm1EUElnRVE?oc=5",
+   "published_at": "2026-09-19T15:50:00+09:00",
+   "summary": "국민의힘 “‘탄원서’에도 김승원 임명 저울질한 청와대…인사 참사 사과하라” KBS 뉴스 [단독] 청와대에 전달된 ‘성추행 의혹’ 탄원서…김승원 사퇴 결정적 배경 됐나 KBS 뉴스 김승원 법무부 장관 후보자, 지명 20일 만에 자진 사퇴 v.daum.net 김승원 사퇴에…장동혁 “사퇴당한",
    "tags": [
-    "국제"
+    "정치"
    ],
    "metrics": {
-    "cluster": 28,
+    "cluster": 111,
     "outlets": 1,
     "cluster_tags": [
-     "국제"
+     "정치"
     ]
    },
    "is_new": true,
    "streak_days": 1,
-   "source_name": "조선일보"
+   "source_name": "구글뉴스 KR"
+  },
+  {
+   "id": "a5c2c984fd2fdac4",
+   "title": "이 대통령 “청년정책 전담 조직 신설 고민 중···이대로는 비상상황 못 벗어나”",
+   "url": "https://www.khan.co.kr/article/202609191551001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "published_at": "2026-09-19T15:51:00+09:00",
+   "summary": "청년의 날 기념식 기념사 “청년, 가장 불안한 세대”“젊은 세대에 기회 줘보려 하나 경력 따지니 구인난”이재명 대통령이 19일 청와대에서 열린 청년의 날 기념식에서 기념사를 하고 있다. 연합뉴스이재명 대통령은 청년의 날인 19일 “청년정책을 총괄 전담할 별도의 전담 조직을 만들어야 되지",
+   "tags": [
+    "정치"
+   ],
+   "metrics": {
+    "cluster": 46,
+    "outlets": 1,
+    "cluster_tags": [
+     "정치"
+    ]
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "경향신문"
   },
   {
    "id": "704208643ae1a816",
@@ -1755,45 +1411,13 @@
    "summary": "(나고야=연합뉴스) 장현구 기자 = 아시안게임 5회 연속 우승에 출사표를 올린 한국 야구대표팀이 결전지 입성 후 처음으로 적응 훈련을 했다.",
    "tags": [],
    "metrics": {
-    "cluster": 7,
+    "cluster": 13,
     "outlets": 1,
     "cluster_tags": []
    },
    "is_new": true,
    "streak_days": 1,
    "source_name": "연합뉴스"
-  },
-  {
-   "id": "3abefa07dbcee3bf",
-   "title": "세종포천고속도서 화물차가 SUV 추돌…남매 부부 4명 사상(종합)",
-   "url": "https://www.yna.co.kr/view/AKR20260919028551061",
-   "published_at": "2026-09-19T15:55:48+09:00",
-   "summary": "(용인=연합뉴스) 이영주 기자 = 19일 오전 8시 45분께 경기도 용인시 세종포천고속도로 세종 방면 포곡1터널 부근 3차로에서 60대 A씨가 ...",
-   "tags": [],
-   "metrics": {
-    "cluster": 6,
-    "outlets": 1,
-    "cluster_tags": []
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "연합뉴스"
-  },
-  {
-   "id": "7c0683810376ccba",
-   "title": "이미숙, \"욕심 과하다\" 선 넘은 유튜브 제작진에 \"미친 것들이네\" (숙스러운 미숙씨)",
-   "url": "https://www.chosun.com/entertainments/broadcast/2026/09/19/GZSTQNRYGZSGGNLDMQ3DIY3DGY/",
-   "published_at": "2026-09-19T15:56:00+09:00",
-   "summary": "[OSEN=최이정 기자] 배우 이미숙이 자신의 관리를 두고 선 넘은(?) 제작진에 발끈했다. 17일 이미숙의 유튜브 채널 '숙스러운 미숙씨'에는 ‘추석엔 이미숙식 만두 얼큰하게 빚고 신나게 놀았습니다!’란 제목의 영상이 게재됐다. 영상 속 이미숙은 자신이 즐겨 쓰는 화장품을 소개했고 이",
-   "tags": [],
-   "metrics": {
-    "cluster": 27,
-    "outlets": 1,
-    "cluster_tags": []
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "조선일보"
   },
   {
    "id": "ac86880ea952e9ed",
@@ -1805,7 +1429,7 @@
     "사회"
    ],
    "metrics": {
-    "cluster": 62,
+    "cluster": 63,
     "outlets": 1,
     "cluster_tags": [
      "사회"
@@ -1823,7 +1447,7 @@
    "summary": "(서울=연합뉴스) 조윤희 기자 = 대표적인 클래식 음악 공간인 예술의전당 야외광장이 화려한 조명과 라이브 연주가 어우러진 패션쇼장으로 변신했다....",
    "tags": [],
    "metrics": {
-    "cluster": 5,
+    "cluster": 11,
     "outlets": 1,
     "cluster_tags": []
    },
@@ -1839,7 +1463,7 @@
    "summary": "(서울=연합뉴스) 안홍석 기자 = \"아파서 하고 싶은 걸 포기하려는 사람들에게 용기를 주고 싶어 출전했는데 좋은 상까지 받게 돼 너무 행복합니다...",
    "tags": [],
    "metrics": {
-    "cluster": 4,
+    "cluster": 10,
     "outlets": 1,
     "cluster_tags": []
    },
@@ -1848,20 +1472,20 @@
    "source_name": "연합뉴스"
   },
   {
-   "id": "960fe1809b0a7911",
-   "title": "“박세웅이 안 나온다고?” 삼성에 뜻밖의 희소식…박진만 감독, “구위 너무 좋던데, 다행이다” [오!쎈 부산]",
-   "url": "https://www.chosun.com/sports/baseball/2026/09/19/GQ2DAN3DGM4GIN3FGNRWKYZTGM/",
-   "published_at": "2026-09-19T15:59:00+09:00",
-   "summary": "[OSEN=부산, 손찬익 기자] 박세웅이 안 나온다고?선두 KT 위즈를 1.5경기 차로 맹추격 중인 프로야구 삼성 라이온즈에 예상치 못한 호재가 찾아왔다. 선발 로테이션대로라면 오는 20일 사직구장에서 열리는 롯데 자이언츠전에서 ‘안경 에이스’ 박세웅과 맞붙어야 하지만 롯데가 박세웅 대",
+   "id": "9607dfd4c7a346b1",
+   "title": "\"한국, 어떻게 이 지경\"…길거리 '좀비'에 커지는 불안 [이정우의 중대사안]",
+   "url": "https://www.hankyung.com/article/202609182775H",
+   "published_at": "2026-09-19T15:58:48+09:00",
+   "summary": "",
    "tags": [],
    "metrics": {
-    "cluster": 26,
+    "cluster": 78,
     "outlets": 1,
     "cluster_tags": []
    },
    "is_new": true,
    "streak_days": 1,
-   "source_name": "조선일보"
+   "source_name": "한국경제"
   },
   {
    "id": "5b19a2c57ae270df",
@@ -1871,7 +1495,7 @@
    "summary": "두피의 피지와 노폐물은 제대로 씻어내면서 모발의 손상은 최소화하는 것. 매일 하는 샴푸에도 제대로 된 방법이 있다.매일 사용하는 샴푸, 제대로 쓰고 있을까? 깨끗이 씻겠다는 마음에 두피를 손톱으로 박박 긁거나 머리카락 전체를 거칠게 문지르는 습관부터 뜨거운 물로 오래 헹구는 것까지, 무",
    "tags": [],
    "metrics": {
-    "cluster": 44,
+    "cluster": 45,
     "outlets": 1,
     "cluster_tags": []
    },
@@ -1880,36 +1504,36 @@
    "source_name": "경향신문"
   },
   {
-   "id": "c75f733610102cff",
-   "title": "태국 정부 스포츠 인재 육성 프로젝트 ‘TDP’, 축구로 한국과 만났다",
-   "url": "https://www.chosun.com/sports/football/2026/09/19/GRTDQYZSMY4DSYZZMU2TQY3FG4/",
-   "published_at": "2026-09-19T16:02:00+09:00",
-   "summary": "[OSEN=서정환 기자] 태국 유소년 선수들이 강원에서 한국 유소년과 교류했다. 태국 정부가 국가 차원에서 추진하는 스포츠 인재 육성 프로젝트 ‘Thai Domestic Power(TDP)’를 통해 발굴된 유소년 축구 선수들이 한국을 찾았다.태국 체육청(Sports Authority o",
+   "id": "5e26a27719f1b80d",
+   "title": "보석 대신 에나멜·모래…명품이 '값싼 소재'에 꽂힌 이유 [안혜원의 명품의세계]",
+   "url": "https://www.hankyung.com/article/202609195051i",
+   "published_at": "2026-09-19T16:00:01+09:00",
+   "summary": "",
    "tags": [],
    "metrics": {
-    "cluster": 24,
+    "cluster": 77,
     "outlets": 1,
     "cluster_tags": []
    },
    "is_new": true,
    "streak_days": 1,
-   "source_name": "조선일보"
+   "source_name": "한국경제"
   },
   {
-   "id": "2842f34b32ec4abf",
-   "title": "[사진]더팩트 레드카펫 진행 맡은 재재",
-   "url": "https://www.chosun.com/entertainments/entertain_photo/2026/09/19/GQ3DKYRVGNQWIN3EHFSTQMRUGE/",
-   "published_at": "2026-09-19T16:02:00+09:00",
-   "summary": "[OSEN=부산, 조은정 기자]2026 더팩트 뮤직 어워즈(TMA) 레드카펫 행사가 19일 부산 아시아드 주경기장에서 열렸다.‘2026 더팩트 뮤직 어워즈’에는 라이즈(RIIZE), 리센느(RESCENE), 싸이커스(xikers), 아이딧(IDID), 아일릿(ILLIT), 알파드라이브원",
+   "id": "d102d696622f7d47",
+   "title": "“커피 마시려고 1시간 줄섰다” … 세븐일레븐 앞 '북적' [2026청춘커피페스티벌]",
+   "url": "https://www.hankyung.com/article/202609195215i",
+   "published_at": "2026-09-19T16:00:03+09:00",
+   "summary": "",
    "tags": [],
    "metrics": {
-    "cluster": 25,
+    "cluster": 76,
     "outlets": 1,
     "cluster_tags": []
    },
    "is_new": true,
    "streak_days": 1,
-   "source_name": "조선일보"
+   "source_name": "한국경제"
   },
   {
    "id": "e43e689a1f6cd399",
@@ -1919,7 +1543,7 @@
    "summary": "(서울=연합뉴스) 전재훈 양수연 기자 = 환경단체들이 토요일인 19일 서울 도심에서 집회를 열고 정부의 3대 메가프로젝트 추진을 중단하라고 촉구...",
    "tags": [],
    "metrics": {
-    "cluster": 3,
+    "cluster": 9,
     "outlets": 1,
     "cluster_tags": []
    },
@@ -1937,7 +1561,7 @@
     "정치"
    ],
    "metrics": {
-    "cluster": 98,
+    "cluster": 97,
     "outlets": 1,
     "cluster_tags": [
      "정치"
@@ -1948,156 +1572,36 @@
    "source_name": "SBS"
   },
   {
-   "id": "50d5ef1d4926201b",
-   "title": "대표팀 뽑힌 박태준 '선발출전' 주승진 감독, \"부천전 선발 계획에 없었어...모레노 감독이 분명 좋아할 선수\" [현장 인터뷰]",
-   "url": "https://www.chosun.com/sports/football/2026/09/19/GYYWCOJQHA3DAMDGGM4GKZTFHE/",
-   "published_at": "2026-09-19T16:09:00+09:00",
-   "summary": "[OSEN=부천, 정승우 기자] 김천상무가 부천FC1995를 끌어내리고 10위로 올라설 기회를 잡았다. 승리를 위해서는 반복된 뒷심 부족부터 해결해야 한다. 주승진 김천상무 감독이 생애 처음으로 A대표팀에 발탁된 박태준을 향한 기대를 드러냈다. 로베르트 모레노 감독이 지켜보는 경기에서 ",
+   "id": "bcaaa8514b7e6148",
+   "title": "문상민, '자니' 깜짝 열창…\"청춘의 뜨거움 보여줄 것\" [ATA 페스티벌]",
+   "url": "https://www.hankyung.com/article/202609195250H",
+   "published_at": "2026-09-19T16:13:57+09:00",
+   "summary": "",
    "tags": [],
    "metrics": {
-    "cluster": 23,
+    "cluster": 75,
     "outlets": 1,
     "cluster_tags": []
    },
    "is_new": true,
    "streak_days": 1,
-   "source_name": "조선일보"
+   "source_name": "한국경제"
   },
   {
-   "id": "6c17671bc5320163",
-   "title": "[사진]클로즈유어아이즈 마징시앙 '쾌남 포즈'",
-   "url": "https://www.chosun.com/entertainments/entertain_photo/2026/09/19/GNTGIOBTGEYDMNRQG5SWCZLEMM/",
-   "published_at": "2026-09-19T16:11:00+09:00",
-   "summary": "[OSEN=부산, 조은정 기자]2026 더팩트 뮤직 어워즈(TMA) 레드카펫 행사가 19일 부산 아시아드 주경기장에서 열렸다.‘2026 더팩트 뮤직 어워즈’에는 라이즈(RIIZE), 리센느(RESCENE), 싸이커스(xikers), 아이딧(IDID), 아일릿(ILLIT), 알파드라이브원",
+   "id": "6aa043a338d210ac",
+   "title": "한소희 \"가는 덴 순서 없으니까\"…손석희 \"그런 말 하면 안 돼\"",
+   "url": "https://www.hankyung.com/article/2026091952637",
+   "published_at": "2026-09-19T16:14:21+09:00",
+   "summary": "",
    "tags": [],
    "metrics": {
-    "cluster": 20,
+    "cluster": 74,
     "outlets": 1,
     "cluster_tags": []
    },
    "is_new": true,
    "streak_days": 1,
-   "source_name": "조선일보"
-  },
-  {
-   "id": "d12be2eae898a7aa",
-   "title": "[사진]클로즈유어아이즈 마징시앙 '동그란 강아지 눈'",
-   "url": "https://www.chosun.com/entertainments/entertain_photo/2026/09/19/HA4DSNTBHE3GINZSGEZGKYRUMM/",
-   "published_at": "2026-09-19T16:11:00+09:00",
-   "summary": "[OSEN=부산, 조은정 기자]2026 더팩트 뮤직 어워즈(TMA) 레드카펫 행사가 19일 부산 아시아드 주경기장에서 열렸다.‘2026 더팩트 뮤직 어워즈’에는 라이즈(RIIZE), 리센느(RESCENE), 싸이커스(xikers), 아이딧(IDID), 아일릿(ILLIT), 알파드라이브원",
-   "tags": [],
-   "metrics": {
-    "cluster": 21,
-    "outlets": 1,
-    "cluster_tags": []
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "조선일보"
-  },
-  {
-   "id": "24c09b097c98dec2",
-   "title": "[사진]클로즈유어아이즈 켄신-송승호 '핫하다 핫해'",
-   "url": "https://www.chosun.com/entertainments/entertain_photo/2026/09/19/ME4WIYTCGEZTCMBTMQ2TANDEGI/",
-   "published_at": "2026-09-19T16:11:00+09:00",
-   "summary": "[OSEN=부산, 조은정 기자]2026 더팩트 뮤직 어워즈(TMA) 레드카펫 행사가 19일 부산 아시아드 주경기장에서 열렸다.‘2026 더팩트 뮤직 어워즈’에는 라이즈(RIIZE), 리센느(RESCENE), 싸이커스(xikers), 아이딧(IDID), 아일릿(ILLIT), 알파드라이브원",
-   "tags": [],
-   "metrics": {
-    "cluster": 22,
-    "outlets": 1,
-    "cluster_tags": []
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "조선일보"
-  },
-  {
-   "id": "064993e2ba1e0fc0",
-   "title": "한동훈 “국민의 승리…민주당, 조직원 건드리면 복수하는 조폭이냐” - KBS 뉴스",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB1aTRUWDdWa05oV1R2Rktwb0FrRmhoYm9XTDFUc2hYQ0k5MjdPcDVZV3g4VG1SM0dXTzRFOUxuekhyS0J5MUN2ZjgyZnRMempTYWZaVFU0UlF4eGM?oc=5",
-   "published_at": "2026-09-19T16:11:00+09:00",
-   "summary": "한동훈 “국민의 승리…민주당, 조직원 건드리면 복수하는 조폭이냐” KBS 뉴스 한동훈 \"조직원 건드리면 복수하는 조폭이냐\"‥민주당 직격 imnews.imbc.com 한동훈, 김승원 사퇴 후 공세 예고한 민주당에 “복수 얼마든 하라” v.daum.net 한동훈 의원 \"국민 이기는 권력 없",
-   "tags": [
-    "정치"
-   ],
-   "metrics": {
-    "cluster": 115,
-    "outlets": 1,
-    "cluster_tags": [
-     "정치"
-    ]
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "구글뉴스 KR"
-  },
-  {
-   "id": "02d95028a44f195a",
-   "title": "'5연패 수렁' 한화 라인업, 페라자 2경기 연속 선발 제외...6R 신인 좌완 하동준 1군 콜업 \"편한 상황 기용\"",
-   "url": "https://www.chosun.com/sports/baseball/2026/09/19/MNRTMNBZGNSDQY3GGVSGEYTGGA/",
-   "published_at": "2026-09-19T16:12:00+09:00",
-   "summary": "[OSEN=잠실, 한용섭 기자] 프로야구 한화 이글스가 19일 잠실구장에서 LG 트윈스와 맞대결을 한다. LG는 최근 5연승, 한화는 최근 5연패로 극과극의 상황에서 만나게 됐다. 한화는 5연패를 당하며 8위로 떨어졌다. 9위 롯데에 불과 0.5경기 앞서 있다. 가을야구 희망은 사라졌으",
-   "tags": [],
-   "metrics": {
-    "cluster": 19,
-    "outlets": 1,
-    "cluster_tags": []
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "조선일보"
-  },
-  {
-   "id": "5ef39cbe81daa4ac",
-   "title": "'모레노 대표팀 감독 관전'에 부천 이영민 감독, \"국가대표 나오길 바라기만 해선 안 된다, 직접 키워야\" 강조 [현장 인터뷰]",
-   "url": "https://www.chosun.com/sports/football/2026/09/19/MQZWKZJQGEZWEZJZGM4TGNLCMI/",
-   "published_at": "2026-09-19T16:15:00+09:00",
-   "summary": "[OSEN=부천, 정승우 기자] 부천FC1995가 홈에서 김천상무를 상대로 5경기 무승 탈출과 하위권 격차 확대에 도전한다.부천은 19일 오후 4시 30분 부천종합운동장에서 김천과 하나은행 K리그1 2026 30라운드를 치른다. 현재 부천은 7승 11무 11패, 승점 32점으로 10위다",
-   "tags": [],
-   "metrics": {
-    "cluster": 17,
-    "outlets": 1,
-    "cluster_tags": []
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "조선일보"
-  },
-  {
-   "id": "ad256316b10d23b4",
-   "title": "무려 48점 폭격! '다시 우생순' 韓 여자 핸드볼, 홍콩에 32점 차 압승...8년 만의 'AG 정상 탈환' 첫 단추 끼웠다",
-   "url": "https://www.chosun.com/sports/sports_general/2026/09/19/GIYWGMRYME3DAMJZMI3TMOJSGI/",
-   "published_at": "2026-09-19T16:15:00+09:00",
-   "summary": "[OSEN=고성환 기자] 한국 여자 핸드볼이 2026 아이치·나고야 아시안게임 첫 경기에서 32점 차 대승을 거뒀다.조영신 감독이 이끄는 한국 여자 핸드볼 대표팀은 19일(이하 한국시간) 일본 아이치현 이나자와 엔트리오에서 열린 여자 핸드볼 라운드로빈 1차전에서 홍콩을 48-16으로 격",
-   "tags": [
-    "국제"
-   ],
-   "metrics": {
-    "cluster": 18,
-    "outlets": 1,
-    "cluster_tags": [
-     "국제"
-    ]
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "조선일보"
-  },
-  {
-   "id": "cedbf8933981f7b3",
-   "title": "[사진]트레플에스 '반가워요 부산'",
-   "url": "https://www.chosun.com/entertainments/entertain_photo/2026/09/19/MEZTCY3DGI4DKYRZHE3DKNLCMQ/",
-   "published_at": "2026-09-19T16:16:00+09:00",
-   "summary": "[OSEN=부산, 조은정 기자]2026 더팩트 뮤직 어워즈(TMA) 레드카펫 행사가 19일 부산 아시아드 주경기장에서 열렸다.‘2026 더팩트 뮤직 어워즈’에는 라이즈(RIIZE), 리센느(RESCENE), 싸이커스(xikers), 아이딧(IDID), 아일릿(ILLIT), 알파드라이브원",
-   "tags": [],
-   "metrics": {
-    "cluster": 16,
-    "outlets": 1,
-    "cluster_tags": []
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "조선일보"
+   "source_name": "한국경제"
   },
   {
    "id": "b8b8f54fe3a22880",
@@ -2109,7 +1613,7 @@
     "정치"
    ],
    "metrics": {
-    "cluster": 2,
+    "cluster": 8,
     "outlets": 1,
     "cluster_tags": [
      "정치"
@@ -2120,11 +1624,11 @@
    "source_name": "연합뉴스"
   },
   {
-   "id": "0d903707866cdbf0",
-   "title": "에이스 권순우 펄펄…한국 남자 테니스, 사상 첫 데이비스컵 8강 진출",
-   "url": "https://www.donga.com/news/Sports/article/all/20260919/134700791/1",
-   "published_at": "2026-09-19T16:22:48+09:00",
-   "summary": "한국 남자 테니스가 에이스 면모를 한껏 과시한 권순우(157위·충남체육회)를 앞세워 사상 최초로 국가 대항전인 데이비스컵 파이널(8강)에 진출했다. 권순우는 19일 서울 송파구 올림픽공원 테니스장에서 열린 2026 데이비스컵 최종 본선 진출전 2라운드(4단1복식) 인도와의 경기 단식에서",
+   "id": "870339a61a65352c",
+   "title": "연습장까지 직접 구한 류지현호…대만전 하루 앞두고 경기장 훈련",
+   "url": "https://www.donga.com/news/Sports/article/all/20260919/134700794/1",
+   "published_at": "2026-09-19T16:23:46+09:00",
+   "summary": "2026 아이치·나고야 아시안게임에 출전하는 한국 야구대표팀이 우여곡절 끝에 조별리그 첫 경기를 하루 앞두고 실제 경기가 열리는 야구장에서 훈련할 수 있게 됐다.한국야구위원회(KBO)는 19일 “야구대표팀이 20일 오후 오카자키 야구장에서 2시간 동안 훈련을 진행한다”고 밝혔다.지난 1",
    "tags": [],
    "metrics": {
     "cluster": 61,
@@ -2136,48 +1640,6 @@
    "source_name": "동아일보"
   },
   {
-   "id": "870339a61a65352c",
-   "title": "연습장까지 직접 구한 류지현호…대만전 하루 앞두고 경기장 훈련",
-   "url": "https://www.donga.com/news/Sports/article/all/20260919/134700794/1",
-   "published_at": "2026-09-19T16:23:46+09:00",
-   "summary": "2026 아이치·나고야 아시안게임에 출전하는 한국 야구대표팀이 우여곡절 끝에 조별리그 첫 경기를 하루 앞두고 실제 경기가 열리는 야구장에서 훈련할 수 있게 됐다.한국야구위원회(KBO)는 19일 “야구대표팀이 20일 오후 오카자키 야구장에서 2시간 동안 훈련을 진행한다”고 밝혔다.지난 1",
-   "tags": [],
-   "metrics": {
-    "cluster": 60,
-    "outlets": 1,
-    "cluster_tags": []
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "동아일보"
-  },
-  {
-   "id": "aebbd85d39c39ce0",
-   "title": "트럼프는 'AI 위험' 사기라고 했지만…백악관 내부선 신중론도",
-   "url": "https://www.yna.co.kr/view/AKR20260919047200009",
-   "published_at": "2026-09-19T16:23:51+09:00",
-   "summary": "(서울=연합뉴스) 고일환 기자 = 도널드 트럼프 미국 대통령은 인공지능(AI)의 위험을 '사기'라고 일축했지만, 백악관 내부에서는 AI 규제에 ...",
-   "tags": [
-    "정치",
-    "국제",
-    "IT",
-    "AI"
-   ],
-   "metrics": {
-    "cluster": 0,
-    "outlets": 1,
-    "cluster_tags": [
-     "AI",
-     "IT",
-     "국제",
-     "정치"
-    ]
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "연합뉴스"
-  },
-  {
    "id": "99f1c02e709a1eda",
    "title": "“생색내는 것 같았는데”…혜리, 기부 자랑하게 된 이유",
    "url": "https://www.donga.com/news/Entertainment/article/all/20260919/134700797/1",
@@ -2185,7 +1647,7 @@
    "summary": "가수 겸 배우 혜리가 기부 사실을 공개하게 된 이유를 털어놨다.18일 유튜브 채널 ‘혜리’에는 ‘재밌는 사람만이 살아남을 수 있는 이 바닥’이라는 제목의 영상이 게재됐다.영상에서 혜리는 배우 박경혜와 대화를 나누던 중 “제가 인류애를 좀 충전시켜 드릴까요?”라며 말문을 열었다.그는 “제",
    "tags": [],
    "metrics": {
-    "cluster": 59,
+    "cluster": 60,
     "outlets": 1,
     "cluster_tags": []
    },
@@ -2201,7 +1663,7 @@
    "summary": "가짜 계좌로 재력을 과시하며 고액을 대가로 20대 여성과 성관계한 뒤 약속한 돈을 지급하지 않은 60대 남성이 실형을 선고받았다. 18일 법조계에 따르면 광주지법 형사9단독 전희숙 판사는 사기와 성매매알선 등 행위의 처벌에 관한 법률 위반 혐의로 기소된 60대 남성 A씨에게 징역 8개월",
    "tags": [],
    "metrics": {
-    "cluster": 58,
+    "cluster": 59,
     "outlets": 1,
     "cluster_tags": []
    },
@@ -2217,7 +1679,7 @@
    "summary": "버거킹이 햄버거 두 개를 6000원 혹은 7000원으로 구매할 수 있는 행사를 진행하면서 소비자들의 관심을 끌고 있다.버거킹은 지난 14일부터 오는 23일까지 버거 2개를 묶어서 할인된 가격에 판매하는 ‘2FOR6000+2FOR7000’ 프로모션을 진행하고 있다.행사 진행 기간 동안 고",
    "tags": [],
    "metrics": {
-    "cluster": 57,
+    "cluster": 58,
     "outlets": 1,
     "cluster_tags": []
    },
@@ -2233,6 +1695,22 @@
    "summary": "배우 변우석이 사생활 침해에 강경 대응을 예고했다.변우석의 소속사 바로엔터테인먼트는 19일 공식 소셜미디어(SNS)를 통해 ‘아티스트 스케줄 현장 방문 및 사생활 보호 관련 안내’ 공지를 게재했다.소속사는 “최근 촬영 현장, 공항 등 공식적으로 안내되지 않은 아티스트의 스케줄 및 이동 ",
    "tags": [],
    "metrics": {
+    "cluster": 57,
+    "outlets": 1,
+    "cluster_tags": []
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "동아일보"
+  },
+  {
+   "id": "110aa75a93daa91c",
+   "title": "권순우 또 이겼다…한국 테니스, 66년 도전 끝 데이비스컵 파이널 첫 진출",
+   "url": "https://www.donga.com/news/Sports/article/all/20260919/134700801/1",
+   "published_at": "2026-09-19T16:30:00+09:00",
+   "summary": "한국 남자 테니스 대표팀이 사상 최초로 데이비스컵 파이널(8강)에 진출했다.한국은 18, 19일 서울 올림픽공원 테니스코트에서 열린 2026 데이비스컵 퀄리파이어스 2차 라운드 경기에서 인도에 3-1로 승리를 거뒀다.그러면서 1960년 처음 이 남자 테니스 국가대항전에 출전하기 시작한 ",
+   "tags": [],
+   "metrics": {
     "cluster": 56,
     "outlets": 1,
     "cluster_tags": []
@@ -2240,6 +1718,486 @@
    "is_new": true,
    "streak_days": 1,
    "source_name": "동아일보"
+  },
+  {
+   "id": "792ce49da7a73ec0",
+   "title": "후티, 사우디 수도까지 공습했나…공습 경보 후 폭발음 보고",
+   "url": "https://www.khan.co.kr/article/202609191632001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "published_at": "2026-09-19T16:32:00+09:00",
+   "summary": "후티 당국과 연계된 전투원들이 예멘 중서부 마리브주에서 전투기 파편 앞에서 포즈를 취하고 있다. 후티 당국은 지난 16일 사우디 F-15 전투기를 격추했다고 밝혔다./후티 당국 공개· UPI사우디아라비아 수도 리야드에 공습 경보가 발령됐다. 친이란 예맨 후티 반군이 사우디를 상대로 해상",
+   "tags": [],
+   "metrics": {
+    "cluster": 44,
+    "outlets": 1,
+    "cluster_tags": []
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "경향신문"
+  },
+  {
+   "id": "be12657ca8da403e",
+   "title": "2000억 브랜드 만든 김한균이 '워라밸'을 싫어한 이유 [2026커피페스티벌]",
+   "url": "https://www.hankyung.com/article/202609195278i",
+   "published_at": "2026-09-19T16:33:01+09:00",
+   "summary": "",
+   "tags": [],
+   "metrics": {
+    "cluster": 73,
+    "outlets": 1,
+    "cluster_tags": []
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "한국경제"
+  },
+  {
+   "id": "15e104b3c1e8c54d",
+   "title": "[사진]코르티스 주훈, 앵두 입술 '아사이'",
+   "url": "https://www.chosun.com/entertainments/entertain_photo/2026/09/19/HEYDEZJVGM3TAYRTHEYTSMLCGE/",
+   "published_at": "2026-09-19T16:37:00+09:00",
+   "summary": "[OSEN=부산, 조은정 기자]2026 더팩트 뮤직 어워즈(TMA) 레드카펫 행사가 19일 부산 아시아드 주경기장에서 열렸다.‘2026 더팩트 뮤직 어워즈’에는 라이즈(RIIZE), 리센느(RESCENE), 싸이커스(xikers), 아이딧(IDID), 아일릿(ILLIT), 알파드라이브원",
+   "tags": [],
+   "metrics": {
+    "cluster": 26,
+    "outlets": 1,
+    "cluster_tags": []
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "조선일보"
+  },
+  {
+   "id": "832215121b7c4039",
+   "title": "[사진]코르티스 제임스 '진지한 표정이 킥'",
+   "url": "https://www.chosun.com/entertainments/entertain_photo/2026/09/19/G43GEMLEMM4TANRTGFTDCODDMY/",
+   "published_at": "2026-09-19T16:37:00+09:00",
+   "summary": "[OSEN=부산, 조은정 기자]2026 더팩트 뮤직 어워즈(TMA) 레드카펫 행사가 19일 부산 아시아드 주경기장에서 열렸다.‘2026 더팩트 뮤직 어워즈’에는 라이즈(RIIZE), 리센느(RESCENE), 싸이커스(xikers), 아이딧(IDID), 아일릿(ILLIT), 알파드라이브원",
+   "tags": [],
+   "metrics": {
+    "cluster": 27,
+    "outlets": 1,
+    "cluster_tags": []
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "조선일보"
+  },
+  {
+   "id": "9bb264e3f2cc3c18",
+   "title": "[사진]코르티스 마틴 '웃으면 귀엽죠?'",
+   "url": "https://www.chosun.com/entertainments/entertain_photo/2026/09/19/MRRDMNZVGZQTEOJUG44WMYZYMI/",
+   "published_at": "2026-09-19T16:37:00+09:00",
+   "summary": "[OSEN=부산, 조은정 기자]2026 더팩트 뮤직 어워즈(TMA) 레드카펫 행사가 19일 부산 아시아드 주경기장에서 열렸다.‘2026 더팩트 뮤직 어워즈’에는 라이즈(RIIZE), 리센느(RESCENE), 싸이커스(xikers), 아이딧(IDID), 아일릿(ILLIT), 알파드라이브원",
+   "tags": [],
+   "metrics": {
+    "cluster": 28,
+    "outlets": 1,
+    "cluster_tags": []
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "조선일보"
+  },
+  {
+   "id": "1142ae4b3104fc4c",
+   "title": "세종포천고속도로서 화물차가 승용차 들이받아…2명 사망",
+   "url": "https://www.donga.com/news/Society/article/all/20260919/134700818/1",
+   "published_at": "2026-09-19T16:37:53+09:00",
+   "summary": "16일 오전 8시45분께 경기 용인시 처인구 세종포천고속도로 세종방향 포곡1터널 인근에서 60대 운전자가 몰던 화물차가 승용차를 추돌하는 사고가 났다.이 사고로 뒷자석에 있던 40대, 50대 여성 동승자 2명이 심정지 상태로 병원에 이송됐으나 사망했다. 앞좌석에 있던 40대, 50대 남",
+   "tags": [
+    "사회"
+   ],
+   "metrics": {
+    "cluster": 55,
+    "outlets": 1,
+    "cluster_tags": [
+     "사회"
+    ]
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "동아일보"
+  },
+  {
+   "id": "2b3aca7b9e35b47c",
+   "title": "들녘서 다진 한미 우호…민형배·미셸 스틸 '벼 수확' 체험",
+   "url": "https://www.yna.co.kr/view/AKR20260919047800054",
+   "published_at": "2026-09-19T16:38:08+09:00",
+   "summary": "(곡성=연합뉴스) 손상원 기자 = 민형배 전남광주통합특별시장과 미셸 스틸 주한 미국대사가 벼 수확을 함께 체험하며 우호를 다졌다.",
+   "tags": [
+    "국제"
+   ],
+   "metrics": {
+    "cluster": 5,
+    "outlets": 1,
+    "cluster_tags": [
+     "국제"
+    ]
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "연합뉴스"
+  },
+  {
+   "id": "3416ea8bd669ddfd",
+   "title": "'美·EU 제재' 이란 멜라트은행, 튀르키예서 영업 면허 취소",
+   "url": "https://www.yna.co.kr/view/AKR20260919047600109",
+   "published_at": "2026-09-19T16:39:26+09:00",
+   "summary": "(로마=연합뉴스) 민경락 특파원 = 튀르키예가 이란의 대형 민간은행 중 하나인 멜라트은행의 영업 면허를 취소했다고 AFP통신이 19일(현지시간)...",
+   "tags": [],
+   "metrics": {
+    "cluster": 4,
+    "outlets": 1,
+    "cluster_tags": []
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "연합뉴스"
+  },
+  {
+   "id": "d698f00d3299f70a",
+   "title": "'제2의 전성기' 권순우·'부활'한 정현…새 코트서 쓴 새 역사",
+   "url": "https://www.yna.co.kr/view/AKR20260919048200007",
+   "published_at": "2026-09-19T16:39:38+09:00",
+   "summary": "(서울=연합뉴스) 안홍석 기자 = 한국 남자 테니스가 19일 처음으로 데이비스컵 8강 무대에 진출하며 중흥기를 기대하게 만들었다.",
+   "tags": [],
+   "metrics": {
+    "cluster": 3,
+    "outlets": 1,
+    "cluster_tags": []
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "연합뉴스"
+  },
+  {
+   "id": "e76c1bda8fda3bd5",
+   "title": "\"이란·중국, '자율형 AI 봇' 활용해 온라인 여론 조작\"",
+   "url": "https://www.yna.co.kr/view/AKR20260919047700009",
+   "published_at": "2026-09-19T16:40:27+09:00",
+   "summary": "(서울=연합뉴스) 김아람 기자 = 이란과 중국의 국가 세력과 이스라엘의 기업들이 인공지능(AI)을 활용한 자율형 여론 조작을 소셜미디어에서 펼쳤...",
+   "tags": [
+    "국제",
+    "IT",
+    "AI"
+   ],
+   "metrics": {
+    "cluster": 2,
+    "outlets": 1,
+    "cluster_tags": [
+     "AI",
+     "IT",
+     "국제"
+    ]
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "연합뉴스"
+  },
+  {
+   "id": "f8abd1be99c2672f",
+   "title": "“인스타 팔로우만 해도 경품이 쏟아진다”…500명 몰린 잠실 이곳은 어디 [2026청춘커피페스티벌]",
+   "url": "https://www.hankyung.com/article/202609195166i",
+   "published_at": "2026-09-19T16:40:36+09:00",
+   "summary": "",
+   "tags": [],
+   "metrics": {
+    "cluster": 72,
+    "outlets": 1,
+    "cluster_tags": []
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "한국경제"
+  },
+  {
+   "id": "464d266439433618",
+   "title": "'너 말고 다른 연애' 서강준♥︎안은진, 풀세팅 ‘꾸꾸꾸’ 데이트 전말 베일 벗는다 [방송 프리뷰]",
+   "url": "https://www.chosun.com/entertainments/broadcast/2026/09/19/MFSDQZJWME4TGZDBMIYGEZJSGA/",
+   "published_at": "2026-09-19T16:42:00+09:00",
+   "summary": "[OSEN=최이정 기자] 배우 서강준과 안은진의 눈부신 비주얼로 방송 전부터 화제를 모았던 ‘꾸꾸꾸’ 데이트 장면이 드디어 베일을 벗는다.오늘(19일) 오후 9시 20분 방송되는 KBS 2TV 새 토일 미니시리즈 ‘너 말고 다른 연애’(연출 황승기·이가람, 극본 유수지, 제작 유니켐) ",
+   "tags": [],
+   "metrics": {
+    "cluster": 25,
+    "outlets": 1,
+    "cluster_tags": []
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "조선일보"
+  },
+  {
+   "id": "c75b2007942d4ab6",
+   "title": "5타 줄인 김민선, KLPGA 하나금융그룹 챔피언십 3R 단독 선두",
+   "url": "https://www.yna.co.kr/view/AKR20260919048500007",
+   "published_at": "2026-09-19T16:44:08+09:00",
+   "summary": "(서울=연합뉴스) 최태용 기자 = 김민선이 어려운 코스에서 맹타를 휘두르며 한국여자프로골프(KLPGA) 투어 하나금융그룹 챔피언십(총상금 15억...",
+   "tags": [],
+   "metrics": {
+    "cluster": 1,
+    "outlets": 1,
+    "cluster_tags": []
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "연합뉴스"
+  },
+  {
+   "id": "204a06776628c090",
+   "title": "\"SBS 공채 개그맨이야\" 술집서 행패…알고 보니 지망생",
+   "url": "https://www.hankyung.com/article/2026091952717",
+   "published_at": "2026-09-19T16:44:55+09:00",
+   "summary": "",
+   "tags": [],
+   "metrics": {
+    "cluster": 71,
+    "outlets": 1,
+    "cluster_tags": []
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "한국경제"
+  },
+  {
+   "id": "84f98c4590e38520",
+   "title": "안성훈, 못하는 게 뭐예요…국악까지 접수",
+   "url": "https://www.chosun.com/entertainments/broadcast/2026/09/19/GY4DMNDBGIYTMZRTMM2DKMRUGI/",
+   "published_at": "2026-09-19T16:45:00+09:00",
+   "summary": "[OSEN=장우영 기자] 가수 안성훈이 국악으로 활동 영역을 넓혔다.안성훈은 19일 방송된 KBS1 ‘국악 한마당’에 출연, 남상일과 무대를 꾸몄다.남상일과 우리의 삶을 사물놀이에 비유한 자신의 곡 '좋다!'로 무대에 오른 안성훈은 탁월한 가창력과 산뜻한 매력, 남상일과의 찐친 케미를 ",
+   "tags": [],
+   "metrics": {
+    "cluster": 24,
+    "outlets": 1,
+    "cluster_tags": []
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "조선일보"
+  },
+  {
+   "id": "5fa342861090d128",
+   "title": "“편의점 커피 맞아?”…2030 줄세운 CU '겟 커피' 뭐길래 [2026 청춘커피페스티벌]",
+   "url": "https://www.hankyung.com/article/202609195284i",
+   "published_at": "2026-09-19T16:45:57+09:00",
+   "summary": "",
+   "tags": [],
+   "metrics": {
+    "cluster": 70,
+    "outlets": 1,
+    "cluster_tags": []
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "한국경제"
+  },
+  {
+   "id": "25ae8eed365563f8",
+   "title": "[사진]키키 이솔 '파란 눈의 고양이'",
+   "url": "https://www.chosun.com/entertainments/entertain_photo/2026/09/19/MI2WCZRXGI3GGZDEME4TEMBZMM/",
+   "published_at": "2026-09-19T16:46:00+09:00",
+   "summary": "[OSEN=부산, 조은정 기자]2026 더팩트 뮤직 어워즈(TMA) 레드카펫 행사가 19일 부산 아시아드 주경기장에서 열렸다.‘2026 더팩트 뮤직 어워즈’에는 라이즈(RIIZE), 리센느(RESCENE), 싸이커스(xikers), 아이딧(IDID), 아일릿(ILLIT), 알파드라이브원",
+   "tags": [],
+   "metrics": {
+    "cluster": 20,
+    "outlets": 1,
+    "cluster_tags": []
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "조선일보"
+  },
+  {
+   "id": "3cd3b25708f33554",
+   "title": "[사진]키키 '404 하트'",
+   "url": "https://www.chosun.com/entertainments/entertain_photo/2026/09/19/GBRTQYZRMRTGIMJVMQYDMZRVG4/",
+   "published_at": "2026-09-19T16:46:00+09:00",
+   "summary": "[OSEN=부산, 조은정 기자]2026 더팩트 뮤직 어워즈(TMA) 레드카펫 행사가 19일 부산 아시아드 주경기장에서 열렸다.‘2026 더팩트 뮤직 어워즈’에는 라이즈(RIIZE), 리센느(RESCENE), 싸이커스(xikers), 아이딧(IDID), 아일릿(ILLIT), 알파드라이브원",
+   "tags": [],
+   "metrics": {
+    "cluster": 21,
+    "outlets": 1,
+    "cluster_tags": []
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "조선일보"
+  },
+  {
+   "id": "0578964cec394efb",
+   "title": "[사진]리센느, '부산 야호~'",
+   "url": "https://www.chosun.com/entertainments/entertain_photo/2026/09/19/GFRWCNBVMVRWINJWGMYGEMJXMY/",
+   "published_at": "2026-09-19T16:46:00+09:00",
+   "summary": "[OSEN=부산, 조은정 기자]2026 더팩트 뮤직 어워즈(TMA) 레드카펫 행사가 19일 부산 아시아드 주경기장에서 열렸다.‘2026 더팩트 뮤직 어워즈’에는 라이즈(RIIZE), 리센느(RESCENE), 싸이커스(xikers), 아이딧(IDID), 아일릿(ILLIT), 알파드라이브원",
+   "tags": [],
+   "metrics": {
+    "cluster": 18,
+    "outlets": 1,
+    "cluster_tags": []
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "조선일보"
+  },
+  {
+   "id": "381dcbfbbd8f1ee7",
+   "title": "[사진]코르티스 건호 '주훈 이리로 오세요'",
+   "url": "https://www.chosun.com/entertainments/entertain_photo/2026/09/19/GZRWGNTEGBRTSNBTG44WKN3GGQ/",
+   "published_at": "2026-09-19T16:46:00+09:00",
+   "summary": "[OSEN=부산, 조은정 기자]2026 더팩트 뮤직 어워즈(TMA) 레드카펫 행사가 19일 부산 아시아드 주경기장에서 열렸다.‘2026 더팩트 뮤직 어워즈’에는 라이즈(RIIZE), 리센느(RESCENE), 싸이커스(xikers), 아이딧(IDID), 아일릿(ILLIT), 알파드라이브원",
+   "tags": [],
+   "metrics": {
+    "cluster": 22,
+    "outlets": 1,
+    "cluster_tags": []
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "조선일보"
+  },
+  {
+   "id": "d4f5eb79f5ded37c",
+   "title": "[사진]리센느 미나미 '갸루 하트'",
+   "url": "https://www.chosun.com/entertainments/entertain_photo/2026/09/19/MUYTMM3BMUYDAOBZHA4DGYJQMU/",
+   "published_at": "2026-09-19T16:46:00+09:00",
+   "summary": "[OSEN=부산, 조은정 기자]2026 더팩트 뮤직 어워즈(TMA) 레드카펫 행사가 19일 부산 아시아드 주경기장에서 열렸다.‘2026 더팩트 뮤직 어워즈’에는 라이즈(RIIZE), 리센느(RESCENE), 싸이커스(xikers), 아이딧(IDID), 아일릿(ILLIT), 알파드라이브원",
+   "tags": [],
+   "metrics": {
+    "cluster": 23,
+    "outlets": 1,
+    "cluster_tags": []
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "조선일보"
+  },
+  {
+   "id": "d5f0641b0ff3f974",
+   "title": "[사진]리센느 원이 '파이리 야호'",
+   "url": "https://www.chosun.com/entertainments/entertain_photo/2026/09/19/GZRGINZZMJRGIMZUGVTGKZBXMQ/",
+   "published_at": "2026-09-19T16:47:00+09:00",
+   "summary": "[OSEN=부산, 조은정 기자]2026 더팩트 뮤직 어워즈(TMA) 레드카펫 행사가 19일 부산 아시아드 주경기장에서 열렸다.‘2026 더팩트 뮤직 어워즈’에는 라이즈(RIIZE), 리센느(RESCENE), 싸이커스(xikers), 아이딧(IDID), 아일릿(ILLIT), 알파드라이브원",
+   "tags": [],
+   "metrics": {
+    "cluster": 18,
+    "outlets": 1,
+    "cluster_tags": []
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "조선일보"
+  },
+  {
+   "id": "dddbd1dac2ff8c22",
+   "title": "[사진]아일릿 민주 '요정의 눈빛 교환'",
+   "url": "https://www.chosun.com/entertainments/entertain_photo/2026/09/19/MEYTSY3GMM3DMNBUGE4DMYTEGE/",
+   "published_at": "2026-09-19T16:47:00+09:00",
+   "summary": "[OSEN=부산, 조은정 기자]2026 더팩트 뮤직 어워즈(TMA) 레드카펫 행사가 19일 부산 아시아드 주경기장에서 열렸다.‘2026 더팩트 뮤직 어워즈’에는 라이즈(RIIZE), 리센느(RESCENE), 싸이커스(xikers), 아이딧(IDID), 아일릿(ILLIT), 알파드라이브원",
+   "tags": [],
+   "metrics": {
+    "cluster": 19,
+    "outlets": 1,
+    "cluster_tags": []
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "조선일보"
+  },
+  {
+   "id": "5770c2cb14fc14bc",
+   "title": "대통령 회견 하루 만에 전격 사퇴…\"국민 눈높이에 못 미쳐\"",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008761441",
+   "published_at": "2026-09-19T16:47:00+09:00",
+   "summary": "김승원 법무장관 후보자가 지명 20일 만인 오늘 자진 사퇴했습니다. 어제 이재명 대통령의 기자회견 뒤 하루만으로, 김 후보자는 \"국민 눈높이에 미치지 못했음을 깊이 받아들인다고 말했습니다.손형안 기자가 보도합니다.",
+   "tags": [
+    "정치"
+   ],
+   "metrics": {
+    "cluster": 101,
+    "outlets": 1,
+    "cluster_tags": [
+     "정치"
+    ]
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "SBS"
+  },
+  {
+   "id": "3c2af8203e91494b",
+   "title": "김승원, 李대통령 회견 하루만에 사퇴…8·30 개각 두 번째 낙마(종합2보)",
+   "url": "https://www.yna.co.kr/view/AKR20260919029852001",
+   "published_at": "2026-09-19T16:47:10+09:00",
+   "summary": "(서울=연합뉴스) 김남권 김정진 기자 = 김승원 법무부 장관 후보자가 19일 후보직에서 자진 사퇴했다.",
+   "tags": [
+    "정치"
+   ],
+   "metrics": {
+    "cluster": 0,
+    "outlets": 1,
+    "cluster_tags": [
+     "정치"
+    ]
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "연합뉴스"
+  },
+  {
+   "id": "1b18f708f5ece3ea",
+   "title": "한동훈 \"민주당 조폭이냐? 복수할 테면 해봐라\"",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008761478",
+   "published_at": "2026-09-19T16:48:00+09:00",
+   "summary": "무소속 한동훈 의원이 오늘 오후 국회에서 긴급 기자회견을 열었습니다. 민주당을 향해 '조폭'이냐며 자신에게 복수할 테면 하라고 말…",
+   "tags": [
+    "정치"
+   ],
+   "metrics": {
+    "cluster": 99,
+    "outlets": 1,
+    "cluster_tags": [
+     "정치"
+    ]
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "SBS"
+  },
+  {
+   "id": "02fc029334a9fd0a",
+   "title": "돈 벌려다 망하겠네…FIFA에 도착한 위자료 청구서 \"138억 내놔\"",
+   "url": "https://www.chosun.com/sports/football/2026/09/19/GE2TGZJTG4YTONZQMZTDKMRRG4/",
+   "published_at": "2026-09-19T16:49:25+09:00",
+   "summary": "[스포츠조선 박상경 기자] 대박을 꿈꿨다가 쪽박을 차게 생겼다. 국제축구연맹(FIFA)이 회원국에게 1000만달러(약 138억원)씩을 지급해야 한다는 주장이 제기됐다. AP통신 등 주요 외신은 19일(한국시각) 알렉산데르 체페린 유럽축구연맹(UEFA) 회장과 빅터 몬탈리아니 북중미카리브",
+   "tags": [
+    "국제"
+   ],
+   "metrics": {
+    "cluster": 16,
+    "outlets": 1,
+    "cluster_tags": [
+     "국제"
+    ]
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "조선일보"
+  },
+  {
+   "id": "282b8f82f82929f2",
+   "title": "아시안게임 金 노리는 양윤서, KLPGA 대회 우승도 도전",
+   "url": "https://www.chosun.com/sports/golf/2026/09/19/5FYUNK4J2RAENBQ5NCICNDKOTQ/",
+   "published_at": "2026-09-19T16:51:18+09:00",
+   "summary": "아이치 나고야 아시안게임 출전을 앞둔 아마추어 국가대표 양윤서(18·인천여고부설방통고)가 이번주 KLPGA(한국여자프로골프) 투어 대회 우승에 도전한다.",
+   "tags": [],
+   "metrics": {
+    "cluster": 15,
+    "outlets": 1,
+    "cluster_tags": []
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "조선일보"
   },
   {
    "id": "5fe57e033adecce6",
@@ -2422,8 +2380,24 @@
    "source_name": "매일경제"
   },
   {
+   "id": "c823a5d47c792d8e",
+   "title": "충남 아산 공장 건물서 공조설비 작업 중 60대 근로자 추락사",
+   "url": "https://www.mk.co.kr/news/society/12157110",
+   "published_at": "2026-09-20T00:45:12+09:00",
+   "summary": "충남 아산의 한 공장에서 작업 중이던 근로자가 약 4ｍ 아래로 추락해 숨졌다. 19일 충남소방본부에 따르면 전날 오전 9시 55분께 아산시 음봉면 한 공장 건물 2층에서 에어컨 등..",
+   "tags": [],
+   "metrics": {
+    "cluster": 33,
+    "outlets": 1,
+    "cluster_tags": []
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "매일경제"
+  },
+  {
    "id": "4735d2ad1b370cf4",
-   "title": "“모델하다 국가대표 됐다”…아시안게임 출전하는 일본 사격 선수 ‘화제’",
+   "title": "“총 모델하다 국가대표 됐다”…아시안게임 출전하는 미모의 사격선수",
    "url": "https://www.mk.co.kr/news/world/12157112",
    "published_at": "2026-09-20T00:50:35+09:00",
    "summary": "나가노현 지역 방송 일본 SBC신에쓰 방송이 2026 아이치·나고야 아시안게임 개막일인 19일 현지 연고 ‘유망주 3명’을 소개했다. 방송은 특히 클레이 사격 일본 국가대표 스즈키..",
@@ -2431,7 +2405,7 @@
     "국제"
    ],
    "metrics": {
-    "cluster": 32,
+    "cluster": 31,
     "outlets": 1,
     "cluster_tags": [
      "국제"
@@ -2449,7 +2423,7 @@
    "summary": "요즘 면접 자리에서 ‘정장 필수’라는 말은 사라지는 추세다. 취업 준비생들의 옷값 부담을 덜어주기 위해서다. 그렇다고 100% 자유롭게 입고 면접을 보러 갈 수도 없는 노릇이다. ..",
    "tags": [],
    "metrics": {
-    "cluster": 31,
+    "cluster": 30,
     "outlets": 1,
     "cluster_tags": []
    },
@@ -2465,7 +2439,7 @@
    "summary": "“아르바이트 공고도 시급을 적어놓지 않나요?” 구직자들이 채용 공고를 낸 기업의 연봉을 확인할 수 없어 지원을 포기하는 경향이 뚜렷하다는 조사 결과가 공개됐다. 19일 채용 플랫폼..",
    "tags": [],
    "metrics": {
-    "cluster": 30,
+    "cluster": 29,
     "outlets": 1,
     "cluster_tags": []
    },

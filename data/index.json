@@ -1,5 +1,5 @@
 {
- "built_at": "2026-09-19T16:29:41+09:00",
+ "built_at": "2026-09-19T16:58:36+09:00",
  "date": "2026-09-19",
  "site": {
   "title": "모닝브리프",
@@ -55,23 +55,23 @@
    "count": 7,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-09-19T16:28:37+09:00",
-   "kept": true
+   "fetched_at": "2026-09-19T16:58:05+09:00",
+   "repeat_ratio": 0.0
   },
   "fx": {
    "level": "ok",
    "count": 3,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-09-19T16:28:37+09:00",
-   "kept": true
+   "fetched_at": "2026-09-19T16:58:06+09:00",
+   "repeat_ratio": 0.0
   },
   "news": {
    "level": "ok",
    "count": 135,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-09-19T16:29:41+09:00",
+   "fetched_at": "2026-09-19T16:58:18+09:00",
    "repeat_ratio": 0.0
   },
   "markets": {
@@ -79,59 +79,79 @@
    "count": 5,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-09-19T16:28:40+09:00",
-   "kept": true
+   "fetched_at": "2026-09-19T16:58:18+09:00",
+   "repeat_ratio": 0.0
   },
   "crypto": {
    "level": "ok",
    "count": 10,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-09-19T16:28:41+09:00",
-   "kept": true
+   "fetched_at": "2026-09-19T16:58:22+09:00",
+   "repeat_ratio": 0.0
   },
   "realestate": {
    "level": "ok",
    "count": 30,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-09-19T16:28:41+09:00",
-   "kept": true
+   "fetched_at": "2026-09-19T16:58:27+09:00",
+   "repeat_ratio": 0.0
   },
   "it": {
    "level": "ok",
    "count": 60,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-09-19T16:28:43+09:00",
-   "kept": true
+   "fetched_at": "2026-09-19T16:58:30+09:00",
+   "repeat_ratio": 0.0
   },
   "auto": {
    "level": "ok",
    "count": 60,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-09-19T16:28:43+09:00",
-   "kept": true
+   "fetched_at": "2026-09-19T16:58:35+09:00",
+   "repeat_ratio": 0.0
   },
   "publicdata": {
    "level": "ok",
    "count": 10,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-09-19T16:28:47+09:00",
-   "kept": true
+   "fetched_at": "2026-09-19T16:58:36+09:00",
+   "repeat_ratio": 0.0
   },
   "leisure": {
    "level": "ok",
-   "count": 30,
+   "count": 1,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-09-19T16:28:47+09:00",
-   "kept": true
+   "fetched_at": "2026-09-19T16:58:36+09:00",
+   "repeat_ratio": 0.0
   }
  },
  "must_know": [
+  {
+   "module": "news",
+   "item_ids": [
+    "b2ad49a72d236855"
+   ],
+   "title": "미중 정상회담 ‘AI’ ‘관세’ 주요 의제…미 빅테크 CEO들 만찬 참석",
+   "url": "https://www.hani.co.kr/arti/international/international_general/1278601.html",
+   "why": "매체 2곳 · AI·IT·국제",
+   "score": 11
+  },
+  {
+   "module": "news",
+   "item_ids": [
+    "bc1736a9f493d338"
+   ],
+   "title": "경기 안성 한 플리마켓 행사장에 트럭 돌진… 2명 숨지고 5명 부상",
+   "url": "https://www.chosun.com/national/regional/2026/09/19/OLS2HGLVGFHPTKK4JEIB7GBZEU/",
+   "why": "매체 3곳 · 사회",
+   "score": 10
+  },
   {
    "module": "news",
    "item_ids": [
@@ -145,31 +165,11 @@
   {
    "module": "news",
    "item_ids": [
-    "b2ad49a72d236855"
+    "187f136607e7328a"
    ],
-   "title": "미중 정상회담 ‘AI’ ‘관세’ 주요 의제…미 빅테크 CEO들 만찬 참석",
-   "url": "https://www.hani.co.kr/arti/international/international_general/1278601.html",
-   "why": "매체 1곳 · AI·IT",
-   "score": 8
-  },
-  {
-   "module": "news",
-   "item_ids": [
-    "5c33dc46832a5b1b"
-   ],
-   "title": "삼성전자 초기업노조, ‘반도체 노조’ 전환",
-   "url": "https://www.khan.co.kr/article/202609191344001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-   "why": "매체 1곳 · IT·신기술",
-   "score": 8
-  },
-  {
-   "module": "news",
-   "item_ids": [
-    "848709586f172768"
-   ],
-   "title": "\"AI·반도체 주도주 2개면 충분\"…압축형 상품 '봇물' [이수의 ETF줌인]",
-   "url": "https://www.hankyung.com/article/2026091842676",
-   "why": "매체 1곳 · AI·IT·신기술",
+   "title": "CNN \"미군, 'AI 환각' 정보로 중국 선박 공격할 뻔\" - MBC 뉴스",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBGQ0xfMW9kSWRneHk0NzhSZW5BdFg2V2RMckl0aHpfZjhmLXpHZEFENVVRb0loU1M3ZWxfei1lREVSSlFEX0ZpSUdUYzItbzRLenJIZks3aDJoY3BUTmFjTG94bGE3OEhVVlQ5eGgxdHVHQVRj0gF0QVVfeXFMTUJtY3ZNODlhdTBEYTBRMDdrbjJ3Mmt4LWpRRm1sN3VfcGQ4X1lhbmhEdWdNdUFvTkxhdVpFQTFnR050Mm9qN2QwbkloRUpTSEtkb205NGpzdUFHQ1VSaG41ejRwMGZQUm02V3E1OFIzODlMUTU?oc=5",
+   "why": "매체 1곳 · AI·IT·국제",
    "score": 8
   },
   {
@@ -177,9 +177,9 @@
    "item_ids": [
     "18c91f56d2cb940c"
    ],
-   "title": "Ethereum (ETH) ₩3,642,173",
+   "title": "Ethereum (ETH) ₩3,642,622",
    "url": "https://www.coingecko.com/en/coins/ethereum",
-   "why": "큰 변동 · 24시간 +5.62% · 7일 +4.60% · 시총 2위 · 이슈: 비트 코인 ·이더리움도 양자컴퓨터 대비 시작…핵심은 '얼마나 빨리 옮기.",
+   "why": "큰 변동 · 24시간 +5.86% · 7일 +4.60% · 시총 2위",
    "score": 0
   }
  ],
