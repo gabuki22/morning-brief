@@ -1,6 +1,6 @@
 {
  "module": "realestate",
- "fetched_at": "2026-09-19T16:58:27+09:00",
+ "fetched_at": "2026-09-19T17:14:17+09:00",
  "source": {
   "name": "RSS 6곳",
   "url": "https://www.hankyung.com/feed/realestate",
@@ -449,9 +449,11 @@
  "status": {
   "ok": true,
   "count": 30,
-  "warn": [],
+  "warn": [
+   "LH·온비드 공공데이터 API: 키 없음(DATA_GO_KR_KEY) — 뉴스·바로가기만"
+  ],
   "error": null,
-  "level": "ok",
+  "level": "warn",
   "block": []
  }
 }

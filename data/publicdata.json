@@ -1,6 +1,6 @@
 {
  "module": "publicdata",
- "fetched_at": "2026-09-19T16:58:36+09:00",
+ "fetched_at": "2026-09-19T17:15:26+09:00",
  "source": {
   "name": "공개 데이터 소스 실측",
   "url": "https://www.data.go.kr/",
@@ -12,7 +12,7 @@
    "title": "○ Open-Meteo (날씨)",
    "url": "https://open-meteo.com/",
    "published_at": "2026-09-19",
-   "summary": "정상 · 381ms · 297B · 키 none",
+   "summary": "정상 · 393ms · 297B · 키 none",
    "tags": [
     "소스 상태",
     "json"
@@ -29,7 +29,7 @@
    "title": "○ Our World in Data",
    "url": "https://ourworldindata.org/",
    "published_at": "2026-09-19",
-   "summary": "정상 · 235ms · 168,862B · 키 none",
+   "summary": "정상 · 170ms · 168,862B · 키 none",
    "tags": [
     "소스 상태",
     "csv"
@@ -46,7 +46,7 @@
    "title": "○ World Bank",
    "url": "https://data.worldbank.org/",
    "published_at": "2026-09-19",
-   "summary": "정상 · 109ms · 290B · 키 none",
+   "summary": "정상 · 82ms · 290B · 키 none",
    "tags": [
     "소스 상태",
     "json"
@@ -63,7 +63,7 @@
    "title": "○ Frankfurter (환율)",
    "url": "https://frankfurter.dev/",
    "published_at": "2026-09-19",
-   "summary": "정상 · 34ms · 70B · 키 none",
+   "summary": "정상 · 36ms · 70B · 키 none",
    "tags": [
     "소스 상태",
     "json"
@@ -80,7 +80,7 @@
    "title": "○ USGS (지진)",
    "url": "https://earthquake.usgs.gov/earthquakes/map/",
    "published_at": "2026-09-19",
-   "summary": "정상 · 176ms · 930B · 키 none",
+   "summary": "정상 · 229ms · 931B · 키 none",
    "tags": [
     "소스 상태",
     "json"
@@ -97,7 +97,7 @@
    "title": "○ Nager.Date (공휴일)",
    "url": "https://date.nager.at/PublicHoliday/Country/KR",
    "published_at": "2026-09-19",
-   "summary": "정상 · 130ms · 3,062B · 키 none",
+   "summary": "정상 · 132ms · 3,062B · 키 none",
    "tags": [
     "소스 상태",
     "json"
@@ -162,12 +162,12 @@
    "title": "세계 지진 (USGS, 7일)",
    "url": "https://earthquake.usgs.gov/earthquakes/map/",
    "published_at": "2026-09-19",
-   "summary": "이번 주 규모 4.5 이상 96건 · 최대 M6.5 169 km W of Nikolski, Alaska",
+   "summary": "이번 주 규모 4.5 이상 97건 · 최대 M6.5 169 km W of Nikolski, Alaska",
    "tags": [
     "지진"
    ],
    "metrics": {
-    "count": 96
+    "count": 97
    },
    "is_new": true,
    "streak_days": 1,

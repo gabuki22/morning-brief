@@ -1,5 +1,5 @@
 {
- "built_at": "2026-09-19T16:58:36+09:00",
+ "built_at": "2026-09-19T17:15:30+09:00",
  "date": "2026-09-19",
  "site": {
   "title": "모닝브리프",
@@ -55,7 +55,7 @@
    "count": 7,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-09-19T16:58:05+09:00",
+   "fetched_at": "2026-09-19T17:13:52+09:00",
    "repeat_ratio": 0.0
   },
   "fx": {
@@ -63,7 +63,7 @@
    "count": 3,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-09-19T16:58:06+09:00",
+   "fetched_at": "2026-09-19T17:13:52+09:00",
    "repeat_ratio": 0.0
   },
   "news": {
@@ -71,7 +71,7 @@
    "count": 135,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-09-19T16:58:18+09:00",
+   "fetched_at": "2026-09-19T17:14:04+09:00",
    "repeat_ratio": 0.0
   },
   "markets": {
@@ -79,31 +79,37 @@
    "count": 5,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-09-19T16:58:18+09:00",
+   "fetched_at": "2026-09-19T17:14:04+09:00",
    "repeat_ratio": 0.0
   },
   "crypto": {
-   "level": "ok",
+   "level": "warn",
    "count": 10,
-   "warn": [],
+   "warn": [
+    "바이낸스 실패: HTTPError"
+   ],
    "block": [],
-   "fetched_at": "2026-09-19T16:58:22+09:00",
+   "fetched_at": "2026-09-19T17:14:11+09:00",
    "repeat_ratio": 0.0
   },
   "realestate": {
-   "level": "ok",
+   "level": "warn",
    "count": 30,
-   "warn": [],
+   "warn": [
+    "LH·온비드 공공데이터 API: 키 없음(DATA_GO_KR_KEY) — 뉴스·바로가기만"
+   ],
    "block": [],
-   "fetched_at": "2026-09-19T16:58:27+09:00",
+   "fetched_at": "2026-09-19T17:14:17+09:00",
    "repeat_ratio": 0.0
   },
   "it": {
-   "level": "ok",
+   "level": "warn",
    "count": 60,
-   "warn": [],
+   "warn": [
+    "전자신문 실패: URLError"
+   ],
    "block": [],
-   "fetched_at": "2026-09-19T16:58:30+09:00",
+   "fetched_at": "2026-09-19T17:15:20+09:00",
    "repeat_ratio": 0.0
   },
   "auto": {
@@ -111,7 +117,7 @@
    "count": 60,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-09-19T16:58:35+09:00",
+   "fetched_at": "2026-09-19T17:15:25+09:00",
    "repeat_ratio": 0.0
   },
   "publicdata": {
@@ -119,15 +125,17 @@
    "count": 10,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-09-19T16:58:36+09:00",
+   "fetched_at": "2026-09-19T17:15:26+09:00",
    "repeat_ratio": 0.0
   },
   "leisure": {
-   "level": "ok",
-   "count": 1,
-   "warn": [],
+   "level": "warn",
+   "count": 30,
+   "warn": [
+    "고캠핑 API: 키 없음(DATA_GO_KR_KEY)"
+   ],
    "block": [],
-   "fetched_at": "2026-09-19T16:58:36+09:00",
+   "fetched_at": "2026-09-19T17:15:30+09:00",
    "repeat_ratio": 0.0
   }
  },
@@ -135,51 +143,51 @@
   {
    "module": "news",
    "item_ids": [
-    "b2ad49a72d236855"
+    "7b340b2cf43f675c"
    ],
-   "title": "미중 정상회담 ‘AI’ ‘관세’ 주요 의제…미 빅테크 CEO들 만찬 참석",
-   "url": "https://www.hani.co.kr/arti/international/international_general/1278601.html",
+   "title": "‘김승원 성추행 의혹 탄원서’ 보도에…청 “확인 어렵다”",
+   "url": "https://www.hani.co.kr/arti/politics/politics_general/1278606.html",
+   "why": "매체 5곳 · 정치",
+   "score": 12
+  },
+  {
+   "module": "news",
+   "item_ids": [
+    "e76c1bda8fda3bd5"
+   ],
+   "title": "\"이란·중국, '자율형 AI 봇' 활용해 온라인 여론 조작\"",
+   "url": "https://www.yna.co.kr/view/AKR20260919047700009",
    "why": "매체 2곳 · AI·IT·국제",
    "score": 11
   },
   {
    "module": "news",
    "item_ids": [
-    "bc1736a9f493d338"
+    "b2ad49a72d236855"
    ],
-   "title": "경기 안성 한 플리마켓 행사장에 트럭 돌진… 2명 숨지고 5명 부상",
-   "url": "https://www.chosun.com/national/regional/2026/09/19/OLS2HGLVGFHPTKK4JEIB7GBZEU/",
-   "why": "매체 3곳 · 사회",
-   "score": 10
-  },
-  {
-   "module": "news",
-   "item_ids": [
-    "7b340b2cf43f675c"
-   ],
-   "title": "‘김승원 성추행 의혹 탄원서’ 보도에…청 “확인 어렵다”",
-   "url": "https://www.hani.co.kr/arti/politics/politics_general/1278606.html",
-   "why": "매체 4곳 · 정치",
-   "score": 9
-  },
-  {
-   "module": "news",
-   "item_ids": [
-    "187f136607e7328a"
-   ],
-   "title": "CNN \"미군, 'AI 환각' 정보로 중국 선박 공격할 뻔\" - MBC 뉴스",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBGQ0xfMW9kSWRneHk0NzhSZW5BdFg2V2RMckl0aHpfZjhmLXpHZEFENVVRb0loU1M3ZWxfei1lREVSSlFEX0ZpSUdUYzItbzRLenJIZks3aDJoY3BUTmFjTG94bGE3OEhVVlQ5eGgxdHVHQVRj0gF0QVVfeXFMTUJtY3ZNODlhdTBEYTBRMDdrbjJ3Mmt4LWpRRm1sN3VfcGQ4X1lhbmhEdWdNdUFvTkxhdVpFQTFnR050Mm9qN2QwbkloRUpTSEtkb205NGpzdUFHQ1VSaG41ejRwMGZQUm02V3E1OFIzODlMUTU?oc=5",
-   "why": "매체 1곳 · AI·IT·국제",
+   "title": "미중 정상회담 ‘AI’ ‘관세’ 주요 의제…미 빅테크 CEO들 만찬 참석",
+   "url": "https://www.hani.co.kr/arti/international/international_general/1278601.html",
+   "why": "매체 1곳 · AI·IT",
    "score": 8
+  },
+  {
+   "module": "news",
+   "item_ids": [
+    "c9dc67ea81d5501f"
+   ],
+   "title": "한국 남자 테니스, 사상 첫 데이비스컵 8강 진출…볼로냐행 확정 ‘신화 창조’",
+   "url": "https://www.hani.co.kr/arti/sports/sports_general/1278608.html",
+   "why": "매체 2곳",
+   "score": 7
   },
   {
    "module": "crypto",
    "item_ids": [
     "18c91f56d2cb940c"
    ],
-   "title": "Ethereum (ETH) ₩3,642,622",
+   "title": "Ethereum (ETH) ₩3,649,318",
    "url": "https://www.coingecko.com/en/coins/ethereum",
-   "why": "큰 변동 · 24시간 +5.86% · 7일 +4.60% · 시총 2위",
+   "why": "큰 변동 · 24시간 +5.89% · 7일 +4.30% · 시총 2위 · 이슈: 비트 코인 ·이더리움도 양자컴퓨터 대비 시작…핵심은 '얼마나 빨리 옮기.",
    "score": 0
   }
  ],
