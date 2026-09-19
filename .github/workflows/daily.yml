@@ -7,6 +7,9 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "20 21 * * *"   # 21:20 UTC = 06:20 KST
+  push:                      # 수집 코드·설정·워크플로가 바뀌면 바로 한 번 돌려 확인한다 (봇의 data/ 커밋은 해당 없음 → 무한 반복 없음)
+    branches: [main]
+    paths: ["tools/**", "config/**", ".github/workflows/daily.yml", "requirements.txt"]
 
 permissions:
   contents: write
