@@ -1,6 +1,6 @@
 {
  "module": "fx",
- "fetched_at": "2026-09-19T17:17:56+09:00",
+ "fetched_at": "2026-09-20T08:13:33+09:00",
  "source": {
   "name": "Frankfurter (ECB 고시)",
   "url": "https://api.frankfurter.dev/v1",
@@ -12,7 +12,7 @@
    "title": "USD/KRW 1,388.10",
    "url": "https://www.google.com/finance/quote/USD-KRW",
    "published_at": "2026-09-18",
-   "summary": "전 영업일 대비 +0.40% · 30일 전 대비 -0.59% (ECB 2026-09-18 고시)",
+   "summary": "전 영업일 대비 +0.40% · 30일 전 대비 +0.28% (ECB 2026-09-18 고시)",
    "tags": [
     "환율",
     "KRW"
@@ -20,12 +20,8 @@
    "metrics": {
     "last": 1388.1,
     "chg_1d": 0.401,
-    "chg_period": -0.591,
+    "chg_period": 0.28,
     "series": [
-     [
-      "2026-08-20",
-      1396.35
-     ],
      [
       "2026-08-21",
       1384.23
@@ -112,15 +108,15 @@
      ]
     ]
    },
-   "is_new": true,
-   "streak_days": 1
+   "is_new": false,
+   "streak_days": 2
   },
   {
    "id": "4444e6fab2b3cfce",
    "title": "USD/JPY 157.89",
    "url": "https://www.google.com/finance/quote/USD-JPY",
    "published_at": "2026-09-18",
-   "summary": "전 영업일 대비 +1.41% · 30일 전 대비 -0.55% (ECB 2026-09-18 고시)",
+   "summary": "전 영업일 대비 +1.41% · 30일 전 대비 -0.51% (ECB 2026-09-18 고시)",
    "tags": [
     "환율",
     "JPY"
@@ -128,12 +124,8 @@
    "metrics": {
     "last": 157.89,
     "chg_1d": 1.413,
-    "chg_period": -0.548,
+    "chg_period": -0.51,
     "series": [
-     [
-      "2026-08-20",
-      158.76
-     ],
      [
       "2026-08-21",
       158.7
@@ -220,15 +212,15 @@
      ]
     ]
    },
-   "is_new": true,
-   "streak_days": 1
+   "is_new": false,
+   "streak_days": 2
   },
   {
    "id": "477047c498bfc860",
    "title": "USD/EUR 0.87",
    "url": "https://www.google.com/finance/quote/USD-EUR",
    "published_at": "2026-09-18",
-   "summary": "전 영업일 대비 +0.18% · 30일 전 대비 +1.93% (ECB 2026-09-18 고시)",
+   "summary": "전 영업일 대비 +0.18% · 30일 전 대비 +2.09% (ECB 2026-09-18 고시)",
    "tags": [
     "환율",
     "EUR"
@@ -236,12 +228,8 @@
    "metrics": {
     "last": 0.8726,
     "chg_1d": 0.184,
-    "chg_period": 1.929,
+    "chg_period": 2.086,
     "series": [
-     [
-      "2026-08-20",
-      0.85609
-     ],
      [
       "2026-08-21",
       0.85477
@@ -328,8 +316,8 @@
      ]
     ]
    },
-   "is_new": true,
-   "streak_days": 1
+   "is_new": false,
+   "streak_days": 2
   }
  ],
  "status": {
