@@ -109,6 +109,10 @@ def build(only: set[str] | None = None, net: bool = True) -> dict:
             continue
 
         v = validate_module(payload, th, module, net=net)
+        # 수집기가 남긴 경고(키 없음·소스 실패)를 검증 경고 앞에 붙인다 — 덮어쓰면 "왜 1건뿐인지"가 사라진다
+        v["warn"] = [w for w in (payload.get("status") or {}).get("warn", []) if w] + v["warn"]
+        if v["warn"] and v["level"] == "ok":
+            v["level"] = "warn"
 
         # 어제와 비교 — 같은 id 면 이어짐(streak+1), 없으면 새로움
         pm = prev_ids.get(module, {})
