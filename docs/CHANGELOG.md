@@ -15,3 +15,5 @@
 | 2026-09-19 | Fable 5.1 | `daily.yml` actions/checkout v4→v6 · setup-python v5→v6 | Node 20 경고 | 클라우드 첫 실행 경고 |
 | 2026-09-19 | Fable 5.1 | `tools/build.py` 수집기 경고 보존 | 검증 경고로 덮어씀 → 앞에 이어 붙임 | 클라우드 빌드에서 레저 1건인 이유(Naver 키 없음)가 화면에 안 보였다 |
 | 2026-09-19 | Fable 5.1 | `daily.yml` commit 단계 | `git push` → `git pull --rebase origin main` 후 `push origin HEAD:main` | 옛 실행 Re-run 이 non-fast-forward 로 실패(#1 재실행) |
+| 2026-09-19 | Fable 5.1 | `daily.yml on.push`(tools·config·워크플로) | 수동·cron 만 → 코드 push 도 1회 실행 | Re-run 버튼 혼동 없이 새 커밋으로 검증 |
+| 2026-09-19 | Fable 5.1 | `sources.yaml crypto Binance` | enabled → false | GitHub 러너(미국 IP) 차단 HTTPError |

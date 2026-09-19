@@ -18,6 +18,6 @@
 | 공공데이터 | Fable 5.1 · 2026-09-19 | **완료**(소스 상태판+공휴일+지진) | ○ 6 · △ 3 | 10 | 포털 신규 데이터 목록 소스 |
 | 관심 키워드 `interests.yaml` | Fable 5.1 · 2026-09-19 | **완료**(뉴스·IT·자동차·부동산 태깅에 적용) | — | — | 키워드 목록은 기쁨이 늘린다 |
 | 편집층 (Phase 3) + 와일드카드 | — | 규칙형 v1 만 | — | — | Gemini 편집(`~/jarvis/secrets/gemini_api_key.txt`) · 와일드카드 순환 |
-| 자동화 (Phase 4) | Fable 5.1 · 2026-09-19 | **cron 켬** — 매일 06:20 KST · 첫 자동 실행 2026-09-20 | — | — | Secrets(NAVER_CLIENT_ID/SECRET · BANNED_WORDS · GEMINI)는 기쁨이 GitHub 에 입력 · 3일 연속 실패 자동 비활성은 미구현 |
+| 자동화 (Phase 4) | Fable 5.1 · 2026-09-19 | **완료** — cron 06:20 KST · 코드·설정 push 시 자동 1회 · 클라우드 실행 #2 성공(`1d8ceec`, Naver Secrets 반영: 레저 30·코인 뉴스 4/4) · 올리기 전 rebase | — | — | BANNED_WORDS·GEMINI Secrets 는 필요 시 · 3일 연속 실패 자동 비활성 미구현 · 러너 IP 에서 Binance 차단(끔)·전자신문 간헐 실패 |
 | 자기검토 (Phase 5) | — | 대기 | — | — | `docs/FEEDBACK.md` · 주간 REVIEW 루틴 |
 | 과거 보기 `?d=` | — | 대기 | — | — | 일별 스냅샷 보존 방식 결정 |

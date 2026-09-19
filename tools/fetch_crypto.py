@@ -23,11 +23,12 @@ def fetch() -> dict:
     except Exception as e:
         warns.append(f"빗썸 실패: {type(e).__name__}")
     binance_btc = None
-    try:
-        kl = http_json(src["Binance klines"]["url"])
-        binance_btc = float(kl[-1][4])
-    except Exception as e:
-        warns.append(f"바이낸스 실패: {type(e).__name__}")
+    if src.get("Binance klines", {}).get("enabled", True):      # 러너 IP 차단이라 기본 꺼짐(sources.yaml)
+        try:
+            kl = http_json(src["Binance klines"]["url"])
+            binance_btc = float(kl[-1][4])
+        except Exception as e:
+            warns.append(f"바이낸스 실패: {type(e).__name__}")
 
     items = []
     for c in top:
