@@ -1,0 +1,121 @@
+# 소스 레지스트리 — 모듈별. 코드는 이 파일을 읽을 뿐 소스 주소를 모른다.
+#   enabled     : false 면 수집·빌드 대상에서 제외(탭도 site.yaml 에서 꺼야 화면에서 빠진다)
+#   fetcher     : tools/<fetcher>.py 의 fetch()
+#   same_ids_ok : 매일 같은 id 가 정상인 시계열 모듈(반복 경보 제외)
+#   verified    : 키 없이 실제로 받아진 날 (tools/probe_sources.py). 없으면 미실측
+#   key         : none | data.go.kr | fred | naver … (값은 절대 여기 안 씀 — ~/jarvis/secrets/)
+#   probe       : 실측용 완성 URL (base url 만으로 요청이 안 될 때)
+modules:
+
+  weather:
+    fetcher: fetch_weather
+    enabled: true
+    same_ids_ok: true
+    params:
+      forecast_days: 7
+      daily: "temperature_2m_max,temperature_2m_min,precipitation_probability_max,weather_code"
+      aq_hourly: "pm10,pm2_5"
+    sources:
+      - {name: "Open-Meteo Forecast", kind: json, key: none, verified: 2026-09-19,
+         url: "https://api.open-meteo.com/v1/forecast",
+         probe: "https://api.open-meteo.com/v1/forecast?latitude=37.32&longitude=126.82&daily=temperature_2m_max&timezone=Asia/Seoul&forecast_days=1"}
+      - {name: "Open-Meteo Air Quality", kind: json, key: none, verified: 2026-09-19,
+         url: "https://air-quality-api.open-meteo.com/v1/air-quality",
+         probe: "https://air-quality-api.open-meteo.com/v1/air-quality?latitude=37.32&longitude=126.82&hourly=pm10&timezone=Asia/Seoul&forecast_days=1"}
+      - {name: "기상청 API허브", kind: json, key: kma, verified: null, url: "https://apihub.kma.go.kr/"}
+      - {name: "Nager.Date 공휴일", kind: json, key: none, verified: 2026-09-19,
+         url: "https://date.nager.at/api/v3/PublicHolidays/2026/KR"}
+
+  fx:
+    fetcher: fetch_fx
+    enabled: true
+    same_ids_ok: true
+    params: {base: USD, symbols: [KRW, JPY, EUR], days: 30}
+    sources:
+      - {name: "Frankfurter (ECB)", kind: json, key: none, verified: 2026-09-19,
+         url: "https://api.frankfurter.dev/v1",
+         probe: "https://api.frankfurter.dev/v1/latest?base=USD&symbols=KRW"}
+
+  news:
+    fetcher: fetch_news
+    enabled: false
+    params: {per_outlet: 30}
+    sources:
+      - {name: "연합뉴스", kind: rss, key: none, verified: 2026-09-19, url: "https://www.yna.co.kr/rss/news.xml"}
+      - {name: "조선일보", kind: rss, key: none, verified: 2026-09-19, url: "https://www.chosun.com/arc/outboundfeeds/rss/?outputType=xml"}
+      - {name: "매일경제", kind: rss, key: none, verified: 2026-09-19, url: "https://www.mk.co.kr/rss/30000001/"}
+      - {name: "경향신문", kind: rss, key: none, verified: 2026-09-19, url: "https://www.khan.co.kr/rss/rssdata/total_news.xml"}
+      - {name: "동아일보", kind: rss, key: none, verified: 2026-09-19, url: "https://rss.donga.com/total.xml"}
+      - {name: "한국경제", kind: rss, key: none, verified: 2026-09-19, url: "https://www.hankyung.com/feed/all-news"}
+      - {name: "한겨레", kind: rss, key: none, verified: 2026-09-19, url: "https://www.hani.co.kr/rss/"}
+      - {name: "SBS", kind: rss, key: none, verified: 2026-09-19, url: "https://news.sbs.co.kr/news/SectionRssFeed.do?sectionId=01"}
+      - {name: "구글뉴스 KR", kind: rss, key: none, verified: 2026-09-19, url: "https://news.google.com/rss?hl=ko&gl=KR&ceid=KR:ko"}
+      - {name: "KBS", kind: rss, key: none, verified: null, url: "https://news.kbs.co.kr/rss/rss.xml", note: "2026-09-19 404 — 주소 재탐색"}
+      - {name: "Naver 뉴스 검색", kind: api, key: naver, verified: null, url: "https://openapi.naver.com/v1/search/news.json", note: "키 등록됨(NAVER_CLIENT_ID/SECRET)"}
+
+  markets:
+    fetcher: fetch_markets
+    enabled: false
+    params: {range: 1mo, interval: 1d}
+    sources:
+      - {name: "Yahoo chart KOSPI", kind: json, key: none, verified: 2026-09-19, note: "비공식",
+         url: "https://query1.finance.yahoo.com/v8/finance/chart/%5EKS11?range=1mo&interval=1d"}
+      - {name: "Yahoo chart NASDAQ", kind: json, key: none, verified: 2026-09-19, note: "비공식",
+         url: "https://query1.finance.yahoo.com/v8/finance/chart/%5EIXIC?range=1mo&interval=1d"}
+      - {name: "Yahoo chart Nikkei", kind: json, key: none, verified: 2026-09-19, note: "비공식",
+         url: "https://query1.finance.yahoo.com/v8/finance/chart/%5EN225?range=1mo&interval=1d"}
+      - {name: "Yahoo chart S&P500", kind: json, key: none, verified: 2026-09-19, note: "비공식",
+         url: "https://query1.finance.yahoo.com/v8/finance/chart/%5EGSPC?range=1mo&interval=1d"}
+      - {name: "FRED", kind: json, key: fred, verified: null, url: "https://api.stlouisfed.org/fred/series/observations", note: "NASDAQCOM·NIKKEI225·SP500 — 공식·안정, KOSPI 없음"}
+
+  crypto:
+    fetcher: fetch_crypto
+    enabled: false
+    params: {big_move_pct: 5.0, top_n: 10}
+    sources:
+      - {name: "Upbit ticker", kind: json, key: none, verified: 2026-09-19, url: "https://api.upbit.com/v1/ticker?markets=KRW-BTC,KRW-ETH,KRW-XRP"}
+      - {name: "Upbit candles", kind: json, key: none, verified: 2026-09-19, url: "https://api.upbit.com/v1/candles/days?market=KRW-BTC&count=30"}
+      - {name: "Bithumb ticker", kind: json, key: none, verified: 2026-09-19, url: "https://api.bithumb.com/public/ticker/BTC_KRW"}
+      - {name: "Binance klines", kind: json, key: none, verified: 2026-09-19, url: "https://api.binance.com/api/v3/klines?symbol=BTCUSDT&interval=1d&limit=30"}
+      - {name: "CoinGecko markets", kind: json, key: none, verified: 2026-09-19, url: "https://api.coingecko.com/api/v3/coins/markets?vs_currency=krw&order=market_cap_desc&per_page=10&page=1&price_change_percentage=24h"}
+
+  realestate:
+    fetcher: fetch_realestate
+    enabled: false
+    params: {regions: ["서울", "경기", "인천"]}
+    sources:
+      - {name: "LH 분양·임대공고 API", kind: api, key: data.go.kr, verified: null, url: "https://apply.lh.or.kr/", note: "페이지는 JS 렌더 — data.go.kr API 확인 필요"}
+      - {name: "온비드 공매물건 API", kind: api, key: data.go.kr, verified: null, url: "https://www.onbid.co.kr/", note: "data.go.kr API 확인 필요"}
+      - {name: "법원경매정보", kind: html, key: none, verified: null, url: "https://www.courtauction.go.kr/", note: "API 없음 — 매각기일 링크 수준"}
+
+  it:
+    fetcher: fetch_rss_tagged
+    enabled: false
+    sources:
+      - {name: "지디넷코리아", kind: rss, key: none, verified: 2026-09-19, url: "https://feeds.feedburner.com/zdkorea"}
+      - {name: "전자신문", kind: rss, key: none, verified: 2026-09-19, url: "https://rss.etnews.com/Section901.xml"}
+      - {name: "The Verge", kind: atom, key: none, verified: 2026-09-19, url: "https://www.theverge.com/rss/index.xml", note: "<entry> 파서"}
+      - {name: "IT조선", kind: rss, key: none, verified: null, url: "https://it.chosun.com/rss/", note: "2026-09-19 403"}
+      - {name: "디지털데일리", kind: rss, key: none, verified: null, url: "https://www.ddaily.co.kr/rss/S1N1.xml", note: "2026-09-19 HTML 반환"}
+
+  auto:
+    fetcher: fetch_rss_tagged
+    enabled: false
+    sources:
+      - {name: "모터그래프", kind: rss, key: none, verified: 2026-09-19, url: "https://www.motorgraph.com/rss/allArticle.xml"}
+      - {name: "오토헤럴드", kind: rss, key: none, verified: 2026-09-19, url: "https://www.autoherald.co.kr/rss/allArticle.xml"}
+      - {name: "글로벌오토뉴스", kind: rss, key: none, verified: null, url: "https://www.global-autonews.com/rss/allArticle.xml", note: "2026-09-19 403"}
+
+  publicdata:
+    fetcher: fetch_publicdata
+    enabled: false
+    sources:
+      - {name: "공공데이터포털", kind: html, key: data.go.kr, verified: null, url: "https://www.data.go.kr/"}
+      - {name: "KOSIS", kind: api, key: kosis, verified: null, url: "https://kosis.kr/"}
+      - {name: "서울 열린데이터광장", kind: api, key: seoul, verified: null, url: "https://data.seoul.go.kr/"}
+
+  leisure:
+    fetcher: fetch_leisure
+    enabled: false
+    sources:
+      - {name: "고캠핑 (한국관광공사)", kind: api, key: data.go.kr, verified: null, url: "https://www.gocamping.or.kr/", note: "data.go.kr 고캠핑 정보 API 확인 필요"}

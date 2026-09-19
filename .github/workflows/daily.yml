@@ -1,0 +1,35 @@
+# 매일 아침 수집·빌드 → data/*.json 커밋 → Vercel 이 자동 배포한다.
+# Phase 4 에서 schedule 주석을 푼다. 그 전엔 Actions 탭의 "Run workflow" 로만 돈다.
+name: daily-brief
+
+on:
+  workflow_dispatch:
+  # schedule:
+  #   - cron: "20 21 * * *"   # 21:20 UTC = 06:20 KST
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: fetch + build
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          NAVER_CLIENT_ID: ${{ secrets.NAVER_CLIENT_ID }}
+          NAVER_CLIENT_SECRET: ${{ secrets.NAVER_CLIENT_SECRET }}
+          BANNED_WORDS: ${{ secrets.BANNED_WORDS }}
+        run: python tools/run_all.py
+      - name: commit data
+        run: |
+          git config user.name "morning-brief-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet || git commit -m "build: $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push

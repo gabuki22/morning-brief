@@ -1,0 +1,11 @@
+# 배포에 실리는 것: index.html · app.js · style.css · data/*.json 뿐
+tools/
+docs/
+tests/
+config/
+data/raw/
+data/history/
+.github/
+requirements.txt
+README.md
+CLAUDE.md

@@ -1,0 +1,10 @@
+# 원본 수집물 — 결과(data/*.json)만 커밋한다
+data/raw/
+*.tmp
+__pycache__/
+*.pyc
+.env
+*secret*
+*credential*
+.vercel/
+*.log

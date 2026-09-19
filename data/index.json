@@ -1,0 +1,88 @@
+{
+ "built_at": "2026-09-19T16:00:09+09:00",
+ "date": "2026-09-19",
+ "site": {
+  "title": "모닝브리프",
+  "locations": [
+   "집"
+  ],
+  "tabs": [
+   {
+    "module": "weather",
+    "label": "날씨"
+   },
+   {
+    "module": "fx",
+    "label": "환율"
+   }
+  ]
+ },
+ "modules": {
+  "weather": {
+   "level": "ok",
+   "count": 7,
+   "warn": [],
+   "block": [],
+   "fetched_at": "2026-09-19T16:00:08+09:00",
+   "repeat_ratio": 0.0
+  },
+  "fx": {
+   "level": "ok",
+   "count": 3,
+   "warn": [],
+   "block": [],
+   "fetched_at": "2026-09-19T16:00:09+09:00",
+   "repeat_ratio": 0.0
+  },
+  "news": {
+   "level": "off",
+   "count": 0,
+   "warn": [],
+   "block": []
+  },
+  "markets": {
+   "level": "off",
+   "count": 0,
+   "warn": [],
+   "block": []
+  },
+  "crypto": {
+   "level": "off",
+   "count": 0,
+   "warn": [],
+   "block": []
+  },
+  "realestate": {
+   "level": "off",
+   "count": 0,
+   "warn": [],
+   "block": []
+  },
+  "it": {
+   "level": "off",
+   "count": 0,
+   "warn": [],
+   "block": []
+  },
+  "auto": {
+   "level": "off",
+   "count": 0,
+   "warn": [],
+   "block": []
+  },
+  "publicdata": {
+   "level": "off",
+   "count": 0,
+   "warn": [],
+   "block": []
+  },
+  "leisure": {
+   "level": "off",
+   "count": 0,
+   "warn": [],
+   "block": []
+  }
+ },
+ "must_know": [],
+ "banned_hits": 0
+}

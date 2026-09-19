@@ -1,0 +1,18 @@
+# 임계값 — 근거: 2026-09-19 실측 건수의 절반. 2주 운영 뒤 실측으로 다시 정한다.
+#   min_items 미만 → 경고, 0건 → 그 모듈 차단(다른 모듈은 진행)
+min_items:
+  weather: 7
+  fx: 3
+  news: 10
+  markets: 4
+  crypto: 5
+  realestate: 1
+  it: 5
+  auto: 5
+  publicdata: 1
+  leisure: 1
+
+repeat_ratio_warn: 0.20           # 어제와 같은 항목 비율 경보선 — 코워크 브리핑 실측 3/15
+auto_disable_after_failures: 3    # 같은 소스 연속 실패 → sources.yaml enabled:false + 알림 (Phase 4)
+link_check_sample: 3              # 모듈당 링크 표본 확인 수
+link_check_timeout_sec: 6

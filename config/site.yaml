@@ -1,0 +1,22 @@
+# 사이트 설정 — 값은 여기서만 바꾼다. 개인 주소는 넣지 않는다(동 단위 대표 좌표만).
+title: "모닝브리프"
+timezone: "Asia/Seoul"
+
+locations:            # 표시 이름만. 실제 주소 없음 (결정 ② 2026-09-19)
+  - name: "집"
+    lat: 37.32
+    lon: 126.82
+
+tabs:                 # 화면 탭 순서 · 표시 여부. module = sources.yaml 의 modules 키
+  - {module: weather,    label: "날씨"}
+  - {module: fx,         label: "환율"}
+  - {module: news,       label: "뉴스",     enabled: false}
+  - {module: markets,    label: "지수",     enabled: false}
+  - {module: crypto,     label: "코인",     enabled: false}
+  - {module: realestate, label: "부동산",   enabled: false}
+  - {module: it,         label: "IT·가전",  enabled: false}
+  - {module: auto,       label: "자동차",   enabled: false}
+  - {module: publicdata, label: "공공데이터", enabled: false}
+  - {module: leisure,    label: "레저·캠핑", enabled: false}
+
+history_days: 90      # 이력 보존 (반복 판정 재료)
