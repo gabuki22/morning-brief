@@ -10,3 +10,4 @@
 | 2026-09-19 | Fable 5.1 | `sources.yaml crypto page` | `/ko/coins/` → `/en/coins/` | 404 실측 |
 | 2026-09-19 | Fable 5.1 | `sources.yaml it` | 연합 IT·과학(실은 산업 종합) → 한경 IT 추가 + 종합 피드 `require_tags` | 농촌·지역 기사 혼입 |
 | 2026-09-19 | Fable 5.1 | `tools/rss.py tag_by_rules` | 부분 일치 → 영문 토큰은 단어 경계 | "gmail" 안의 ai 가 AI 태그로 |
+| 2026-09-19 | Fable 5.1 (기쁨 폰 피드백) | 화면: 탭 상단 고정(sticky)·줄바꿈 · 칩 줄바꿈 + 카드만 다시 그림 · 날씨 7일 두 줄 · 긴 영문 줄바꿈 | 가로 스크롤 → 줄바꿈·고정 | 탭 누르려면 위로 올라가야 했고, 칩 누르면 맨 왼쪽으로 튀고, 칸이 잘렸다 |

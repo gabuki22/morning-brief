@@ -14,10 +14,9 @@ body{background:var(--bg);color:var(--ink-soft);font-size:15px;line-height:1.6;
 .headline{font-family:"Nanum Myeongjo","Noto Serif KR","Batang",Georgia,serif;font-weight:600;font-size:26px;line-height:1.35;color:var(--ink)}
 .num{font-variant-numeric:tabular-nums;font-feature-settings:"tnum"}
 
-/* 날씨 스트립 — 7일, 가로 스크롤 */
-.weather-strip{display:flex;gap:8px;overflow-x:auto;margin-top:16px;padding-bottom:4px;scrollbar-width:none}
-.weather-strip::-webkit-scrollbar{display:none}
-.wday{flex:0 0 74px;background:var(--bg);border:1px solid var(--hairline);border-radius:10px;padding:8px 6px;text-align:center}
+/* 날씨 스트립 — 7일. 폰에서는 두 줄로 접어 잘리는 칸이 없게, 넓은 화면은 한 줄 */
+.weather-strip{display:flex;flex-wrap:wrap;gap:8px;margin-top:16px}
+.wday{flex:1 1 calc(25% - 6px);min-width:68px;background:var(--bg);border:1px solid var(--hairline);border-radius:10px;padding:8px 6px;text-align:center}
 .wday .d{font-size:12px;color:var(--ink-soft)}
 .wday .l{font-size:12px;color:var(--ink);margin:2px 0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .wday .t{font-size:14px;font-weight:700;color:var(--ink)}
@@ -26,9 +25,9 @@ body{background:var(--bg);color:var(--ink-soft);font-size:15px;line-height:1.6;
 
 h2.sect{font-size:13px;font-weight:700;letter-spacing:.09em;color:var(--ink);text-transform:uppercase;margin:26px 0 12px}
 
-/* 탭 */
-.tabs{display:flex;gap:6px;overflow-x:auto;margin-top:22px;padding-bottom:6px;scrollbar-width:none}
-.tabs::-webkit-scrollbar{display:none}
+/* 탭 — 엑셀 틀 고정처럼 화면 위에 붙는다(스크롤해도 남음). 가로 스크롤 대신 줄바꿈이라 잘리는 탭이 없다 */
+.tabs{position:sticky;top:0;z-index:10;display:flex;flex-wrap:wrap;gap:6px;margin-top:22px;padding:10px 0 8px;
+  background:var(--bg);border-bottom:1px solid var(--hairline)}
 .tab{flex:0 0 auto;border:1px solid var(--hairline);background:var(--bg);color:var(--ink-soft);border-radius:999px;padding:7px 14px;font-size:14px;cursor:pointer}
 .tab[aria-selected="true"]{background:var(--ink);color:#fff;border-color:var(--ink)}
 .tab.off{opacity:.45}
@@ -61,10 +60,12 @@ ol.items li::before{content:counter(it,decimal-leading-zero);position:absolute;l
 .sub{font-size:13px;margin-top:4px;padding-left:10px;border-left:2px solid var(--hairline)}
 .sub a{color:var(--ink-soft);text-decoration:underline;text-underline-offset:2px;text-decoration-color:var(--ink-grey)}
 .src{color:var(--ink-soft)}
-.chips{display:flex;gap:6px;overflow-x:auto;margin:8px 0 2px;padding-bottom:4px;scrollbar-width:none}
-.chips::-webkit-scrollbar{display:none}
+/* 작은 탭(칩)도 큰 탭 바로 아래에 고정 — top 은 큰 탭 높이(app.js 가 --tabs-h 로 넣는다). 줄바꿈이라 누른 자리가 그대로 남는다 */
+.chips{position:sticky;top:var(--tabs-h,110px);z-index:9;display:flex;flex-wrap:wrap;gap:6px;margin:0 0 6px;padding:8px 0;
+  background:var(--bg);border-bottom:1px solid var(--hairline)}
 .chip{flex:0 0 auto;border:1px solid var(--hairline);background:var(--wash);color:var(--ink-soft);border-radius:999px;padding:4px 11px;font-size:12.5px;cursor:pointer}
 .chip.on{background:var(--ink);color:#fff;border-color:var(--ink)}
+.card .title,.card .body,.it-title,.it-body,.sub{overflow-wrap:anywhere}   /* 긴 영문·URL 이 칸 밖으로 안 나가게 */
 
 /* 상태 */
 .foot{padding-block:28px 40px;border-top:1px solid var(--hairline);margin-top:32px}

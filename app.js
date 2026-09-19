@@ -84,6 +84,12 @@
       top.map(([t, n]) => `<button class="chip${current.tag === t ? " on" : ""}" data-tag="${esc(t)}">${esc(t)} ${n}</button>`).join("") + `</div>`;
   }
 
+  function cardsHtml(items) {
+    const list = current.tag ? items.filter((it) => (it.tags || []).includes(current.tag)) : items;
+    const noBadge = ["weather", "fx", "markets", "crypto", "publicdata"].includes(current.module);
+    return list.map((it) => card(it, { noBadge })).join("") || `<div class="empty">항목 없음</div>`;
+  }
+
   function renderPanel(mod) {
     const panel = $("#panel");
     const st = mod.status || {};
@@ -91,12 +97,21 @@
     const head = `<h2 class="sect">${esc(current.label)} <span class="num">${items.length}</span></h2>`;
     if (st.level === "block") { panel.innerHTML = head + `<div class="empty">수집 실패 — ${esc((st.block || []).join(", "))}</div>`; return; }
     if (current.module === "weather") items = items.filter((it) => it.metrics && it.metrics.series);   // 스트립이 7일을 이미 보여준다
-    const chipHtml = items.length > 12 ? chips(items) : "";
-    const list = current.tag ? items.filter((it) => (it.tags || []).includes(current.tag)) : items;
-    const noBadge = ["weather", "fx", "markets", "crypto", "publicdata"].includes(current.module);
-    panel.innerHTML = head + chipHtml + `<div class="cards">${list.map((it) => card(it, { noBadge })).join("") || `<div class="empty">항목 없음</div>`}</div>`;
-    panel.querySelectorAll(".chip").forEach((b) => b.addEventListener("click", () => { current.tag = b.dataset.tag || null; renderPanel(mod); }));
+    panel.innerHTML = head + (items.length > 12 ? chips(items) : "") + `<div class="cards" id="cards">${cardsHtml(items)}</div>`;
+    // 칩을 누르면 칩 줄은 그대로 두고 카드만 다시 그린다 — 줄이 다시 그려지면 누른 자리가 사라진다
+    panel.querySelectorAll(".chip").forEach((b) => b.addEventListener("click", () => {
+      current.tag = b.dataset.tag || null;
+      panel.querySelectorAll(".chip").forEach((c) => c.classList.toggle("on", (c.dataset.tag || null) === current.tag));
+      $("#cards").innerHTML = cardsHtml(items);
+    }));
   }
+
+  // 큰 탭이 몇 줄로 접히든 칩 줄이 그 바로 아래에 붙도록 높이를 CSS 변수로 넘긴다
+  function syncSticky() {
+    const t = $("#tabs");
+    if (t) document.documentElement.style.setProperty("--tabs-h", `${t.offsetHeight}px`);
+  }
+  window.addEventListener("resize", syncSticky);
 
   async function showTab(module, label) {
     document.querySelectorAll(".tab").forEach((b) => b.setAttribute("aria-selected", b.dataset.module === module));
@@ -106,6 +121,11 @@
     } catch (e) {
       $("#panel").innerHTML = `<div class="empty">아직 수집되지 않은 모듈입니다 (${esc(module)})</div>`;
     }
+    syncSticky();
+    // 아래쪽에서 탭을 바꿨으면 새 목록의 첫 카드가 탭 바로 아래 오게 (탭은 상단 고정)
+    const tabsEl = $("#tabs");
+    const top = tabsEl.getBoundingClientRect().top + window.scrollY;
+    if (window.scrollY > top) window.scrollTo({ top, behavior: "auto" });
   }
 
   async function main() {
@@ -123,6 +143,7 @@
     tabsEl.addEventListener("click", (e) => {
       const b = e.target.closest(".tab"); if (b && !b.disabled) showTab(b.dataset.module, b.dataset.label);
     });
+    syncSticky();
 
     if (index.modules.weather && index.modules.weather.level !== "off") {
       try { weatherStrip(await getJSON("data/weather.json")); } catch (_) { /* 스트립 없이도 화면은 산다 */ }
