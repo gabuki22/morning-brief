@@ -5,7 +5,7 @@
 
 | 모듈 | 담당(모델·날짜) | 상태 | 소스 실측 | 항목 수 | 막힘 |
 |---|---|---|---|---|---|
-| 골격·계약·빌드 (Phase 1) | Fable 5.1 · 2026-09-19 | **완료** — config 4 · tools 6 · 화면 3 · docs 5 · Actions 골격 | — | — | GitHub 저장소 생성·Vercel Import 는 기쁨 |
+| 골격·계약·빌드 (Phase 1) | Fable 5.1 · 2026-09-19 | **완료** — config 4 · tools 6 · 화면 3 · docs 5 · Actions 골격 · 배포 https://morning-brief-omega-topaz.vercel.app (push → 자동 배포 확인, 제외 파일 404 확인) | — | — | — |
 | 날씨·대기·공휴일 | Fable 5.1 · 2026-09-19 | **완료**(공휴일 표시는 미구현) | ○ Open-Meteo 2종 | 7 | 기상청 API허브 키(2순위) |
 | 환율 | Fable 5.1 · 2026-09-19 | **완료** | ○ Frankfurter | 3 | — |
 | 뉴스·반드시 알아야 할 것 | — | 대기 | ○ 9 · ✗ KBS | — | `fetch_news.py` — RSS 9곳 + 교차 매체 점수 |

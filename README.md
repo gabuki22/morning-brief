@@ -1,5 +1,7 @@
 # 모닝브리프 v3
 
+배포: https://morning-brief-omega-topaz.vercel.app (정식 주소 — 해시 붙은 배포 주소는 로그인이 필요하다)
+
 공개 데이터로 만드는 아침 대시보드 — 날씨·환율·뉴스·지수·코인·부동산·IT·자동차·공공데이터.
 계산은 아침에 클라우드(GitHub Actions)가 미리 끝내고 JSON 으로 굳히며, Vercel 은 그 JSON 을 폰 화면으로 뿌린다.
 
