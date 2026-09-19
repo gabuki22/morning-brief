@@ -1,11 +1,12 @@
 # 매일 아침 수집·빌드 → data/*.json 커밋 → Vercel 이 자동 배포한다.
-# Phase 4 에서 schedule 주석을 푼다. 그 전엔 Actions 탭의 "Run workflow" 로만 돈다.
+# 2026-09-19 Phase 4: 매일 21:20 UTC(= 06:20 KST) 자동 실행. Actions 큐 사정으로 실제 시작은 몇 분 늦을 수 있다.
+# ⚠️ 공개 저장소는 60일간 커밋이 없으면 GitHub 이 예약 실행을 멈춘다 — 이 워크플로가 매일 커밋하므로 유지된다.
 name: daily-brief
 
 on:
   workflow_dispatch:
-  # schedule:
-  #   - cron: "20 21 * * *"   # 21:20 UTC = 06:20 KST
+  schedule:
+    - cron: "20 21 * * *"   # 21:20 UTC = 06:20 KST
 
 permissions:
   contents: write
