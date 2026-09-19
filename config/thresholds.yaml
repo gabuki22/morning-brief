@@ -6,13 +6,28 @@ min_items:
   news: 10
   markets: 4
   crypto: 5
-  realestate: 1
+  realestate: 3
   it: 5
   auto: 5
-  publicdata: 1
+  publicdata: 5
   leisure: 1
 
 repeat_ratio_warn: 0.20           # 어제와 같은 항목 비율 경보선 — 코워크 브리핑 실측 3/15
 auto_disable_after_failures: 3    # 같은 소스 연속 실패 → sources.yaml enabled:false + 알림 (Phase 4)
 link_check_sample: 3              # 모듈당 링크 표본 확인 수
 link_check_timeout_sec: 6
+
+must_know:                        # 편집층(규칙형) 점수 — 매체 수 × 가중 + 관심 태그 + 새로움 + 태그 가중
+  outlets_weight: 3
+  interest_bonus: 2
+  new_bonus: 1
+  crypto_big_move_slots: 1        # 큰 변동 코인이 있으면 1자리
+  tag_weights:                    # 기쁨의 관심축 — 정치 기사가 매체 수만으로 상위를 차지하지 않게
+    정치: -4
+    경제: 2
+    부동산: 2
+    IT: 2
+    자동차: 1
+    국제: 0
+    사회: 0
+  max_per_tag: 2                  # 같은 태그(정치·사회 …)가 5건을 다 차지하지 않게

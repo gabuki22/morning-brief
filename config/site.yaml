@@ -8,15 +8,16 @@ locations:            # 표시 이름만. 실제 주소 없음 (결정 ② 2026-
     lon: 126.82
 
 tabs:                 # 화면 탭 순서 · 표시 여부. module = sources.yaml 의 modules 키
+  - {module: news,       label: "뉴스"}
   - {module: weather,    label: "날씨"}
+  - {module: markets,    label: "지수"}
   - {module: fx,         label: "환율"}
-  - {module: news,       label: "뉴스",     enabled: false}
-  - {module: markets,    label: "지수",     enabled: false}
-  - {module: crypto,     label: "코인",     enabled: false}
-  - {module: realestate, label: "부동산",   enabled: false}
-  - {module: it,         label: "IT·가전",  enabled: false}
-  - {module: auto,       label: "자동차",   enabled: false}
-  - {module: publicdata, label: "공공데이터", enabled: false}
-  - {module: leisure,    label: "레저·캠핑", enabled: false}
+  - {module: crypto,     label: "코인"}
+  - {module: realestate, label: "부동산"}
+  - {module: it,         label: "IT·가전"}
+  - {module: auto,       label: "자동차"}
+  - {module: leisure,    label: "레저·캠핑"}
+  - {module: publicdata, label: "공공데이터"}
 
 history_days: 90      # 이력 보존 (반복 판정 재료)
+must_know_count: 5    # 반드시 알아야 할 것 건수

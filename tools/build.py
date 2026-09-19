@@ -25,6 +25,56 @@ def _prune_history(keep_days: int) -> None:
         p.unlink()
 
 
+def _must_know(index: dict, site: dict, th: dict) -> list[dict]:
+    """편집층(규칙형) — 매체 수·관심 태그·새로움으로 점수를 매겨 사건(cluster)당 하나씩 고른다.
+    LLM 편집은 Phase 3 — 그때도 이 목록이 폴백이다(핵심교안: LLM 없이도 돌아야 한다)."""
+    cfg = th.get("must_know") or {}
+    n = int(site.get("must_know_count", 5))
+    picks: list[dict] = []
+    news = load_json(DATA_DIR / "news.json")
+    if news and index["modules"].get("news", {}).get("level") in ("ok", "warn"):
+        interests = {k["tag"] for k in load_yaml("interests").get("keywords", [])}
+        weights = cfg.get("tag_weights") or {}
+        max_per_tag = int(cfg.get("max_per_tag", 99))
+        scored = []
+        for it in news.get("items", []):
+            m = it.get("metrics", {})
+            tags = m.get("cluster_tags") or it.get("tags", [])       # 사건 단위 태그(같은 사건의 다른 매체 것 포함)
+            score = int(m.get("outlets", 1)) * int(cfg.get("outlets_weight", 3)) \
+                + (int(cfg.get("interest_bonus", 2)) if set(tags) & interests else 0) \
+                + (int(cfg.get("new_bonus", 1)) if it.get("is_new") else 0) \
+                + sum(int(weights.get(t, 0)) for t in tags)
+            scored.append((score, it))
+        scored.sort(key=lambda x: -x[0])
+        seen, tag_count = set(), {}
+        for score, it in scored:
+            c = it.get("metrics", {}).get("cluster")
+            if c in seen:
+                continue
+            ctags = it.get("metrics", {}).get("cluster_tags") or it.get("tags") or []
+            first_tag = (ctags or ["(없음)"])[0]
+            if tag_count.get(first_tag, 0) >= max_per_tag:
+                continue
+            seen.add(c)
+            tag_count[first_tag] = tag_count.get(first_tag, 0) + 1
+            why = f"매체 {it['metrics'].get('outlets', 1)}곳" \
+                + (" · " + "·".join(ctags[:3]) if ctags else "") \
+                + ("" if it.get("is_new") else f" · {it.get('streak_days', 1)}일째 이어짐")
+            picks.append({"module": "news", "item_ids": [it["id"]], "title": it["title"], "url": it["url"],
+                          "why": why, "score": score})
+            if len(picks) >= n:
+                break
+    crypto = load_json(DATA_DIR / "crypto.json")
+    slots = int(cfg.get("crypto_big_move_slots", 1))
+    if crypto and slots:
+        big = [it for it in crypto.get("items", []) if "큰 변동" in it.get("tags", [])][:slots]
+        if big:
+            picks = picks[: max(0, n - len(big))] + [
+                {"module": "crypto", "item_ids": [it["id"]], "title": it["title"], "url": it["url"],
+                 "why": "큰 변동 · " + it["summary"], "score": 0} for it in big]
+    return picks[:n]
+
+
 def build(only: set[str] | None = None, net: bool = True) -> dict:
     site, sources, th = load_yaml("site"), load_yaml("sources"), load_yaml("thresholds")
     today = today_str()
@@ -83,6 +133,7 @@ def build(only: set[str] | None = None, net: bool = True) -> dict:
         if any("금지어" in b for b in v["block"]):
             index["banned_hits"] += 1
 
+    index["must_know"] = _must_know(index, site, th)
     save_json(HISTORY_DIR / f"{today}.json", {"date": today, "ids": today_ids})
     _prune_history(int(site.get("history_days", 90)))
     save_json(DATA_DIR / "index.json", index)

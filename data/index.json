@@ -1,5 +1,5 @@
 {
- "built_at": "2026-09-19T16:00:09+09:00",
+ "built_at": "2026-09-19T16:29:41+09:00",
  "date": "2026-09-19",
  "site": {
   "title": "모닝브리프",
@@ -8,12 +8,44 @@
   ],
   "tabs": [
    {
+    "module": "news",
+    "label": "뉴스"
+   },
+   {
     "module": "weather",
     "label": "날씨"
    },
    {
+    "module": "markets",
+    "label": "지수"
+   },
+   {
     "module": "fx",
     "label": "환율"
+   },
+   {
+    "module": "crypto",
+    "label": "코인"
+   },
+   {
+    "module": "realestate",
+    "label": "부동산"
+   },
+   {
+    "module": "it",
+    "label": "IT·가전"
+   },
+   {
+    "module": "auto",
+    "label": "자동차"
+   },
+   {
+    "module": "leisure",
+    "label": "레저·캠핑"
+   },
+   {
+    "module": "publicdata",
+    "label": "공공데이터"
    }
   ]
  },
@@ -23,66 +55,133 @@
    "count": 7,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-09-19T16:00:08+09:00",
-   "repeat_ratio": 0.0
+   "fetched_at": "2026-09-19T16:28:37+09:00",
+   "kept": true
   },
   "fx": {
    "level": "ok",
    "count": 3,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-09-19T16:00:09+09:00",
-   "repeat_ratio": 0.0
+   "fetched_at": "2026-09-19T16:28:37+09:00",
+   "kept": true
   },
   "news": {
-   "level": "off",
-   "count": 0,
+   "level": "ok",
+   "count": 135,
    "warn": [],
-   "block": []
+   "block": [],
+   "fetched_at": "2026-09-19T16:29:41+09:00",
+   "repeat_ratio": 0.0
   },
   "markets": {
-   "level": "off",
-   "count": 0,
+   "level": "ok",
+   "count": 5,
    "warn": [],
-   "block": []
+   "block": [],
+   "fetched_at": "2026-09-19T16:28:40+09:00",
+   "kept": true
   },
   "crypto": {
-   "level": "off",
-   "count": 0,
+   "level": "ok",
+   "count": 10,
    "warn": [],
-   "block": []
+   "block": [],
+   "fetched_at": "2026-09-19T16:28:41+09:00",
+   "kept": true
   },
   "realestate": {
-   "level": "off",
-   "count": 0,
+   "level": "ok",
+   "count": 30,
    "warn": [],
-   "block": []
+   "block": [],
+   "fetched_at": "2026-09-19T16:28:41+09:00",
+   "kept": true
   },
   "it": {
-   "level": "off",
-   "count": 0,
+   "level": "ok",
+   "count": 60,
    "warn": [],
-   "block": []
+   "block": [],
+   "fetched_at": "2026-09-19T16:28:43+09:00",
+   "kept": true
   },
   "auto": {
-   "level": "off",
-   "count": 0,
+   "level": "ok",
+   "count": 60,
    "warn": [],
-   "block": []
+   "block": [],
+   "fetched_at": "2026-09-19T16:28:43+09:00",
+   "kept": true
   },
   "publicdata": {
-   "level": "off",
-   "count": 0,
+   "level": "ok",
+   "count": 10,
    "warn": [],
-   "block": []
+   "block": [],
+   "fetched_at": "2026-09-19T16:28:47+09:00",
+   "kept": true
   },
   "leisure": {
-   "level": "off",
-   "count": 0,
+   "level": "ok",
+   "count": 30,
    "warn": [],
-   "block": []
+   "block": [],
+   "fetched_at": "2026-09-19T16:28:47+09:00",
+   "kept": true
   }
  },
- "must_know": [],
+ "must_know": [
+  {
+   "module": "news",
+   "item_ids": [
+    "7b340b2cf43f675c"
+   ],
+   "title": "‘김승원 성추행 의혹 탄원서’ 보도에…청 “확인 어렵다”",
+   "url": "https://www.hani.co.kr/arti/politics/politics_general/1278606.html",
+   "why": "매체 4곳 · 정치",
+   "score": 9
+  },
+  {
+   "module": "news",
+   "item_ids": [
+    "b2ad49a72d236855"
+   ],
+   "title": "미중 정상회담 ‘AI’ ‘관세’ 주요 의제…미 빅테크 CEO들 만찬 참석",
+   "url": "https://www.hani.co.kr/arti/international/international_general/1278601.html",
+   "why": "매체 1곳 · AI·IT",
+   "score": 8
+  },
+  {
+   "module": "news",
+   "item_ids": [
+    "5c33dc46832a5b1b"
+   ],
+   "title": "삼성전자 초기업노조, ‘반도체 노조’ 전환",
+   "url": "https://www.khan.co.kr/article/202609191344001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "why": "매체 1곳 · IT·신기술",
+   "score": 8
+  },
+  {
+   "module": "news",
+   "item_ids": [
+    "848709586f172768"
+   ],
+   "title": "\"AI·반도체 주도주 2개면 충분\"…압축형 상품 '봇물' [이수의 ETF줌인]",
+   "url": "https://www.hankyung.com/article/2026091842676",
+   "why": "매체 1곳 · AI·IT·신기술",
+   "score": 8
+  },
+  {
+   "module": "crypto",
+   "item_ids": [
+    "18c91f56d2cb940c"
+   ],
+   "title": "Ethereum (ETH) ₩3,642,173",
+   "url": "https://www.coingecko.com/en/coins/ethereum",
+   "why": "큰 변동 · 24시간 +5.62% · 7일 +4.60% · 시총 2위 · 이슈: 비트 코인 ·이더리움도 양자컴퓨터 대비 시작…핵심은 '얼마나 빨리 옮기.",
+   "score": 0
+  }
+ ],
  "banned_hits": 0
 }

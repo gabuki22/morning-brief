@@ -47,6 +47,25 @@ h2.sect{font-size:13px;font-weight:700;letter-spacing:.09em;color:var(--ink);tex
 .spark path.s2{stroke:var(--ink-grey)}
 .spark line{stroke:var(--hairline)}
 
+/* 반드시 알아야 할 것 */
+ol.items{list-style:none;counter-reset:it;margin-top:4px}
+ol.items li{counter-increment:it;position:relative;padding:0 0 14px 34px}
+ol.items li::before{content:counter(it,decimal-leading-zero);position:absolute;left:0;top:2px;font-size:13px;color:var(--ink-grey);font-variant-numeric:tabular-nums}
+.it-title{font-weight:700;color:var(--ink);font-size:15px;text-decoration:none;border-bottom:1px solid var(--ink-grey)}
+.it-body{margin-top:2px;font-size:13px;color:var(--ink-soft)}
+
+/* 카드 부속 */
+.kv{margin-top:4px;font-size:14px}
+.chg.up{color:#0f766e} .chg.down{color:#b45309}      /* 등락은 판정색이 아니라 별도 톤 */
+.dim{color:var(--ink-grey);font-size:12px}
+.sub{font-size:13px;margin-top:4px;padding-left:10px;border-left:2px solid var(--hairline)}
+.sub a{color:var(--ink-soft);text-decoration:underline;text-underline-offset:2px;text-decoration-color:var(--ink-grey)}
+.src{color:var(--ink-soft)}
+.chips{display:flex;gap:6px;overflow-x:auto;margin:8px 0 2px;padding-bottom:4px;scrollbar-width:none}
+.chips::-webkit-scrollbar{display:none}
+.chip{flex:0 0 auto;border:1px solid var(--hairline);background:var(--wash);color:var(--ink-soft);border-radius:999px;padding:4px 11px;font-size:12.5px;cursor:pointer}
+.chip.on{background:var(--ink);color:#fff;border-color:var(--ink)}
+
 /* 상태 */
 .foot{padding-block:28px 40px;border-top:1px solid var(--hairline);margin-top:32px}
 .status{display:flex;gap:10px;flex-wrap:wrap;font-size:12px}

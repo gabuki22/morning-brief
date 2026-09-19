@@ -4,6 +4,7 @@
   const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
   const WD = ["일", "월", "화", "수", "목", "금", "토"];
   const cache = {};
+  let current = { module: null, label: "", tag: null };
 
   async function getJSON(path) {
     if (cache[path]) return cache[path];
@@ -15,6 +16,11 @@
   function fmtDate(iso) {
     const d = new Date(iso + "T00:00:00+09:00");
     return `${d.getFullYear()}년 ${d.getMonth() + 1}월 ${d.getDate()}일 (${WD[d.getDay()]})`;
+  }
+  function shortTime(iso) {
+    if (!iso) return "";
+    const m = /^(\d{4})-(\d{2})-(\d{2})(?:T(\d{2}):(\d{2}))?/.exec(iso);
+    return m ? `${+m[2]}/${+m[3]}${m[4] ? " " + m[4] + ":" + m[5] : ""}` : iso;
   }
 
   // 시계열 → 인라인 SVG. 축·격자 없음, 0 기준선만(음수 구간이 있을 때).
@@ -28,19 +34,20 @@
     return `<svg class="spark" viewBox="0 0 ${w} ${h}" aria-hidden="true">${zero}<path d="${path(series)}"/>${series2 ? `<path class="s2" d="${path(series2)}"/>` : ""}</svg>`;
   }
 
-  function badge(it) {
-    if (it.is_new) return `<span class="badge new">새로움</span>`;
-    return `<span class="badge">${it.streak_days}일째</span>`;
-  }
+  const badge = (it) => it.is_new ? `<span class="badge new">새로움</span>` : `<span class="badge">${it.streak_days}일째</span>`;
+  const chg = (v) => v == null ? "" : `<span class="chg ${v > 0 ? "up" : v < 0 ? "down" : ""}">${v > 0 ? "+" : ""}${Number(v).toFixed(2)}%</span>`;
 
   function card(it, opts = {}) {
     const m = it.metrics || {};
     const sp = m.series ? spark(m.series, m.series2) : "";
+    const head = m.chg_1d != null ? `<div class="kv num">${chg(m.chg_1d)}${m.chg_7d != null ? ` <span class="dim">7일 ${chg(m.chg_7d)}</span>` : ""}${m.chg_period != null ? ` <span class="dim">기간 ${chg(m.chg_period)}</span>` : ""}</div>` : "";
+    const news = (m.news || []).map((n) => `<div class="sub"><a href="${esc(n.url)}" target="_blank" rel="noopener">${esc(n.title)}</a></div>`).join("");
     return `<article class="card">
       <a class="title" href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a>
+      ${head}
       <div class="body">${esc(it.summary)}</div>
-      ${sp}
-      <div class="meta"><span>${esc(it.published_at || "")}</span>${opts.noBadge ? "" : badge(it)}${(it.tags || []).map((t) => `<span class="badge">${esc(t)}</span>`).join("")}</div>
+      ${sp}${news}
+      <div class="meta">${it.source_name ? `<span class="src">${esc(it.source_name)}</span>` : ""}<span>${esc(shortTime(it.published_at))}</span>${m.outlets > 1 ? `<span class="badge">매체 ${m.outlets}곳</span>` : ""}${opts.noBadge ? "" : badge(it)}${(it.tags || []).slice(0, 4).map((t) => `<span class="badge tag" data-tag="${esc(t)}">${esc(t)}</span>`).join("")}</div>
     </article>`;
   }
 
@@ -68,19 +75,36 @@
     ).join("") + `<span>빌드 ${esc((index.built_at || "").replace("T", " ").slice(0, 16))}</span>`;
   }
 
+  function chips(items) {
+    const freq = {};
+    items.forEach((it) => (it.tags || []).forEach((t) => { freq[t] = (freq[t] || 0) + 1; }));
+    const top = Object.entries(freq).sort((a, b) => b[1] - a[1]).slice(0, 8);
+    if (top.length < 2) return "";
+    return `<div class="chips"><button class="chip${current.tag ? "" : " on"}" data-tag="">전체 ${items.length}</button>` +
+      top.map(([t, n]) => `<button class="chip${current.tag === t ? " on" : ""}" data-tag="${esc(t)}">${esc(t)} ${n}</button>`).join("") + `</div>`;
+  }
+
+  function renderPanel(mod) {
+    const panel = $("#panel");
+    const st = mod.status || {};
+    let items = mod.items || [];
+    const head = `<h2 class="sect">${esc(current.label)} <span class="num">${items.length}</span></h2>`;
+    if (st.level === "block") { panel.innerHTML = head + `<div class="empty">수집 실패 — ${esc((st.block || []).join(", "))}</div>`; return; }
+    if (current.module === "weather") items = items.filter((it) => it.metrics && it.metrics.series);   // 스트립이 7일을 이미 보여준다
+    const chipHtml = items.length > 12 ? chips(items) : "";
+    const list = current.tag ? items.filter((it) => (it.tags || []).includes(current.tag)) : items;
+    const noBadge = ["weather", "fx", "markets", "crypto", "publicdata"].includes(current.module);
+    panel.innerHTML = head + chipHtml + `<div class="cards">${list.map((it) => card(it, { noBadge })).join("") || `<div class="empty">항목 없음</div>`}</div>`;
+    panel.querySelectorAll(".chip").forEach((b) => b.addEventListener("click", () => { current.tag = b.dataset.tag || null; renderPanel(mod); }));
+  }
+
   async function showTab(module, label) {
     document.querySelectorAll(".tab").forEach((b) => b.setAttribute("aria-selected", b.dataset.module === module));
-    const panel = $("#panel");
+    current = { module, label, tag: null };
     try {
-      const mod = await getJSON(`data/${module}.json`);
-      const st = mod.status || {};
-      const items = mod.items || [];
-      const head = `<h2 class="sect">${esc(label)} <span class="num">${items.length}</span></h2>`;
-      if (st.level === "block") { panel.innerHTML = head + `<div class="empty">수집 실패 — ${esc((st.block || []).join(", "))}</div>`; return; }
-      const list = module === "weather" ? items.filter((it) => it.metrics && it.metrics.series) : items;   // 날씨는 오늘 카드 하나(스트립이 7일을 이미 보여줌)
-      panel.innerHTML = head + `<div class="cards">${list.map((it) => card(it, { noBadge: module === "weather" || module === "fx" })).join("") || `<div class="empty">항목 없음</div>`}</div>`;
+      renderPanel(await getJSON(`data/${module}.json`));
     } catch (e) {
-      panel.innerHTML = `<div class="empty">아직 수집되지 않은 모듈입니다 (${esc(module)})</div>`;
+      $("#panel").innerHTML = `<div class="empty">아직 수집되지 않은 모듈입니다 (${esc(module)})</div>`;
     }
   }
 
@@ -104,10 +128,11 @@
       try { weatherStrip(await getJSON("data/weather.json")); } catch (_) { /* 스트립 없이도 화면은 산다 */ }
     }
     if (index.must_know && index.must_know.length) {
-      $("#must-know-list").innerHTML = index.must_know.map((k) => `<li>${esc(k.why || "")}</li>`).join("");
+      $("#must-know-list").innerHTML = index.must_know.map((k) =>
+        `<li><a class="it-title" href="${esc(k.url)}" target="_blank" rel="noopener">${esc(k.title)}</a><div class="it-body">${esc(k.why || "")}</div></li>`).join("");
       $("#must-know").hidden = false;
     }
-    const first = tabs.find((t) => index.modules[t.module] && !["off"].includes(index.modules[t.module].level));
+    const first = tabs.find((t) => index.modules[t.module] && index.modules[t.module].level !== "off");
     if (first) showTab(first.module, first.label);
   }
 
