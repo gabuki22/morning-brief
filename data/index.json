@@ -1,5 +1,5 @@
 {
- "built_at": "2026-09-19T17:15:30+09:00",
+ "built_at": "2026-09-19T17:19:29+09:00",
  "date": "2026-09-19",
  "site": {
   "title": "모닝브리프",
@@ -55,7 +55,7 @@
    "count": 7,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-09-19T17:13:52+09:00",
+   "fetched_at": "2026-09-19T17:17:55+09:00",
    "repeat_ratio": 0.0
   },
   "fx": {
@@ -63,15 +63,17 @@
    "count": 3,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-09-19T17:13:52+09:00",
+   "fetched_at": "2026-09-19T17:17:56+09:00",
    "repeat_ratio": 0.0
   },
   "news": {
-   "level": "ok",
-   "count": 135,
-   "warn": [],
+   "level": "warn",
+   "count": 120,
+   "warn": [
+    "SBS 실패: HTTPError"
+   ],
    "block": [],
-   "fetched_at": "2026-09-19T17:14:04+09:00",
+   "fetched_at": "2026-09-19T17:18:05+09:00",
    "repeat_ratio": 0.0
   },
   "markets": {
@@ -79,17 +81,15 @@
    "count": 5,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-09-19T17:14:04+09:00",
+   "fetched_at": "2026-09-19T17:18:06+09:00",
    "repeat_ratio": 0.0
   },
   "crypto": {
-   "level": "warn",
+   "level": "ok",
    "count": 10,
-   "warn": [
-    "바이낸스 실패: HTTPError"
-   ],
+   "warn": [],
    "block": [],
-   "fetched_at": "2026-09-19T17:14:11+09:00",
+   "fetched_at": "2026-09-19T17:18:12+09:00",
    "repeat_ratio": 0.0
   },
   "realestate": {
@@ -99,7 +99,7 @@
     "LH·온비드 공공데이터 API: 키 없음(DATA_GO_KR_KEY) — 뉴스·바로가기만"
    ],
    "block": [],
-   "fetched_at": "2026-09-19T17:14:17+09:00",
+   "fetched_at": "2026-09-19T17:18:17+09:00",
    "repeat_ratio": 0.0
   },
   "it": {
@@ -109,7 +109,7 @@
     "전자신문 실패: URLError"
    ],
    "block": [],
-   "fetched_at": "2026-09-19T17:15:20+09:00",
+   "fetched_at": "2026-09-19T17:19:20+09:00",
    "repeat_ratio": 0.0
   },
   "auto": {
@@ -117,7 +117,7 @@
    "count": 60,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-09-19T17:15:25+09:00",
+   "fetched_at": "2026-09-19T17:19:24+09:00",
    "repeat_ratio": 0.0
   },
   "publicdata": {
@@ -125,7 +125,7 @@
    "count": 10,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-09-19T17:15:26+09:00",
+   "fetched_at": "2026-09-19T17:19:26+09:00",
    "repeat_ratio": 0.0
   },
   "leisure": {
@@ -135,21 +135,11 @@
     "고캠핑 API: 키 없음(DATA_GO_KR_KEY)"
    ],
    "block": [],
-   "fetched_at": "2026-09-19T17:15:30+09:00",
+   "fetched_at": "2026-09-19T17:19:29+09:00",
    "repeat_ratio": 0.0
   }
  },
  "must_know": [
-  {
-   "module": "news",
-   "item_ids": [
-    "7b340b2cf43f675c"
-   ],
-   "title": "‘김승원 성추행 의혹 탄원서’ 보도에…청 “확인 어렵다”",
-   "url": "https://www.hani.co.kr/arti/politics/politics_general/1278606.html",
-   "why": "매체 5곳 · 정치",
-   "score": 12
-  },
   {
    "module": "news",
    "item_ids": [
@@ -159,6 +149,16 @@
    "url": "https://www.yna.co.kr/view/AKR20260919047700009",
    "why": "매체 2곳 · AI·IT·국제",
    "score": 11
+  },
+  {
+   "module": "news",
+   "item_ids": [
+    "7b340b2cf43f675c"
+   ],
+   "title": "‘김승원 성추행 의혹 탄원서’ 보도에…청 “확인 어렵다”",
+   "url": "https://www.hani.co.kr/arti/politics/politics_general/1278606.html",
+   "why": "매체 4곳 · 정치",
+   "score": 9
   },
   {
    "module": "news",
@@ -185,9 +185,9 @@
    "item_ids": [
     "18c91f56d2cb940c"
    ],
-   "title": "Ethereum (ETH) ₩3,649,318",
+   "title": "Ethereum (ETH) ₩3,648,825",
    "url": "https://www.coingecko.com/en/coins/ethereum",
-   "why": "큰 변동 · 24시간 +5.89% · 7일 +4.30% · 시총 2위 · 이슈: 비트 코인 ·이더리움도 양자컴퓨터 대비 시작…핵심은 '얼마나 빨리 옮기.",
+   "why": "큰 변동 · 24시간 +5.95% · 7일 +4.30% · 시총 2위 · 이슈: 비트 코인 ·이더리움도 양자컴퓨터 대비 시작…핵심은 '얼마나 빨리 옮기.",
    "score": 0
   }
  ],
