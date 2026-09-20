@@ -1,6 +1,6 @@
 {
  "module": "publicdata",
- "fetched_at": "2026-09-20T08:14:05+09:00",
+ "fetched_at": "2026-09-21T08:18:34+09:00",
  "source": {
   "name": "공개 데이터 소스 실측",
   "url": "https://www.data.go.kr/",
@@ -11,8 +11,8 @@
    "id": "3b248502eefd21f1",
    "title": "○ Open-Meteo (날씨)",
    "url": "https://open-meteo.com/",
-   "published_at": "2026-09-20",
-   "summary": "정상 · 182ms · 298B · 키 none",
+   "published_at": "2026-09-21",
+   "summary": "정상 · 626ms · 298B · 키 none",
    "tags": [
     "소스 상태",
     "json"
@@ -21,15 +21,15 @@
     "ok": true
    },
    "is_new": false,
-   "streak_days": 2,
+   "streak_days": 3,
    "source_name": "실측"
   },
   {
    "id": "3d529cd44b46e3ea",
    "title": "○ Our World in Data",
    "url": "https://ourworldindata.org/",
-   "published_at": "2026-09-20",
-   "summary": "정상 · 167ms · 168,862B · 키 none",
+   "published_at": "2026-09-21",
+   "summary": "정상 · 579ms · 168,862B · 키 none",
    "tags": [
     "소스 상태",
     "csv"
@@ -38,15 +38,15 @@
     "ok": true
    },
    "is_new": false,
-   "streak_days": 2,
+   "streak_days": 3,
    "source_name": "실측"
   },
   {
    "id": "741f5c321e75223a",
    "title": "○ World Bank",
    "url": "https://data.worldbank.org/",
-   "published_at": "2026-09-20",
-   "summary": "정상 · 122ms · 290B · 키 none",
+   "published_at": "2026-09-21",
+   "summary": "정상 · 212ms · 290B · 키 none",
    "tags": [
     "소스 상태",
     "json"
@@ -55,15 +55,15 @@
     "ok": true
    },
    "is_new": false,
-   "streak_days": 2,
+   "streak_days": 3,
    "source_name": "실측"
   },
   {
    "id": "d2f8c78c516af3af",
    "title": "○ Frankfurter (환율)",
    "url": "https://frankfurter.dev/",
-   "published_at": "2026-09-20",
-   "summary": "정상 · 34ms · 70B · 키 none",
+   "published_at": "2026-09-21",
+   "summary": "정상 · 26ms · 70B · 키 none",
    "tags": [
     "소스 상태",
     "json"
@@ -72,15 +72,15 @@
     "ok": true
    },
    "is_new": false,
-   "streak_days": 2,
+   "streak_days": 3,
    "source_name": "실측"
   },
   {
    "id": "c7ca59c4cc86397a",
    "title": "○ USGS (지진)",
    "url": "https://earthquake.usgs.gov/earthquakes/map/",
-   "published_at": "2026-09-20",
-   "summary": "정상 · 405ms · 921B · 키 none",
+   "published_at": "2026-09-21",
+   "summary": "정상 · 60ms · 938B · 키 none",
    "tags": [
     "소스 상태",
     "json"
@@ -89,15 +89,15 @@
     "ok": true
    },
    "is_new": false,
-   "streak_days": 2,
+   "streak_days": 3,
    "source_name": "실측"
   },
   {
    "id": "0a85d032f7c175da",
    "title": "○ Nager.Date (공휴일)",
    "url": "https://date.nager.at/PublicHoliday/Country/KR",
-   "published_at": "2026-09-20",
-   "summary": "정상 · 150ms · 3,062B · 키 none",
+   "published_at": "2026-09-21",
+   "summary": "정상 · 177ms · 3,062B · 키 none",
    "tags": [
     "소스 상태",
     "json"
@@ -106,7 +106,7 @@
     "ok": true
    },
    "is_new": false,
-   "streak_days": 2,
+   "streak_days": 3,
    "source_name": "실측"
   },
   {
@@ -114,15 +114,15 @@
    "title": "09/24 추석",
    "url": "https://date.nager.at/PublicHoliday/Country/KR",
    "published_at": "2026-09-24",
-   "summary": "5일 뒤 · 목요일",
+   "summary": "4일 뒤 · 목요일",
    "tags": [
     "공휴일"
    ],
    "metrics": {
-    "days_left": 5
+    "days_left": 4
    },
    "is_new": false,
-   "streak_days": 2,
+   "streak_days": 3,
    "source_name": "Nager.Date"
   },
   {
@@ -130,15 +130,15 @@
    "title": "09/25 추석",
    "url": "https://date.nager.at/PublicHoliday/Country/KR",
    "published_at": "2026-09-25",
-   "summary": "6일 뒤 · 금요일",
+   "summary": "5일 뒤 · 금요일",
    "tags": [
     "공휴일"
    ],
    "metrics": {
-    "days_left": 6
+    "days_left": 5
    },
    "is_new": false,
-   "streak_days": 2,
+   "streak_days": 3,
    "source_name": "Nager.Date"
   },
   {
@@ -146,31 +146,31 @@
    "title": "09/26 추석",
    "url": "https://date.nager.at/PublicHoliday/Country/KR",
    "published_at": "2026-09-26",
-   "summary": "7일 뒤 · 토요일",
+   "summary": "6일 뒤 · 토요일",
    "tags": [
     "공휴일"
    ],
    "metrics": {
-    "days_left": 7
+    "days_left": 6
    },
    "is_new": false,
-   "streak_days": 2,
+   "streak_days": 3,
    "source_name": "Nager.Date"
   },
   {
    "id": "be0286b6201a8c1f",
    "title": "세계 지진 (USGS, 7일)",
    "url": "https://earthquake.usgs.gov/earthquakes/map/",
-   "published_at": "2026-09-20",
-   "summary": "이번 주 규모 4.5 이상 100건 · 최대 M6.5 169 km W of Nikolski, Alaska",
+   "published_at": "2026-09-21",
+   "summary": "이번 주 규모 4.5 이상 110건 · 최대 M6.5 169 km W of Nikolski, Alaska",
    "tags": [
     "지진"
    ],
    "metrics": {
-    "count": 100
+    "count": 110
    },
    "is_new": false,
-   "streak_days": 2,
+   "streak_days": 3,
    "source_name": "USGS"
   }
  ],

@@ -1,6 +1,6 @@
 {
- "built_at": "2026-09-20T08:14:08+09:00",
- "date": "2026-09-20",
+ "built_at": "2026-09-21T08:18:37+09:00",
+ "date": "2026-09-21",
  "site": {
   "title": "모닝브리프",
   "locations": [
@@ -55,7 +55,7 @@
    "count": 7,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-09-20T08:13:33+09:00",
+   "fetched_at": "2026-09-21T08:18:10+09:00",
    "repeat_ratio": 0.857
   },
   "fx": {
@@ -63,7 +63,7 @@
    "count": 3,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-09-20T08:13:33+09:00",
+   "fetched_at": "2026-09-21T08:18:10+09:00",
    "repeat_ratio": 1.0
   },
   "news": {
@@ -71,15 +71,15 @@
    "count": 135,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-09-20T08:13:45+09:00",
-   "repeat_ratio": 0.007
+   "fetched_at": "2026-09-21T08:18:19+09:00",
+   "repeat_ratio": 0.0
   },
   "markets": {
    "level": "ok",
    "count": 5,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-09-20T08:13:46+09:00",
+   "fetched_at": "2026-09-21T08:18:19+09:00",
    "repeat_ratio": 1.0
   },
   "crypto": {
@@ -87,110 +87,108 @@
    "count": 10,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-09-20T08:13:51+09:00",
+   "fetched_at": "2026-09-21T08:18:22+09:00",
    "repeat_ratio": 1.0
   },
   "realestate": {
    "level": "warn",
-   "count": 30,
+   "count": 28,
    "warn": [
     "LH·온비드 공공데이터 API: 키 없음(DATA_GO_KR_KEY) — 뉴스·바로가기만",
-    "어제와 동일 73%"
+    "어제와 동일 46%"
    ],
    "block": [],
-   "fetched_at": "2026-09-20T08:13:56+09:00",
-   "repeat_ratio": 0.733
+   "fetched_at": "2026-09-21T08:18:26+09:00",
+   "repeat_ratio": 0.464
   },
   "it": {
-   "level": "warn",
+   "level": "ok",
    "count": 60,
-   "warn": [
-    "어제와 동일 62%"
-   ],
+   "warn": [],
    "block": [],
-   "fetched_at": "2026-09-20T08:13:59+09:00",
-   "repeat_ratio": 0.617
+   "fetched_at": "2026-09-21T08:18:29+09:00",
+   "repeat_ratio": 0.0
   },
   "auto": {
    "level": "warn",
    "count": 60,
    "warn": [
-    "어제와 동일 100%"
+    "어제와 동일 95%"
    ],
    "block": [],
-   "fetched_at": "2026-09-20T08:14:03+09:00",
-   "repeat_ratio": 1.0
+   "fetched_at": "2026-09-21T08:18:33+09:00",
+   "repeat_ratio": 0.95
   },
   "publicdata": {
    "level": "ok",
    "count": 10,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-09-20T08:14:05+09:00",
+   "fetched_at": "2026-09-21T08:18:34+09:00",
    "repeat_ratio": 1.0
   },
   "leisure": {
    "level": "warn",
-   "count": 30,
+   "count": 29,
    "warn": [
     "고캠핑 API: 키 없음(DATA_GO_KR_KEY)",
-    "어제와 동일 100%"
+    "어제와 동일 69%"
    ],
    "block": [],
-   "fetched_at": "2026-09-20T08:14:08+09:00",
-   "repeat_ratio": 1.0
+   "fetched_at": "2026-09-21T08:18:37+09:00",
+   "repeat_ratio": 0.69
   }
  },
  "must_know": [
   {
    "module": "news",
    "item_ids": [
-    "fe6648b0894a9ff1"
+    "742a7e9e5601c84e"
    ],
-   "title": "뉴욕 증시, 국채 금리 상승·반도체주 강세에 혼조 마감 - YTN",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBKVFNlckFHNE1RVmdqWWJmVXl4N1lLMkFOU1l2V2t3bFFMWUttRlJYQVVGRGxCcThBUXBGVFlkckJSMjhub3l3Vm50dkRra1lRQ1B4T05LS1NqLXR1dHc?oc=5",
-   "why": "매체 1곳 · IT·경제·신기술",
-   "score": 10
-  },
-  {
-   "module": "news",
-   "item_ids": [
-    "b3f052b91ab5e4e9"
-   ],
-   "title": "“AI, 경제 성장시키고 사람 몫 줄일 것” … 앤트로픽의 섬뜩한 경고",
-   "url": "https://www.mk.co.kr/news/economy/12156627",
+   "title": "미·중, 뉴욕서 무역협상 개시…트럼프-시진핑 정상회담 사전 조율 - 뉴스핌",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5BRUdSSHdTcnlIS0lEOTdNVXRIQWFOc3MwV3NLTXZrazBSX1RJQkxvTGNoamRjN3ROWFlQRFBXYkdyanRkMjRSWUxqUS1Kd25KeU1MYTRBd1pyTWZy?oc=5",
    "why": "매체 1곳 · AI·IT·경제",
    "score": 10
   },
   {
    "module": "news",
    "item_ids": [
-    "7d386694b79a6c06"
+    "5cdfccf7c7807e5b"
    ],
-   "title": "지브리 프사·숙제 대행에 지친 AI…‘인간다움’ 묻자 답했다 [Book]",
-   "url": "https://www.mk.co.kr/news/culture/12157252",
+   "title": "사흘만 장 열리는 코스피…미중 정상회담·미 금리 ‘촉각’",
+   "url": "https://www.mk.co.kr/news/stock/12157738",
    "why": "매체 1곳 · AI·IT·경제",
    "score": 10
   },
   {
    "module": "news",
    "item_ids": [
-    "aadf72a854a88dd1"
+    "65826f2886ab879e"
    ],
-   "title": "‘연 1.5%로 5억원 대출’ 삼성맨 집 사러 나섰나…동탄·영통 ‘반세권’ 들썩",
-   "url": "https://www.mk.co.kr/news/realestate/12157259",
-   "why": "매체 1곳 · IT·경제",
+   "title": "서울 아파트 전세난 심화…성북·노원·강북 등 외곽 '10억 전세' 속출 - v.daum.net",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB6Y01MQ04xM0w2YzhqaEd0b3VxcExhTGJ2ZTRlekZzeXR1OERTcVhVUTM0ejFkaERKbTl3N19zVHFveEZXbHZPX3hMVUlxcWs?oc=5",
+   "why": "매체 1곳 · 경제·부동산",
    "score": 8
   },
   {
-   "module": "crypto",
+   "module": "news",
    "item_ids": [
-    "f6b18db9a4f56551"
+    "80c146069b99df3a"
    ],
-   "title": "Zcash (ZEC) ₩2,053,338",
-   "url": "https://www.coingecko.com/en/coins/zcash",
-   "why": "큰 변동 · 24시간 -5.39% · 7일 +31.60% · 시총 9위 · 이슈: 지캐시(ZEC) ETF, 주간 자금 유입 1위 돌풍...\"비트 코인 ·이",
-   "score": 0
+   "title": "전국 높고 푸른 가을 날씨···낮과 밤 일교차에 건강 유의",
+   "url": "https://www.khan.co.kr/article/202609210718001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "why": "매체 2곳",
+   "score": 7
+  },
+  {
+   "module": "news",
+   "item_ids": [
+    "80f1270f2722c28a"
+   ],
+   "title": "트럼프 ‘결정 모드’…“이란 쓸어버리거나 경제적 고사시키거나 합의”",
+   "url": "https://www.hani.co.kr/arti/international/america/1278760.html",
+   "why": "매체 1곳 · 경제·국제",
+   "score": 6
   }
  ],
  "banned_hits": 0
