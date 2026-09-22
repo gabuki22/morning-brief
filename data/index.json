@@ -1,6 +1,6 @@
 {
- "built_at": "2026-09-21T08:18:37+09:00",
- "date": "2026-09-21",
+ "built_at": "2026-09-22T09:11:12+09:00",
+ "date": "2026-09-22",
  "site": {
   "title": "모닝브리프",
   "locations": [
@@ -55,7 +55,7 @@
    "count": 7,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-09-21T08:18:10+09:00",
+   "fetched_at": "2026-09-22T09:10:42+09:00",
    "repeat_ratio": 0.857
   },
   "fx": {
@@ -63,7 +63,7 @@
    "count": 3,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-09-21T08:18:10+09:00",
+   "fetched_at": "2026-09-22T09:10:42+09:00",
    "repeat_ratio": 1.0
   },
   "news": {
@@ -71,7 +71,7 @@
    "count": 135,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-09-21T08:18:19+09:00",
+   "fetched_at": "2026-09-22T09:10:52+09:00",
    "repeat_ratio": 0.0
   },
   "markets": {
@@ -79,7 +79,7 @@
    "count": 5,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-09-21T08:18:19+09:00",
+   "fetched_at": "2026-09-22T09:10:52+09:00",
    "repeat_ratio": 1.0
   },
   "crypto": {
@@ -87,108 +87,108 @@
    "count": 10,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-09-21T08:18:22+09:00",
+   "fetched_at": "2026-09-22T09:10:56+09:00",
    "repeat_ratio": 1.0
   },
   "realestate": {
    "level": "warn",
-   "count": 28,
+   "count": 31,
    "warn": [
-    "LH·온비드 공공데이터 API: 키 없음(DATA_GO_KR_KEY) — 뉴스·바로가기만",
-    "어제와 동일 46%"
+    "LH·온비드 공공데이터 API: 키 없음(DATA_GO_KR_KEY) — 뉴스·바로가기만"
    ],
    "block": [],
-   "fetched_at": "2026-09-21T08:18:26+09:00",
-   "repeat_ratio": 0.464
+   "fetched_at": "2026-09-22T09:11:01+09:00",
+   "repeat_ratio": 0.097
   },
   "it": {
    "level": "ok",
    "count": 60,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-09-21T08:18:29+09:00",
+   "fetched_at": "2026-09-22T09:11:03+09:00",
    "repeat_ratio": 0.0
   },
   "auto": {
    "level": "warn",
    "count": 60,
    "warn": [
-    "어제와 동일 95%"
+    "어제와 동일 67%"
    ],
    "block": [],
-   "fetched_at": "2026-09-21T08:18:33+09:00",
-   "repeat_ratio": 0.95
+   "fetched_at": "2026-09-22T09:11:06+09:00",
+   "repeat_ratio": 0.667
   },
   "publicdata": {
    "level": "ok",
    "count": 10,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-09-21T08:18:34+09:00",
+   "fetched_at": "2026-09-22T09:11:09+09:00",
    "repeat_ratio": 1.0
   },
   "leisure": {
    "level": "warn",
-   "count": 29,
+   "count": 30,
    "warn": [
     "고캠핑 API: 키 없음(DATA_GO_KR_KEY)",
-    "어제와 동일 69%"
+    "링크 확인 실패 1/3",
+    "어제와 동일 33%"
    ],
    "block": [],
-   "fetched_at": "2026-09-21T08:18:37+09:00",
-   "repeat_ratio": 0.69
+   "fetched_at": "2026-09-22T09:11:12+09:00",
+   "repeat_ratio": 0.333
   }
  },
  "must_know": [
   {
    "module": "news",
    "item_ids": [
-    "742a7e9e5601c84e"
+    "1ed275f66e70413e"
    ],
-   "title": "미·중, 뉴욕서 무역협상 개시…트럼프-시진핑 정상회담 사전 조율 - 뉴스핌",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5BRUdSSHdTcnlIS0lEOTdNVXRIQWFOc3MwV3NLTXZrazBSX1RJQkxvTGNoamRjN3ROWFlQRFBXYkdyanRkMjRSWUxqUS1Kd25KeU1MYTRBd1pyTWZy?oc=5",
-   "why": "매체 1곳 · AI·IT·경제",
+   "title": "[속보] 이 대통령, 강신철·이형일·홍지선 장관 임명안 재가",
+   "url": "https://www.hani.co.kr/arti/politics/bluehouse/1278976.html",
+   "why": "매체 7곳 · 경제·국제·정치",
+   "score": 20
+  },
+  {
+   "module": "news",
+   "item_ids": [
+    "176bde7d502a09b1"
+   ],
+   "title": "\"세라 언니 파이팅!\"'AI가 만는 것처럼 완벽' 외신도 놀란 '고윤정 닮은꼴' 韓 펜싱 국대의 대박 비주얼...女에페 22일 개인전 金 도전!",
+   "url": "https://www.chosun.com/sports/sports_general/2026/09/22/GI4WMMJZGM3DMMBYGQ2GGZJVG4/",
+   "why": "매체 1곳 · AI·IT·부동산",
    "score": 10
   },
   {
    "module": "news",
    "item_ids": [
-    "5cdfccf7c7807e5b"
+    "61430f987af9bfe4"
    ],
-   "title": "사흘만 장 열리는 코스피…미중 정상회담·미 금리 ‘촉각’",
-   "url": "https://www.mk.co.kr/news/stock/12157738",
-   "why": "매체 1곳 · AI·IT·경제",
-   "score": 10
-  },
-  {
-   "module": "news",
-   "item_ids": [
-    "65826f2886ab879e"
-   ],
-   "title": "서울 아파트 전세난 심화…성북·노원·강북 등 외곽 '10억 전세' 속출 - v.daum.net",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB6Y01MQ04xM0w2YzhqaEd0b3VxcExhTGJ2ZTRlekZzeXR1OERTcVhVUTM0ejFkaERKbTl3N19zVHFveEZXbHZPX3hMVUlxcWs?oc=5",
-   "why": "매체 1곳 · 경제·부동산",
+   "title": "미중 정상회담 앞두고 휴전 연장 '줄다리기'…NYT \"美, 6개월 제시\" - 뉴스핌",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE81aF84R25rbDhVRVVUTjNJdm81MUFjcHdTaXZTWnVpSjBkV0RUSkd3VzFlRlQzRFA3WWZ6anI0eU1kbjZsUEFHZ1pEVmlOQWFXRFJFNXJRWFZ1Ym8w?oc=5",
+   "why": "매체 1곳 · AI·IT·국제",
    "score": 8
   },
   {
    "module": "news",
    "item_ids": [
-    "80c146069b99df3a"
+    "5c8637356a1f8f79"
    ],
-   "title": "전국 높고 푸른 가을 날씨···낮과 밤 일교차에 건강 유의",
-   "url": "https://www.khan.co.kr/article/202609210718001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-   "why": "매체 2곳",
-   "score": 7
+   "title": "농사 안짓는 고령·상속농지, 투기 아니면 안팔아도 된다 - hankyung.com",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wVUk0T0JieG1TVE9EQXVDcE15LW91clJwb0ZKUmtiTVJiU0FlQmVYVjZEdnJIWnA4akl3YnZENU1PVXNMZTVzOVdPZGJJYTBqZVFESFh3TDdPQQ?oc=5",
+   "why": "매체 1곳 · 경제",
+   "score": 6
   },
   {
-   "module": "news",
+   "module": "crypto",
    "item_ids": [
-    "80f1270f2722c28a"
+    "a73d767e1f056bc6"
    ],
-   "title": "트럼프 ‘결정 모드’…“이란 쓸어버리거나 경제적 고사시키거나 합의”",
-   "url": "https://www.hani.co.kr/arti/international/america/1278760.html",
-   "why": "매체 1곳 · 경제·국제",
-   "score": 6
+   "title": "XRP (XRP) ₩2,103",
+   "url": "https://www.coingecko.com/en/coins/ripple",
+   "why": "큰 변동 · 24시간 +6.75% · 7일 +7.00% · 시총 5위 · 이슈: 비트 코인 8개월 만에 8.6만달러 넘었다 [ 코인 모닝콜]",
+   "score": 0
   }
  ],
  "banned_hits": 0
