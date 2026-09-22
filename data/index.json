@@ -1,6 +1,6 @@
 {
- "built_at": "2026-09-22T09:11:12+09:00",
- "date": "2026-09-22",
+ "built_at": "2026-09-23T08:38:24+09:00",
+ "date": "2026-09-23",
  "site": {
   "title": "모닝브리프",
   "locations": [
@@ -55,7 +55,7 @@
    "count": 7,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-09-22T09:10:42+09:00",
+   "fetched_at": "2026-09-23T08:37:48+09:00",
    "repeat_ratio": 0.857
   },
   "fx": {
@@ -63,7 +63,7 @@
    "count": 3,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-09-22T09:10:42+09:00",
+   "fetched_at": "2026-09-23T08:37:49+09:00",
    "repeat_ratio": 1.0
   },
   "news": {
@@ -71,7 +71,7 @@
    "count": 135,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-09-22T09:10:52+09:00",
+   "fetched_at": "2026-09-23T08:38:01+09:00",
    "repeat_ratio": 0.0
   },
   "markets": {
@@ -79,7 +79,7 @@
    "count": 5,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-09-22T09:10:52+09:00",
+   "fetched_at": "2026-09-23T08:38:02+09:00",
    "repeat_ratio": 1.0
   },
   "crypto": {
@@ -87,43 +87,43 @@
    "count": 10,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-09-22T09:10:56+09:00",
+   "fetched_at": "2026-09-23T08:38:06+09:00",
    "repeat_ratio": 1.0
   },
   "realestate": {
    "level": "warn",
-   "count": 31,
+   "count": 24,
    "warn": [
     "LH·온비드 공공데이터 API: 키 없음(DATA_GO_KR_KEY) — 뉴스·바로가기만"
    ],
    "block": [],
-   "fetched_at": "2026-09-22T09:11:01+09:00",
-   "repeat_ratio": 0.097
+   "fetched_at": "2026-09-23T08:38:12+09:00",
+   "repeat_ratio": 0.125
   },
   "it": {
    "level": "ok",
    "count": 60,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-09-22T09:11:03+09:00",
+   "fetched_at": "2026-09-23T08:38:15+09:00",
    "repeat_ratio": 0.0
   },
   "auto": {
    "level": "warn",
    "count": 60,
    "warn": [
-    "어제와 동일 67%"
+    "어제와 동일 68%"
    ],
    "block": [],
-   "fetched_at": "2026-09-22T09:11:06+09:00",
-   "repeat_ratio": 0.667
+   "fetched_at": "2026-09-23T08:38:19+09:00",
+   "repeat_ratio": 0.683
   },
   "publicdata": {
    "level": "ok",
    "count": 10,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-09-22T09:11:09+09:00",
+   "fetched_at": "2026-09-23T08:38:21+09:00",
    "repeat_ratio": 1.0
   },
   "leisure": {
@@ -132,62 +132,62 @@
    "warn": [
     "고캠핑 API: 키 없음(DATA_GO_KR_KEY)",
     "링크 확인 실패 1/3",
-    "어제와 동일 33%"
+    "어제와 동일 37%"
    ],
    "block": [],
-   "fetched_at": "2026-09-22T09:11:12+09:00",
-   "repeat_ratio": 0.333
+   "fetched_at": "2026-09-23T08:38:24+09:00",
+   "repeat_ratio": 0.367
   }
  },
  "must_know": [
   {
    "module": "news",
    "item_ids": [
-    "1ed275f66e70413e"
+    "89ba3cd4aaf2cb48"
    ],
-   "title": "[속보] 이 대통령, 강신철·이형일·홍지선 장관 임명안 재가",
-   "url": "https://www.hani.co.kr/arti/politics/bluehouse/1278976.html",
-   "why": "매체 7곳 · 경제·국제·정치",
-   "score": 20
-  },
-  {
-   "module": "news",
-   "item_ids": [
-    "176bde7d502a09b1"
-   ],
-   "title": "\"세라 언니 파이팅!\"'AI가 만는 것처럼 완벽' 외신도 놀란 '고윤정 닮은꼴' 韓 펜싱 국대의 대박 비주얼...女에페 22일 개인전 金 도전!",
-   "url": "https://www.chosun.com/sports/sports_general/2026/09/22/GI4WMMJZGM3DMMBYGQ2GGZJVG4/",
-   "why": "매체 1곳 · AI·IT·부동산",
+   "title": "[알립니다]워코노미 시대: AI·안보·에너지가 만드는 새로운 질서",
+   "url": "https://www.donga.com/news/Economy/article/all/20260923/134723646/2",
+   "why": "매체 1곳 · AI·IT·경제",
    "score": 10
   },
   {
    "module": "news",
    "item_ids": [
-    "61430f987af9bfe4"
+    "bf9206cb9ee4333b"
    ],
-   "title": "미중 정상회담 앞두고 휴전 연장 '줄다리기'…NYT \"美, 6개월 제시\" - 뉴스핌",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE81aF84R25rbDhVRVVUTjNJdm81MUFjcHdTaXZTWnVpSjBkV0RUSkd3VzFlRlQzRFA3WWZ6anI0eU1kbjZsUEFHZ1pEVmlOQWFXRFJFNXJRWFZ1Ym8w?oc=5",
-   "why": "매체 1곳 · AI·IT·국제",
-   "score": 8
+   "title": "中 시진핑 오늘 출국, 트럼프 공항 영접·B-2 전투기 '최고 예우' - 뉴스핌",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9feDM2NEN5UmpOaUhiYlFpSVV2LU5oTk8xWUFuS3lrUjZObGNUSnBoejRnSkJjMElyMWxEN1dBNzVyM0tSYTluaGNYUG1UY1owWUZlYm5tM2NMekRB?oc=5",
+   "why": "매체 1곳 · AI·IT·경제",
+   "score": 10
   },
   {
    "module": "news",
    "item_ids": [
-    "5c8637356a1f8f79"
+    "70475ed8bba7a212"
    ],
-   "title": "농사 안짓는 고령·상속농지, 투기 아니면 안팔아도 된다 - hankyung.com",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wVUk0T0JieG1TVE9EQXVDcE15LW91clJwb0ZKUmtiTVJiU0FlQmVYVjZEdnJIWnA4akl3YnZENU1PVXNMZTVzOVdPZGJJYTBqZVFESFh3TDdPQQ?oc=5",
-   "why": "매체 1곳 · 경제",
-   "score": 6
+   "title": "[속보] 靑, 조희대 '재제청 거부'에 \"권한쟁의심판 청구 검토 안해\"",
+   "url": "https://www.hankyung.com/article/2026092323507",
+   "why": "매체 4곳 · 사회·정치",
+   "score": 9
+  },
+  {
+   "module": "news",
+   "item_ids": [
+    "0b672a5ac24b48e9"
+   ],
+   "title": "매경이 전하는 세상의 지식 (매-세-지, 9월 23일)",
+   "url": "https://www.mk.co.kr/news/society/12159558",
+   "why": "매체 1곳 · 경제·부동산",
+   "score": 8
   },
   {
    "module": "crypto",
    "item_ids": [
-    "a73d767e1f056bc6"
+    "f6b18db9a4f56551"
    ],
-   "title": "XRP (XRP) ₩2,103",
-   "url": "https://www.coingecko.com/en/coins/ripple",
-   "why": "큰 변동 · 24시간 +6.75% · 7일 +7.00% · 시총 5위 · 이슈: 비트 코인 8개월 만에 8.6만달러 넘었다 [ 코인 모닝콜]",
+   "title": "Zcash (ZEC) ₩2,215,111",
+   "url": "https://www.coingecko.com/en/coins/zcash",
+   "why": "큰 변동 · 24시간 +9.58% · 7일 +40.11% · 시총 9위 · 이슈: 암호화폐 \"과거 성공 공식 집착하면 '실패'...비트 코인 중심 '방어'",
    "score": 0
   }
  ],
