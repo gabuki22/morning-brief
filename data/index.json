@@ -1,6 +1,6 @@
 {
- "built_at": "2026-09-23T08:38:24+09:00",
- "date": "2026-09-23",
+ "built_at": "2026-09-24T08:47:17+09:00",
+ "date": "2026-09-24",
  "site": {
   "title": "모닝브리프",
   "locations": [
@@ -51,27 +51,32 @@
  },
  "modules": {
   "weather": {
-   "level": "ok",
-   "count": 7,
+   "level": "block",
+   "count": 0,
    "warn": [],
-   "block": [],
-   "fetched_at": "2026-09-23T08:37:48+09:00",
-   "repeat_ratio": 0.857
+   "block": [
+    "수집 실패: HTTPError: HTTP Error 500: Internal Server Error",
+    "항목 0건"
+   ],
+   "fetched_at": "2026-09-24T08:46:43+09:00",
+   "repeat_ratio": 0.0
   },
   "fx": {
    "level": "ok",
    "count": 3,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-09-23T08:37:49+09:00",
+   "fetched_at": "2026-09-24T08:46:43+09:00",
    "repeat_ratio": 1.0
   },
   "news": {
-   "level": "ok",
-   "count": 135,
-   "warn": [],
+   "level": "warn",
+   "count": 120,
+   "warn": [
+    "SBS 실패: HTTPError"
+   ],
    "block": [],
-   "fetched_at": "2026-09-23T08:38:01+09:00",
+   "fetched_at": "2026-09-24T08:46:54+09:00",
    "repeat_ratio": 0.0
   },
   "markets": {
@@ -79,7 +84,7 @@
    "count": 5,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-09-23T08:38:02+09:00",
+   "fetched_at": "2026-09-24T08:46:54+09:00",
    "repeat_ratio": 1.0
   },
   "crypto": {
@@ -87,43 +92,43 @@
    "count": 10,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-09-23T08:38:06+09:00",
+   "fetched_at": "2026-09-24T08:47:00+09:00",
    "repeat_ratio": 1.0
   },
   "realestate": {
    "level": "warn",
-   "count": 24,
+   "count": 25,
    "warn": [
     "LH·온비드 공공데이터 API: 키 없음(DATA_GO_KR_KEY) — 뉴스·바로가기만"
    ],
    "block": [],
-   "fetched_at": "2026-09-23T08:38:12+09:00",
-   "repeat_ratio": 0.125
+   "fetched_at": "2026-09-24T08:47:05+09:00",
+   "repeat_ratio": 0.12
   },
   "it": {
    "level": "ok",
    "count": 60,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-09-23T08:38:15+09:00",
+   "fetched_at": "2026-09-24T08:47:08+09:00",
    "repeat_ratio": 0.0
   },
   "auto": {
    "level": "warn",
    "count": 60,
    "warn": [
-    "어제와 동일 68%"
+    "어제와 동일 65%"
    ],
    "block": [],
-   "fetched_at": "2026-09-23T08:38:19+09:00",
-   "repeat_ratio": 0.683
+   "fetched_at": "2026-09-24T08:47:12+09:00",
+   "repeat_ratio": 0.65
   },
   "publicdata": {
    "level": "ok",
    "count": 10,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-09-23T08:38:21+09:00",
+   "fetched_at": "2026-09-24T08:47:13+09:00",
    "repeat_ratio": 1.0
   },
   "leisure": {
@@ -132,62 +137,62 @@
    "warn": [
     "고캠핑 API: 키 없음(DATA_GO_KR_KEY)",
     "링크 확인 실패 1/3",
-    "어제와 동일 37%"
+    "어제와 동일 57%"
    ],
    "block": [],
-   "fetched_at": "2026-09-23T08:38:24+09:00",
-   "repeat_ratio": 0.367
+   "fetched_at": "2026-09-24T08:47:17+09:00",
+   "repeat_ratio": 0.567
   }
  },
  "must_know": [
   {
    "module": "news",
    "item_ids": [
-    "89ba3cd4aaf2cb48"
+    "7a3e64dac71a318b"
    ],
-   "title": "[알립니다]워코노미 시대: AI·안보·에너지가 만드는 새로운 질서",
-   "url": "https://www.donga.com/news/Economy/article/all/20260923/134723646/2",
+   "title": "3만 명 자를 때는 언제고, 돌아와줘…해고자들에 구애하는 아마존, 왜?",
+   "url": "https://www.mk.co.kr/news/world/12160794",
    "why": "매체 1곳 · AI·IT·경제",
    "score": 10
   },
   {
    "module": "news",
    "item_ids": [
-    "bf9206cb9ee4333b"
+    "cc33cfbf296bd6ac"
    ],
-   "title": "中 시진핑 오늘 출국, 트럼프 공항 영접·B-2 전투기 '최고 예우' - 뉴스핌",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9feDM2NEN5UmpOaUhiYlFpSVV2LU5oTk8xWUFuS3lrUjZObGNUSnBoejRnSkJjMElyMWxEN1dBNzVyM0tSYTluaGNYUG1UY1owWUZlYm5tM2NMekRB?oc=5",
-   "why": "매체 1곳 · AI·IT·경제",
-   "score": 10
-  },
-  {
-   "module": "news",
-   "item_ids": [
-    "70475ed8bba7a212"
-   ],
-   "title": "[속보] 靑, 조희대 '재제청 거부'에 \"권한쟁의심판 청구 검토 안해\"",
-   "url": "https://www.hankyung.com/article/2026092323507",
-   "why": "매체 4곳 · 사회·정치",
-   "score": 9
-  },
-  {
-   "module": "news",
-   "item_ids": [
-    "0b672a5ac24b48e9"
-   ],
-   "title": "매경이 전하는 세상의 지식 (매-세-지, 9월 23일)",
-   "url": "https://www.mk.co.kr/news/society/12159558",
-   "why": "매체 1곳 · 경제·부동산",
+   "title": "‘태움 피해’ 호소하다 숨진 간호사…병원, 113일 만에 사과",
+   "url": "https://www.khan.co.kr/article/202609232104001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "why": "매체 1곳 · AI·IT·사회",
    "score": 8
+  },
+  {
+   "module": "news",
+   "item_ids": [
+    "7de1f769ed3f8e66"
+   ],
+   "title": "관세·반도체 협상 어떻게 되나…미중 정상회담 투자자 관전 포인트",
+   "url": "https://www.hankyung.com/article/202609233801i",
+   "why": "매체 1곳 · IT·신기술",
+   "score": 8
+  },
+  {
+   "module": "news",
+   "item_ids": [
+    "eb98158e9dbeec01"
+   ],
+   "title": "젤렌스키 “북한군 포로 2명 한국에 보냈다”…유엔서 공개",
+   "url": "https://www.donga.com/news/Inter/article/all/20260924/134730854/1",
+   "why": "매체 3곳 · 국제·정치",
+   "score": 6
   },
   {
    "module": "crypto",
    "item_ids": [
     "f6b18db9a4f56551"
    ],
-   "title": "Zcash (ZEC) ₩2,215,111",
+   "title": "Zcash (ZEC) ₩2,041,227",
    "url": "https://www.coingecko.com/en/coins/zcash",
-   "why": "큰 변동 · 24시간 +9.58% · 7일 +40.11% · 시총 9위 · 이슈: 암호화폐 \"과거 성공 공식 집착하면 '실패'...비트 코인 중심 '방어'",
+   "why": "큰 변동 · 24시간 -7.90% · 7일 +13.15% · 시총 9위 · 이슈: [모닝 뉴스브리핑] XRP 지갑 6678개서 2000만달러 유출 外",
    "score": 0
   }
  ],
