@@ -1,6 +1,6 @@
 {
- "built_at": "2026-09-24T08:47:17+09:00",
- "date": "2026-09-24",
+ "built_at": "2026-09-25T08:55:00+09:00",
+ "date": "2026-09-25",
  "site": {
   "title": "모닝브리프",
   "locations": [
@@ -51,14 +51,11 @@
  },
  "modules": {
   "weather": {
-   "level": "block",
-   "count": 0,
+   "level": "ok",
+   "count": 7,
    "warn": [],
-   "block": [
-    "수집 실패: HTTPError: HTTP Error 500: Internal Server Error",
-    "항목 0건"
-   ],
-   "fetched_at": "2026-09-24T08:46:43+09:00",
+   "block": [],
+   "fetched_at": "2026-09-25T08:54:27+09:00",
    "repeat_ratio": 0.0
   },
   "fx": {
@@ -66,17 +63,15 @@
    "count": 3,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-09-24T08:46:43+09:00",
+   "fetched_at": "2026-09-25T08:54:27+09:00",
    "repeat_ratio": 1.0
   },
   "news": {
-   "level": "warn",
-   "count": 120,
-   "warn": [
-    "SBS 실패: HTTPError"
-   ],
+   "level": "ok",
+   "count": 135,
+   "warn": [],
    "block": [],
-   "fetched_at": "2026-09-24T08:46:54+09:00",
+   "fetched_at": "2026-09-25T08:54:38+09:00",
    "repeat_ratio": 0.0
   },
   "markets": {
@@ -84,7 +79,7 @@
    "count": 5,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-09-24T08:46:54+09:00",
+   "fetched_at": "2026-09-25T08:54:39+09:00",
    "repeat_ratio": 1.0
   },
   "crypto": {
@@ -92,108 +87,108 @@
    "count": 10,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-09-24T08:47:00+09:00",
+   "fetched_at": "2026-09-25T08:54:42+09:00",
    "repeat_ratio": 1.0
   },
   "realestate": {
    "level": "warn",
-   "count": 25,
+   "count": 33,
    "warn": [
-    "LH·온비드 공공데이터 API: 키 없음(DATA_GO_KR_KEY) — 뉴스·바로가기만"
+    "LH·온비드 공공데이터 API: 키 없음(DATA_GO_KR_KEY) — 뉴스·바로가기만",
+    "어제와 동일 36%"
    ],
    "block": [],
-   "fetched_at": "2026-09-24T08:47:05+09:00",
-   "repeat_ratio": 0.12
+   "fetched_at": "2026-09-25T08:54:47+09:00",
+   "repeat_ratio": 0.364
   },
   "it": {
    "level": "ok",
    "count": 60,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-09-24T08:47:08+09:00",
-   "repeat_ratio": 0.0
+   "fetched_at": "2026-09-25T08:54:50+09:00",
+   "repeat_ratio": 0.033
   },
   "auto": {
    "level": "warn",
    "count": 60,
    "warn": [
-    "어제와 동일 65%"
+    "어제와 동일 85%"
    ],
    "block": [],
-   "fetched_at": "2026-09-24T08:47:12+09:00",
-   "repeat_ratio": 0.65
+   "fetched_at": "2026-09-25T08:54:55+09:00",
+   "repeat_ratio": 0.85
   },
   "publicdata": {
    "level": "ok",
    "count": 10,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-09-24T08:47:13+09:00",
-   "repeat_ratio": 1.0
+   "fetched_at": "2026-09-25T08:54:57+09:00",
+   "repeat_ratio": 0.9
   },
   "leisure": {
    "level": "warn",
    "count": 30,
    "warn": [
     "고캠핑 API: 키 없음(DATA_GO_KR_KEY)",
-    "링크 확인 실패 1/3",
-    "어제와 동일 57%"
+    "어제와 동일 93%"
    ],
    "block": [],
-   "fetched_at": "2026-09-24T08:47:17+09:00",
-   "repeat_ratio": 0.567
+   "fetched_at": "2026-09-25T08:55:00+09:00",
+   "repeat_ratio": 0.933
   }
  },
  "must_know": [
   {
    "module": "news",
    "item_ids": [
-    "7a3e64dac71a318b"
+    "edd0b2a390597acc"
    ],
-   "title": "3만 명 자를 때는 언제고, 돌아와줘…해고자들에 구애하는 아마존, 왜?",
-   "url": "https://www.mk.co.kr/news/world/12160794",
-   "why": "매체 1곳 · AI·IT·경제",
-   "score": 10
-  },
-  {
-   "module": "news",
-   "item_ids": [
-    "cc33cfbf296bd6ac"
-   ],
-   "title": "‘태움 피해’ 호소하다 숨진 간호사…병원, 113일 만에 사과",
-   "url": "https://www.khan.co.kr/article/202609232104001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-   "why": "매체 1곳 · AI·IT·사회",
+   "title": "미-중 정상 백악관 회담 돌입…트럼프 “시진핑과 안보·AI 논의”",
+   "url": "https://www.hani.co.kr/arti/international/america/1279422.html",
+   "why": "매체 1곳 · AI·IT·국제",
    "score": 8
   },
   {
    "module": "news",
    "item_ids": [
-    "7de1f769ed3f8e66"
+    "2eb0803e27539eb3"
    ],
-   "title": "관세·반도체 협상 어떻게 되나…미중 정상회담 투자자 관전 포인트",
-   "url": "https://www.hankyung.com/article/202609233801i",
+   "title": "SK는 '넓은 부지'·삼성은 '속도전'…호남 반도체 투자의지",
+   "url": "https://www.yna.co.kr/view/AKR20260923089300054",
    "why": "매체 1곳 · IT·신기술",
    "score": 8
   },
   {
    "module": "news",
    "item_ids": [
-    "eb98158e9dbeec01"
+    "7c048dd67c0cce3a"
    ],
-   "title": "젤렌스키 “북한군 포로 2명 한국에 보냈다”…유엔서 공개",
-   "url": "https://www.donga.com/news/Inter/article/all/20260924/134730854/1",
-   "why": "매체 3곳 · 국제·정치",
+   "title": "시진핑 “대만 독립 반대”…미중 정상, AI·한반도 문제도 논의",
+   "url": "https://www.hani.co.kr/arti/international/america/1279425.html",
+   "why": "매체 2곳 · AI·IT·국제",
+   "score": 7
+  },
+  {
+   "module": "news",
+   "item_ids": [
+    "7eaaef8986d82e54"
+   ],
+   "title": "이 대통령 “멕시코와 원유·핵심자원 공급망 대화채널 출범”",
+   "url": "https://www.hani.co.kr/arti/politics/bluehouse/1279424.html",
+   "why": "매체 3곳 · 정치",
    "score": 6
   },
   {
-   "module": "crypto",
+   "module": "news",
    "item_ids": [
-    "f6b18db9a4f56551"
+    "69e2cc9d4340912b"
    ],
-   "title": "Zcash (ZEC) ₩2,041,227",
-   "url": "https://www.coingecko.com/en/coins/zcash",
-   "why": "큰 변동 · 24시간 -7.90% · 7일 +13.15% · 시총 9위 · 이슈: [모닝 뉴스브리핑] XRP 지갑 6678개서 2000만달러 유출 外",
-   "score": 0
+   "title": "‘할머니 경제력’, 미국서도 자녀 성공 조건? 노후 계획 바꾸는 베이비부머",
+   "url": "https://www.hani.co.kr/arti/international/international_general/1279428.html",
+   "why": "매체 1곳 · 경제·국제",
+   "score": 6
   }
  ],
  "banned_hits": 0

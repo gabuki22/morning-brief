@@ -1,12 +1,56 @@
 {
  "module": "leisure",
- "fetched_at": "2026-09-24T08:47:17+09:00",
+ "fetched_at": "2026-09-25T08:55:00+09:00",
  "source": {
   "name": "Naver 뉴스 검색 + 고캠핑",
   "url": "https://www.gocamping.or.kr/",
   "kind": "api"
  },
  "items": [
+  {
+   "id": "58e2c0e498271962",
+   "title": "[추석특집] 볼거리·이야기 가득한 임실서 가을 정취 만끽하세요",
+   "url": "https://www.jjan.kr/article/20260911500023",
+   "published_at": "2026-09-25T08:02:00+09:00",
+   "summary": "출렁다리와 붕어섬 생태공원은 개장 이후 누적 방문객 202만명을 넘어서며 임실을 대표하는 관광지로 자리... 성수산 왕의숲자연휴양림은 산림휴양관과 숲속의집, 캠핑장 , 산림레포츠시설과 맨발길을 갖춰 가족 3대가...",
+   "tags": [
+    "캠핑",
+    "캠핑장 개장"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "Naver 뉴스"
+  },
+  {
+   "id": "424ff52c95bff8e6",
+   "title": "전기차로 팝콘 만들고 AI로 캠핑사진…기업들 미래기술 체험 경쟁",
+   "url": "https://www.segye.com/newsView/20260925502251?OutUrl=naver",
+   "published_at": "2026-09-25T07:02:00+09:00",
+   "summary": "키자니아 제공 25일 업계에 따르면 키자니아 서울은 기아와 운영하는 ‘스마트 오토캠핑장 ’ 체험관을 새롭게 단장했다. 체험관은 기아의 전용 목적기반차량(PBV) ‘PV5’를 중심으로 꾸몄다. 차량을 단순한 이동 수단이...",
+   "tags": [
+    "캠핑",
+    "오토캠핑장"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "Naver 뉴스"
+  },
+  {
+   "id": "482295a98f10077e",
+   "title": "고캠핑 — 전국 캠핑장 검색",
+   "url": "https://www.gocamping.or.kr/",
+   "published_at": "2026-09-25",
+   "summary": "한국관광공사 등록 캠핑장",
+   "tags": [
+    "바로가기"
+   ],
+   "metrics": {},
+   "is_new": false,
+   "streak_days": 7,
+   "source_name": "바로가기"
+  },
   {
    "id": "802f678c222c2626",
    "title": "\"영화 상영부터 야시장까지\"…추석 연휴 구미 즐길거리 '풍성'",
@@ -18,23 +62,9 @@
     "캠핑장 개장"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "Naver 뉴스"
-  },
-  {
-   "id": "482295a98f10077e",
-   "title": "고캠핑 — 전국 캠핑장 검색",
-   "url": "https://www.gocamping.or.kr/",
-   "published_at": "2026-09-24",
-   "summary": "한국관광공사 등록 캠핑장",
-   "tags": [
-    "바로가기"
-   ],
-   "metrics": {},
    "is_new": false,
-   "streak_days": 6,
-   "source_name": "바로가기"
+   "streak_days": 2,
+   "source_name": "Naver 뉴스"
   },
   {
    "id": "8b742fa58afdf2a7",
@@ -47,8 +77,8 @@
     "글램핑 오픈"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "Naver 뉴스"
   },
   {
@@ -62,8 +92,8 @@
     "오토캠핑장"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "Naver 뉴스"
   },
   {
@@ -77,8 +107,8 @@
     "오토캠핑장"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "Naver 뉴스"
   },
   {
@@ -92,8 +122,8 @@
     "오토캠핑장"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "Naver 뉴스"
   },
   {
@@ -107,8 +137,8 @@
     "오토캠핑장"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "Naver 뉴스"
   },
   {
@@ -122,8 +152,8 @@
     "오토캠핑장"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "Naver 뉴스"
   },
   {
@@ -137,8 +167,8 @@
     "오토캠핑장"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "Naver 뉴스"
   },
   {
@@ -152,23 +182,8 @@
     "오토캠핑장"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "Naver 뉴스"
-  },
-  {
-   "id": "ad897f1105264c27",
-   "title": "여주 농업의 미래, 청년이 함께 만든다",
-   "url": "https://www.farmnmarket.com/news/article.html?no=27947",
-   "published_at": "2026-09-23T11:36:00+09:00",
-   "summary": "‘2026년 청년농업인의 날’ 개최…4개 단체 교류·화합 여주시(시장 이충우)는 지난 9월 4일 여주 산촌 오토캠핑장 에서 청년농업인과 가족, 주요 내빈 등 100여 명이 참석한 가운데 ‘2026년 청년농업인의 날’ 행사를...",
-   "tags": [
-    "캠핑",
-    "오토캠핑장"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "Naver 뉴스"
   },
   {
@@ -182,8 +197,8 @@
     "캠핑장 개장"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "Naver 뉴스"
   },
   {
@@ -197,8 +212,8 @@
     "캠핑장 개장"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "Naver 뉴스"
   },
   {
@@ -212,8 +227,8 @@
     "캠핑장 개장"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "Naver 뉴스"
   },
   {
@@ -228,7 +243,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 2,
+   "streak_days": 3,
    "source_name": "Naver 뉴스"
   },
   {
@@ -243,7 +258,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 2,
+   "streak_days": 3,
    "source_name": "Naver 뉴스"
   },
   {
@@ -258,7 +273,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 2,
+   "streak_days": 3,
    "source_name": "Naver 뉴스"
   },
   {
@@ -273,7 +288,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 2,
+   "streak_days": 3,
    "source_name": "Naver 뉴스"
   },
   {
@@ -288,22 +303,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 2,
-   "source_name": "Naver 뉴스"
-  },
-  {
-   "id": "0df1c3ac65d8032a",
-   "title": "“청주 자연에서 즐기는 추석 힐링 어때요”",
-   "url": "https://www.newsis.com/view/NISX20260922_0003800358",
-   "published_at": "2026-09-22T14:30:00+09:00",
-   "summary": "캠핑장 과 바비큐장도 갖추고 있다. 상당산성 자연마당에선 산책과 함께 다양한 곤충을 만날 수 있고, 원흥이... 숲속 숙박시설과 워케이션 센터 등을 갖추고 지난 7월 개장 한 미원 별빛 자연휴양림에서 여유로운 숲속...",
-   "tags": [
-    "캠핑",
-    "캠핑장 개장"
-   ],
-   "metrics": {},
-   "is_new": false,
-   "streak_days": 2,
+   "streak_days": 3,
    "source_name": "Naver 뉴스"
   },
   {
@@ -318,7 +318,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 2,
+   "streak_days": 3,
    "source_name": "Naver 뉴스"
   },
   {
@@ -333,7 +333,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 2,
+   "streak_days": 3,
    "source_name": "Naver 뉴스"
   },
   {
@@ -348,7 +348,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 3,
+   "streak_days": 4,
    "source_name": "Naver 뉴스"
   },
   {
@@ -363,7 +363,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 3,
+   "streak_days": 4,
    "source_name": "Naver 뉴스"
   },
   {
@@ -378,7 +378,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 3,
+   "streak_days": 4,
    "source_name": "Naver 뉴스"
   },
   {
@@ -393,7 +393,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 3,
+   "streak_days": 4,
    "source_name": "Naver 뉴스"
   },
   {
@@ -408,7 +408,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 3,
+   "streak_days": 4,
    "source_name": "Naver 뉴스"
   },
   {
@@ -423,7 +423,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 6,
+   "streak_days": 7,
    "source_name": "Naver 뉴스"
   },
   {
@@ -438,7 +438,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 6,
+   "streak_days": 7,
    "source_name": "Naver 뉴스"
   },
   {
@@ -453,7 +453,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 6,
+   "streak_days": 7,
    "source_name": "Naver 뉴스"
   }
  ],
@@ -462,8 +462,7 @@
   "count": 30,
   "warn": [
    "고캠핑 API: 키 없음(DATA_GO_KR_KEY)",
-   "링크 확인 실패 1/3",
-   "어제와 동일 57%"
+   "어제와 동일 93%"
   ],
   "error": null,
   "level": "warn",
