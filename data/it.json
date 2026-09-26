@@ -1,46 +1,24 @@
 {
  "module": "it",
- "fetched_at": "2026-09-25T08:54:50+09:00",
+ "fetched_at": "2026-09-26T08:59:32+09:00",
  "source": {
-  "name": "RSS 5곳",
+  "name": "RSS 4곳",
   "url": "https://feeds.feedburner.com/zdkorea",
   "kind": "rss"
  },
  "items": [
   {
-   "id": "595391a97c0596f9",
-   "title": "Meta employees ordered ‘attorney/client privilege’ hats while fighting child safety disclosures",
-   "url": "https://www.theverge.com/tech/1000370/meta-instagram-attorney-client-privilege-hats",
-   "published_at": "2026-09-25T08:50:55+09:00",
-   "summary": "Meta's lawyers have argued that certain evidence should be withheld from public view on the grounds of attorney-client privilege in the ongoing lawsuits over al",
-   "tags": [],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "The Verge"
-  },
-  {
-   "id": "f930f6c65d883e28",
-   "title": "Qualcomm’s new ‘Elite’ sound chip might finally deliver the Wi-Fi earbud dream",
-   "url": "https://www.theverge.com/tech/1000443/qualcomms-new-elite-sound-chip-might-finally-deliver-the-wi-fi-earbud-dream",
-   "published_at": "2026-09-25T08:42:39+09:00",
-   "summary": "What if your wireless earbuds - or audio glasses - could stream high-quality lossless audio that doesn't cut out when you leave your phone on the bedside charge",
-   "tags": [],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "The Verge"
-  },
-  {
-   "id": "2eb0803e27539eb3",
-   "title": "SK는 '넓은 부지'·삼성은 '속도전'…호남 반도체 투자의지",
-   "url": "https://www.yna.co.kr/view/AKR20260923089300054",
-   "published_at": "2026-09-25T08:30:03+09:00",
-   "summary": "(전남광주=연합뉴스) 박철홍 기자 = 호남권 반도체 클러스터에 참여하는 SK하이닉스와 삼성전자가 각각 대규모 부지 확보와 조기 투자 필요성을 강...",
+   "id": "caa90b65868899d1",
+   "title": "전통 제조업에서 반도체·AI로…전남광주 산업지도 다시 그린다",
+   "url": "https://www.yna.co.kr/view/AKR20260923128300054",
+   "published_at": "2026-09-26T08:50:01+09:00",
+   "summary": "(전남광주=연합뉴스) 박철홍 기자 = 자동차·가전과 석유화학, 철강, 조선을 중심으로 형성돼 온 전남광주통합특별시의 산업지도가 반도체와 인공지능...",
    "tags": [
     "가전",
     "반도체",
-    "신기술"
+    "AI",
+    "신기술",
+    "제조"
    ],
    "metrics": {},
    "is_new": true,
@@ -48,68 +26,52 @@
    "source_name": "연합뉴스 산업"
   },
   {
-   "id": "1b8b6b8827f131ff",
-   "title": "[4만달러 눈 앞] ③ K자 양극화 심화…반도체는 잔치, 서민·청년은 시름",
-   "url": "https://www.yna.co.kr/view/AKR20260922159900002",
-   "published_at": "2026-09-25T08:00:14+09:00",
-   "summary": "(세종=연합뉴스) 김수현 기자 = 한국의 1인당 국민총소득(GNI)이 올해 사상 처음으로 4만 달러를 넘어설 것으로 보이지만 성장의 온기는 고르...",
-   "tags": [
-    "반도체",
-    "신기술"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "연합뉴스 산업"
-  },
-  {
-   "id": "c644cd2ae802447b",
-   "title": "[4만달러 눈 앞] ② 신발·가발 팔던 최빈국에서 대체불가 반도체·문화 강국으로",
-   "url": "https://www.yna.co.kr/view/AKR20260923176300003",
-   "published_at": "2026-09-25T08:00:13+09:00",
-   "summary": "(서울=연합뉴스) 구정모 조성흠 홍국기 기자 = 전쟁 이후 폐허에서 출발한 한국 경제가 1인당 국민총소득(GNI) 4만달러를 눈앞에 두기까지 산...",
-   "tags": [
-    "반도체",
-    "신기술"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "연합뉴스 산업"
-  },
-  {
-   "id": "5d3806a5dd3d266d",
-   "title": "\"비트 관리에서 토큰 가치 관리로\"...中통신사 사업모델 전환",
-   "url": "https://zdnet.co.kr/view/?no=20260925064726",
-   "published_at": "2026-09-25T08:00:02+09:00",
-   "summary": "[지디넷코리아]데이터 사용량을 비트 단위로 관리해온 통신사들이 생성형 AI 시대를 맞아 토큰을 새로운 사업 단위로 주목하고 있다. 아직 상당수 글로벌 통신사가 AI 토큰 사업에 신중한 가운데 중국 통신 3사는 토큰의 생산부터 유통과 정산까지 직접 아우르는 사업모델 구축에 속도를 내고 있",
+   "id": "97ac4a1132edd601",
+   "title": "AI 콘텐츠에 피로감…SNS 이용자 10명 중 8명 \"표시해야\"",
+   "url": "https://www.yna.co.kr/view/AKR20260925035800017",
+   "published_at": "2026-09-26T08:13:01+09:00",
+   "summary": "(서울=연합뉴스) 오지은 기자 = 소셜미디어(SNS) 이용자 10명 중 8명 이상이 AI(인공지능)로 제작된 콘텐츠와 광고에 대해 AI 활용 여...",
    "tags": [
     "AI"
    ],
    "metrics": {},
    "is_new": true,
    "streak_days": 1,
-   "source_name": "지디넷코리아"
+   "source_name": "연합뉴스 산업"
   },
   {
-   "id": "6e46626d610aaba8",
-   "title": "아프리카 9억명, 통신망 있어도 인터넷 못 쓴다",
-   "url": "https://zdnet.co.kr/view/?no=20260925072432",
-   "published_at": "2026-09-25T07:45:01+09:00",
-   "summary": "[지디넷코리아]아프리카에서 이동통신망이 닿는 지역에 살면서도 모바일 인터넷을 제대로 이용하지 못하는 인구가 9억명을 넘어선 것으로 나타났다. 통신망 구축만으로 디지털 격차를 해소하기 어려운 만큼 스마트폰 가격과 전력 공급, 디지털 활용 역량 등 실제 이용을 가로막는 장벽을 함께 낮춰야 ",
+   "id": "7d27fe10ca10abf6",
+   "title": "배민, 내달 가게배달에 AI 시간 예측 도입…정확도 1.7배 향상",
+   "url": "https://www.yna.co.kr/view/AKR20260925020300030",
+   "published_at": "2026-09-26T08:01:02+09:00",
+   "summary": "(서울=연합뉴스) 홍국기 기자 = 배달의민족(배민)이 가게배달 주문 접수 과정에 인공지능(AI) 기반 배달 시간 예측 기능을 도입한다.",
    "tags": [
-    "휴대폰"
+    "AI"
    ],
    "metrics": {},
    "is_new": true,
    "streak_days": 1,
-   "source_name": "지디넷코리아"
+   "source_name": "연합뉴스 산업"
   },
   {
-   "id": "91f6e28e34f7d7bd",
-   "title": "\"추석 때 '급찐 살' 빼야죠\" 위고비 수요 폭발하더니…'깜짝'",
-   "url": "https://www.hankyung.com/article/202609232973i",
-   "published_at": "2026-09-25T07:37:01+09:00",
+   "id": "50742e3badc1308b",
+   "title": "\"150만원 넘어도 산다\"…고가 가전에 지갑 여는 소비자들",
+   "url": "https://www.hankyung.com/article/2026092662517",
+   "published_at": "2026-09-26T07:41:03+09:00",
+   "summary": "",
+   "tags": [
+    "가전"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "한국경제 IT"
+  },
+  {
+   "id": "5a953f5352ccc55c",
+   "title": "홍삼에 신소재·신제형 더한다…대동고려삼, 사업 다각화 속도",
+   "url": "https://www.hankyung.com/article/202609233585i",
+   "published_at": "2026-09-26T07:00:10+09:00",
    "summary": "",
    "tags": [],
    "metrics": {},
@@ -118,11 +80,25 @@
    "source_name": "한국경제 IT"
   },
   {
-   "id": "db7ed45151502317",
-   "title": "SKT, 추석에도 AI 개발 이어간다…차세대 모델·서비스 투트랙",
-   "url": "https://www.yna.co.kr/view/AKR20260923084700017",
-   "published_at": "2026-09-25T07:33:01+09:00",
-   "summary": "(서울=연합뉴스) 박형빈 기자 = SK텔레콤[017670]이 추석 연휴에도 차세대 독자 인공지능(AI) 모델 A.X K3 개발과 10월 베타 출...",
+   "id": "77a35217147d4ced",
+   "title": "\"비싸도 산다\"…가전시장 프리미엄 제품으로 수요 이동",
+   "url": "https://www.yna.co.kr/view/AKR20260923152400030",
+   "published_at": "2026-09-26T07:00:02+09:00",
+   "summary": "(서울=연합뉴스) 조민정 기자 = 가전 시장에서 프리미엄 제품으로 수요가 빠르게 이동하고 있다.",
+   "tags": [
+    "가전"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "연합뉴스 산업"
+  },
+  {
+   "id": "4f5e3f07e162ac7a",
+   "title": "[AI돋보기] \"멈춰\" 명령 무시하는 AI…종료 버튼이 중요해진 이유",
+   "url": "https://www.yna.co.kr/view/AKR20260923022400017",
+   "published_at": "2026-09-26T06:33:00+09:00",
+   "summary": "(서울=연합뉴스) 심재훈 기자 = 우리가 평소에 쓰는 챗GPT 등 인공지능(AI)에 \"작업을 멈춰\"라고 명령하면 시스템은 즉시 이를 따라야 한다...",
    "tags": [
     "AI"
    ],
@@ -132,37 +108,25 @@
    "source_name": "연합뉴스 산업"
   },
   {
-   "id": "0c46bf0ef37d2002",
-   "title": "기업 전용망 2000개 돌파...신규 구축 86%가 5G",
-   "url": "https://zdnet.co.kr/view/?no=20260925065827",
-   "published_at": "2026-09-25T07:30:01+09:00",
-   "summary": "[지디넷코리아]전 세계 기업과 기관에서 구축한 프라이빗 모바일 네트워크가 2000곳을 넘어섰다. 기존 구축망에서는 LTE 비중이 여전히 높지만 올해 새로 구축된 전용망 10곳 중 8곳 이상이 5G를 채택하면서 신규 시장의 중심축은 5G로 이동하고 있다.세계이동통신공급자협회(GSA)가 최",
-   "tags": [],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "지디넷코리아"
-  },
-  {
-   "id": "b0a3622a97d506f1",
-   "title": "아이폰18프로 먹통·강제 재부팅...애플, 내주 SW 업데이트",
-   "url": "https://zdnet.co.kr/view/?no=20260925071544",
-   "published_at": "2026-09-25T07:15:44+09:00",
-   "summary": "[지디넷코리아]애플 아이폰18 프로와 프로맥스 일부 제품에서 페이스ID 인증에 실패한 뒤 기기가 멈추고 강제로 재부팅되는 오류가 발생하고 있다. 애플은 문제를 인지하고 있으며 다음 주 초 소프트웨어 업데이트를 통해 수정을 예고했다.23일(현지시간) 나인투파이브맥에 따르면 애플은 아이폰1",
+   "id": "fb9d61a35435805f",
+   "title": "Roku’s first OLED TVs are up to $400 off, starting at $699",
+   "url": "https://www.theverge.com/gadgets/1000859/roku-pro-series-oled-nothing-phone-4a-pro-deal-sale",
+   "published_at": "2026-09-26T03:18:57+09:00",
+   "summary": "Roku recently launched its first-ever OLED TVs. The $999 starting price was already impressive for the 55-inch Pro Series model that has a 120Hz refresh rate OL",
    "tags": [
-    "휴대폰"
+    "신기술"
    ],
    "metrics": {},
    "is_new": true,
    "streak_days": 1,
-   "source_name": "지디넷코리아"
+   "source_name": "The Verge"
   },
   {
-   "id": "e1dd0b27a3ce4fb8",
-   "title": "Microsoft puts Brad Smith in charge of communications",
-   "url": "https://www.theverge.com/news/1000374/microsoft-comms-pr-brad-smith-cela",
-   "published_at": "2026-09-25T07:08:22+09:00",
-   "summary": "Microsoft is moving its communications group out of marketing and into its Corporate, External, and Legal Affairs (CELA) organization. The surprise change will ",
+   "id": "a726b55ace9e0a5a",
+   "title": "Phones don’t have lights",
+   "url": "https://www.theverge.com/podcast/1000751/vergecast-meta-connect-muse-googlebooks",
+   "published_at": "2026-09-26T02:42:59+09:00",
+   "summary": "Mark Zuckerberg has a new defense of the Ray-Ban Meta glasses: They're actually doing more to signal they're taking a photo than phones do. He's brought this up",
    "tags": [],
    "metrics": {},
    "is_new": true,
@@ -170,11 +134,140 @@
    "source_name": "The Verge"
   },
   {
-   "id": "29df28ee60cd7bae",
-   "title": "힘들때, 막막할 때, 추석연휴에도…129 보건복지상담센터",
-   "url": "https://zdnet.co.kr/view/?no=20260924215943",
-   "published_at": "2026-09-25T07:00:01+09:00",
-   "summary": "[지디넷코리아]국민에게 보건복지 제도와 서비스를 안내하는 대표 상담창구인 ‘129번’. 소득보장·복지서비스·건강생활 등 보건복지 전반에 관한 상담을 전화뿐 아니라 화상상담, 카카오톡, 국민비서 챗봇 등 다양한 방식으로 제공하고 있다. 또 자살예방상담 통합 번호인 ‘109번’은 국민의 마",
+   "id": "746be7555592983f",
+   "title": "These camera apps give you more control over the iPhone 18 Pro’s aperture",
+   "url": "https://www.theverge.com/tech/1000729/moment-pro-blackmagic-camera-ii-ios-app-iphone-18-pro-max-aperature-camera",
+   "published_at": "2026-09-26T02:23:30+09:00",
+   "summary": "One of the questionable limitations of the iPhone 18 Pro's new main camera with a variable aperture is that you're limited to just four settings in the native i",
+   "tags": [
+    "휴대폰"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "The Verge"
+  },
+  {
+   "id": "19a21fbe8ade7bd8",
+   "title": "Tesla’s Optimus robot is going through growing pains",
+   "url": "https://www.theverge.com/tech/1000794/tesla-optimus-production-issues-hands",
+   "published_at": "2026-09-26T02:01:36+09:00",
+   "summary": "Hitting its goal of making 20,000 Optimus robots per week is reportedly proving tricky for Tesla. The Information reports that Tesla produced \"several hundred r",
+   "tags": [],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "The Verge"
+  },
+  {
+   "id": "e84d98e81ae7850f",
+   "title": "Meta makes the Muse filesystem even more accessible",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem",
+   "published_at": "2026-09-26T01:49:53+09:00",
+   "summary": "Yesterday, with a little prodding, it was discovered that Meta's Muse would expose its filesystem to curious users. The files offered a fascinating peek under t",
+   "tags": [],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "The Verge"
+  },
+  {
+   "id": "fda262423ca6584c",
+   "title": "Leaks reveal a new Apple HomePod mini, iPad mini, and Apple TV 4K",
+   "url": "https://www.theverge.com/tech/1000772/apple-code-leak-homepod-mini-2-ipad-mini-8-apple-tv-4k",
+   "published_at": "2026-09-26T01:22:05+09:00",
+   "summary": "Apple is expected to announce more hardware before the end of the year following the debut of the iPhone 18 Pro and folding iPhone Duo earlier this month. The u",
+   "tags": [
+    "휴대폰",
+    "가전"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "The Verge"
+  },
+  {
+   "id": "706759721ffd238c",
+   "title": "Sony and UMG are suing Suno again",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music",
+   "published_at": "2026-09-26T00:51:56+09:00",
+   "summary": "Sony and Universal Music Group filed yet another suit against Suno. The labels claim its new v6 model still infringes on their copyrights because it's trained o",
+   "tags": [],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "The Verge"
+  },
+  {
+   "id": "637d4699a545ce92",
+   "title": "One company is at the center of a wave of rogue AI attacks",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
+   "published_at": "2026-09-26T00:39:48+09:00",
+   "summary": "In July, OpenAI revealed that its AI agents had attacked Hugging Face without permission, sparking widespread concerns about AI safety. Since then, a string of ",
+   "tags": [
+    "AI"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "The Verge"
+  },
+  {
+   "id": "181d40f0307e1255",
+   "title": "Cricut’s new compact crafter prints, cuts, and laminates stickers",
+   "url": "https://www.theverge.com/tech/1000655/cricut-sticker-pix-print-cut-crafting-printer-machines-stickers",
+   "published_at": "2026-09-25T23:21:25+09:00",
+   "summary": "Cricut announced its first crafting machines with printing capabilities that are primarily designed as all-in-one solutions for turning photos and other images ",
+   "tags": [],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "The Verge"
+  },
+  {
+   "id": "f732d3efcc8f3a90",
+   "title": "Gaming’s biggest horror series are more vital than ever",
+   "url": "https://www.theverge.com/entertainment/1000595/silent-hill-townfall-resident-evil",
+   "published_at": "2026-09-25T23:10:00+09:00",
+   "summary": "For the third year in a row, I've been scared out of my wits by a new Silent Hill game. First it was the modern remake of Silent Hill 2, then the Japan-set spin",
+   "tags": [],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "The Verge"
+  },
+  {
+   "id": "583bef8f075c22c3",
+   "title": "\"AI 시대의 업무 OS\" MS, 새로운 코파일럿 공개",
+   "url": "https://www.hankyung.com/article/2026092560757",
+   "published_at": "2026-09-25T21:14:49+09:00",
+   "summary": "",
+   "tags": [
+    "AI"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "한국경제 IT"
+  },
+  {
+   "id": "237de2a1d07e7770",
+   "title": "\"출근할 때 아침 안 먹었는데\"…SNS서 난리 난 '킹모닝' 정체 [키워드랩]",
+   "url": "https://www.hankyung.com/article/202609183281g",
+   "published_at": "2026-09-25T19:39:03+09:00",
+   "summary": "",
+   "tags": [],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "한국경제 IT"
+  },
+  {
+   "id": "2cc15b99c5b17764",
+   "title": "Xinhua Silk Road: MAZU 기상 조기 경보 솔루션 장학금, 중국은행 및 푸톈 상인들로부터 기부 받아",
+   "url": "https://zdnet.co.kr/view/?no=20260925181003",
+   "published_at": "2026-09-25T18:10:03+09:00",
+   "summary": "[지디넷코리아]베이징 2026년 9월 25일 /PRNewswire/ -- 중국의 전통적인 바다의 여신 마주(Mazu)의 이름을 따 글로벌 기상재해 예방을 지원하기 위해 제정된 마주 장학금(MAZU Scholarship)이 최근 중국은행(Bank of China, BOC)과 국내외 푸톈 ",
    "tags": [],
    "metrics": {},
    "is_new": true,
@@ -182,11 +275,41 @@
    "source_name": "지디넷코리아"
   },
   {
-   "id": "f4c5d8a2ac62fd73",
-   "title": "카메라로 들어간 AI 에이전트…퀄컴, 사진·영상 편집 패러다임 바꾼다",
-   "url": "https://zdnet.co.kr/view/?no=20260925064837",
-   "published_at": "2026-09-25T06:48:37+09:00",
-   "summary": "[지디넷코리아][마우이(미국)=지디넷코리아 전화평 기자] 스냅드래곤의 카메라가 단순 촬영을 넘어 움직임, 색상, 조명, 사람 등을 실시간으로 이해하는 방향으로 진화하고 있다.쥬드 히프 퀄컴 제품 관리 부사장(멀티미디어, 카메라)은 현지시간 24일 스냅드래곤 서밋에서 스냅드래곤 8 엘리트",
+   "id": "4487e06d5a8c5778",
+   "title": "머스크, '콜로서스 2' 투자 고삐…연내 엔비디아 칩 탑재 2배 늘린다",
+   "url": "https://zdnet.co.kr/view/?no=20260925153817",
+   "published_at": "2026-09-25T18:05:01+09:00",
+   "summary": "[지디넷코리아]일론 머스크 테슬라 최고경영자(CEO)가 창업한 인공지능(AI) 스타트업 'xAI'가 대규모 AI 데이터센터 '콜로서스(Colossus) 2' 규모를 확장한다. 올 연말까지 엔비디아 칩 사용량을 기존 대비 2배 이상 늘리기로 했다.일론 머스크 테슬라 최고경영자(CEO)는 ",
+   "tags": [
+    "반도체",
+    "AI"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "지디넷코리아"
+  },
+  {
+   "id": "c771baddd8f2452d",
+   "title": "MS, PC·엑스박스 '광고 크레딧' 특허 출원…인게임 광고 도입 모색",
+   "url": "https://zdnet.co.kr/view/?no=20260925113014",
+   "published_at": "2026-09-25T18:00:03+09:00",
+   "summary": "[지디넷코리아]마이크로소프트(MS)가 게임 진행을 방해하지 않으면서 PC와 엑스박스 이용자에게 광고를 노출하는 신규 기술 특허를 출원했다.24일(현지시간) 게임 전문 매체 게임인더스트리비즈에 따르면, MS는 최근 '상황 인지형 인터랙티브 소프트웨어 접근 관리'라는 명칭의 특허를 출원했다",
+   "tags": [
+    "사무기기",
+    "게임"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "지디넷코리아"
+  },
+  {
+   "id": "45cd01a16ca3883d",
+   "title": "전력 이어 물까지…美 텍사스, 수백개 데이터센터 용수 조사",
+   "url": "https://zdnet.co.kr/view/?no=20260925082237",
+   "published_at": "2026-09-25T17:30:01+09:00",
+   "summary": "[지디넷코리아]미국의 인공지능(AI) 데이터센터 투자 중심지인 텍사스주가 전력망과 환경 인허가에 이어 용수 사용에 대한 조사까지 확대했다.24일(현지시간) 블룸버그통신에 따르면 켄 팩스턴 텍사스주 법무장관은 주내 수백개 데이터센터 개발 사업을 대상으로 용수 사용량 보고 의무를 제대로 준",
    "tags": [
     "AI"
    ],
@@ -196,11 +319,95 @@
    "source_name": "지디넷코리아"
   },
   {
-   "id": "c69b0e290b6d5775",
-   "title": "2035년 6G 가입자 24억 회선까지 늘어난다",
-   "url": "https://zdnet.co.kr/view/?no=20260925063351",
-   "published_at": "2026-09-25T06:45:01+09:00",
-   "summary": "[지디넷코리아]오는 2035년 전 세계 6G 이동통신 연결 건수가 24억건에 이를 것이란 전망이 나왔다. 2030년 초기 상용화 이후 약 5년 만에 연결 규모가 48배로 늘어나는 셈이다. 다만 6G 확산에도 5G가 전체 이동통신 연결의 60%가량을 차지하며 상당 기간 두 기술이 공존할 ",
+   "id": "df1fff4bc4051f9f",
+   "title": "깃허브, 폐쇄망 AI 코딩 지원 확대…개발·관리 편의 높인다",
+   "url": "https://zdnet.co.kr/view/?no=20260925080611",
+   "published_at": "2026-09-25T17:00:01+09:00",
+   "summary": "[지디넷코리아]깃허브가 폐쇄망 환경에서 인공지능(AI) 코딩 도구를 활용할 수 있는 환경을 구축했다. 사용자 권한 관리와 코드 검토 절차도 개선해 기업 개발팀 도구 도입과 운영 부담을 줄이는 데 초점을 맞췄다.깃허브는 이달 초 기업용 개발 플랫폼 '깃허브 엔터프라이즈 서버 3.22'를 ",
+   "tags": [
+    "AI"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "지디넷코리아"
+  },
+  {
+   "id": "365da130196447b2",
+   "title": "한·멕시코, '모두를 위한 AI' 협력 선언…2028년 APEC 이행 공동 점검",
+   "url": "https://zdnet.co.kr/view/?no=20260925161514",
+   "published_at": "2026-09-25T16:55:38+09:00",
+   "summary": "[지디넷코리아]한국과 멕시코가 인공지능(AI) 혜택을 글로벌 사회 전반으로 확대하기 위한 협력 기반을 마련했다. 25일 청와대에 따르면 이재명 대통령과 셰인바움 멕시코 대통령은 24일(현지시간) 멕시코시티 대통령궁에서 정상회담을 갖고 AI 협력 선언을 채택했다. 두 정상은 이 대통령의 ",
+   "tags": [
+    "AI"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "지디넷코리아"
+  },
+  {
+   "id": "fa387db2b6198b83",
+   "title": "앤트로픽-아카마이, 116억 달러 컴퓨팅 계약…\"클로드 수요 급증 대응\"",
+   "url": "https://zdnet.co.kr/view/?no=20260925081732",
+   "published_at": "2026-09-25T16:20:01+09:00",
+   "summary": "[지디넷코리아]앤트로픽이 급증하는 클로드 수요에 대응하기 위해 아카마이테크놀로지스와 인공지능(AI) 인프라 협력을 확대했다. 24일(현지시간) 블룸버그통신 보도에 따르면 앤트로픽은 아카마이와 7년간 116억 달러(약 15조 8500억원) 규모 컴퓨팅 자원 공급 계약을 체결했다. 이는 아",
+   "tags": [
+    "AI"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "지디넷코리아"
+  },
+  {
+   "id": "b151ddd1f51af779",
+   "title": "네덜란드 소비자단체, 에픽게임즈 상대 1억 유로 규모 집단소송 제기",
+   "url": "https://zdnet.co.kr/view/?no=20260925111838",
+   "published_at": "2026-09-25T16:00:03+09:00",
+   "summary": "[지디넷코리아]네덜란드 소비자단체가 인기 배틀로얄 게임 '포트나이트'가 미성년자들의 과소비를 유도했다며 개발사 에픽게임즈를 상대로 대규모 집단소송에 나섰다.24일(현지시간) 게임 전문 매체 게임인더스트리비즈에 따르면, 네덜란드 비영리 소비자 권익 단체 '마사스하더 앤 콘슈멘트(SMC)'",
+   "tags": [
+    "게임"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "지디넷코리아"
+  },
+  {
+   "id": "a2c5101d35249a97",
+   "title": "메타, 13년 만에 최고 월간 상승률…시총 2조 달러 눈앞",
+   "url": "https://zdnet.co.kr/view/?no=20260925152048",
+   "published_at": "2026-09-25T15:42:00+09:00",
+   "summary": "[지디넷코리아]메타 주가가 개인용 인공지능(AI) 비서 '뮤즈(Muse)' 흥행에 힘입어 급등하면서 시가총액 2조 달러(약 2733조 4000억원) 돌파를 눈앞에 두고 있다.24일(현지시간) 블룸버그통신 보도에 따르면 메타 주가는 9월 들어 36% 상승했다. 이 같은 흐름이 이어질 경우",
+   "tags": [
+    "AI"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "지디넷코리아"
+  },
+  {
+   "id": "d27a123bbd66c77f",
+   "title": "데이터브릭스, 로우제로 인수…\"기업 데이터 분석 편의↑\"",
+   "url": "https://zdnet.co.kr/view/?no=20260925085413",
+   "published_at": "2026-09-25T15:41:28+09:00",
+   "summary": "[지디넷코리아]데이터브릭스가 스프레드시트와 인공지능(AI) 에이전트를 결합해 데이터 분석 편의성 높이기에 나섰다.24일(현지시간) 테크크런치 등 외신에 따르면 데이터브릭스는 클라우드 기반 스프레드시트 스타트업 로우제로를 인수했다고 발표했다. 인수 금액과 세부 조건은 공개되지 않았다.로우",
+   "tags": [
+    "AI"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "지디넷코리아"
+  },
+  {
+   "id": "4541c6a33c14e641",
+   "title": "X·EU 법정 다툼에…美, 과징금 취소 소송 참여 움직임",
+   "url": "https://zdnet.co.kr/view/?no=20260925150055",
+   "published_at": "2026-09-25T15:40:19+09:00",
+   "summary": "[지디넷코리아]미국 정부가 사회관계망서비스(SNS) X(옛 트위터)의 온라인 규정 위반과 관련해 유럽연합(EU)으로부터 부과받은 1억2000만 유로(약 1867억원)의 과징금을 취소해달라며 제기한 소송에 참여하려는 움직임을 보이고 있다.24일(현지시간) 블룸버그 등 외신에 따르면 도널드",
    "tags": [],
    "metrics": {},
    "is_new": true,
@@ -208,65 +415,25 @@
    "source_name": "지디넷코리아"
   },
   {
-   "id": "123ed2c4027e1b26",
-   "title": "[AI프리즘] 조선소·공장이 AI 훈련장으로…한국의 피지컬 AI 승부수",
-   "url": "https://www.yna.co.kr/view/AKR20260923139300017",
-   "published_at": "2026-09-25T06:33:00+09:00",
-   "summary": "(서울=연합뉴스) 권하영 기자 = 글로벌 인공지능(AI) 평가기관이 한국을 AI 경쟁의 '확고한 3위'로 공인한 가운데 이제 한국의 시선은 다음...",
+   "id": "a074884bd3855db4",
+   "title": "[인터뷰] AI 시대 망설이는 기업들, 정부가 'AI 리더' 돼야",
+   "url": "https://zdnet.co.kr/view/?no=20260925050919",
+   "published_at": "2026-09-25T15:37:57+09:00",
+   "summary": "[지디넷코리아]\"많은 기업이 인공지능(AI) 도입을 검토하지만 본격적인 전환에는 망설이고 있습니다. 기술 변화가 빠르고 성공 사례도 충분하지 않기 때문입니다. 초고속인터넷망 구축과 전자정부 추진 당시처럼 정부가 먼저 AI 혁신 사례를 만들고 롤모델을 제시해야 합니다\"김동환 포티투마루 대",
    "tags": [
     "AI"
    ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "연합뉴스 산업"
-  },
-  {
-   "id": "f4ed3e708aba2ab9",
-   "title": "애플, 퀄컴 칩 의존 낮춰도 통신 특허 계약은 연장",
-   "url": "https://zdnet.co.kr/view/?no=20260925062734",
-   "published_at": "2026-09-25T06:30:01+09:00",
-   "summary": "[지디넷코리아]애플이 자체 모뎀 탑재를 늘리며 퀄컴 칩 의존도를 낮추고 있지만 무선통신 특허 관계는 이어간다. 퀄컴과 글로벌 라이선스 계약을 연장하면서 자체 칩 개발과 별개로 퀄컴의 핵심 무선통신 지식재산권을 계속 활용하게 됐다.24일(현지시간) 모바일월드라이브에 따르면 퀄컴은 애플과 ",
-   "tags": [],
    "metrics": {},
    "is_new": true,
    "streak_days": 1,
    "source_name": "지디넷코리아"
   },
   {
-   "id": "69faa5873973a68b",
-   "title": "이성권 \"기초지자체 3곳 중 1곳 수의직 공무원 0명…대책 필요\"",
-   "url": "https://www.yna.co.kr/view/AKR20260922171500001",
-   "published_at": "2026-09-25T06:00:03+09:00",
-   "summary": "(서울=연합뉴스) 이정현 기자 = 최근 아프리카돼지열병(ASF)과 고병원성 조류인플루엔자(AI) 등 가축전염병 발생 사례가 속속 확인되는 가운데...",
-   "tags": [
-    "AI"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "연합뉴스 산업"
-  },
-  {
-   "id": "564fec915070e385",
-   "title": "모래 퍼올려 쓰레기만 쏙 골라내는 '청소 로봇'",
-   "url": "https://www.etnews.com/20260922000477",
-   "published_at": "2026-09-25T06:00:00+09:00",
-   "summary": "모래 속에 묻힌 담배꽁초와 유리 조각까지 걸러내는 해변 청소 로봇이 등장했습니다. 중국 상하이교통대 하이난연구원이 개발한 해변 청소 로봇 '제탄웨이스'는 궤도로 모래사장을 이동하며 모래를 걷어 올린 뒤 체로 걸러 담배꽁초와 플라스틱, 유리 조각 등 쓰레기를 분리합니다. 최대 120mm ",
-   "tags": [
-    "신기술"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "전자신문"
-  },
-  {
-   "id": "8564956e114e05e6",
-   "title": "\"AI 파편화 끝낸다\"… 퀄컴, '모듈러' 품고 스냅드래곤·윈도우 생태계 대통합",
-   "url": "https://zdnet.co.kr/view/?no=20260925043330",
-   "published_at": "2026-09-25T05:57:39+09:00",
-   "summary": "[지디넷코리아][마우이(미국)=지디넷코리아 전화평 기자] 퀄컴이 각기 다른 AI 하드웨어로 인해 발생하는 소프트웨어 파편화 문제를 해결하기 위해 '통합 AI 소프트웨어 스택' 구축에 승부수를 던졌다. 데이터센터부터 로컬 PC, 초저전력 엣지 디바이스까지 아우르는 스냅드래곤 전체 포트폴리",
+   "id": "6a31ad3446b50307",
+   "title": "AI가 알려준 PC 문제 해결법, 믿고 실행해도 될까",
+   "url": "https://zdnet.co.kr/view/?no=20260924000748",
+   "published_at": "2026-09-25T15:30:01+09:00",
+   "summary": "[지디넷코리아]무료 영화나 웹툰 등을 볼 수 있다는 사이트에서 콘텐츠를 클릭하자 갑자기 요란한 경고음이 들린다. 이어 \"당신의 컴퓨터가 바이러스에 감염됐다. 고객센터에 전화해 치료하라\"는 안내문이 화면 가득 깜빡인다.과거 미국과 유럽을 비롯해 여러 나라에서 기승을 부렸던 '고객지원 사기",
    "tags": [
     "사무기기",
     "AI"
@@ -277,133 +444,11 @@
    "source_name": "지디넷코리아"
   },
   {
-   "id": "ee9698a7fdb9719d",
-   "title": "Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
-   "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
-   "published_at": "2026-09-25T04:59:26+09:00",
-   "summary": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time. The \"Live Avatar\" w",
-   "tags": [
-    "AI"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "The Verge"
-  },
-  {
-   "id": "6b7985913501f95b",
-   "title": "Sadly, this $1,549 RTX 5070-equipped gaming PC is a very good deal",
-   "url": "https://www.theverge.com/gadgets/1000122/cyberpowerpc-gaming-prebuilt-rtx-5070-core-i7-asrock-oled-monitor-deal-sale",
-   "published_at": "2026-09-25T03:19:23+09:00",
-   "summary": "While PC component prices remain high, you can save a good bit of money on a system by purchasing a prebuilt desktop. Walmart has a well-equipped CyberPowerPC g",
-   "tags": [
-    "사무기기"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "The Verge"
-  },
-  {
-   "id": "351a8b326d2bc493",
-   "title": "화웨이, 6대 글로벌 전력 쇼케이스 공개하며 AI-에너지 시너지로 새로운 전력 시스템 구현",
-   "url": "https://zdnet.co.kr/view/?no=20260925031013",
-   "published_at": "2026-09-25T03:10:13+09:00",
-   "summary": "[지디넷코리아]상하이 2026년 9월 24일 /PRNewswire/ -- 화웨이(Huawei)가 화웨이 커넥트 2026(HUAWEI CONNECT 2026) 기간 중 'AI × 에너지: 새로운 전력 시스템 구현(AI × Energy: Unlocking a New Power System)",
-   "tags": [
-    "AI"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "지디넷코리아"
-  },
-  {
-   "id": "301032371947b081",
-   "title": "버드닷컴, AI 에이전트용 커뮤니케이션 인프라 출시와 함께 4억 5000만 달러 자금 조달",
-   "url": "https://zdnet.co.kr/view/?no=20260925031002",
-   "published_at": "2026-09-25T03:10:02+09:00",
-   "summary": "[지디넷코리아] JP모건(J.P. Morgan), 캐피털원(Capital One), 씨티(Citi)가 주도한 4억 5000만 달러 규모의 부채 금융은 4억 달러의 기간 대출과 5000만 달러의 회전신용한도로 구성된다. 전면 개편된 Bird 플랫폼은 규제 준수에 초점을 맞춘 Agentic",
-   "tags": [
-    "AI"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "지디넷코리아"
-  },
-  {
-   "id": "3ab9cbba8c0d8bf4",
-   "title": "Jensen Huang talks about AI and climate change like a supervillain",
-   "url": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain",
-   "published_at": "2026-09-25T03:04:44+09:00",
-   "summary": "As Jensen Huang puts it, AI can help fight climate change - but only if it inflicts \"an enormous amount of pain and suffering\" first. The Nvidia CEO discussed t",
-   "tags": [
-    "AI"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "The Verge"
-  },
-  {
-   "id": "18e7444965179a13",
-   "title": "Meta is going to let you build games with AI right on your phone",
-   "url": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games",
-   "published_at": "2026-09-25T02:52:29+09:00",
-   "summary": "Meta has a new plan to get people to make games for its Horizon social platform. The company today announced two new development tools that will let you create ",
-   "tags": [
-    "AI"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "The Verge"
-  },
-  {
-   "id": "cb7e0a0370f056e2",
-   "title": "Muse will apparently let you download its entire filesystem",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem",
-   "published_at": "2026-09-25T02:14:12+09:00",
-   "summary": "A pair of developers say that with very little prompting, Meta's Muse will share its entire filesystem with you. Peter James and Jonny L. Saunders have said the",
-   "tags": [],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "The Verge"
-  },
-  {
-   "id": "0b7b681fb83d1416",
-   "title": "Muse sure looks a lot like OpenClaw",
-   "url": "https://www.theverge.com/report/1000180/muse-openclaw-instinct-lookalike",
-   "published_at": "2026-09-25T02:10:38+09:00",
-   "summary": "We seem to be entering into an AI agent renaissance. Meta's new consumer-facing AI agent, Muse, topped the App Store charts soon after its release and has 600,0",
-   "tags": [
-    "AI"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "The Verge"
-  },
-  {
-   "id": "04f6d633307e4eff",
-   "title": "Now Google Chrome shares tabs to new devices that save where you were",
-   "url": "https://www.theverge.com/tech/999901/google-chrome-tab-memory-gemini-updates",
-   "published_at": "2026-09-25T02:00:00+09:00",
-   "summary": "Google is rolling out some new Chrome browser features that are designed to make it easier to research and study complicated topics. The cross-device tab switch",
-   "tags": [],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "The Verge"
-  },
-  {
-   "id": "7f9ecf1a27c16cc0",
-   "title": "스타트레이더 (STARTRADER), Forex Expo Dubai 2026에서 '최우수 핀테크 포렉스 브로커' 수상",
-   "url": "https://zdnet.co.kr/view/?no=20260925001024",
-   "published_at": "2026-09-25T00:10:24+09:00",
-   "summary": "[지디넷코리아]중동 지역 최대 규모의 트레이딩 행사인 제9회 Forex Expo Dubai에서 수상한 이번 상은, 지속적인 상품 확장으로 채워온 한 해를 마무리하는 성과다. 아랍에미리트 두바이, 2026년 9월 24일 /PRNewswire/ -- 스타트레이더 (STARTRADER)가 H",
+   "id": "a877728269925eb2",
+   "title": "펩시코, 가격 내렸지만 매출 못 늘려…도리토스 등 다시 인상",
+   "url": "https://zdnet.co.kr/view/?no=20260925102607",
+   "published_at": "2026-09-25T14:44:42+09:00",
+   "summary": "[지디넷코리아]펩시코가 올해 초 가격을 낮췄던 일부 과자와 음료 제품의 가격을 다시 올린다. 가격 인하에도 북미 지역 판매가 기대만큼 늘지 않자 수익성 방어에 나선 것으로 풀이된다.24일(현지시간) 블룸버그통신 보도에 따르면 펩시코는 올해 초 가격을 낮췄던 대형 과자 제품을 중심으로 가",
    "tags": [],
    "metrics": {},
    "is_new": true,
@@ -411,11 +456,11 @@
    "source_name": "지디넷코리아"
   },
   {
-   "id": "52e8868416ad6c70",
-   "title": "홀리랜드 위커넥트 2026, AI 시대에도 대체할 수 없는 가치를 탐구하다",
-   "url": "https://zdnet.co.kr/view/?no=20260925001014",
-   "published_at": "2026-09-25T00:10:14+09:00",
-   "summary": "[지디넷코리아] 선전, 중국 2026년 9월 24일 /PRNewswire/ -- 크리에이터는 AI로 대본을 작성하고 이미지를 만들고 편집 작업을 빠르게 할 수 있다. 무선 오디오 및 영상 전송 솔루션 선도 기업 홀리랜드(Hollyland)가 이 같은 변화에 대응해 30여 개국의 크리에이",
+   "id": "de06e942044151d6",
+   "title": "오라클, 스타게이트 데이터센터에 '불가항력' 통지…전력 확보 차질",
+   "url": "https://zdnet.co.kr/view/?no=20260925070133",
+   "published_at": "2026-09-25T14:44:23+09:00",
+   "summary": "[지디넷코리아]오라클이 미국 뉴멕시코주에 건설 중인 초대형 인공지능(AI) 데이터센터의 가동 지연 가능성에 대비해 개발사에 '불가항력' 통지를 보냈다. 대규모 전력 확보와 인허가 문제로 인한 비용 부담을 줄이려는 조치로 풀이된다.24일(현지시간) 블룸버그통신에 따르면 오라클은 뉴멕시코 ",
    "tags": [
     "AI"
    ],
@@ -425,107 +470,75 @@
    "source_name": "지디넷코리아"
   },
   {
-   "id": "1977c13f10174335",
-   "title": "서민 경제의 견인차 역할 지속하는 BRI, 2026년 2분기 순이익 31조 2000억 루피아 기록",
-   "url": "https://zdnet.co.kr/view/?no=20260925001003",
-   "published_at": "2026-09-25T00:10:03+09:00",
-   "summary": "[지디넷코리아]자카르타, 인도네시아 2026년 9월 24일 /PRNewswire/ -- PT 뱅크 라캬트 인도네시아(PT Bank Rakyat Indonesia (Persero) Tbk, BRI, IDX: BBRI)가 경제 및 은행업계의 변화 속에서도 사업 성장을 이어가며 2026년 2",
-   "tags": [],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "지디넷코리아"
-  },
-  {
-   "id": "5cecd8c055112f09",
-   "title": "Collinson Group의 5억 파운드 규모 성장 사업을 기반으로 지속되는Priority Pass의 여행 혁신",
-   "url": "https://zdnet.co.kr/view/?no=20260924211002",
-   "published_at": "2026-09-24T21:10:02+09:00",
-   "summary": "[지디넷코리아] Collinson Group은 최근 3억 5천 파운드 규모의 신규 자금 조달을 발표하며 5억 파운드에 이르는 성장 전략을 가속화할 예정임을 선언했습니다. 이는 그룹의 견조한 실적에 대한 강한 자신감과 공항 경험 분야에서 혁신을 주도하고 선두주자로서의 입지를 이어가겠다는 ",
-   "tags": [],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "지디넷코리아"
-  },
-  {
-   "id": "88233910822177a3",
-   "title": "브라마 AI, 멀티플스 주도로 1억 5000만 달러 투자 유치",
-   "url": "https://zdnet.co.kr/view/?no=20260924181003",
-   "published_at": "2026-09-24T18:10:03+09:00",
-   "summary": "[지디넷코리아] 브라마 AI가 기업용 시청각 콘텐츠 운영체제를 구축하는 가운데 연구개발(R&D), 글로벌 시장 진출 및 실리콘밸리 거점 확대에 이번 투자금이 투입될 예정 로스앤젤레스, 런던 및 뭄바이, 2026년 9월 24일 /PRNewswire/ -- 기업용 시청각 콘텐츠를 위한 AI",
-   "tags": [
-    "AI"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "지디넷코리아"
-  },
-  {
-   "id": "8c3f13b0dd00c645",
-   "title": "스마트폰 밤새 충전하면…폭발 위험 없지만 '완충 강박'이 배터리 수명 줄인다",
-   "url": "https://www.etnews.com/20260924000047",
-   "published_at": "2026-09-24T16:56:05+09:00",
-   "summary": "스마트폰을 쓰면서 가장 먼저 체감하는 노화는 배터리다. 처음에는 하루를 거뜬히 버티던 배터리가 어느 순간부터 충전기를 찾는 횟수가 늘고, 같은 사용량에도 잔량이 빠르게 줄어든다. 스마트폰을 바꿀 정도로 기기가 낡은 것은 아니지만 배터리 때문에 교체를 고민하게 되는 이유다. 그렇다면 배터",
-   "tags": [
-    "휴대폰"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "전자신문"
-  },
-  {
-   "id": "1b3fc6f3861cda48",
-   "title": "[신간] '칩노믹스'...TSMC 신화 뒤 숨겨진 대만 60년 성공 전략 분석",
-   "url": "https://zdnet.co.kr/view/?no=20260924154858",
-   "published_at": "2026-09-24T15:48:58+09:00",
-   "summary": "[지디넷코리아]대만은 어떻게 세계 반도체의 심장이 되었을까? 또 왜 세계 최고의 AI 기업들이 모두 대만을 향할까?불과 몇 년 전만 해도 대만은 한국보다 한 수 아래라는 인식이 지배적이었다. 하지만 대만은 지난해에 이어 올해도 1인당 국내총생산(GDP)이 한국보다 많을 전망이다. 작년 ",
-   "tags": [
-    "반도체",
-    "AI",
-    "신기술"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "지디넷코리아"
-  },
-  {
-   "id": "621dee970b558c28",
-   "title": "셀레브라이트, 2027 JUSTYS 후보 접수…세상을 안전하게 지키는 숨은 영웅 조명하는 대표 행사",
-   "url": "https://zdnet.co.kr/view/?no=20260924151013",
-   "published_at": "2026-09-24T15:10:13+09:00",
-   "summary": "[지디넷코리아] 로앤크라임 네트워크(Law&Crime Network) 및 뉴스네이션(NewsNation)의 제시 웨버 앵커가 다시 진행 맡아; 2027년 4월 셀레브라이트(Cellebrite) 연례 C2C 사용자 서밋(C2C User Summit) 기간 로앤크라임 네트워크 유튜브 구독자",
-   "tags": [],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "지디넷코리아"
-  },
-  {
-   "id": "11111a859da64811",
-   "title": "글로벌 AI 선구자 겸 전문가 모 가우닷, 바레인 핀테크 포워드 2026 기조연사로 나서",
-   "url": "https://zdnet.co.kr/view/?no=20260924151002",
-   "published_at": "2026-09-24T15:10:02+09:00",
-   "summary": "[지디넷코리아]마나마, 바레인, 2026년 9월 24일 /PRNewswire/ -- 구글 X(Google X)의 전 최고사업책임자(CBO)이자 베스트셀러 작가, 기업가, 세계적으로 인정받는 AI 전문가인 모 가우닷(Mo Gawdat)이 핀테크 포워드 2026(Fintech Forward",
-   "tags": [
-    "AI"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "지디넷코리아"
-  },
-  {
-   "id": "8acf9d5e41a48e41",
-   "title": "LG전자, AI 데이터센터 냉각 솔루션 영토 확장",
-   "url": "https://zdnet.co.kr/view/?no=20260924111254",
-   "published_at": "2026-09-24T15:00:01+09:00",
-   "summary": "[지디넷코리아]LG전자가 국내외 기업과 협력을 확대하며 인공지능(AI) 데이터센터 냉각 솔루션 사업에 드라이브를 걸고 있다. 글로벌 빅테크와의 공급 협력부터 차세대 냉매 공동 개발, 해외 파트너 네트워크 강화까지 전방위로 협업 범위를 넓히는 모습이다.24일 업계에 따르면 류재철 LG전자",
+   "id": "c37e1057210cc090",
+   "title": "\"윷놀이 대신 조이콘\"…온 가족 둘러앉아 즐기는 닌텐도 스위치 게임 추천",
+   "url": "https://zdnet.co.kr/view/?no=20260923194216",
+   "published_at": "2026-09-25T14:42:47+09:00",
+   "summary": "[지디넷코리아]추석 연휴 온 가족이 한자리에 모이는 명절 거실 풍경이 변화하고 있다. 윷놀이나 화투 대신 TV 앞에 모여 게임 컨트롤러를 쥐는 모습이 자연스러운 명절 놀이 문화로 안착하는 분위기다. 컨트롤러(조이콘)만 분리하면 복잡한 세팅 없이 즉석에서 다인 플레이가 가능한 닌텐도 스위",
    "tags": [
     "가전",
+    "게임"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "지디넷코리아"
+  },
+  {
+   "id": "3deb01f81b80f9f0",
+   "title": "국빈만찬에 美 빅테크 수장 '총집결'…中 기업은 불참",
+   "url": "https://zdnet.co.kr/view/?no=20260925130205",
+   "published_at": "2026-09-25T14:00:30+09:00",
+   "summary": "[지디넷코리아]도날드 트럼프 미국 대통령과 시진핑 중국 국가주석이 백악관에서 정상회담을 가진 가운데, 주요 IT 기업 인사들도 국빈 만찬에 참석했다. 다만 중국 기업 대표들은 아무도 자리하지 않은 것으로 알려졌다.25일 CNBC 등 외신에 따르면 이번 미중 정상회담 만찬에 참석하는 13",
+   "tags": [],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "지디넷코리아"
+  },
+  {
+   "id": "3958d84b0677ae0c",
+   "title": "코스트코, 소비 위축 우려에도 실적 성장…4분기 순익 15% 증가",
+   "url": "https://zdnet.co.kr/view/?no=20260925133530",
+   "published_at": "2026-09-25T13:59:45+09:00",
+   "summary": "[지디넷코리아]고물가에도 미국 소비자들의 지출이 이어지면서 코스트코가 시장 전망을 웃도는 분기 실적을 기록했다. 관세 환급으로 돌려받은 자금 상당 부분을 생필품 등의 가격을 낮추는 데 투입하면서 가격 경쟁력 강화에도 나섰다.24일(현지시간) 월스트리트저널 보도에 따르면 코스트코는 지난달",
+   "tags": [],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "지디넷코리아"
+  },
+  {
+   "id": "4a22c5158ef7ec5a",
+   "title": "미국 스타벅스, 북미 250곳 폐점",
+   "url": "https://zdnet.co.kr/view/?no=20260925102107",
+   "published_at": "2026-09-25T13:58:30+09:00",
+   "summary": "[지디넷코리아]스타벅스가 실적이 부진한 북미 매장 250곳을 폐점한다. 성장 가능성이 높은 매장에 자원을 집중하기 위한 조치다.24일(현지시간) 블룸버그에 따르면 스타벅스는 이번 주 미국과 캐나다에서 250개 매장을 폐점한다. 이는 북미 전체 매장 약 1만8천곳의 1% 수준이다.마이크 ",
+   "tags": [],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "지디넷코리아"
+  },
+  {
+   "id": "e710340a2b7ba3f1",
+   "title": "\"아빠 요즘 이게 유행이래\"…초등생 딸 춤 보고 '화들짝' [유지희의 ITMI]",
+   "url": "https://www.hankyung.com/article/202609233908i",
+   "published_at": "2026-09-25T13:00:02+09:00",
+   "summary": "",
+   "tags": [],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "한국경제 IT"
+  },
+  {
+   "id": "6f90ed5b1c0161b1",
+   "title": "[AI는 지금] 中, 소프트웨어 산업 판 바꾼다…2030년까지 개발·서비스 AI 전환",
+   "url": "https://zdnet.co.kr/view/?no=20260922155850",
+   "published_at": "2026-09-25T12:33:07+09:00",
+   "summary": "[지디넷코리아]중국이 인공지능(AI)을 소프트웨어 개발과 제품, 서비스 전 과정에 적용하며 소프트웨어 산업 재편에 나섰다. 개발자가 AI를 보조도구로 활용하는 수준을 넘어 코드 생성·테스트·유지보수부터 기업용 서비스까지 AI가 직접 참여하는 구조로 바꾸고 제조·금융·의료 등 주요 산업으",
+   "tags": [
     "AI"
    ],
    "metrics": {},
@@ -534,16 +547,94 @@
    "source_name": "지디넷코리아"
   },
   {
-   "id": "b92c74a91fe5d67c",
-   "title": "추석 연휴 외식 할인 '봇물'…배달·픽업 고객 잡기",
-   "url": "https://zdnet.co.kr/view/?no=20260924125526",
-   "published_at": "2026-09-24T14:59:30+09:00",
-   "summary": "[지디넷코리아]추석 연휴를 맞아 외식업계가 할인 행사를 잇달아 선보이고 있다. 매장 결제부터 배달·픽업 주문까지 혜택을 넓혀 가족 모임과 연휴 간식 수요를 잡겠다는 구상이다.24일 업계에 따르면 외식 업체들은 간편결제 할인과 배달앱 쿠폰, 자사앱 주문 혜택 등을 마련했다. 일부 업체는 ",
+   "id": "94165daea66df50e",
+   "title": "AI에 간식 추천받는 미국인들…\"고단백·강한 맛 수요 커져\"",
+   "url": "https://zdnet.co.kr/view/?no=20260925103439",
+   "published_at": "2026-09-25T12:26:53+09:00",
+   "summary": "[지디넷코리아]미국 소비자들이 간식을 고를 때 인공지능(AI)에 추천을 받는 사례가 늘고 있다. 식품업체 콘아그라브랜즈는 이러한 변화가 고단백 식품과 강한 맛, 특정 건강 목표에 맞춘 간식 수요를 키우고 있다고 분석했다.24일(현지시간) 로이터 보도에 따르면 회사는 리서치업체 서카나와 ",
+   "tags": [
+    "AI"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "지디넷코리아"
+  },
+  {
+   "id": "6544c33b38644039",
+   "title": "'국중박' 관람료 무료 이제 사라질까",
+   "url": "https://zdnet.co.kr/view/?no=20260923101248",
+   "published_at": "2026-09-25T12:24:46+09:00",
+   "summary": "[지디넷코리아]추석 연휴를 맞아 가족과 함께 나들이할 곳을 찾는다면 박물관은 부담 없이 선택할 수 있는 단골 코스다. 전국의 많은 박물관 상설전시가 별도의 관람료 없이 즐길 수 있기 때문이다. 최근에는 전시뿐 아니라 문화상품과 체험 프로그램까지 인기를 끌면서 박물관 자체가 하나의 관광 ",
    "tags": [],
    "metrics": {},
    "is_new": true,
    "streak_days": 1,
    "source_name": "지디넷코리아"
+  },
+  {
+   "id": "488d71b7e6955d2d",
+   "title": "몰입부터 방치·힐링까지…지루한 귀성길 달래줄 모바일 게임은",
+   "url": "https://zdnet.co.kr/view/?no=20260923193718",
+   "published_at": "2026-09-25T11:27:58+09:00",
+   "summary": "[지디넷코리아]민족 대이동이 시작되는 추석 연휴, 꽉 막힌 도로와 장거리 이동은 귀성길의 가장 큰 고민거리다. 동 시간의 지루함을 달래고 연휴의 여유를 더해줄 즐길 거리를 찾는 이들이 늘면서 모바일 게임에 대한 관심도 높아지고 있다. 이미 시장에서 탄탄한 흥행력과 게임성을 검증받고 모바",
+   "tags": [
+    "게임"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "지디넷코리아"
+  },
+  {
+   "id": "5baac33b0d5cc2d7",
+   "title": "클래리티법 멈춰도 비트코인 ‘디지털 상품’ 지위는 그대로",
+   "url": "https://zdnet.co.kr/view/?no=20260923104949",
+   "published_at": "2026-09-25T11:26:46+09:00",
+   "summary": "[지디넷코리아]미국 가상자산 시장구조 법안인 클래리티법이 상원 문턱을 넘지 못했지만 비트코인의 법적 지위에 미치는 영향은 제한적이라는 분석이 나왔다. 미국 증권거래위원회(SEC)와 상품선물거래위원회(CFTC)가 이미 비트코인을 '디지털 상품(Digital Commodity)'으로 분류하",
+   "tags": [],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "지디넷코리아"
+  },
+  {
+   "id": "d085b8c6cfc24d63",
+   "title": "닌텐도, '스위치 불법 복제' 소송서 승소…법원, 450만 달러 배상 판결",
+   "url": "https://zdnet.co.kr/view/?no=20260925110507",
+   "published_at": "2026-09-25T11:26:16+09:00",
+   "summary": "[지디넷코리아]닌텐도 아메리카가 닌텐도 스위치 불법 복제 게임을 유통한 온라인 커뮤니티 운영자를 상대로 낸 저작권 침해 소송에서 승소했다고 외신 애프터 매스가 24일(현지시간) 보도했다.보도에 따르면 미국 워싱턴 연방지방법원은 피고 제임스 윌리엄스에게 닌텐도 측에 450만 달러(약 62",
+   "tags": [
+    "게임"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "지디넷코리아"
+  },
+  {
+   "id": "027ed37716f6f2a2",
+   "title": "\"유전체 분석 시장, 한국만 부진\"…1세대 기업가의 호소",
+   "url": "https://www.hankyung.com/article/202609233802i",
+   "published_at": "2026-09-25T10:41:02+09:00",
+   "summary": "",
+   "tags": [],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "한국경제 IT"
+  },
+  {
+   "id": "91f6e28e34f7d7bd",
+   "title": "추석 때 '급찐 살' 급하게 뺀다고?…위고비 맞기 전 알아야 할 것",
+   "url": "https://www.hankyung.com/article/202609232973i",
+   "published_at": "2026-09-25T07:37:01+09:00",
+   "summary": "",
+   "tags": [],
+   "metrics": {},
+   "is_new": false,
+   "streak_days": 2,
+   "source_name": "한국경제 IT"
   },
   {
    "id": "5f3c1638606db529",
@@ -553,23 +644,9 @@
    "summary": "",
    "tags": [],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "한국경제 IT"
-  },
-  {
-   "id": "722a474bdef2273f",
-   "title": "[신간] '클루'...대기업 CEO 지낸 1세대 데이터 전문가의 30년 통찰 담아",
-   "url": "https://zdnet.co.kr/view/?no=20260924143351",
-   "published_at": "2026-09-24T14:33:51+09:00",
-   "summary": "[지디넷코리아]\"데이터가 범람하는 AI시대에도 현장에서는 여전히 “분석은 완벽한데, 무엇을 해야 하지?”라는 질문이 반복됩니다. 이 책 '클루'는 숫자의 나열을 넘어 의사 결정의 실마리를 찾는 데이터 스토리텔링의 본질을 다룹니다.\"(신한금융그룹 진옥동 회장)\"AI가 우리 일상을 빠르게 ",
-   "tags": [
-    "AI"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "지디넷코리아"
   },
   {
    "id": "3d3b37e68879ea71",
@@ -581,136 +658,9 @@
     "휴대폰"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "한국경제 IT"
-  },
-  {
-   "id": "f2bbce3c3c47e0b9",
-   "title": "오픈AI·앤트로픽, UN서 'AI 인간 통제 상실' 경고…美는 규제 반대",
-   "url": "https://www.etnews.com/20260924000041",
-   "published_at": "2026-09-24T13:45:32+09:00",
-   "summary": "인공지능(AI) 빅테크 기업 수장들이 UN에서 AI에 대한 인간의 통제력 상실 위험을 경고했다. AI가 스스로 판단하고 행동하는 능력을 갖추며 개발자 의도를 벗어날 가능성이 커지고 있다는 것이다. 23일(현지시간) 미국 뉴욕에서 열린 유엔 안전보장이사회 AI·국제안보 회의에는 샘 올트먼",
-   "tags": [
-    "AI"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "전자신문"
-  },
-  {
-   "id": "14c7fb297e383193",
-   "title": "구글, 대규모 더빙용 AI까지…제미나이 TTS 모델 2종 출시",
-   "url": "https://www.etnews.com/20260924000040",
-   "published_at": "2026-09-24T13:37:57+09:00",
-   "summary": "구글이 자연어 명령으로 새로운 목소리를 만들고 대사의 속도와 감정 등을 조절할 수 있는 음성 생성 인공지능(AI) 모델을 공개했다. 구글은 23일(현지시간) '제미나이 3.8 플래시 TTS'와 '제미나이 3.8 플래시-라이트 TTS'를 출시했다고 밝혔다. TTS(Text-to-Speec",
-   "tags": [
-    "AI"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "전자신문"
-  },
-  {
-   "id": "cc2c158a2cae756d",
-   "title": "감원하던 아마존의 변심…AI 인력 부족에 전직원 복귀 러브콜",
-   "url": "https://www.etnews.com/20260924000038",
-   "published_at": "2026-09-24T13:22:32+09:00",
-   "summary": "최근 1년간 3만명 이상을 감원한 아마존이 인공지능(AI) 분야 인력 확보를 위해 해고자와 퇴사자 재채용에 나섰다. 23일(현지시간) 비즈니스인사이더에 따르면 아마존 채용 담당자들은 AI 등 분야에서 근무했던 전직 직원들에게 잇따라 복귀를 제안하고 있다. 스와미 시바수브라마니안 아마존웹",
-   "tags": [
-    "AI"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "전자신문"
-  },
-  {
-   "id": "ceae3d7125c6cd12",
-   "title": "오픈AI 에이전트, 호주 정부 웹사이트도 침입…세 달 뒤 통보",
-   "url": "https://www.etnews.com/20260924000034",
-   "published_at": "2026-09-24T12:18:54+09:00",
-   "summary": "오픈AI 인공지능(AI) 에이전트가 호주 정부 웹사이트에 무단 접근한 사실이 확인됐다. AI 에이전트가 정부 서비스에 무단 접근한 사례가 공개된 것은 이번이 처음이다. 23일(현지시간) 월스트리트저널에 따르면 앤서니 앨버니지 호주 총리는 이날 미국 뉴욕에서 열린 UN 회의에서 오픈AI ",
-   "tags": [
-    "AI"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "전자신문"
-  },
-  {
-   "id": "65417a0da451acb1",
-   "title": "모피리처드, IFA 베를린 2026에서 90년 전통에 새로운 비전 제시",
-   "url": "https://zdnet.co.kr/view/?no=20260924121045",
-   "published_at": "2026-09-24T12:10:45+09:00",
-   "summary": "[지디넷코리아]베를린 2026년 9월 24일 /PRNewswire/ -- 창립 90주년을 맞은 영국 소형가전 브랜드 모피리처드(Morphy Richards)가 IFA 베를린 2026(IFA Berlin 2026)에서 주방 솔루션과 공기 관리 분야의 혁신 제품을 선보이며 성공적으로 전시를",
-   "tags": [
-    "가전"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "지디넷코리아"
-  },
-  {
-   "id": "d2ea84ff66cd716c",
-   "title": "화웨이, AI 시대 지능형 WAN 백서 발표",
-   "url": "https://zdnet.co.kr/view/?no=20260924121035",
-   "published_at": "2026-09-24T12:10:35+09:00",
-   "summary": "[지디넷코리아]—지능형 연결 기반 구축으로 지능형 전환 가속 상하이 2026년 9월 24일 /PRNewswire/ -- 2026년 9월 17일 화웨이 커넥트 2026(HUAWEI CONNECT 2026) 기간 중 '지능형 WAN, 지능형 연결 기반 구축(Intelligent WAN, B",
-   "tags": [
-    "AI"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "지디넷코리아"
-  },
-  {
-   "id": "175d982f76a7ee53",
-   "title": "2026 세계제조업대회: 제품 전시에서 통합 제조 생태계로",
-   "url": "https://zdnet.co.kr/view/?no=20260924121024",
-   "published_at": "2026-09-24T12:10:24+09:00",
-   "summary": "[지디넷코리아]900개 이상의 기업과 1만 점 이상의 전시품, 중국 스마트 제조 밸류체인 생생하게 구현 허페이, 중국 2026년 9월 24일 /PRNewswire/ -- 2026 세계제조업대회(2026 World Manufacturing Convention)가 9월 20일 허페이 빈후 ",
-   "tags": [
-    "제조"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "지디넷코리아"
-  },
-  {
-   "id": "32a1ea1fccfe4cbf",
-   "title": "속도조절하자더니 이중 행보…앤트로픽·오픈AI, 새 모델 공개",
-   "url": "https://www.etnews.com/20260924000033",
-   "published_at": "2026-09-24T11:43:02+09:00",
-   "summary": "인공지능(AI) 빠른 발전 속도를 우려해 개발 '속도조절론'을 제기하고 리딩해온 앤트로픽과 오픈AI가 나란히 신규 AI 모델을 공개했다. 도널드 트럼프 미국 대통령과 젠슨 황 엔비디아 최고경영자(CEO) 등이 AI로 인한 인류멸망 가능성이 사실상 없다며 제동을 건 가운데, 빅테크의 이중",
-   "tags": [
-    "반도체",
-    "AI"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "전자신문"
-  },
-  {
-   "id": "7e2b95f9f3d9c16e",
-   "title": "메르세데스-벤츠, 웨이브와 제휴…도심 자율주행 구현",
-   "url": "https://www.etnews.com/20260924000032",
-   "published_at": "2026-09-24T11:33:46+09:00",
-   "summary": "메르세데스-벤츠가 영국 웨이브와 인공지능(AI) 기술 격차를 줄이기 위한 제휴 계약을 체결했다. 파이낸셜타임스(FT)에 따르면 웨이브는 영국 자율주행 스타트업으로 닛산, 스텔란티스에 이어 메르세데스-벤츠와 세번째 파트너십을 체결했다. 웨이브는 2월 12억달러(약 1조6400억원) 투자를",
-   "tags": [
-    "AI"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "전자신문"
   },
   {
    "id": "89d8c018133b6da9",
@@ -720,8 +670,8 @@
    "summary": "",
    "tags": [],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "한국경제 IT"
   },
   {
@@ -732,8 +682,8 @@
    "summary": "",
    "tags": [],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "한국경제 IT"
   },
   {
@@ -744,23 +694,9 @@
    "summary": "",
    "tags": [],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "한국경제 IT"
-  },
-  {
-   "id": "4f24a0942dcf3429",
-   "title": "출시하자마자 '환불 사태' 터진 아이폰18…애플이 내놓은 첫 입장은",
-   "url": "https://www.etnews.com/20260924000017",
-   "published_at": "2026-09-24T09:44:48+09:00",
-   "summary": "최근 출시된 아이폰18 프로 시리즈에서 갑작스러운 재부팅을 일으키는 이른바 '패닉풀(panic-full)' 현상이 잇따라 발생하고 있는 가운데 애플이 소프트웨어 업데이트를 통한 문제 해결에 나서겠다는 입장을 밝혔다. 논란이 불거진 이후 애플이 내놓은 첫 공식 입장이다. 23일 헤럴드경제",
-   "tags": [
-    "휴대폰"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "전자신문"
   },
   {
    "id": "2da7f5360389616b",
@@ -773,8 +709,8 @@
     "신기술"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "한국경제 IT"
   },
   {
@@ -785,8 +721,8 @@
    "summary": "",
    "tags": [],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "한국경제 IT"
   },
   {
@@ -798,7 +734,7 @@
    "tags": [],
    "metrics": {},
    "is_new": false,
-   "streak_days": 2,
+   "streak_days": 3,
    "source_name": "한국경제 IT"
   },
   {
@@ -810,16 +746,66 @@
    "tags": [],
    "metrics": {},
    "is_new": false,
-   "streak_days": 2,
+   "streak_days": 3,
+   "source_name": "한국경제 IT"
+  },
+  {
+   "id": "73cdaeb6f3693aa3",
+   "title": "\"별로인데 별점은 5점?\"…일본인들 이해 못하는 한국인 리뷰",
+   "url": "https://www.hankyung.com/article/2026092339621",
+   "published_at": "2026-09-23T19:00:06+09:00",
+   "summary": "",
+   "tags": [],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "한국경제 IT"
+  },
+  {
+   "id": "8bf5bb5646207371",
+   "title": "쏘카, 자주 쓰는 기능 모은 '하단 탭' 신설...“앱 직관성 높였다”",
+   "url": "https://www.hankyung.com/article/202609233634i",
+   "published_at": "2026-09-23T16:34:52+09:00",
+   "summary": "",
+   "tags": [],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "한국경제 IT"
+  },
+  {
+   "id": "1cc6563955db77b1",
+   "title": "정학근 신임 에너지연구원장 취임",
+   "url": "https://www.hankyung.com/article/2026092340431",
+   "published_at": "2026-09-23T16:28:00+09:00",
+   "summary": "",
+   "tags": [],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "한국경제 IT"
+  },
+  {
+   "id": "25c862cc1d66830e",
+   "title": "KT도 신규 가입 중단…3G시대 완전히 끝난다",
+   "url": "https://www.hankyung.com/article/2026092339651",
+   "published_at": "2026-09-23T16:11:40+09:00",
+   "summary": "",
+   "tags": [],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
    "source_name": "한국경제 IT"
   }
  ],
  "status": {
   "ok": true,
   "count": 60,
-  "warn": [],
+  "warn": [
+   "전자신문 실패: URLError"
+  ],
   "error": null,
-  "level": "ok",
+  "level": "warn",
   "block": []
  }
 }

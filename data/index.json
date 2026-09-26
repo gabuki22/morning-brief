@@ -1,6 +1,6 @@
 {
- "built_at": "2026-09-25T08:55:00+09:00",
- "date": "2026-09-25",
+ "built_at": "2026-09-26T08:59:41+09:00",
+ "date": "2026-09-26",
  "site": {
   "title": "모닝브리프",
   "locations": [
@@ -55,15 +55,15 @@
    "count": 7,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-09-25T08:54:27+09:00",
-   "repeat_ratio": 0.0
+   "fetched_at": "2026-09-26T08:58:07+09:00",
+   "repeat_ratio": 0.857
   },
   "fx": {
    "level": "ok",
    "count": 3,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-09-25T08:54:27+09:00",
+   "fetched_at": "2026-09-26T08:58:07+09:00",
    "repeat_ratio": 1.0
   },
   "news": {
@@ -71,7 +71,7 @@
    "count": 135,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-09-25T08:54:38+09:00",
+   "fetched_at": "2026-09-26T08:58:20+09:00",
    "repeat_ratio": 0.0
   },
   "markets": {
@@ -79,7 +79,7 @@
    "count": 5,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-09-25T08:54:39+09:00",
+   "fetched_at": "2026-09-26T08:58:20+09:00",
    "repeat_ratio": 1.0
   },
   "crypto": {
@@ -87,44 +87,46 @@
    "count": 10,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-09-25T08:54:42+09:00",
+   "fetched_at": "2026-09-26T08:58:24+09:00",
    "repeat_ratio": 1.0
   },
   "realestate": {
    "level": "warn",
-   "count": 33,
+   "count": 38,
    "warn": [
     "LH·온비드 공공데이터 API: 키 없음(DATA_GO_KR_KEY) — 뉴스·바로가기만",
-    "어제와 동일 36%"
+    "어제와 동일 50%"
    ],
    "block": [],
-   "fetched_at": "2026-09-25T08:54:47+09:00",
-   "repeat_ratio": 0.364
+   "fetched_at": "2026-09-26T08:58:29+09:00",
+   "repeat_ratio": 0.5
   },
   "it": {
-   "level": "ok",
+   "level": "warn",
    "count": 60,
-   "warn": [],
+   "warn": [
+    "전자신문 실패: URLError"
+   ],
    "block": [],
-   "fetched_at": "2026-09-25T08:54:50+09:00",
-   "repeat_ratio": 0.033
+   "fetched_at": "2026-09-26T08:59:32+09:00",
+   "repeat_ratio": 0.167
   },
   "auto": {
    "level": "warn",
    "count": 60,
    "warn": [
-    "어제와 동일 85%"
+    "어제와 동일 97%"
    ],
    "block": [],
-   "fetched_at": "2026-09-25T08:54:55+09:00",
-   "repeat_ratio": 0.85
+   "fetched_at": "2026-09-26T08:59:37+09:00",
+   "repeat_ratio": 0.967
   },
   "publicdata": {
    "level": "ok",
    "count": 10,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-09-25T08:54:57+09:00",
+   "fetched_at": "2026-09-26T08:59:38+09:00",
    "repeat_ratio": 0.9
   },
   "leisure": {
@@ -132,62 +134,62 @@
    "count": 30,
    "warn": [
     "고캠핑 API: 키 없음(DATA_GO_KR_KEY)",
-    "어제와 동일 93%"
+    "어제와 동일 97%"
    ],
    "block": [],
-   "fetched_at": "2026-09-25T08:55:00+09:00",
-   "repeat_ratio": 0.933
+   "fetched_at": "2026-09-26T08:59:41+09:00",
+   "repeat_ratio": 0.967
   }
  },
  "must_know": [
   {
    "module": "news",
    "item_ids": [
-    "edd0b2a390597acc"
+    "a88dbe2e70b3147c"
    ],
-   "title": "미-중 정상 백악관 회담 돌입…트럼프 “시진핑과 안보·AI 논의”",
-   "url": "https://www.hani.co.kr/arti/international/america/1279422.html",
-   "why": "매체 1곳 · AI·IT·국제",
-   "score": 8
+   "title": "10년 전 1억 투자했다면…엔비디아 138억·SK하닉 47억·은마아파트 2.9억",
+   "url": "https://www.donga.com/news/Economy/article/all/20260926/134733671/1",
+   "why": "매체 1곳 · AI·IT·부동산",
+   "score": 10
   },
   {
    "module": "news",
    "item_ids": [
-    "2eb0803e27539eb3"
+    "bdc46bf2d5ecdac9"
    ],
-   "title": "SK는 '넓은 부지'·삼성은 '속도전'…호남 반도체 투자의지",
-   "url": "https://www.yna.co.kr/view/AKR20260923089300054",
-   "why": "매체 1곳 · IT·신기술",
-   "score": 8
+   "title": "[다음주 경제] 반도체 생산 얼마나 늘었나…물가·금리 지표도 발표",
+   "url": "https://www.yna.co.kr/view/AKR20260926014400002",
+   "why": "매체 1곳 · IT·경제·신기술",
+   "score": 10
   },
   {
    "module": "news",
    "item_ids": [
-    "7c048dd67c0cce3a"
+    "ac56e2cb9f5912a7"
    ],
-   "title": "시진핑 “대만 독립 반대”…미중 정상, AI·한반도 문제도 논의",
-   "url": "https://www.hani.co.kr/arti/international/america/1279425.html",
-   "why": "매체 2곳 · AI·IT·국제",
-   "score": 7
+   "title": "“영통구 열기 뜨겁다더니”…이창섭 ‘51평’ 집값 제자리, 이유 보니?",
+   "url": "https://www.mk.co.kr/news/realestate/12161533",
+   "why": "매체 1곳 · IT·부동산·신기술",
+   "score": 10
   },
   {
    "module": "news",
    "item_ids": [
-    "7eaaef8986d82e54"
+    "e0d589450db5a838"
    ],
-   "title": "이 대통령 “멕시코와 원유·핵심자원 공급망 대화채널 출범”",
-   "url": "https://www.hani.co.kr/arti/politics/bluehouse/1279424.html",
-   "why": "매체 3곳 · 정치",
-   "score": 6
+   "title": "“78층인데 구조대 오나요?” 55% 빠진 현대차…증권사도 목표가 줄하향",
+   "url": "https://www.mk.co.kr/news/stock/12161547",
+   "why": "매체 1곳 · AI·IT·자동차",
+   "score": 9
   },
   {
    "module": "news",
    "item_ids": [
-    "69e2cc9d4340912b"
+    "18d71a39259e41cb"
    ],
-   "title": "‘할머니 경제력’, 미국서도 자녀 성공 조건? 노후 계획 바꾸는 베이비부머",
-   "url": "https://www.hani.co.kr/arti/international/international_general/1279428.html",
-   "why": "매체 1곳 · 경제·국제",
+   "title": "금리 올려도 안 풀리는 엔캐리…최대 2조달러 '청산 시한폭탄' 커지나 [김주완의 글로벌머니 X파일]",
+   "url": "https://www.hankyung.com/article/202609232798i",
+   "why": "매체 1곳 · 경제",
    "score": 6
   }
  ],

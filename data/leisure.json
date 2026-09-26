@@ -1,12 +1,41 @@
 {
  "module": "leisure",
- "fetched_at": "2026-09-25T08:55:00+09:00",
+ "fetched_at": "2026-09-26T08:59:41+09:00",
  "source": {
   "name": "Naver 뉴스 검색 + 고캠핑",
   "url": "https://www.gocamping.or.kr/",
   "kind": "api"
  },
  "items": [
+  {
+   "id": "482295a98f10077e",
+   "title": "고캠핑 — 전국 캠핑장 검색",
+   "url": "https://www.gocamping.or.kr/",
+   "published_at": "2026-09-26",
+   "summary": "한국관광공사 등록 캠핑장",
+   "tags": [
+    "바로가기"
+   ],
+   "metrics": {},
+   "is_new": false,
+   "streak_days": 8,
+   "source_name": "바로가기"
+  },
+  {
+   "id": "6c7db0b1b16cd474",
+   "title": "추석 연휴 전북 가을 여행지 14곳 선정",
+   "url": "https://www.nocutnews.co.kr/news/6583214?utm_source=naver&utm_medium=article&utm_campaign=20260925023259",
+   "published_at": "2026-09-25T14:33:00+09:00",
+   "summary": "방화폭포, 산림욕장, 치유의 숲, 통나무집, 가족휴양동, 오토캠핑장 이 마련되어 있다. 운영 시간은 오전 8시부터 오후 10시까지 연중무휴다. 임실 성수산은 건국 설화가 깃든 명산으로 자연휴양림으로 지정된 생태...",
+   "tags": [
+    "캠핑",
+    "오토캠핑장"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "Naver 뉴스"
+  },
   {
    "id": "58e2c0e498271962",
    "title": "[추석특집] 볼거리·이야기 가득한 임실서 가을 정취 만끽하세요",
@@ -18,8 +47,8 @@
     "캠핑장 개장"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "Naver 뉴스"
   },
   {
@@ -33,23 +62,9 @@
     "오토캠핑장"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "Naver 뉴스"
-  },
-  {
-   "id": "482295a98f10077e",
-   "title": "고캠핑 — 전국 캠핑장 검색",
-   "url": "https://www.gocamping.or.kr/",
-   "published_at": "2026-09-25",
-   "summary": "한국관광공사 등록 캠핑장",
-   "tags": [
-    "바로가기"
-   ],
-   "metrics": {},
    "is_new": false,
-   "streak_days": 7,
-   "source_name": "바로가기"
+   "streak_days": 2,
+   "source_name": "Naver 뉴스"
   },
   {
    "id": "802f678c222c2626",
@@ -63,7 +78,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 2,
+   "streak_days": 3,
    "source_name": "Naver 뉴스"
   },
   {
@@ -78,7 +93,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 2,
+   "streak_days": 3,
    "source_name": "Naver 뉴스"
   },
   {
@@ -93,7 +108,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 2,
+   "streak_days": 3,
    "source_name": "Naver 뉴스"
   },
   {
@@ -108,7 +123,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 2,
+   "streak_days": 3,
    "source_name": "Naver 뉴스"
   },
   {
@@ -123,7 +138,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 2,
+   "streak_days": 3,
    "source_name": "Naver 뉴스"
   },
   {
@@ -138,7 +153,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 2,
+   "streak_days": 3,
    "source_name": "Naver 뉴스"
   },
   {
@@ -153,7 +168,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 2,
+   "streak_days": 3,
    "source_name": "Naver 뉴스"
   },
   {
@@ -168,22 +183,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 2,
-   "source_name": "Naver 뉴스"
-  },
-  {
-   "id": "7b656efd206f6d58",
-   "title": "추석 연휴 해남 관광지 문 연다…케이블카 야간 운행도 연장",
-   "url": "http://www.newsmaker.or.kr/news/articleView.html?idxno=183196",
-   "published_at": "2026-09-23T11:56:00+09:00",
-   "summary": "땅끝 오토캠핑장 과 땅끝황토나라테마촌은 추석 전날과 당일인 24~25일 휴장한다. 우수영관광지와 명량대첩 해전사 전시기념관도 문을 연다. 우수영 명량대첩해전사기념관 앞 광장에서는 투호던지기와 공기놀이 등...",
-   "tags": [
-    "캠핑",
-    "오토캠핑장"
-   ],
-   "metrics": {},
-   "is_new": false,
-   "streak_days": 2,
+   "streak_days": 3,
    "source_name": "Naver 뉴스"
   },
   {
@@ -198,7 +198,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 2,
+   "streak_days": 3,
    "source_name": "Naver 뉴스"
   },
   {
@@ -213,7 +213,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 2,
+   "streak_days": 3,
    "source_name": "Naver 뉴스"
   },
   {
@@ -228,7 +228,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 2,
+   "streak_days": 3,
    "source_name": "Naver 뉴스"
   },
   {
@@ -243,7 +243,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 3,
+   "streak_days": 4,
    "source_name": "Naver 뉴스"
   },
   {
@@ -258,7 +258,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 3,
+   "streak_days": 4,
    "source_name": "Naver 뉴스"
   },
   {
@@ -273,7 +273,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 3,
+   "streak_days": 4,
    "source_name": "Naver 뉴스"
   },
   {
@@ -288,7 +288,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 3,
+   "streak_days": 4,
    "source_name": "Naver 뉴스"
   },
   {
@@ -303,7 +303,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 3,
+   "streak_days": 4,
    "source_name": "Naver 뉴스"
   },
   {
@@ -318,7 +318,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 3,
+   "streak_days": 4,
    "source_name": "Naver 뉴스"
   },
   {
@@ -333,7 +333,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 3,
+   "streak_days": 4,
    "source_name": "Naver 뉴스"
   },
   {
@@ -348,7 +348,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 4,
+   "streak_days": 5,
    "source_name": "Naver 뉴스"
   },
   {
@@ -363,7 +363,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 4,
+   "streak_days": 5,
    "source_name": "Naver 뉴스"
   },
   {
@@ -378,7 +378,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 4,
+   "streak_days": 5,
    "source_name": "Naver 뉴스"
   },
   {
@@ -393,7 +393,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 4,
+   "streak_days": 5,
    "source_name": "Naver 뉴스"
   },
   {
@@ -408,7 +408,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 4,
+   "streak_days": 5,
    "source_name": "Naver 뉴스"
   },
   {
@@ -423,7 +423,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 7,
+   "streak_days": 8,
    "source_name": "Naver 뉴스"
   },
   {
@@ -438,7 +438,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 7,
+   "streak_days": 8,
    "source_name": "Naver 뉴스"
   },
   {
@@ -453,7 +453,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 7,
+   "streak_days": 8,
    "source_name": "Naver 뉴스"
   }
  ],
@@ -462,7 +462,7 @@
   "count": 30,
   "warn": [
    "고캠핑 API: 키 없음(DATA_GO_KR_KEY)",
-   "어제와 동일 93%"
+   "어제와 동일 97%"
   ],
   "error": null,
   "level": "warn",
