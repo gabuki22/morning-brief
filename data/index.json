@@ -1,6 +1,6 @@
 {
- "built_at": "2026-09-26T08:59:41+09:00",
- "date": "2026-09-26",
+ "built_at": "2026-09-27T08:40:42+09:00",
+ "date": "2026-09-27",
  "site": {
   "title": "모닝브리프",
   "locations": [
@@ -55,15 +55,17 @@
    "count": 7,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-09-26T08:58:07+09:00",
+   "fetched_at": "2026-09-27T08:40:09+09:00",
    "repeat_ratio": 0.857
   },
   "fx": {
-   "level": "ok",
+   "level": "warn",
    "count": 3,
-   "warn": [],
+   "warn": [
+    "링크 확인 실패 3/3"
+   ],
    "block": [],
-   "fetched_at": "2026-09-26T08:58:07+09:00",
+   "fetched_at": "2026-09-27T08:40:09+09:00",
    "repeat_ratio": 1.0
   },
   "news": {
@@ -71,7 +73,7 @@
    "count": 135,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-09-26T08:58:20+09:00",
+   "fetched_at": "2026-09-27T08:40:20+09:00",
    "repeat_ratio": 0.0
   },
   "markets": {
@@ -79,7 +81,7 @@
    "count": 5,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-09-26T08:58:20+09:00",
+   "fetched_at": "2026-09-27T08:40:20+09:00",
    "repeat_ratio": 1.0
   },
   "crypto": {
@@ -87,46 +89,44 @@
    "count": 10,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-09-26T08:58:24+09:00",
+   "fetched_at": "2026-09-27T08:40:25+09:00",
    "repeat_ratio": 1.0
   },
   "realestate": {
    "level": "warn",
-   "count": 38,
+   "count": 33,
    "warn": [
     "LH·온비드 공공데이터 API: 키 없음(DATA_GO_KR_KEY) — 뉴스·바로가기만",
-    "어제와 동일 50%"
+    "어제와 동일 61%"
    ],
    "block": [],
-   "fetched_at": "2026-09-26T08:58:29+09:00",
-   "repeat_ratio": 0.5
+   "fetched_at": "2026-09-27T08:40:29+09:00",
+   "repeat_ratio": 0.606
   },
   "it": {
-   "level": "warn",
+   "level": "ok",
    "count": 60,
-   "warn": [
-    "전자신문 실패: URLError"
-   ],
+   "warn": [],
    "block": [],
-   "fetched_at": "2026-09-26T08:59:32+09:00",
-   "repeat_ratio": 0.167
+   "fetched_at": "2026-09-27T08:40:32+09:00",
+   "repeat_ratio": 0.183
   },
   "auto": {
    "level": "warn",
    "count": 60,
    "warn": [
-    "어제와 동일 97%"
+    "어제와 동일 93%"
    ],
    "block": [],
-   "fetched_at": "2026-09-26T08:59:37+09:00",
-   "repeat_ratio": 0.967
+   "fetched_at": "2026-09-27T08:40:37+09:00",
+   "repeat_ratio": 0.933
   },
   "publicdata": {
    "level": "ok",
    "count": 10,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-09-26T08:59:38+09:00",
+   "fetched_at": "2026-09-27T08:40:38+09:00",
    "repeat_ratio": 0.9
   },
   "leisure": {
@@ -134,63 +134,63 @@
    "count": 30,
    "warn": [
     "고캠핑 API: 키 없음(DATA_GO_KR_KEY)",
-    "어제와 동일 97%"
+    "어제와 동일 87%"
    ],
    "block": [],
-   "fetched_at": "2026-09-26T08:59:41+09:00",
-   "repeat_ratio": 0.967
+   "fetched_at": "2026-09-27T08:40:42+09:00",
+   "repeat_ratio": 0.867
   }
  },
  "must_know": [
   {
    "module": "news",
    "item_ids": [
-    "a88dbe2e70b3147c"
+    "600f7c6e0490651a"
    ],
-   "title": "10년 전 1억 투자했다면…엔비디아 138억·SK하닉 47억·은마아파트 2.9억",
-   "url": "https://www.donga.com/news/Economy/article/all/20260926/134733671/1",
+   "title": "트럼프 “중국도 만족할 것”, 시진핑 “안정 관계 발전”···무역 휴전 2달 연장 - 경향신문",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JbjVscEs2Z3FBVUZGbE81bVU3eU9oSUFCN0lyNzBXRC02aGtMSHcyWEhuQTVRX1o3UDdReEZIek5FX2RHQWVPem9kMHNQMl92V0xYS09nSVBPd9IBX0FVX3lxTE1pRXZ2aGNYblY3MTQzcHFldU9nNTBWd0RyUnlJN2VTTWNOSnRVWEVJdU81UGt0ZUtUcFU0QWN5dGRWUTF6eGROQUlZNWRDWDd1eWlhR29qYXYzLTI3MDVz?oc=5",
+   "why": "매체 1곳 · AI·IT·경제",
+   "score": 10
+  },
+  {
+   "module": "news",
+   "item_ids": [
+    "2343c8b198d84a87"
+   ],
+   "title": "“월세 200만원 받는 6억 집, 비싼걸까?” … AI가 찾아낸 적정가격의 비밀",
+   "url": "https://www.mk.co.kr/news/economy/12159700",
    "why": "매체 1곳 · AI·IT·부동산",
    "score": 10
   },
   {
    "module": "news",
    "item_ids": [
-    "bdc46bf2d5ecdac9"
+    "712073aa60547027"
    ],
-   "title": "[다음주 경제] 반도체 생산 얼마나 늘었나…물가·금리 지표도 발표",
-   "url": "https://www.yna.co.kr/view/AKR20260926014400002",
-   "why": "매체 1곳 · IT·경제·신기술",
-   "score": 10
+   "title": "\"직원은 수억원 주면서 우리는?\"…반도체 성과급 잔치의 그늘 [강진구의 회사법 뜨락]",
+   "url": "https://www.hankyung.com/article/202609234174i",
+   "why": "매체 1곳 · IT·신기술",
+   "score": 8
   },
   {
    "module": "news",
    "item_ids": [
-    "ac56e2cb9f5912a7"
+    "cc53294d8532a6f4"
    ],
-   "title": "“영통구 열기 뜨겁다더니”…이창섭 ‘51평’ 집값 제자리, 이유 보니?",
-   "url": "https://www.mk.co.kr/news/realestate/12161533",
-   "why": "매체 1곳 · IT·부동산·신기술",
-   "score": 10
+   "title": "스마트폰·코로나·챗GPT 세 번의 충격 … 상가 절반 공실도 이상하지 않은 이유 [리테일 상권 대모 1편]",
+   "url": "https://www.mk.co.kr/news/realestate/12160916",
+   "why": "매체 1곳 · IT·부동산",
+   "score": 8
   },
   {
-   "module": "news",
+   "module": "crypto",
    "item_ids": [
-    "e0d589450db5a838"
+    "f6b18db9a4f56551"
    ],
-   "title": "“78층인데 구조대 오나요?” 55% 빠진 현대차…증권사도 목표가 줄하향",
-   "url": "https://www.mk.co.kr/news/stock/12161547",
-   "why": "매체 1곳 · AI·IT·자동차",
-   "score": 9
-  },
-  {
-   "module": "news",
-   "item_ids": [
-    "18d71a39259e41cb"
-   ],
-   "title": "금리 올려도 안 풀리는 엔캐리…최대 2조달러 '청산 시한폭탄' 커지나 [김주완의 글로벌머니 X파일]",
-   "url": "https://www.hankyung.com/article/202609232798i",
-   "why": "매체 1곳 · 경제",
-   "score": 6
+   "title": "Zcash (ZEC) ₩2,242,851",
+   "url": "https://www.coingecko.com/en/coins/zcash",
+   "why": "큰 변동 · 24시간 +6.47% · 7일 +12.64% · 시총 9위 · 이슈: 비트겟, 5258억원 보안사고 후 출금 일정 공개",
+   "score": 0
   }
  ],
  "banned_hits": 0
