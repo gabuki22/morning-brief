@@ -1,6 +1,6 @@
 {
- "built_at": "2026-09-27T08:40:42+09:00",
- "date": "2026-09-27",
+ "built_at": "2026-09-28T08:52:27+09:00",
+ "date": "2026-09-28",
  "site": {
   "title": "모닝브리프",
   "locations": [
@@ -55,25 +55,25 @@
    "count": 7,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-09-27T08:40:09+09:00",
+   "fetched_at": "2026-09-28T08:50:40+09:00",
    "repeat_ratio": 0.857
   },
   "fx": {
-   "level": "warn",
+   "level": "ok",
    "count": 3,
-   "warn": [
-    "링크 확인 실패 3/3"
-   ],
+   "warn": [],
    "block": [],
-   "fetched_at": "2026-09-27T08:40:09+09:00",
+   "fetched_at": "2026-09-28T08:50:41+09:00",
    "repeat_ratio": 1.0
   },
   "news": {
-   "level": "ok",
-   "count": 135,
-   "warn": [],
+   "level": "warn",
+   "count": 120,
+   "warn": [
+    "구글뉴스 KR 실패: HTTPError"
+   ],
    "block": [],
-   "fetched_at": "2026-09-27T08:40:20+09:00",
+   "fetched_at": "2026-09-28T08:50:59+09:00",
    "repeat_ratio": 0.0
   },
   "markets": {
@@ -81,7 +81,7 @@
    "count": 5,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-09-27T08:40:20+09:00",
+   "fetched_at": "2026-09-28T08:50:59+09:00",
    "repeat_ratio": 1.0
   },
   "crypto": {
@@ -89,108 +89,111 @@
    "count": 10,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-09-27T08:40:25+09:00",
+   "fetched_at": "2026-09-28T08:51:02+09:00",
    "repeat_ratio": 1.0
   },
   "realestate": {
    "level": "warn",
-   "count": 33,
+   "count": 31,
    "warn": [
     "LH·온비드 공공데이터 API: 키 없음(DATA_GO_KR_KEY) — 뉴스·바로가기만",
-    "어제와 동일 61%"
+    "어제와 동일 23%"
    ],
    "block": [],
-   "fetched_at": "2026-09-27T08:40:29+09:00",
-   "repeat_ratio": 0.606
+   "fetched_at": "2026-09-28T08:51:06+09:00",
+   "repeat_ratio": 0.226
   },
   "it": {
-   "level": "ok",
+   "level": "warn",
    "count": 60,
-   "warn": [],
+   "warn": [
+    "전자신문 실패: URLError",
+    "어제와 동일 28%"
+   ],
    "block": [],
-   "fetched_at": "2026-09-27T08:40:32+09:00",
-   "repeat_ratio": 0.183
+   "fetched_at": "2026-09-28T08:52:08+09:00",
+   "repeat_ratio": 0.283
   },
   "auto": {
    "level": "warn",
    "count": 60,
    "warn": [
-    "어제와 동일 93%"
+    "어제와 동일 95%"
    ],
    "block": [],
-   "fetched_at": "2026-09-27T08:40:37+09:00",
-   "repeat_ratio": 0.933
+   "fetched_at": "2026-09-28T08:52:12+09:00",
+   "repeat_ratio": 0.95
   },
   "publicdata": {
    "level": "ok",
    "count": 10,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-09-27T08:40:38+09:00",
-   "repeat_ratio": 0.9
+   "fetched_at": "2026-09-28T08:52:24+09:00",
+   "repeat_ratio": 1.0
   },
   "leisure": {
    "level": "warn",
    "count": 30,
    "warn": [
     "고캠핑 API: 키 없음(DATA_GO_KR_KEY)",
-    "어제와 동일 87%"
+    "어제와 동일 63%"
    ],
    "block": [],
-   "fetched_at": "2026-09-27T08:40:42+09:00",
-   "repeat_ratio": 0.867
+   "fetched_at": "2026-09-28T08:52:27+09:00",
+   "repeat_ratio": 0.633
   }
  },
  "must_know": [
   {
    "module": "news",
    "item_ids": [
-    "600f7c6e0490651a"
+    "a854853ce323409d"
    ],
-   "title": "트럼프 “중국도 만족할 것”, 시진핑 “안정 관계 발전”···무역 휴전 2달 연장 - 경향신문",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JbjVscEs2Z3FBVUZGbE81bVU3eU9oSUFCN0lyNzBXRC02aGtMSHcyWEhuQTVRX1o3UDdReEZIek5FX2RHQWVPem9kMHNQMl92V0xYS09nSVBPd9IBX0FVX3lxTE1pRXZ2aGNYblY3MTQzcHFldU9nNTBWd0RyUnlJN2VTTWNOSnRVWEVJdU81UGt0ZUtUcFU0QWN5dGRWUTF6eGROQUlZNWRDWDd1eWlhR29qYXYzLTI3MDVz?oc=5",
+   "title": "“추석도 지났고, 내 주식은 어디로 가나?”…美 물가·마이크론 실적에 쏠린 눈",
+   "url": "https://www.mk.co.kr/news/stock/12162236",
    "why": "매체 1곳 · AI·IT·경제",
    "score": 10
   },
   {
    "module": "news",
    "item_ids": [
-    "2343c8b198d84a87"
+    "cc6f42fdfe9e9136"
    ],
-   "title": "“월세 200만원 받는 6억 집, 비싼걸까?” … AI가 찾아낸 적정가격의 비밀",
-   "url": "https://www.mk.co.kr/news/economy/12159700",
-   "why": "매체 1곳 · AI·IT·부동산",
-   "score": 10
+   "title": "오픈AI·앤트로픽, AI 보안사고 수만 건 조사…최고 성능 모델 훈련 중단",
+   "url": "https://www.hani.co.kr/arti/international/america/1279692.html",
+   "why": "매체 1곳 · AI·IT·사회",
+   "score": 8
   },
   {
    "module": "news",
    "item_ids": [
-    "712073aa60547027"
+    "42d1dca4d4e11dc9"
    ],
-   "title": "\"직원은 수억원 주면서 우리는?\"…반도체 성과급 잔치의 그늘 [강진구의 회사법 뜨락]",
-   "url": "https://www.hankyung.com/article/202609234174i",
+   "title": "SK증권 \"서진시스템, 하반기 수익성 회복 전망…목표가↑\"",
+   "url": "https://www.yna.co.kr/view/AKR20260928020800008",
    "why": "매체 1곳 · IT·신기술",
    "score": 8
   },
   {
    "module": "news",
    "item_ids": [
-    "cc53294d8532a6f4"
+    "5403f9c1fafafe31"
    ],
-   "title": "스마트폰·코로나·챗GPT 세 번의 충격 … 상가 절반 공실도 이상하지 않은 이유 [리테일 상권 대모 1편]",
-   "url": "https://www.mk.co.kr/news/realestate/12160916",
-   "why": "매체 1곳 · IT·부동산",
+   "title": "SK證 “서진시스템, 반도체 장비·ESS 모두 성장세…목표가 7만원 상향\"",
+   "url": "https://www.chosun.com/economy/stock-finance/2026/09/28/GNSDGZRVGAYGGNDDGMYWMYRZHE/",
+   "why": "매체 1곳 · IT·신기술",
    "score": 8
   },
   {
-   "module": "crypto",
+   "module": "news",
    "item_ids": [
-    "f6b18db9a4f56551"
+    "39f99d06c8d769af"
    ],
-   "title": "Zcash (ZEC) ₩2,242,851",
-   "url": "https://www.coingecko.com/en/coins/zcash",
-   "why": "큰 변동 · 24시간 +6.47% · 7일 +12.64% · 시총 9위 · 이슈: 비트겟, 5258억원 보안사고 후 출금 일정 공개",
-   "score": 0
+   "title": "‘미중 우호 상징’ 中판다 핑핑·푸솽, 미국 도착",
+   "url": "https://www.donga.com/news/Inter/article/all/20260928/134740742/1",
+   "why": "매체 1곳 · 국제·부동산",
+   "score": 6
   }
  ],
  "banned_hits": 0
