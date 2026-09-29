@@ -1,6 +1,6 @@
 {
- "built_at": "2026-09-28T08:52:27+09:00",
- "date": "2026-09-28",
+ "built_at": "2026-09-29T10:03:31+09:00",
+ "date": "2026-09-29",
  "site": {
   "title": "모닝브리프",
   "locations": [
@@ -55,25 +55,25 @@
    "count": 7,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-09-28T08:50:40+09:00",
+   "fetched_at": "2026-09-29T10:02:58+09:00",
    "repeat_ratio": 0.857
   },
   "fx": {
-   "level": "ok",
+   "level": "warn",
    "count": 3,
-   "warn": [],
+   "warn": [
+    "링크 확인 실패 3/3"
+   ],
    "block": [],
-   "fetched_at": "2026-09-28T08:50:41+09:00",
+   "fetched_at": "2026-09-29T10:02:58+09:00",
    "repeat_ratio": 1.0
   },
   "news": {
-   "level": "warn",
-   "count": 120,
-   "warn": [
-    "구글뉴스 KR 실패: HTTPError"
-   ],
+   "level": "ok",
+   "count": 135,
+   "warn": [],
    "block": [],
-   "fetched_at": "2026-09-28T08:50:59+09:00",
+   "fetched_at": "2026-09-29T10:03:09+09:00",
    "repeat_ratio": 0.0
   },
   "markets": {
@@ -81,7 +81,7 @@
    "count": 5,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-09-28T08:50:59+09:00",
+   "fetched_at": "2026-09-29T10:03:09+09:00",
    "repeat_ratio": 1.0
   },
   "crypto": {
@@ -89,47 +89,43 @@
    "count": 10,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-09-28T08:51:02+09:00",
+   "fetched_at": "2026-09-29T10:03:14+09:00",
    "repeat_ratio": 1.0
   },
   "realestate": {
    "level": "warn",
-   "count": 31,
+   "count": 21,
    "warn": [
-    "LH·온비드 공공데이터 API: 키 없음(DATA_GO_KR_KEY) — 뉴스·바로가기만",
-    "어제와 동일 23%"
+    "LH·온비드 공공데이터 API: 키 없음(DATA_GO_KR_KEY) — 뉴스·바로가기만"
    ],
    "block": [],
-   "fetched_at": "2026-09-28T08:51:06+09:00",
-   "repeat_ratio": 0.226
+   "fetched_at": "2026-09-29T10:03:18+09:00",
+   "repeat_ratio": 0.19
   },
   "it": {
-   "level": "warn",
+   "level": "ok",
    "count": 60,
-   "warn": [
-    "전자신문 실패: URLError",
-    "어제와 동일 28%"
-   ],
+   "warn": [],
    "block": [],
-   "fetched_at": "2026-09-28T08:52:08+09:00",
-   "repeat_ratio": 0.283
+   "fetched_at": "2026-09-29T10:03:21+09:00",
+   "repeat_ratio": 0.0
   },
   "auto": {
    "level": "warn",
    "count": 60,
    "warn": [
-    "어제와 동일 95%"
+    "어제와 동일 63%"
    ],
    "block": [],
-   "fetched_at": "2026-09-28T08:52:12+09:00",
-   "repeat_ratio": 0.95
+   "fetched_at": "2026-09-29T10:03:26+09:00",
+   "repeat_ratio": 0.633
   },
   "publicdata": {
    "level": "ok",
    "count": 10,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-09-28T08:52:24+09:00",
+   "fetched_at": "2026-09-29T10:03:28+09:00",
    "repeat_ratio": 1.0
   },
   "leisure": {
@@ -140,7 +136,7 @@
     "어제와 동일 63%"
    ],
    "block": [],
-   "fetched_at": "2026-09-28T08:52:27+09:00",
+   "fetched_at": "2026-09-29T10:03:31+09:00",
    "repeat_ratio": 0.633
   }
  },
@@ -148,52 +144,52 @@
   {
    "module": "news",
    "item_ids": [
-    "a854853ce323409d"
+    "ab48553772cf8815"
    ],
-   "title": "“추석도 지났고, 내 주식은 어디로 가나?”…美 물가·마이크론 실적에 쏠린 눈",
-   "url": "https://www.mk.co.kr/news/stock/12162236",
-   "why": "매체 1곳 · AI·IT·경제",
-   "score": 10
+   "title": "[속보] 靑 \"지뢰사고 현장조사, 군사적 판단…대통령 유엔 연설과 무관\"",
+   "url": "https://www.hankyung.com/article/2026092908397",
+   "why": "매체 6곳 · 사회·정치",
+   "score": 15
   },
   {
    "module": "news",
    "item_ids": [
-    "cc6f42fdfe9e9136"
+    "bedb17a607c3221b"
    ],
-   "title": "오픈AI·앤트로픽, AI 보안사고 수만 건 조사…최고 성능 모델 훈련 중단",
-   "url": "https://www.hani.co.kr/arti/international/america/1279692.html",
-   "why": "매체 1곳 · AI·IT·사회",
+   "title": "전세계 ‘로봇 일꾼’ 500만대…산업용도 휴머노이드도 중국이 장악",
+   "url": "https://www.hani.co.kr/arti/science/technology/1279900.html",
+   "why": "매체 1곳 · 국제·부동산·신기술",
    "score": 8
   },
   {
    "module": "news",
    "item_ids": [
-    "42d1dca4d4e11dc9"
+    "4c8069be47dd4c59"
    ],
-   "title": "SK증권 \"서진시스템, 하반기 수익성 회복 전망…목표가↑\"",
-   "url": "https://www.yna.co.kr/view/AKR20260928020800008",
-   "why": "매체 1곳 · IT·신기술",
+   "title": "연구자 22명 “AI가 AI 만드는 ‘지능 폭발’ 대비…인류 멸종 이어질 수도”",
+   "url": "https://www.hani.co.kr/arti/international/america/1279889.html",
+   "why": "매체 1곳 · AI·IT",
    "score": 8
   },
   {
    "module": "news",
    "item_ids": [
-    "5403f9c1fafafe31"
+    "f865e0d701c3f18a"
    ],
-   "title": "SK證 “서진시스템, 반도체 장비·ESS 모두 성장세…목표가 7만원 상향\"",
-   "url": "https://www.chosun.com/economy/stock-finance/2026/09/28/GNSDGZRVGAYGGNDDGMYWMYRZHE/",
-   "why": "매체 1곳 · IT·신기술",
+   "title": "교황, AI 인류위협론 “가짜뉴스 아냐”···트럼프 주장에 정면 반박",
+   "url": "https://www.khan.co.kr/article/202609290835001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "why": "매체 1곳 · AI·IT·국제",
    "score": 8
   },
   {
-   "module": "news",
+   "module": "crypto",
    "item_ids": [
-    "39f99d06c8d769af"
+    "f6b18db9a4f56551"
    ],
-   "title": "‘미중 우호 상징’ 中판다 핑핑·푸솽, 미국 도착",
-   "url": "https://www.donga.com/news/Inter/article/all/20260928/134740742/1",
-   "why": "매체 1곳 · 국제·부동산",
-   "score": 6
+   "title": "Zcash (ZEC) ₩1,975,292",
+   "url": "https://www.coingecko.com/en/coins/zcash",
+   "why": "큰 변동 · 24시간 -7.68% · 7일 -1.33% · 시총 9위 · 이슈: \"10월엔 무조건 올랐다\"...비트 코인 (BTC) 업토버, 이번에도 통",
+   "score": 0
   }
  ],
  "banned_hits": 0

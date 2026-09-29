@@ -1,6 +1,6 @@
 {
  "module": "realestate",
- "fetched_at": "2026-09-28T08:51:06+09:00",
+ "fetched_at": "2026-09-29T10:03:18+09:00",
  "source": {
   "name": "RSS 6곳",
   "url": "https://www.hankyung.com/feed/realestate",
@@ -8,13 +8,29 @@
  },
  "items": [
   {
-   "id": "f75303440e703ac9",
-   "title": "10월, 50개 단지 3만8032가구 분양 예정",
-   "url": "https://www.chosun.com/economy/real_estate/2026/09/28/GNTGKMJWGJTDENDFHE4DSNDDMU/",
-   "published_at": "2026-09-28T08:17:34+09:00",
-   "summary": "다음 달 전국 50개 아파트 단지에서 3만8000여 가구가 분양된다. 28일 부동산 플랫폼 직방에 따르면 10월 전국 아파트 분양 예정 물량은 50개 단지, 3만 8032가구로 집계됐다. 전년 동월(26개 단지·2만3667가구) 대비 1만4365가구(61%) 많은 규모다. 일반분양은 3",
+   "id": "47172c6bdaf6ee67",
+   "title": "아파트 대신 ‘아파텔’…대형 오피스텔 가격 1년 새 8%↑",
+   "url": "https://www.donga.com/news/Economy/article/all/20260929/134749596/1",
+   "published_at": "2026-09-29T09:52:40+09:00",
+   "summary": "서울 아파트 매매와 임대차 시장 부담이 커지면서 이른바 ‘아파텔’로 불리는 중대형 오피스텔로 대체 수요가 몰리고 있다. 최근 1년간 전용 85㎡ 초과 대형 오피스텔 가격은 8% 넘게 오른 반면 30㎡ 이하 초소형은 1% 이상 하락하는 등 면적별 온도차가 뚜렷하게 나타났다.29일 KB부동",
    "tags": [
-    "부동산"
+    "부동산",
+    "수도권"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "동아일보 경제"
+  },
+  {
+   "id": "4a7daa86dbb44b44",
+   "title": "신도시 재건축 시공사 입찰 전쟁 돌입.. 산본9-2구역서 현대 대우 등 5개사 경쟁",
+   "url": "https://www.chosun.com/economy/realty/redevelop/2026/09/29/MQYWMNJSMZRWCOLGMZTDCNBQG4/",
+   "published_at": "2026-09-29T09:45:57+09:00",
+   "summary": "[땅집고] 경기 군포시 산본신도시 선도지구인 산본9-2구역 재건축 시공사 선정에 대우건설·GS건설·금호건설·제일건설·현대건설 등 5개 대형 건설사가 출사표를 던졌다. 기존 1262가구에서 3376가구 규모로 탈바꿈하는 산본9-2구역이 ‘1기 신도시 선도지구’ 가운데 처음으로 시공사 선정",
+   "tags": [
+    "부동산",
+    "수도권"
    ],
    "metrics": {},
    "is_new": true,
@@ -22,11 +38,70 @@
    "source_name": "조선일보 경제"
   },
   {
-   "id": "91941f71dacc815d",
-   "title": "지하철역 먼 개포동···강남구, 242번 증차·2413번 배차간격 조정[서울25]",
-   "url": "https://www.khan.co.kr/article/202609280757001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
-   "published_at": "2026-09-28T07:57:00+09:00",
-   "summary": "서울 강남구청 청사 전경. 강남구 제공서울 강남구가 대규모 재건축 아파트 입주로 늘어난 개포동 주민의 버스 수요에 대응하기 위해 28일 첫 차부터 2413번 출퇴근 시간대 배차간격을 1~2분 단축한다고 이날 밝혔다. 242번은 시내버스 1대를 증차했다.구 관계자는 “출퇴근 시간대 혼잡을",
+   "id": "e7a764a33c021da8",
+   "title": "\"집값 잡겠다는 망상에 빠진 정부가 국민 뒤통수 쳤다\"…서울대 교수, 토허제 유예 작심 비판",
+   "url": "https://www.chosun.com/economy/realty/realestate_news/2026/09/29/G4ZGCYLCMIZDMYLFMVRTMNZTHE/",
+   "published_at": "2026-09-29T09:37:56+09:00",
+   "summary": "[땅집고] 김경민 서울대 도시계획학과 교수는 정부가 토지거래허가구역 실거래 의무 유예를 2027년 말까지 연장한 데 대해 \"정부 말 듣고 정부를 신뢰한 매도자들이 뒤통수를 맞은 것\"이라고 비판했다. 김 교수는 최근 유튜브 '손에잡히는경제'에 출연해 진행자 박정호 명지대 교수와의 대담에서",
+   "tags": [
+    "부동산",
+    "수도권"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "조선일보 경제"
+  },
+  {
+   "id": "292cc2c95bea50f8",
+   "title": "서울 원룸 평균 전셋값 2억2228만원…한 달 새 293만원 올랐다",
+   "url": "https://www.donga.com/news/Economy/article/all/20260929/134749068/1",
+   "published_at": "2026-09-29T08:49:38+09:00",
+   "summary": "지난달 서울 원룸의 평균 전세보증금은 전달 대비 1.3% 상승한 2억2228만원으로 나타났다. 29일 부동산 정보 플랫폼 다방이 국토교통부 실거래가를 바탕으로 분석한 ‘8월 다방여지도’에 따르면, 서울 지역 연립·다세대 원룸(전용면적 33㎡ 이하)의 평균 전세보증금은 2억2228만원, ",
+   "tags": [
+    "부동산",
+    "수도권"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "동아일보 경제"
+  },
+  {
+   "id": "a819f316bc97cf94",
+   "title": "서울 원룸 월세 내렸다는데…용산 세입자 '울상'",
+   "url": "https://www.hankyung.com/article/2026092908836",
+   "published_at": "2026-09-29T08:39:29+09:00",
+   "summary": "",
+   "tags": [
+    "부동산",
+    "수도권"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "한국경제 부동산"
+  },
+  {
+   "id": "f1ab774663fdd03f",
+   "title": "\"석달 머뭇거리다 2억 더 줬다\"…강북 아파트까지 번진 '지각비' [시장톡]",
+   "url": "https://www.hankyung.com/article/2026092887436",
+   "published_at": "2026-09-29T06:30:04+09:00",
+   "summary": "",
+   "tags": [
+    "부동산"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "한국경제 부동산"
+  },
+  {
+   "id": "dc1f5c410f318454",
+   "title": "[단독]224억 벌려다 2720억 빚 떠안게 생겨···불법이라는데 빚은 하도급사가 갚아라?",
+   "url": "https://www.khan.co.kr/article/202609290600101/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
+   "published_at": "2026-09-29T06:00:10+09:00",
+   "summary": "수도권 일대에 우후죽순 지어진 생활형숙박시설과 오피스텔, 지식산업센터 등에는 공실로 임대 광고가 붙은 현수막을 쉽게 볼 수 있다. 경향신문 자료사진. (해당 건물은 본 기사와 관련없음)배전 시공 전문 건설사인 A사는 2021년 12월 경기도 양주시 옥정 지식산업센터 공사에 하도급사로 참",
    "tags": [
     "부동산",
     "수도권"
@@ -37,88 +112,11 @@
    "source_name": "경향신문 경제"
   },
   {
-   "id": "f2fb8ccf3c0e9af2",
-   "title": "\"다주택 규제 피하자\"…집합건물 다소유자 7년9개월만에 최저",
-   "url": "https://www.yna.co.kr/view/AKR20260926024500003",
-   "published_at": "2026-09-28T06:01:02+09:00",
-   "summary": "(서울=연합뉴스) 서미숙 기자 = 지난달 전국에 집합건물(아파트, 오피스텔, 연립주택 등)을 2채 이상 보유한 다소유자 비율이 7년 9개월 만에...",
-   "tags": [
-    "부동산",
-    "수도권"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "연합뉴스 경제"
-  },
-  {
-   "id": "fedb88a3e1a0e5eb",
-   "title": "서울시, 공시가격 검증지원센터 세미나…지자체 역할 확대 논의",
-   "url": "https://www.yna.co.kr/view/AKR20260927017800004",
-   "published_at": "2026-09-28T06:00:08+09:00",
-   "summary": "(서울=연합뉴스) 김준태 기자 = 서울시는 지난 18일 서울시청에서 '부동산공시가격 검증지원센터를 통한 지자체의 역할·역량강화' 정책세미나를 열...",
-   "tags": [
-    "부동산",
-    "수도권"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "연합뉴스 경제"
-  },
-  {
-   "id": "7ac8f032a17d977b",
-   "title": "'초고층의 저주' 뚫은 삼성전자 ..'도곡동 타워팰리스'의 숨겨진 비밀",
-   "url": "https://www.chosun.com/economy/realty/realestate_news/2026/09/28/GVQTKOLGGY3GEZTGMJTDANBRGA/",
-   "published_at": "2026-09-28T06:00:00+09:00",
-   "summary": "[땅집고] 서울 강남구 도곡동 ‘타워팰리스’. 2002년 입주한 국내 최초의 주상복합아파트로, 올해 들어 30평대가 30억원을 웃돌 정도로 집값이 비싸 강남권 대장주라는 인식이 강하다. 그런데 과거 이 타워팰리스 부지에 삼성전자의 102층 높이 복합업무단지가 들어설 뻔 했다는 사실을 기",
-   "tags": [
-    "부동산",
-    "수도권"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "조선일보 경제"
-  },
-  {
-   "id": "8d37a27db6e84d96",
-   "title": "인천 가정동 국평 아파트 4.1억부터…호가 없는 아파트 경매, 사도 될까",
-   "url": "https://www.chosun.com/economy/realty/investment_trends/2026/09/28/GUZDOMLCMNSGMNZTGE2WCNDDHA/",
-   "published_at": "2026-09-28T06:00:00+09:00",
-   "summary": "인공지능(AI) 기반 경매정보 플랫폼 땅집고옥션(▶바로가기)이 개발한 ‘만능검색’ 시스템을 통해 전국 법원에서 입찰하는 경매 물건 중 알짜 정보만 골라 여러분에게 매일 배달합니다. 만능검색은 클릭 몇 번으로 전국 모든 경매 물건 가운데 내가 원하는 시점, 지역만 선택하면 수익성과 안정성",
-   "tags": [
-    "부동산",
-    "수도권",
-    "경매",
-    "AI"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "조선일보 경제"
-  },
-  {
-   "id": "863dba5ecd3351d4",
-   "title": "지도 펴면 보인다, 서울 강남 대체할 새 중심축은 ‘용서마여’",
-   "url": "https://www.chosun.com/economy/money/2026/09/28/Q5UPY3TAANCNZLCIAP3666J7UA/",
-   "published_at": "2026-09-28T05:30:00+09:00",
-   "summary": "28일 방송된 조선일보 경제부 유튜브 조선일보 머니 ‘머니 명강’에는 도시문헌학자 김시덕 박사가 출연해 서울 강남의 대체지로 서울 용산·서대문·마포·여의도(용서마여) 지역을 주목해야 한다고 강조했다. 부동산 가격표만 보고 묶는 ‘마용성(마포·용산·성동)’ 대신 도심의 복합 기능이 몰려드",
-   "tags": [
-    "부동산",
-    "수도권"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "조선일보 경제"
-  },
-  {
-   "id": "43c70197eeeb3efe",
-   "title": "서울 아파트값 85주째 올라 ‘역대 최장’ 타이… 전월세도 동반상승",
-   "url": "https://www.donga.com/news/Economy/article/all/20260928/134739694/2",
-   "published_at": "2026-09-28T04:30:00+09:00",
-   "summary": "서울 아파트 가격이 85주 연속 오르며 역대 최장 상승 기록과 같아졌다. 보유세 강화 방침을 담은 세제 개편안 여파로 강남3구(서초구, 강남구, 송파구)의 집값은 떨어지고 있지만 15억 원 이하 아파트가 많은 지역이 높은 상승률을 보이며 서울 전체로는 상승세가 이어지고 있다. 동시에 전",
+   "id": "9e13ffa529710ec0",
+   "title": "집값 뛰자 ‘영끌’ 신혼부부 빚 부담도 급증… 대출 중앙값 8년새 7778만→1억7900만원",
+   "url": "https://www.donga.com/news/Economy/article/all/20260929/134747988/2",
+   "published_at": "2026-09-29T04:30:00+09:00",
+   "summary": "결혼 3년 차인 직장인 노상훈(가명·32) 씨 부부는 서울 영등포구 신길동의 전셋집에서 살고 있다. 여의도에 직장을 둔 노 씨 부부는 최근 서울 마포·서대문구에서 8억 원 안팎 아파트를 알아봤다가 사실상 포기했다. 노 씨는 “맞벌이를 해도 수억 원대 대출 없이는 서울에서 집을 사기 어렵",
    "tags": [
     "부동산",
     "수도권"
@@ -129,72 +127,11 @@
    "source_name": "동아일보 경제"
   },
   {
-   "id": "0fb08938c2642687",
-   "title": "2호선 구로디지털단지역 직통 연결… 영등포 770실 오피스텔 내달 분양",
-   "url": "https://www.donga.com/news/Economy/article/all/20260924/134721989/2",
-   "published_at": "2026-09-28T04:30:00+09:00",
-   "summary": "㈜BYC가 서울 영등포구 옛 BYC 본사 부지에서 오는 10월 ‘GD메트로타워’를 선보일 예정이다. GD메트로타워는 서울 영등포구 대림2동 4필지에 위치하며 지하 7층∼지상 최고 40층, A·B 2개 동으로 조성된다. 주거용 오피스텔 총 1095실과 업무시설, 근린생활시설 등으로 구성되",
-   "tags": [
-    "부동산",
-    "수도권"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "동아일보 경제"
-  },
-  {
-   "id": "3ae976d3c95eaa11",
-   "title": "인천계양 A17블록 신혼희망타운 55㎡ 309채 이달 말 공급",
-   "url": "https://www.donga.com/news/Economy/article/all/20260924/134721993/2",
-   "published_at": "2026-09-28T04:30:00+09:00",
-   "summary": "한국토지주택공사(LH)는 이달 말 ‘인천계양 A17블록 신혼희망타운(공공분양 309호)’의 입주자 모집공고를 시행한다. 인천계양 A17블록은 총 463호 규모로 행복주택(154호)을 제외한 309호가 이번 공공분양으로 공급된다. 입주는 2029년 11월 예정이다. 전 가구 전용면적 55",
-   "tags": [
-    "부동산",
-    "수도권",
-    "청약"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "동아일보 경제"
-  },
-  {
-   "id": "e38e65695792473d",
-   "title": "2-8-9호선 잠실 ‘트리플 역세권’… 임대 수요-개발 ‘쌍끌이 호재’",
-   "url": "https://www.donga.com/news/Economy/article/all/20260924/134722055/2",
-   "published_at": "2026-09-28T04:30:00+09:00",
-   "summary": "서울 오피스텔 매매 가격이 급반등하고 있는 것으로 나타났다. 정부가 오피스텔에 각종 세제 혜택을 주는 데다 금리 혜택까지 이어져 투자 매력도가 높아진 것으로 풀이된다. 머지않아 더 완화된 세제 정책이 나올 것이라는 기대감이 맞물려 지금이 수익을 올릴 투자 적기라는 것이 전문가들의 전언이",
-   "tags": [
-    "부동산",
-    "수도권"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "동아일보 경제"
-  },
-  {
-   "id": "008b78b85bffdb7f",
-   "title": "GTX-C 타면 삼성역까지 29분… 계약하면 축하금 1000만원 지원",
-   "url": "https://www.donga.com/news/Economy/article/all/20260924/134722062/2",
-   "published_at": "2026-09-28T04:30:00+09:00",
-   "summary": "전월세 대란으로 서울·수도권이 온통 떠들썩한 요즘 GTX-C 노선(양주 덕정∼수원, 9월 15일 착공)의 최대 수혜 지역인 양주 덕정역 5분 거리에 한양산업개발이 시공하는 ‘한양아이클래스 양주’ 아파트가 성황리에 일반분양 중이다. 단지는 지하 2층∼지상 27층, 7개 동, 총 644가구",
-   "tags": [
-    "부동산",
-    "수도권"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "동아일보 경제"
-  },
-  {
-   "id": "f00a1259083f2193",
-   "title": "바닷가 기와집이 ‘수익형 별장’으로… 강릉에 뜬 ‘한옥 스테이’",
-   "url": "https://www.donga.com/news/Economy/article/all/20260924/134722067/2",
-   "published_at": "2026-09-28T04:30:00+09:00",
-   "summary": "호텔이나 콘도가 아닌 바닷가 독채 한옥으로 숙박 수익을 창출하는 ‘한옥 스테이’가 투자자들의 관심을 끌고 있다. 강원도 강릉시 옥계면 금진리 일대에 들어선 ‘한옥마을 하랑’이 짭짤한 매출 실적으로 수익형 부동산 시장의 새로운 패러다임을 제시하고 있다. 앞서 ‘금진 한옥마을’이라는 이름으",
+   "id": "4509dc79d465f268",
+   "title": "상가 8곳중 1곳 ‘텅’… 공실률 13.4% 5년새 최고",
+   "url": "https://www.donga.com/news/Economy/article/all/20260929/134747986/2",
+   "published_at": "2026-09-29T04:30:00+09:00",
+   "summary": "전국 일반상가 평균 공실률이 13%를 넘어선 것으로 나타났다. 17개 시도 중 울산을 제외한 16곳이 5년 전보다 공실률이 높아졌다. 28일 국회 국토교통위원회 소속 더불어민주당 황희 의원이 한국부동산원에서 제출받은 자료에 따르면 전국 일반상가 공실률은 올해 2분기(4∼6월) 기준 13",
    "tags": [
     "부동산"
    ],
@@ -204,11 +141,11 @@
    "source_name": "동아일보 경제"
   },
   {
-   "id": "a1bf6fe62ded64fe",
-   "title": "GTX 동탄역 걸어서… 강남 가까워지고 공원 넓어진다",
-   "url": "https://www.donga.com/news/Economy/article/all/20260924/134722010/2",
-   "published_at": "2026-09-28T04:30:00+09:00",
-   "summary": "DL이앤씨가 경기 화성시 동탄구 오산동에 공급하는 ‘e편한세상 동탄역 어반원’은 지하 4층∼지상 46층, 아파트 3개 동, 610가구와 지하 3층∼지상 26층, 주거형 오피스텔 1개 동, 240실 규모다. 전용면적별로는 34m²OA 72실, 59m²OA 120실, 59m²OB 48실로 ",
+   "id": "beb3419fee041cc9",
+   "title": "서울에 집 가진 신혼부부 ‘30%’…주택공시가 총액 6억원 넘는다",
+   "url": "https://www.khan.co.kr/article/202609282124005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
+   "published_at": "2026-09-28T21:24:00+09:00",
+   "summary": "초혼 4만8989쌍 중 1만5368쌍집값 상승 탓, 9년 전보다 5.3배대출 3억원 이상도 4배 늘어나서울에 집을 보유한 신혼부부 10쌍 중 3쌍의 주택 공시가격 총액이 6억원을 넘는 것으로 나타났다. 서울 신혼부부의 6억원 초과 아파트 보유 비중은 크게 늘고, 대출잔액이 3억원이 넘는",
    "tags": [
     "부동산",
     "수도권"
@@ -216,44 +153,13 @@
    "metrics": {},
    "is_new": true,
    "streak_days": 1,
-   "source_name": "동아일보 경제"
+   "source_name": "경향신문 경제"
   },
   {
-   "id": "1caf78d3451f610d",
-   "title": "올 서울 경매 아파트 낙찰자 70%가 실수요자",
-   "url": "https://www.chosun.com/economy/real_estate/2026/09/28/B3C4DEGMZNBHHOUZEW37RA3NV4/",
-   "published_at": "2026-09-28T00:32:00+09:00",
-   "summary": "올해 서울에서 경매로 아파트를 취득한 사람의 90% 이상이 수도권 거주자인 것으로 나타났다. 또 전체 낙찰자의 약 70%는 실거주를 전제로 주택담보대출을 받았다. 경매는 토지거래허가제의 실거주 의무를 적용받지 않기 때문에 갭 투자(전세 낀 매매) 우회로로 악용될 수 있다는 우려가 나오고",
-   "tags": [
-    "부동산",
-    "수도권",
-    "경매"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "조선일보 경제"
-  },
-  {
-   "id": "524fb1494b0bf5c9",
-   "title": "주택금융공사, 전세대출 대신 갚고 못 받은 돈 2조원 육박",
-   "url": "https://www.chosun.com/economy/economy_general/2026/09/28/66SZOHVAONEPVHIB7TRDKOI2RI/",
-   "published_at": "2026-09-28T00:31:00+09:00",
-   "summary": "한국주택금융공사가 전세대출을 대신 갚아 준 뒤 채무자에게 돌려받지 못한 돈이 2조원에 육박한 것으로 나타났다. 고금리와 경기 부진이 장기화하면서 전세대출을 제때 갚지 못하는 대출자가 늘어난 영향이다.",
-   "tags": [
-    "부동산",
-    "수도권"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "조선일보 경제"
-  },
-  {
-   "id": "576e344b3e798d19",
-   "title": "[뉴스AS] ‘연소득 1억 부부’ 이미 공공임대 가능한데…‘보편형 임대’ 형평성 논란",
-   "url": "https://www.hani.co.kr/arti/economy/economy_general/1279624.html",
-   "published_at": "2026-09-28",
+   "id": "b37f54112b2942d2",
+   "title": "수도권 사전청약 단지, 평균 15개월 입주 지연",
+   "url": "https://www.hankyung.com/article/2026092800421",
+   "published_at": "2026-09-28T18:17:33+09:00",
    "summary": "",
    "tags": [
     "부동산",
@@ -262,13 +168,43 @@
    "metrics": {},
    "is_new": true,
    "streak_days": 1,
-   "source_name": "한겨레 경제"
+   "source_name": "한국경제 부동산"
   },
   {
-   "id": "662a02fc595183c2",
-   "title": "강남3구 아파트 실거래가 6억~7억씩 ‘뚝’…매물 두 달 새 25% 늘어",
-   "url": "https://www.hani.co.kr/arti/economy/property/1279605.html",
-   "published_at": "2026-09-28",
+   "id": "3142b9f5e21526dc",
+   "title": "LH, 공공주택 공사비 손질…年평균 1000억원 아낀다",
+   "url": "https://www.hankyung.com/article/2026092800471",
+   "published_at": "2026-09-28T18:14:00+09:00",
+   "summary": "",
+   "tags": [
+    "부동산",
+    "청약"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "한국경제 부동산"
+  },
+  {
+   "id": "293be71a3fcf8207",
+   "title": "‘수도권 프리미엄’이 자산격차 갈랐다…집 있어도 수도권·비수도권 7년 새 23%↑",
+   "url": "https://www.khan.co.kr/article/202609281800001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
+   "published_at": "2026-09-28T18:00:00+09:00",
+   "summary": "서울 남산 간이전망대에서 바라 본 강남 일대의 고급 아파트 단지. 서성일 선임기자주택을 보유했더라도 수도권과 비수도권 가구 간 자산 격차가 7년 새 20% 넘게 벌어진 것으로 나타났다. 단순히 집을 가졌는지보다 수도권에 집을 가졌는지가 자산 불평등 확대에 더 중요하게 작용했다는 국책연구",
+   "tags": [
+    "부동산",
+    "수도권"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "경향신문 경제"
+  },
+  {
+   "id": "ece2a6e0128e938a",
+   "title": "내집 마련·절세·정책 방향 … 부동산 '알짜 정보' 총망라",
+   "url": "https://www.hankyung.com/article/2026092775711",
+   "published_at": "2026-09-28T13:50:03+09:00",
    "summary": "",
    "tags": [
     "부동산"
@@ -276,7 +212,51 @@
    "metrics": {},
    "is_new": true,
    "streak_days": 1,
-   "source_name": "한겨레 경제"
+   "source_name": "한국경제 부동산"
+  },
+  {
+   "id": "07d13516af862643",
+   "title": "LH 임대주택 어르신 1000명, 숲에서 '정서 치유'",
+   "url": "https://www.hankyung.com/article/202609289117i",
+   "published_at": "2026-09-28T11:37:31+09:00",
+   "summary": "",
+   "tags": [
+    "부동산",
+    "청약"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "한국경제 부동산"
+  },
+  {
+   "id": "3a1d1122fcbdbb77",
+   "title": "전세살이 지쳤다면…10월 수도권에 2.4만가구 분양 쏟아진다",
+   "url": "https://www.hankyung.com/article/2026092882306",
+   "published_at": "2026-09-28T09:10:11+09:00",
+   "summary": "",
+   "tags": [
+    "부동산"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "한국경제 부동산"
+  },
+  {
+   "id": "a581082c0e6a4832",
+   "title": "\"직원 1명이 임대주택 3200가구 관리\"…LH 인력은 제자리",
+   "url": "https://www.hankyung.com/article/2026092882786",
+   "published_at": "2026-09-28T08:48:55+09:00",
+   "summary": "",
+   "tags": [
+    "부동산",
+    "청약"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "한국경제 부동산"
   },
   {
    "id": "7db167eb03d6947d",
@@ -288,146 +268,15 @@
     "부동산"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "한국경제 부동산"
-  },
-  {
-   "id": "476f3a545fe6c86f",
-   "title": "당첨되면 10억 로또…서울·과천서 2가구 '줍줍' 청약",
-   "url": "https://www.hankyung.com/article/2026092777097",
-   "published_at": "2026-09-27T17:47:13+09:00",
-   "summary": "",
-   "tags": [
-    "부동산",
-    "수도권",
-    "청약"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "한국경제 부동산"
-  },
-  {
-   "id": "01cbb5abf483f102",
-   "title": "\"수도권 전세, 연말까지 3% 이상 강세…집값도 밀어올릴 것\"",
-   "url": "https://www.hankyung.com/article/2026092776081",
-   "published_at": "2026-09-27T17:02:33+09:00",
-   "summary": "",
-   "tags": [
-    "부동산"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "한국경제 부동산"
-  },
-  {
-   "id": "77fa0d98fba6cded",
-   "title": "\"수도권 집값 내년까지 오를 것\"",
-   "url": "https://www.hankyung.com/article/2026092776481",
-   "published_at": "2026-09-27T17:00:26+09:00",
-   "summary": "",
-   "tags": [
-    "부동산"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "한국경제 부동산"
-  },
-  {
-   "id": "995a8c35f9b9bd19",
-   "title": "부동산 전문가 99% \"연말까지 서울 전셋값 더 오른다\"",
-   "url": "https://www.hankyung.com/article/202609277380i",
-   "published_at": "2026-09-27T13:49:03+09:00",
-   "summary": "",
-   "tags": [
-    "부동산",
-    "수도권"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "한국경제 부동산"
-  },
-  {
-   "id": "0dcc09076f149381",
-   "title": "추석 끝난 후…4분기 수도권 유망 분양 단지는 어디?",
-   "url": "https://www.hankyung.com/article/202609220835i",
-   "published_at": "2026-09-27T09:30:03+09:00",
-   "summary": "",
-   "tags": [
-    "부동산"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "한국경제 부동산"
-  },
-  {
-   "id": "180616e01f954956",
-   "title": "강남3구 약세에도…서울 아파트값 고공행진, 85주 연속 상승",
-   "url": "https://www.hankyung.com/article/202609276924g",
-   "published_at": "2026-09-27T07:07:12+09:00",
-   "summary": "",
-   "tags": [
-    "부동산",
-    "수도권"
-   ],
-   "metrics": {},
    "is_new": false,
    "streak_days": 2,
-   "source_name": "한국경제 부동산"
-  },
-  {
-   "id": "2f3f7611d03dfe05",
-   "title": "공공임대, 중위소득 150%까지 문 연다…통합 vs 보편형, 나는 어디로",
-   "url": "https://www.hankyung.com/article/202609220818i",
-   "published_at": "2026-09-26T19:23:31+09:00",
-   "summary": "",
-   "tags": [
-    "부동산",
-    "청약"
-   ],
-   "metrics": {},
-   "is_new": false,
-   "streak_days": 2,
-   "source_name": "한국경제 부동산"
-  },
-  {
-   "id": "721e8cc461217573",
-   "title": "\"아파트 당첨됐다고 좋아했는데\"…계산 실수 한 번에 '날벼락'",
-   "url": "https://www.hankyung.com/article/2026092559157",
-   "published_at": "2026-09-25T19:06:17+09:00",
-   "summary": "",
-   "tags": [
-    "부동산"
-   ],
-   "metrics": {},
-   "is_new": false,
-   "streak_days": 3,
-   "source_name": "한국경제 부동산"
-  },
-  {
-   "id": "1eaaf8bfb38c1863",
-   "title": "\"3억 들고 어디 갑니까\"…'20년 거주' 장기전세 갈등 어쩌나 [시장톡]",
-   "url": "https://www.hankyung.com/article/2026092191066",
-   "published_at": "2026-09-25T09:28:03+09:00",
-   "summary": "",
-   "tags": [
-    "부동산"
-   ],
-   "metrics": {},
-   "is_new": false,
-   "streak_days": 3,
    "source_name": "한국경제 부동산"
   },
   {
    "id": "6a0834327afccc3b",
    "title": "LH 청약플러스 — 분양·임대 공고",
    "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
-   "published_at": "2026-09-28",
+   "published_at": "2026-09-29",
    "summary": "수도권 공고는 지역 필터로",
    "tags": [
     "바로가기",
@@ -435,14 +284,14 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 10,
+   "streak_days": 11,
    "source_name": "바로가기"
   },
   {
    "id": "25744536b7c84e25",
    "title": "온비드 — 공매 물건",
    "url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateList.do",
-   "published_at": "2026-09-28",
+   "published_at": "2026-09-29",
    "summary": "부동산 공매 검색",
    "tags": [
     "바로가기",
@@ -450,14 +299,14 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 10,
+   "streak_days": 11,
    "source_name": "바로가기"
   },
   {
    "id": "c91f39808692d334",
    "title": "법원경매정보 — 매각기일 공고",
    "url": "https://www.courtauction.go.kr/",
-   "published_at": "2026-09-28",
+   "published_at": "2026-09-29",
    "summary": "관할 법원별 기일 확인",
    "tags": [
     "바로가기",
@@ -465,16 +314,15 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 10,
+   "streak_days": 11,
    "source_name": "바로가기"
   }
  ],
  "status": {
   "ok": true,
-  "count": 31,
+  "count": 21,
   "warn": [
-   "LH·온비드 공공데이터 API: 키 없음(DATA_GO_KR_KEY) — 뉴스·바로가기만",
-   "어제와 동일 23%"
+   "LH·온비드 공공데이터 API: 키 없음(DATA_GO_KR_KEY) — 뉴스·바로가기만"
   ],
   "error": null,
   "level": "warn",
