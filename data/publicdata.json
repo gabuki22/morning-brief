@@ -1,6 +1,6 @@
 {
  "module": "publicdata",
- "fetched_at": "2026-09-29T10:03:28+09:00",
+ "fetched_at": "2026-09-30T09:33:42+09:00",
  "source": {
   "name": "공개 데이터 소스 실측",
   "url": "https://www.data.go.kr/",
@@ -11,8 +11,8 @@
    "id": "3b248502eefd21f1",
    "title": "○ Open-Meteo (날씨)",
    "url": "https://open-meteo.com/",
-   "published_at": "2026-09-29",
-   "summary": "정상 · 469ms · 295B · 키 none",
+   "published_at": "2026-09-30",
+   "summary": "정상 · 666ms · 296B · 키 none",
    "tags": [
     "소스 상태",
     "json"
@@ -21,15 +21,15 @@
     "ok": true
    },
    "is_new": false,
-   "streak_days": 11,
+   "streak_days": 12,
    "source_name": "실측"
   },
   {
    "id": "3d529cd44b46e3ea",
    "title": "○ Our World in Data",
    "url": "https://ourworldindata.org/",
-   "published_at": "2026-09-29",
-   "summary": "정상 · 706ms · 168,862B · 키 none",
+   "published_at": "2026-09-30",
+   "summary": "정상 · 245ms · 168,862B · 키 none",
    "tags": [
     "소스 상태",
     "csv"
@@ -38,15 +38,15 @@
     "ok": true
    },
    "is_new": false,
-   "streak_days": 11,
+   "streak_days": 12,
    "source_name": "실측"
   },
   {
    "id": "741f5c321e75223a",
    "title": "○ World Bank",
    "url": "https://data.worldbank.org/",
-   "published_at": "2026-09-29",
-   "summary": "정상 · 173ms · 290B · 키 none",
+   "published_at": "2026-09-30",
+   "summary": "정상 · 481ms · 290B · 키 none",
    "tags": [
     "소스 상태",
     "json"
@@ -55,15 +55,15 @@
     "ok": true
    },
    "is_new": false,
-   "streak_days": 11,
+   "streak_days": 12,
    "source_name": "실측"
   },
   {
    "id": "d2f8c78c516af3af",
    "title": "○ Frankfurter (환율)",
    "url": "https://frankfurter.dev/",
-   "published_at": "2026-09-29",
-   "summary": "정상 · 347ms · 71B · 키 none",
+   "published_at": "2026-09-30",
+   "summary": "정상 · 36ms · 71B · 키 none",
    "tags": [
     "소스 상태",
     "json"
@@ -72,15 +72,15 @@
     "ok": true
    },
    "is_new": false,
-   "streak_days": 11,
+   "streak_days": 12,
    "source_name": "실측"
   },
   {
    "id": "c7ca59c4cc86397a",
    "title": "○ USGS (지진)",
    "url": "https://earthquake.usgs.gov/earthquakes/map/",
-   "published_at": "2026-09-29",
-   "summary": "정상 · 334ms · 964B · 키 none",
+   "published_at": "2026-09-30",
+   "summary": "정상 · 397ms · 960B · 키 none",
    "tags": [
     "소스 상태",
     "json"
@@ -89,15 +89,15 @@
     "ok": true
    },
    "is_new": false,
-   "streak_days": 11,
+   "streak_days": 12,
    "source_name": "실측"
   },
   {
    "id": "0a85d032f7c175da",
    "title": "○ Nager.Date (공휴일)",
    "url": "https://date.nager.at/PublicHoliday/Country/KR",
-   "published_at": "2026-09-29",
-   "summary": "정상 · 176ms · 3,062B · 키 none",
+   "published_at": "2026-09-30",
+   "summary": "정상 · 208ms · 3,062B · 키 none",
    "tags": [
     "소스 상태",
     "json"
@@ -106,7 +106,7 @@
     "ok": true
    },
    "is_new": false,
-   "streak_days": 11,
+   "streak_days": 12,
    "source_name": "실측"
   },
   {
@@ -114,15 +114,15 @@
    "title": "10/05 개천절",
    "url": "https://date.nager.at/PublicHoliday/Country/KR",
    "published_at": "2026-10-05",
-   "summary": "6일 뒤 · 월요일",
+   "summary": "5일 뒤 · 월요일",
    "tags": [
     "공휴일"
    ],
    "metrics": {
-    "days_left": 6
+    "days_left": 5
    },
    "is_new": false,
-   "streak_days": 5,
+   "streak_days": 6,
    "source_name": "Nager.Date"
   },
   {
@@ -130,15 +130,15 @@
    "title": "10/09 한글날",
    "url": "https://date.nager.at/PublicHoliday/Country/KR",
    "published_at": "2026-10-09",
-   "summary": "10일 뒤 · 금요일",
+   "summary": "9일 뒤 · 금요일",
    "tags": [
     "공휴일"
    ],
    "metrics": {
-    "days_left": 10
+    "days_left": 9
    },
    "is_new": false,
-   "streak_days": 4,
+   "streak_days": 5,
    "source_name": "Nager.Date"
   },
   {
@@ -146,31 +146,31 @@
    "title": "12/25 크리스마스",
    "url": "https://date.nager.at/PublicHoliday/Country/KR",
    "published_at": "2026-12-25",
-   "summary": "87일 뒤 · 금요일",
+   "summary": "86일 뒤 · 금요일",
    "tags": [
     "공휴일"
    ],
    "metrics": {
-    "days_left": 87
+    "days_left": 86
    },
    "is_new": false,
-   "streak_days": 3,
+   "streak_days": 4,
    "source_name": "Nager.Date"
   },
   {
    "id": "be0286b6201a8c1f",
    "title": "세계 지진 (USGS, 7일)",
    "url": "https://earthquake.usgs.gov/earthquakes/map/",
-   "published_at": "2026-09-29",
-   "summary": "이번 주 규모 4.5 이상 122건 · 최대 M6.6 80 km ENE of Tadine, New Caledonia",
+   "published_at": "2026-09-30",
+   "summary": "이번 주 규모 4.5 이상 125건 · 최대 M6.6 80 km ENE of Tadine, New Caledonia",
    "tags": [
     "지진"
    ],
    "metrics": {
-    "count": 122
+    "count": 125
    },
    "is_new": false,
-   "streak_days": 11,
+   "streak_days": 12,
    "source_name": "USGS"
   }
  ],

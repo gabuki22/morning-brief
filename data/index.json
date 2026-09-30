@@ -1,6 +1,6 @@
 {
- "built_at": "2026-09-29T10:03:31+09:00",
- "date": "2026-09-29",
+ "built_at": "2026-09-30T09:33:45+09:00",
+ "date": "2026-09-30",
  "site": {
   "title": "모닝브리프",
   "locations": [
@@ -55,7 +55,7 @@
    "count": 7,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-09-29T10:02:58+09:00",
+   "fetched_at": "2026-09-30T09:33:20+09:00",
    "repeat_ratio": 0.857
   },
   "fx": {
@@ -65,7 +65,7 @@
     "링크 확인 실패 3/3"
    ],
    "block": [],
-   "fetched_at": "2026-09-29T10:02:58+09:00",
+   "fetched_at": "2026-09-30T09:33:20+09:00",
    "repeat_ratio": 1.0
   },
   "news": {
@@ -73,7 +73,7 @@
    "count": 135,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-09-29T10:03:09+09:00",
+   "fetched_at": "2026-09-30T09:33:29+09:00",
    "repeat_ratio": 0.0
   },
   "markets": {
@@ -81,51 +81,55 @@
    "count": 5,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-09-29T10:03:09+09:00",
+   "fetched_at": "2026-09-30T09:33:30+09:00",
    "repeat_ratio": 1.0
   },
   "crypto": {
-   "level": "ok",
-   "count": 10,
+   "level": "block",
+   "count": 0,
    "warn": [],
-   "block": [],
-   "fetched_at": "2026-09-29T10:03:14+09:00",
-   "repeat_ratio": 1.0
+   "block": [
+    "수집 실패: HTTPError: HTTP Error 403: Forbidden",
+    "항목 0건"
+   ],
+   "fetched_at": "2026-09-30T09:33:30+09:00",
+   "repeat_ratio": 0.0
   },
   "realestate": {
    "level": "warn",
-   "count": 21,
+   "count": 24,
    "warn": [
-    "LH·온비드 공공데이터 API: 키 없음(DATA_GO_KR_KEY) — 뉴스·바로가기만"
+    "LH·온비드 공공데이터 API: 키 없음(DATA_GO_KR_KEY) — 뉴스·바로가기만",
+    "어제와 동일 21%"
    ],
    "block": [],
-   "fetched_at": "2026-09-29T10:03:18+09:00",
-   "repeat_ratio": 0.19
+   "fetched_at": "2026-09-30T09:33:34+09:00",
+   "repeat_ratio": 0.208
   },
   "it": {
    "level": "ok",
    "count": 60,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-09-29T10:03:21+09:00",
+   "fetched_at": "2026-09-30T09:33:36+09:00",
    "repeat_ratio": 0.0
   },
   "auto": {
    "level": "warn",
    "count": 60,
    "warn": [
-    "어제와 동일 63%"
+    "어제와 동일 78%"
    ],
    "block": [],
-   "fetched_at": "2026-09-29T10:03:26+09:00",
-   "repeat_ratio": 0.633
+   "fetched_at": "2026-09-30T09:33:40+09:00",
+   "repeat_ratio": 0.783
   },
   "publicdata": {
    "level": "ok",
    "count": 10,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-09-29T10:03:28+09:00",
+   "fetched_at": "2026-09-30T09:33:42+09:00",
    "repeat_ratio": 1.0
   },
   "leisure": {
@@ -133,63 +137,63 @@
    "count": 30,
    "warn": [
     "고캠핑 API: 키 없음(DATA_GO_KR_KEY)",
-    "어제와 동일 63%"
+    "어제와 동일 40%"
    ],
    "block": [],
-   "fetched_at": "2026-09-29T10:03:31+09:00",
-   "repeat_ratio": 0.633
+   "fetched_at": "2026-09-30T09:33:45+09:00",
+   "repeat_ratio": 0.4
   }
  },
  "must_know": [
   {
    "module": "news",
    "item_ids": [
-    "ab48553772cf8815"
+    "d710313b4ab4411c"
    ],
-   "title": "[속보] 靑 \"지뢰사고 현장조사, 군사적 판단…대통령 유엔 연설과 무관\"",
-   "url": "https://www.hankyung.com/article/2026092908397",
-   "why": "매체 6곳 · 사회·정치",
-   "score": 15
+   "title": "미분양 무덤 된 경기도…반도체 도시만 달랐다",
+   "url": "https://www.hankyung.com/article/2026093035436",
+   "why": "매체 1곳 · IT·부동산·신기술",
+   "score": 10
   },
   {
    "module": "news",
    "item_ids": [
-    "bedb17a607c3221b"
+    "610d8b43e363be0f"
    ],
-   "title": "전세계 ‘로봇 일꾼’ 500만대…산업용도 휴머노이드도 중국이 장악",
-   "url": "https://www.hani.co.kr/arti/science/technology/1279900.html",
-   "why": "매체 1곳 · 국제·부동산·신기술",
-   "score": 8
+   "title": "반도체 호황에 올해 세금 63조 더 걷힌다…절반 이상이 법인세",
+   "url": "https://www.donga.com/news/Economy/article/all/20260930/134757566/1",
+   "why": "매체 1곳 · IT·경제·신기술",
+   "score": 10
   },
   {
    "module": "news",
    "item_ids": [
-    "4c8069be47dd4c59"
+    "7d59f43079d6c762"
    ],
-   "title": "연구자 22명 “AI가 AI 만드는 ‘지능 폭발’ 대비…인류 멸종 이어질 수도”",
-   "url": "https://www.hani.co.kr/arti/international/america/1279889.html",
+   "title": "0G “AI시대 컴퓨팅 부족...블록체인으로 유휴 GPU 모으면 해결” [매일코인]",
+   "url": "https://www.mk.co.kr/news/stock/12164392",
    "why": "매체 1곳 · AI·IT",
    "score": 8
   },
   {
    "module": "news",
    "item_ids": [
-    "f865e0d701c3f18a"
+    "7d6b7b9900705374"
    ],
-   "title": "교황, AI 인류위협론 “가짜뉴스 아냐”···트럼프 주장에 정면 반박",
-   "url": "https://www.khan.co.kr/article/202609290835001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-   "why": "매체 1곳 · AI·IT·국제",
+   "title": "[MK시그널] 유진테크, AI 반도체 투자 확대 및 무차입 증설 기대감 등에 주가 상승세... MK시그널 추천 후 상승률 23.37% 기록",
+   "url": "https://www.mk.co.kr/news/stock/12164425",
+   "why": "매체 1곳 · AI·IT·신기술",
    "score": 8
   },
   {
-   "module": "crypto",
+   "module": "news",
    "item_ids": [
-    "f6b18db9a4f56551"
+    "b45250c53eb366bf"
    ],
-   "title": "Zcash (ZEC) ₩1,975,292",
-   "url": "https://www.coingecko.com/en/coins/zcash",
-   "why": "큰 변동 · 24시간 -7.68% · 7일 -1.33% · 시총 9위 · 이슈: \"10월엔 무조건 올랐다\"...비트 코인 (BTC) 업토버, 이번에도 통",
-   "score": 0
+   "title": "8월 생산·소비·투자, 3개월 만에 ‘트리플 감소’…산업생산 1.3%↓",
+   "url": "https://www.hani.co.kr/arti/economy/economy_general/1280099.html",
+   "why": "매체 2곳",
+   "score": 7
   }
  ],
  "banned_hits": 0
