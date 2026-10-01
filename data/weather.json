@@ -1,6 +1,6 @@
 {
  "module": "weather",
- "fetched_at": "2026-09-30T09:33:20+09:00",
+ "fetched_at": "2026-10-01T09:36:38+09:00",
  "source": {
   "name": "Open-Meteo",
   "url": "https://open-meteo.com/",
@@ -8,63 +8,59 @@
  },
  "items": [
   {
-   "id": "b8fb821c3e25c8c7",
-   "title": "09/30 비 16~24°",
+   "id": "2e0353e4a065bef3",
+   "title": "10/01 구름 조금 13~20°",
    "url": "https://open-meteo.com/en/docs?latitude=37.32&longitude=126.82&daily=temperature_2m_max%2Ctemperature_2m_min%2Cprecipitation_probability_max%2Cweather_code&timezone=Asia%2FSeoul&forecast_days=7",
-   "published_at": "2026-09-30",
-   "summary": "강수확률 73% · PM2.5 최대 39 · PM10 최대 39 ㎍/㎥",
+   "published_at": "2026-10-01",
+   "summary": "강수확률 4% · PM2.5 최대 22 · PM10 최대 36 ㎍/㎥",
    "tags": [
     "날씨",
     "집"
    ],
    "metrics": {
-    "tmax": 23.8,
-    "tmin": 15.6,
-    "pop": 73,
-    "code": 61,
-    "label": "비",
+    "tmax": 19.7,
+    "tmin": 12.8,
+    "pop": 4,
+    "code": 2,
+    "label": "구름 조금",
     "series": [
      [
-      "2026-09-30",
-      23.8
-     ],
-     [
       "2026-10-01",
-      19.4
+      19.7
      ],
      [
       "2026-10-02",
-      20.1
+      19.5
      ],
      [
       "2026-10-03",
-      21.1
+      19.5
      ],
      [
       "2026-10-04",
-      23.5
+      24.9
      ],
      [
       "2026-10-05",
-      21.3
+      21.2
      ],
      [
       "2026-10-06",
-      21.1
+      20.3
+     ],
+     [
+      "2026-10-07",
+      22.1
      ]
     ],
     "series2": [
      [
-      "2026-09-30",
-      15.6
-     ],
-     [
       "2026-10-01",
-      11.8
+      12.8
      ],
      [
       "2026-10-02",
-      11.1
+      10.0
      ],
      [
       "2026-10-03",
@@ -72,46 +68,30 @@
      ],
      [
       "2026-10-04",
-      12.9
+      14.6
      ],
      [
       "2026-10-05",
-      14.9
+      14.8
      ],
      [
       "2026-10-06",
-      13.0
+      11.4
+     ],
+     [
+      "2026-10-07",
+      11.2
      ]
     ],
-    "pm25_max": 38.8,
-    "pm10_max": 39.0
+    "pm25_max": 21.9,
+    "pm10_max": 35.5
    },
    "is_new": false,
-   "streak_days": 6
-  },
-  {
-   "id": "2e0353e4a065bef3",
-   "title": "10/01 구름 조금 12~19°",
-   "url": "https://open-meteo.com/en/docs?latitude=37.32&longitude=126.82&daily=temperature_2m_max%2Ctemperature_2m_min%2Cprecipitation_probability_max%2Cweather_code&timezone=Asia%2FSeoul&forecast_days=7",
-   "published_at": "2026-10-01",
-   "summary": "강수확률 0%",
-   "tags": [
-    "날씨",
-    "집"
-   ],
-   "metrics": {
-    "tmax": 19.4,
-    "tmin": 11.8,
-    "pop": 0,
-    "code": 2,
-    "label": "구름 조금"
-   },
-   "is_new": false,
-   "streak_days": 6
+   "streak_days": 7
   },
   {
    "id": "ba1918fb82fa279a",
-   "title": "10/02 대체로 맑음 11~20°",
+   "title": "10/02 대체로 맑음 10~20°",
    "url": "https://open-meteo.com/en/docs?latitude=37.32&longitude=126.82&daily=temperature_2m_max%2Ctemperature_2m_min%2Cprecipitation_probability_max%2Cweather_code&timezone=Asia%2FSeoul&forecast_days=7",
    "published_at": "2026-10-02",
    "summary": "강수확률 0%",
@@ -120,18 +100,18 @@
     "집"
    ],
    "metrics": {
-    "tmax": 20.1,
-    "tmin": 11.1,
+    "tmax": 19.5,
+    "tmin": 10.0,
     "pop": 0,
     "code": 1,
     "label": "대체로 맑음"
    },
    "is_new": false,
-   "streak_days": 5
+   "streak_days": 6
   },
   {
    "id": "f5f6f4477418bb78",
-   "title": "10/03 흐림 10~21°",
+   "title": "10/03 흐림 10~20°",
    "url": "https://open-meteo.com/en/docs?latitude=37.32&longitude=126.82&daily=temperature_2m_max%2Ctemperature_2m_min%2Cprecipitation_probability_max%2Cweather_code&timezone=Asia%2FSeoul&forecast_days=7",
    "published_at": "2026-10-03",
    "summary": "강수확률 0%",
@@ -140,58 +120,58 @@
     "집"
    ],
    "metrics": {
-    "tmax": 21.1,
+    "tmax": 19.5,
     "tmin": 10.0,
     "pop": 0,
     "code": 3,
     "label": "흐림"
    },
    "is_new": false,
-   "streak_days": 4
+   "streak_days": 5
   },
   {
    "id": "b814d8d3af8e4b46",
-   "title": "10/04 이슬비 13~24°",
+   "title": "10/04 이슬비 15~25°",
    "url": "https://open-meteo.com/en/docs?latitude=37.32&longitude=126.82&daily=temperature_2m_max%2Ctemperature_2m_min%2Cprecipitation_probability_max%2Cweather_code&timezone=Asia%2FSeoul&forecast_days=7",
    "published_at": "2026-10-04",
-   "summary": "강수확률 45%",
+   "summary": "강수확률 50%",
    "tags": [
     "날씨",
     "집"
    ],
    "metrics": {
-    "tmax": 23.5,
-    "tmin": 12.9,
-    "pop": 45,
-    "code": 51,
+    "tmax": 24.9,
+    "tmin": 14.6,
+    "pop": 50,
+    "code": 53,
     "label": "이슬비"
    },
    "is_new": false,
-   "streak_days": 3
+   "streak_days": 4
   },
   {
    "id": "2699486009a28a6f",
    "title": "10/05 소나기 15~21°",
    "url": "https://open-meteo.com/en/docs?latitude=37.32&longitude=126.82&daily=temperature_2m_max%2Ctemperature_2m_min%2Cprecipitation_probability_max%2Cweather_code&timezone=Asia%2FSeoul&forecast_days=7",
    "published_at": "2026-10-05",
-   "summary": "강수확률 41%",
+   "summary": "강수확률 58%",
    "tags": [
     "날씨",
     "집"
    ],
    "metrics": {
-    "tmax": 21.3,
-    "tmin": 14.9,
-    "pop": 41,
+    "tmax": 21.2,
+    "tmin": 14.8,
+    "pop": 58,
     "code": 80,
     "label": "소나기"
    },
    "is_new": false,
-   "streak_days": 2
+   "streak_days": 3
   },
   {
    "id": "e3725b61bfa9f440",
-   "title": "10/06 대체로 맑음 13~21°",
+   "title": "10/06 맑음 11~20°",
    "url": "https://open-meteo.com/en/docs?latitude=37.32&longitude=126.82&daily=temperature_2m_max%2Ctemperature_2m_min%2Cprecipitation_probability_max%2Cweather_code&timezone=Asia%2FSeoul&forecast_days=7",
    "published_at": "2026-10-06",
    "summary": "강수확률 5%",
@@ -200,9 +180,29 @@
     "집"
    ],
    "metrics": {
-    "tmax": 21.1,
-    "tmin": 13.0,
+    "tmax": 20.3,
+    "tmin": 11.4,
     "pop": 5,
+    "code": 0,
+    "label": "맑음"
+   },
+   "is_new": false,
+   "streak_days": 2
+  },
+  {
+   "id": "c4cf1874dce9979a",
+   "title": "10/07 대체로 맑음 11~22°",
+   "url": "https://open-meteo.com/en/docs?latitude=37.32&longitude=126.82&daily=temperature_2m_max%2Ctemperature_2m_min%2Cprecipitation_probability_max%2Cweather_code&timezone=Asia%2FSeoul&forecast_days=7",
+   "published_at": "2026-10-07",
+   "summary": "강수확률 6%",
+   "tags": [
+    "날씨",
+    "집"
+   ],
+   "metrics": {
+    "tmax": 22.1,
+    "tmin": 11.2,
+    "pop": 6,
     "code": 1,
     "label": "대체로 맑음"
    },

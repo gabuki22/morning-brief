@@ -1,6 +1,6 @@
 {
- "built_at": "2026-09-30T09:33:45+09:00",
- "date": "2026-09-30",
+ "built_at": "2026-10-01T09:37:10+09:00",
+ "date": "2026-10-01",
  "site": {
   "title": "모닝브리프",
   "locations": [
@@ -55,7 +55,7 @@
    "count": 7,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-09-30T09:33:20+09:00",
+   "fetched_at": "2026-10-01T09:36:38+09:00",
    "repeat_ratio": 0.857
   },
   "fx": {
@@ -65,7 +65,7 @@
     "링크 확인 실패 3/3"
    ],
    "block": [],
-   "fetched_at": "2026-09-30T09:33:20+09:00",
+   "fetched_at": "2026-10-01T09:36:39+09:00",
    "repeat_ratio": 1.0
   },
   "news": {
@@ -73,7 +73,7 @@
    "count": 135,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-09-30T09:33:29+09:00",
+   "fetched_at": "2026-10-01T09:36:49+09:00",
    "repeat_ratio": 0.0
   },
   "markets": {
@@ -81,55 +81,51 @@
    "count": 5,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-09-30T09:33:30+09:00",
+   "fetched_at": "2026-10-01T09:36:50+09:00",
    "repeat_ratio": 1.0
   },
   "crypto": {
-   "level": "block",
-   "count": 0,
+   "level": "ok",
+   "count": 10,
    "warn": [],
-   "block": [
-    "수집 실패: HTTPError: HTTP Error 403: Forbidden",
-    "항목 0건"
-   ],
-   "fetched_at": "2026-09-30T09:33:30+09:00",
+   "block": [],
+   "fetched_at": "2026-10-01T09:36:53+09:00",
    "repeat_ratio": 0.0
   },
   "realestate": {
    "level": "warn",
-   "count": 24,
+   "count": 16,
    "warn": [
-    "LH·온비드 공공데이터 API: 키 없음(DATA_GO_KR_KEY) — 뉴스·바로가기만",
-    "어제와 동일 21%"
+    "LH·온비드 공공데이터 API: 키 없음(DATA_GO_KR_KEY) — 뉴스·바로가기만"
    ],
    "block": [],
-   "fetched_at": "2026-09-30T09:33:34+09:00",
-   "repeat_ratio": 0.208
+   "fetched_at": "2026-10-01T09:36:58+09:00",
+   "repeat_ratio": 0.188
   },
   "it": {
    "level": "ok",
    "count": 60,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-09-30T09:33:36+09:00",
+   "fetched_at": "2026-10-01T09:37:01+09:00",
    "repeat_ratio": 0.0
   },
   "auto": {
    "level": "warn",
    "count": 60,
    "warn": [
-    "어제와 동일 78%"
+    "어제와 동일 62%"
    ],
    "block": [],
-   "fetched_at": "2026-09-30T09:33:40+09:00",
-   "repeat_ratio": 0.783
+   "fetched_at": "2026-10-01T09:37:05+09:00",
+   "repeat_ratio": 0.617
   },
   "publicdata": {
    "level": "ok",
    "count": 10,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-09-30T09:33:42+09:00",
+   "fetched_at": "2026-10-01T09:37:07+09:00",
    "repeat_ratio": 1.0
   },
   "leisure": {
@@ -137,61 +133,61 @@
    "count": 30,
    "warn": [
     "고캠핑 API: 키 없음(DATA_GO_KR_KEY)",
-    "어제와 동일 40%"
+    "어제와 동일 47%"
    ],
    "block": [],
-   "fetched_at": "2026-09-30T09:33:45+09:00",
-   "repeat_ratio": 0.4
+   "fetched_at": "2026-10-01T09:37:10+09:00",
+   "repeat_ratio": 0.467
   }
  },
  "must_know": [
   {
    "module": "news",
    "item_ids": [
-    "d710313b4ab4411c"
+    "50ace7d677c39ad7"
    ],
-   "title": "미분양 무덤 된 경기도…반도체 도시만 달랐다",
-   "url": "https://www.hankyung.com/article/2026093035436",
-   "why": "매체 1곳 · IT·부동산·신기술",
-   "score": 10
-  },
-  {
-   "module": "news",
-   "item_ids": [
-    "610d8b43e363be0f"
-   ],
-   "title": "반도체 호황에 올해 세금 63조 더 걷힌다…절반 이상이 법인세",
-   "url": "https://www.donga.com/news/Economy/article/all/20260930/134757566/1",
+   "title": "반도체 슈퍼사이클에 9월 수출, 역대 최대 1200억弗 첫 돌파",
+   "url": "https://www.donga.com/news/Economy/article/all/20261001/134765613/1",
    "why": "매체 1곳 · IT·경제·신기술",
    "score": 10
   },
   {
    "module": "news",
    "item_ids": [
-    "7d59f43079d6c762"
+    "e28f3ea5ec14f95c"
    ],
-   "title": "0G “AI시대 컴퓨팅 부족...블록체인으로 유휴 GPU 모으면 해결” [매일코인]",
-   "url": "https://www.mk.co.kr/news/stock/12164392",
+   "title": "현대차 울산공장 인허가 단축…반도체 팹 공사 통합 발주 허용",
+   "url": "https://www.hani.co.kr/arti/economy/economy_general/1280334.html",
+   "why": "매체 1곳 · IT·신기술·자동차",
+   "score": 9
+  },
+  {
+   "module": "news",
+   "item_ids": [
+    "b1e77a6ff46a1b66"
+   ],
+   "title": "‘인구 500명’ 텍사스 소도시에 ‘대미투자 1호’ AI 전력기지…2029년 상업운전",
+   "url": "https://www.hani.co.kr/arti/economy/economy_general/1280323.html",
    "why": "매체 1곳 · AI·IT",
    "score": 8
   },
   {
    "module": "news",
    "item_ids": [
-    "7d6b7b9900705374"
+    "dee9637fc6c17aa4"
    ],
-   "title": "[MK시그널] 유진테크, AI 반도체 투자 확대 및 무차입 증설 기대감 등에 주가 상승세... MK시그널 추천 후 상승률 23.37% 기록",
-   "url": "https://www.mk.co.kr/news/stock/12164425",
-   "why": "매체 1곳 · AI·IT·신기술",
+   "title": "[밤 사이 해외 뉴스] 오픈AI·앤트로픽도 미뤘다…차갑게 식어버린 '월가 상장 잔치'",
+   "url": "https://www.hankyung.com/article/202610016296i",
+   "why": "매체 1곳 · AI·IT",
    "score": 8
   },
   {
    "module": "news",
    "item_ids": [
-    "b45250c53eb366bf"
+    "b45b6f54d606258b"
    ],
-   "title": "8월 생산·소비·투자, 3개월 만에 ‘트리플 감소’…산업생산 1.3%↓",
-   "url": "https://www.hani.co.kr/arti/economy/economy_general/1280099.html",
+   "title": "10월의 첫날은 찬 공기에 쌀쌀…낮 기온 어제보다 5도 ‘뚝’",
+   "url": "https://www.khan.co.kr/article/202610010712001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
    "why": "매체 2곳",
    "score": 7
   }
