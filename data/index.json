@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-03T09:33:59+09:00",
- "date": "2026-10-03",
+ "built_at": "2026-10-04T08:54:14+09:00",
+ "date": "2026-10-04",
  "site": {
   "title": "모닝브리프",
   "locations": [
@@ -55,7 +55,7 @@
    "count": 7,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-03T09:33:15+09:00",
+   "fetched_at": "2026-10-04T08:53:41+09:00",
    "repeat_ratio": 0.857
   },
   "fx": {
@@ -65,7 +65,7 @@
     "링크 확인 실패 3/3"
    ],
    "block": [],
-   "fetched_at": "2026-10-03T09:33:15+09:00",
+   "fetched_at": "2026-10-04T08:53:41+09:00",
    "repeat_ratio": 1.0
   },
   "news": {
@@ -73,15 +73,15 @@
    "count": 135,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-03T09:33:26+09:00",
-   "repeat_ratio": 0.007
+   "fetched_at": "2026-10-04T08:53:53+09:00",
+   "repeat_ratio": 0.059
   },
   "markets": {
    "level": "ok",
    "count": 5,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-03T09:33:26+09:00",
+   "fetched_at": "2026-10-04T08:53:54+09:00",
    "repeat_ratio": 1.0
   },
   "crypto": {
@@ -89,46 +89,46 @@
    "count": 10,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-03T09:33:30+09:00",
+   "fetched_at": "2026-10-04T08:53:57+09:00",
    "repeat_ratio": 1.0
   },
   "realestate": {
    "level": "warn",
-   "count": 18,
+   "count": 19,
    "warn": [
     "LH·온비드 공공데이터 API: 키 없음(DATA_GO_KR_KEY) — 뉴스·바로가기만",
-    "어제와 동일 28%"
+    "어제와 동일 47%"
    ],
    "block": [],
-   "fetched_at": "2026-10-03T09:33:35+09:00",
-   "repeat_ratio": 0.278
+   "fetched_at": "2026-10-04T08:54:02+09:00",
+   "repeat_ratio": 0.474
   },
   "it": {
-   "level": "ok",
+   "level": "warn",
    "count": 60,
-   "warn": [],
+   "warn": [
+    "어제와 동일 23%"
+   ],
    "block": [],
-   "fetched_at": "2026-10-03T09:33:38+09:00",
-   "repeat_ratio": 0.0
+   "fetched_at": "2026-10-04T08:54:05+09:00",
+   "repeat_ratio": 0.233
   },
   "auto": {
    "level": "warn",
    "count": 60,
    "warn": [
-    "어제와 동일 72%"
+    "어제와 동일 97%"
    ],
    "block": [],
-   "fetched_at": "2026-10-03T09:33:43+09:00",
-   "repeat_ratio": 0.717
+   "fetched_at": "2026-10-04T08:54:10+09:00",
+   "repeat_ratio": 0.967
   },
   "publicdata": {
-   "level": "warn",
+   "level": "ok",
    "count": 10,
-   "warn": [
-    "Open-Meteo (날씨) 실패"
-   ],
+   "warn": [],
    "block": [],
-   "fetched_at": "2026-10-03T09:33:56+09:00",
+   "fetched_at": "2026-10-04T08:54:11+09:00",
    "repeat_ratio": 1.0
   },
   "leisure": {
@@ -136,61 +136,61 @@
    "count": 30,
    "warn": [
     "고캠핑 API: 키 없음(DATA_GO_KR_KEY)",
-    "어제와 동일 40%"
+    "어제와 동일 87%"
    ],
    "block": [],
-   "fetched_at": "2026-10-03T09:33:59+09:00",
-   "repeat_ratio": 0.4
+   "fetched_at": "2026-10-04T08:54:14+09:00",
+   "repeat_ratio": 0.867
   }
  },
  "must_know": [
   {
    "module": "news",
    "item_ids": [
-    "f16e27ab280755c0"
+    "89a5c8b5baa70d18"
    ],
-   "title": "[속보] 합참 \"北 발사 탄도미사일 1발…700㎞ 이상 비행\"",
-   "url": "https://www.yna.co.kr/view/AKR20261003017900504",
-   "why": "매체 3곳",
-   "score": 10
-  },
-  {
-   "module": "news",
-   "item_ids": [
-    "134b11954b3e3b7d"
-   ],
-   "title": "트럼프 “AI 말고 SI“ 선언에…슬로베니아 도메인 수요 ’쑥’ - 연합뉴스TV",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ESllwOVIzN0dVMk9taUhKQS1GaTMyM2VpWFdfSkg2NHEwcGdKeUdRTFR0NHQyMDVnU0c1NFZmT1BfRkVucThYc2hLaE5mQ0s2YkI3RGpHWWZaRDI5M055RnlaMDRfQ2M?oc=5",
+   "title": "트럼프, 머스크 AI에 ‘마두로 체포’ 묻더니…한달 뒤 군사작전 결행",
+   "url": "https://www.mk.co.kr/news/it/12167878",
    "why": "매체 1곳 · AI·IT·국제",
-   "score": 8
+   "score": 9
   },
   {
    "module": "news",
    "item_ids": [
-    "3551d946ef691739"
+    "5979df842cb7213f"
    ],
-   "title": "AI 데이터센터의 딜레마… AI발 전력 쇼크, AI로 잠재운다",
-   "url": "https://www.hani.co.kr/arti/economy/economy_general/1280728.html",
+   "title": "[단독] 예가람저축은행, 열흘 공격받고 이틀 털릴 동안 몰랐다 - MBC 뉴스",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9rRVhGVjJEYmlBbU5NbFk1WlRSTEh6dGlpVXV0OGFFeHg0OFFYcXNMbnZzQjFJWVdTbjRqdlZYeldpbXVscnNEaGpjcDlrV3ZnN05SOVlKd25vREhDUHRuN1J6SURCVzVkMWdFNXcwTjJrSHdG0gF0QVVfeXFMTkc3Q1VLNXRicjFKTUZGQ0xUeFZUZTVWeE9jQ1F1QTVoaXZOSmd2NXp5UUlPOXhfOXFFeXIxa0ZPNHl6TTBQdWRFUnBsTDNiWHZwdHFkamt6Qjh5Y19jTXpNNXd4STMyMkEyRnFvUHQzcTZodHg?oc=5",
    "why": "매체 1곳 · AI·IT",
    "score": 8
   },
   {
    "module": "news",
    "item_ids": [
-    "8d5653ae156776de"
+    "28d3c325c321cab4"
    ],
-   "title": "북한, 동해상으로 미상 발사체 발사",
-   "url": "https://www.khan.co.kr/article/202610030831001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "title": "4일 아침 ‘쌀쌀’, 일교차 15도 안팎…밤부터 수도권 ‘비 소식’ - 한겨레",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9PUlo4S3owaF81LTlBT1l5R0JLeHJBNVplN1YzT0xybV9MYmpsSDFsU1UzcENiaHZHUklnTXpnNlpodDVlS1lHc1VJRHZkQ0dGckRIVXo4T0lheTJvVFlSRkU0UFpmRzdiaXhseA?oc=5",
    "why": "매체 2곳",
    "score": 7
   },
   {
    "module": "news",
    "item_ids": [
-    "02f79e81edb3727a"
+    "0363555ccf16e218"
    ],
-   "title": "[속보] 특검, '여론조사비 대납 의혹' 오세훈 2심 징역 1년6개월 구형 - 한국경제",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HUlNlckNPdjdjOGlPYWhUTmRGcGtlTGZEcGo5elJWVHlTaDRzMzFZMW1ncDhpRkhWMVU0T2JTQ05VY0x4SGtBSE03bDhDUDBrRURHVGNJM2RXdw?oc=5",
+   "title": "“마! 쫌 집에 가라”…‘부캉이’ 그물 뚫고 북항친수공원 리턴 - 매일경제",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5PWkFpS20tLWNwWktFdjZrUjFPZ0RsOHgyWTVVTDRVVDZnWWZkZ0F5ZldqQ1F5T1NaMngwZ0xqNGxmN2RXdmlUdkJ3RWZrTlhWWlJfdg?oc=5",
+   "why": "매체 1곳 · 경제",
+   "score": 6
+  },
+  {
+   "module": "news",
+   "item_ids": [
+    "7ed156f4c6759ca1"
+   ],
+   "title": "국힘 1년 만에 장외 집회…“이재명 정권 심판” - 한겨레",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5NM2ZjWmpTNUk3ZkhZc2tzX250Q0NVX2hZemFOSEc4aHlnbEt1eWgycV85V1g5dWVDRHRnXzRHbUhheFFpZHBjNHJuRnVLR3Z5YURwTDU0eUhhMHB0SFkzOFROS0dOUE5xZUZobFNiSG5Ec2hB?oc=5",
    "why": "매체 1곳 · 경제",
    "score": 6
   }

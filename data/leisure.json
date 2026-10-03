@@ -1,12 +1,86 @@
 {
  "module": "leisure",
- "fetched_at": "2026-10-03T09:33:59+09:00",
+ "fetched_at": "2026-10-04T08:54:14+09:00",
  "source": {
   "name": "Naver 뉴스 검색 + 고캠핑",
   "url": "https://www.gocamping.or.kr/",
   "kind": "api"
  },
  "items": [
+  {
+   "id": "482295a98f10077e",
+   "title": "고캠핑 — 전국 캠핑장 검색",
+   "url": "https://www.gocamping.or.kr/",
+   "published_at": "2026-10-04",
+   "summary": "한국관광공사 등록 캠핑장",
+   "tags": [
+    "바로가기"
+   ],
+   "metrics": {},
+   "is_new": false,
+   "streak_days": 16,
+   "source_name": "바로가기"
+  },
+  {
+   "id": "6e4d4e418e734b5f",
+   "title": "영주호 오토캠핑장 '신선식품 드론 배송 서비스'",
+   "url": "https://www.hidomin.com/news/articleView.html?idxno=723520",
+   "published_at": "2026-10-03T13:18:00+09:00",
+   "summary": "영주시가 영주호 오토캠핑장 이용객을 대상으로 드론으로 공공배달앱 '먹깨비'를 활용해 배달하는 서비스를 본격 운영한다. 이번 서비스는 '2026년 드론실증도시 구축사업'의 일환으로 추진되며, 영주농협 파머스마켓의...",
+   "tags": [
+    "캠핑",
+    "오토캠핑장"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "Naver 뉴스"
+  },
+  {
+   "id": "7334ae95133dfc3d",
+   "title": "가을 영주, 유구한 역사를 만나는 가볼 만한 곳",
+   "url": "https://www.joongangenews.com/news/articleView.html?idxno=551420",
+   "published_at": "2026-10-03T12:00:00+09:00",
+   "summary": "풍경을 감상하기 좋으며, 다목적 영상실과 물 문화 역사실, 영주댐 홍보실 등을 통해 물에 대한 이해를 높인다. 인근에는 무섬마을, 영주호 오토캠핑장 , 용마루 공원 등 다양한 여가 시설이 있어 함께 둘러보기 좋은 장소이다.",
+   "tags": [
+    "캠핑",
+    "오토캠핑장"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "Naver 뉴스"
+  },
+  {
+   "id": "a4fab986f3e4543c",
+   "title": "황금해안길 걷고, 궁평오솔서 머문다…화성 서해안 ‘체류형 관광’ 시...",
+   "url": "https://www.kyeongin.com/article/1771938",
+   "published_at": "2026-10-03T11:56:00+09:00",
+   "summary": "이번 캠핑장 개장 이 주목받는 이유는 주변 관광자원과의 연결성 때문이다. 궁평오솔로캠핑장 인근에는 최근 시민들에게 개방된 황금해안길이 있다. 해안선을 따라 걷는 길에 해송 군락지와 궁평항 등 관광자원이...",
+   "tags": [
+    "캠핑",
+    "캠핑장 개장"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "Naver 뉴스"
+  },
+  {
+   "id": "e5e690f0b6610b03",
+   "title": "[패트롤] 경기도-동두천시-양주시-의정부시-포천시",
+   "url": "https://www.ekn.kr/web/view.php?key=20261003026371961",
+   "published_at": "2026-10-03T09:52:00+09:00",
+   "summary": "2010년 개장 한 평화누리길은 총 12개 코스(김포 3, 고양 2, 파주 4, 연천 3)로 구성돼 있으며, 전체 길이는 약... 평화누리와 인접한 곳에 자리한 평화누리 캠핑장 은 임진강과 건너편 민통선을 마주하며 가을 정취를 만끽할 수...",
+   "tags": [
+    "캠핑",
+    "캠핑장 개장"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "Naver 뉴스"
+  },
   {
    "id": "00dd69e76955c557",
    "title": "[일상여행] \"태평양 은하수 아래 잠들고, 지상 낙원의 빛을 맞다\"…괌 아...",
@@ -18,23 +92,9 @@
     "오토캠핑장"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "Naver 뉴스"
-  },
-  {
-   "id": "482295a98f10077e",
-   "title": "고캠핑 — 전국 캠핑장 검색",
-   "url": "https://www.gocamping.or.kr/",
-   "published_at": "2026-10-03",
-   "summary": "한국관광공사 등록 캠핑장",
-   "tags": [
-    "바로가기"
-   ],
-   "metrics": {},
    "is_new": false,
-   "streak_days": 15,
-   "source_name": "바로가기"
+   "streak_days": 2,
+   "source_name": "Naver 뉴스"
   },
   {
    "id": "681b5e617ce1d1ce",
@@ -47,8 +107,8 @@
     "캠핑장 개장"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "Naver 뉴스"
   },
   {
@@ -62,8 +122,8 @@
     "캠핑장 개장"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "Naver 뉴스"
   },
   {
@@ -77,8 +137,8 @@
     "오토캠핑장"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "Naver 뉴스"
   },
   {
@@ -92,8 +152,8 @@
     "신규 캠핑장"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "Naver 뉴스"
   },
   {
@@ -107,8 +167,8 @@
     "캠핑장 개장"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "Naver 뉴스"
   },
   {
@@ -122,8 +182,8 @@
     "캠핑장 개장"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "Naver 뉴스"
   },
   {
@@ -137,8 +197,8 @@
     "캠핑장 개장"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "Naver 뉴스"
   },
   {
@@ -152,38 +212,8 @@
     "캠핑장 개장"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "Naver 뉴스"
-  },
-  {
-   "id": "02b9cbaeec344925",
-   "title": "화성 궁평오솔로 캠핑장 임시 개장 …서해 체류형 관광 본격화",
-   "url": "http://www.paxetv.com/news/articleView.html?idxno=283278",
-   "published_at": "2026-10-02T15:44:00+09:00",
-   "summary": "궁평오솔로 캠핑장 /[사진=화성특례시] 화성특례시가 서해안 관광 활성화를 위해 궁평오솔로 캠핑장 을 임시 개장 합니다. 궁평오솔로 캠핑장 은 서신면 일원 1만 293㎡ 부지에 54개 캠핑 사이트를 갖춘 야영시설로, 궁평리...",
-   "tags": [
-    "캠핑",
-    "캠핑장 개장"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "Naver 뉴스"
-  },
-  {
-   "id": "925995d583fd4e79",
-   "title": "화성시, 궁평오솔로 캠핑장 임시 개장 … 54개 사이트 갖춰",
-   "url": "https://gg.newdaily.co.kr/site/data/html/2026/10/02/2026100200251.html",
-   "published_at": "2026-10-02T15:40:00+09:00",
-   "summary": "뉴데일리 정일형 기자 = 화성특례시가 서해안 관광자원과 연계한 체류형 관광 활성화를 위해 궁평오솔로 캠핑장 을 임시 개장 한다. 궁평오솔로 캠핑장 은 만세구 서신면 일원 1만293㎡ 규모로 조성됐으며, 54개 사이트를...",
-   "tags": [
-    "캠핑",
-    "캠핑장 개장"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "Naver 뉴스"
   },
   {
@@ -197,8 +227,8 @@
     "오토캠핑장"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "Naver 뉴스"
   },
   {
@@ -212,8 +242,8 @@
     "오토캠핑장"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "Naver 뉴스"
   },
   {
@@ -227,8 +257,8 @@
     "오토캠핑장"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "Naver 뉴스"
   },
   {
@@ -242,23 +272,8 @@
     "오토캠핑장"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "Naver 뉴스"
-  },
-  {
-   "id": "c27175d020168423",
-   "title": "영주호 오토캠핑장 , '신선식품 드론 배송 서비스' 본격 개시",
-   "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4109969",
-   "published_at": "2026-10-02T11:34:00+09:00",
-   "summary": "영주시는 영주호 오토캠핑장 을 찾는 방문객들을 위해 신선식품 드론 배송 서비스를 개시한다고 밝혔습니다. '2026년 드론실증도시 구축사업'의 일환으로 추진되는 이번 서비스는 오는 11월 29일까지 매주 금·토·일요일...",
-   "tags": [
-    "캠핑",
-    "오토캠핑장"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "Naver 뉴스"
   },
   {
@@ -272,8 +287,8 @@
     "신규 캠핑장"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "Naver 뉴스"
   },
   {
@@ -287,8 +302,8 @@
     "신규 캠핑장"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "Naver 뉴스"
   },
   {
@@ -303,7 +318,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 2,
+   "streak_days": 3,
    "source_name": "Naver 뉴스"
   },
   {
@@ -318,7 +333,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 2,
+   "streak_days": 3,
    "source_name": "Naver 뉴스"
   },
   {
@@ -333,7 +348,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 2,
+   "streak_days": 3,
    "source_name": "Naver 뉴스"
   },
   {
@@ -348,7 +363,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 2,
+   "streak_days": 3,
    "source_name": "Naver 뉴스"
   },
   {
@@ -363,7 +378,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 2,
+   "streak_days": 3,
    "source_name": "Naver 뉴스"
   },
   {
@@ -378,7 +393,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 3,
+   "streak_days": 4,
    "source_name": "Naver 뉴스"
   },
   {
@@ -393,7 +408,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 3,
+   "streak_days": 4,
    "source_name": "Naver 뉴스"
   },
   {
@@ -408,7 +423,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 4,
+   "streak_days": 5,
    "source_name": "Naver 뉴스"
   },
   {
@@ -423,7 +438,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 5,
+   "streak_days": 6,
    "source_name": "Naver 뉴스"
   },
   {
@@ -432,21 +447,6 @@
    "url": "http://www.bizwnews.com/news/articleView.html?idxno=147225",
    "published_at": "2026-09-27T10:16:00+09:00",
    "summary": "전통 오픈 파이어 다이닝인 '아사도(Asado)'를 경험할 수 있다. 화덕 바로 옆 VIP 석에서 불꽃과 연기, 제철... 포근한 글램핑 을 선사한다. 하와이섬의 '코나 빌리지, 어 로즈우드 리조트'는 화산 해안선을 따라 150채의...",
-   "tags": [
-    "캠핑",
-    "글램핑 오픈"
-   ],
-   "metrics": {},
-   "is_new": false,
-   "streak_days": 6,
-   "source_name": "Naver 뉴스"
-  },
-  {
-   "id": "7877bef7542a199d",
-   "title": "럭셔리의 차원이 다르다…소수 정예부터 전용 기차 타고 가는 미국 여행",
-   "url": "https://www.mk.co.kr/article/12161568",
-   "published_at": "2026-09-26T09:57:00+09:00",
-   "summary": "마이애미 비치의 로스 푸에고스에서는 우루과이 출신 셰프 프란시스 말만의 오픈 파이어 다이닝을 만날 수... 몬태나주의 ‘더 랜치 앳 록 크릭’은 독립형 캐빈과 글램핑 텐트를 결합한 포브스 5성급 게스트 랜치다....",
    "tags": [
     "캠핑",
     "글램핑 오픈"
@@ -462,7 +462,7 @@
   "count": 30,
   "warn": [
    "고캠핑 API: 키 없음(DATA_GO_KR_KEY)",
-   "어제와 동일 40%"
+   "어제와 동일 87%"
   ],
   "error": null,
   "level": "warn",
