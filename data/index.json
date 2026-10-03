@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-02T09:53:21+09:00",
- "date": "2026-10-02",
+ "built_at": "2026-10-03T09:33:59+09:00",
+ "date": "2026-10-03",
  "site": {
   "title": "모닝브리프",
   "locations": [
@@ -55,7 +55,7 @@
    "count": 7,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-02T09:52:51+09:00",
+   "fetched_at": "2026-10-03T09:33:15+09:00",
    "repeat_ratio": 0.857
   },
   "fx": {
@@ -65,7 +65,7 @@
     "링크 확인 실패 3/3"
    ],
    "block": [],
-   "fetched_at": "2026-10-02T09:52:51+09:00",
+   "fetched_at": "2026-10-03T09:33:15+09:00",
    "repeat_ratio": 1.0
   },
   "news": {
@@ -73,15 +73,15 @@
    "count": 135,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-02T09:52:59+09:00",
-   "repeat_ratio": 0.0
+   "fetched_at": "2026-10-03T09:33:26+09:00",
+   "repeat_ratio": 0.007
   },
   "markets": {
    "level": "ok",
    "count": 5,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-02T09:53:00+09:00",
+   "fetched_at": "2026-10-03T09:33:26+09:00",
    "repeat_ratio": 1.0
   },
   "crypto": {
@@ -89,107 +89,110 @@
    "count": 10,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-02T09:53:04+09:00",
+   "fetched_at": "2026-10-03T09:33:30+09:00",
    "repeat_ratio": 1.0
   },
   "realestate": {
    "level": "warn",
-   "count": 22,
+   "count": 18,
    "warn": [
-    "LH·온비드 공공데이터 API: 키 없음(DATA_GO_KR_KEY) — 뉴스·바로가기만"
+    "LH·온비드 공공데이터 API: 키 없음(DATA_GO_KR_KEY) — 뉴스·바로가기만",
+    "어제와 동일 28%"
    ],
    "block": [],
-   "fetched_at": "2026-10-02T09:53:09+09:00",
-   "repeat_ratio": 0.136
+   "fetched_at": "2026-10-03T09:33:35+09:00",
+   "repeat_ratio": 0.278
   },
   "it": {
    "level": "ok",
    "count": 60,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-02T09:53:12+09:00",
+   "fetched_at": "2026-10-03T09:33:38+09:00",
    "repeat_ratio": 0.0
   },
   "auto": {
    "level": "warn",
    "count": 60,
    "warn": [
-    "어제와 동일 65%"
+    "어제와 동일 72%"
    ],
    "block": [],
-   "fetched_at": "2026-10-02T09:53:17+09:00",
-   "repeat_ratio": 0.65
+   "fetched_at": "2026-10-03T09:33:43+09:00",
+   "repeat_ratio": 0.717
   },
   "publicdata": {
-   "level": "ok",
+   "level": "warn",
    "count": 10,
-   "warn": [],
+   "warn": [
+    "Open-Meteo (날씨) 실패"
+   ],
    "block": [],
-   "fetched_at": "2026-10-02T09:53:19+09:00",
+   "fetched_at": "2026-10-03T09:33:56+09:00",
    "repeat_ratio": 1.0
   },
   "leisure": {
    "level": "warn",
-   "count": 29,
+   "count": 30,
    "warn": [
     "고캠핑 API: 키 없음(DATA_GO_KR_KEY)",
-    "어제와 동일 38%"
+    "어제와 동일 40%"
    ],
    "block": [],
-   "fetched_at": "2026-10-02T09:53:21+09:00",
-   "repeat_ratio": 0.379
+   "fetched_at": "2026-10-03T09:33:59+09:00",
+   "repeat_ratio": 0.4
   }
  },
  "must_know": [
   {
    "module": "news",
    "item_ids": [
-    "2de42193fad78b57"
+    "f16e27ab280755c0"
    ],
-   "title": "美 국채 금리 24년 만에 최고…유가 상승·AI 투자 확대에 세계 채권시장 흔들",
-   "url": "https://www.chosun.com/economy/int_economy/2026/10/02/NUZ5WNMADVC45HJM6RDW2IBN2E/",
-   "why": "매체 1곳 · AI·IT·경제",
+   "title": "[속보] 합참 \"北 발사 탄도미사일 1발…700㎞ 이상 비행\"",
+   "url": "https://www.yna.co.kr/view/AKR20261003017900504",
+   "why": "매체 3곳",
    "score": 10
   },
   {
    "module": "news",
    "item_ids": [
-    "484a289813ab264e"
+    "134b11954b3e3b7d"
    ],
-   "title": "우주로 간 인공지능…구글, 우주데이터센터 시험위성 첫 발사",
-   "url": "https://www.hani.co.kr/arti/science/technology/1280571.html",
+   "title": "트럼프 “AI 말고 SI“ 선언에…슬로베니아 도메인 수요 ’쑥’ - 연합뉴스TV",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ESllwOVIzN0dVMk9taUhKQS1GaTMyM2VpWFdfSkg2NHEwcGdKeUdRTFR0NHQyMDVnU0c1NFZmT1BfRkVucThYc2hLaE5mQ0s2YkI3RGpHWWZaRDI5M055RnlaMDRfQ2M?oc=5",
+   "why": "매체 1곳 · AI·IT·국제",
+   "score": 8
+  },
+  {
+   "module": "news",
+   "item_ids": [
+    "3551d946ef691739"
+   ],
+   "title": "AI 데이터센터의 딜레마… AI발 전력 쇼크, AI로 잠재운다",
+   "url": "https://www.hani.co.kr/arti/economy/economy_general/1280728.html",
    "why": "매체 1곳 · AI·IT",
    "score": 8
   },
   {
    "module": "news",
    "item_ids": [
-    "6d4228f13d6300bf"
+    "8d5653ae156776de"
    ],
-   "title": "미국의 반도체 관세 협박 왜?… 자국 내 투자 끌어내려는 협상 수단",
-   "url": "https://www.hani.co.kr/arti/economy/economy_general/1280567.html",
-   "why": "매체 1곳 · IT·국제·신기술",
-   "score": 8
+   "title": "북한, 동해상으로 미상 발사체 발사",
+   "url": "https://www.khan.co.kr/article/202610030831001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "why": "매체 2곳",
+   "score": 7
   },
   {
    "module": "news",
    "item_ids": [
-    "9f38223624a0884f"
+    "02f79e81edb3727a"
    ],
-   "title": "이 대통령, 김지용 중수청장 내정자 인사청문요청안 재가 - 경향신문",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwdzA4RDl5VERqcS13dUNmVDFCMkM2LU4wb2tOZUNBcGF6bm9DcExYOTFfQVpnN1JzbGUtUXE1N1doeEhZQnFoZ0tYR29SM2Fpbk13UTBsclFVd9IBX0FVX3lxTE9UN2NQNHBKRlVScTE5NUVfSEF6aHlWUnBUXzk4MFUzSnRFN2FPX2dob0VNeTBUUHpHN2NTM1ZhWE1XbExKNW1MNWpST3NCdG56eF92SllEX2ZHRDFQemY0?oc=5",
-   "why": "매체 3곳 · 사회·정치",
+   "title": "[속보] 특검, '여론조사비 대납 의혹' 오세훈 2심 징역 1년6개월 구형 - 한국경제",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HUlNlckNPdjdjOGlPYWhUTmRGcGtlTGZEcGo5elJWVHlTaDRzMzFZMW1ncDhpRkhWMVU0T2JTQ05VY0x4SGtBSE03bDhDUDBrRURHVGNJM2RXdw?oc=5",
+   "why": "매체 1곳 · 경제",
    "score": 6
-  },
-  {
-   "module": "crypto",
-   "item_ids": [
-    "f6b18db9a4f56551"
-   ],
-   "title": "Zcash (ZEC) ₩1,829,895",
-   "url": "https://www.coingecko.com/en/coins/zcash",
-   "why": "큰 변동 · 24시간 -5.65% · 7일 -13.72% · 시총 10위 · 이슈: 미드나잇(NIGHT), 호스킨슨의 \"지캐시 꺾는다\" 발언에 86% 폭풍 ",
-   "score": 0
   }
  ],
  "banned_hits": 0
