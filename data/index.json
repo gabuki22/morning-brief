@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-04T08:54:14+09:00",
- "date": "2026-10-04",
+ "built_at": "2026-10-05T08:59:56+09:00",
+ "date": "2026-10-05",
  "site": {
   "title": "모닝브리프",
   "locations": [
@@ -55,7 +55,7 @@
    "count": 7,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-04T08:53:41+09:00",
+   "fetched_at": "2026-10-05T08:59:20+09:00",
    "repeat_ratio": 0.857
   },
   "fx": {
@@ -65,7 +65,7 @@
     "링크 확인 실패 3/3"
    ],
    "block": [],
-   "fetched_at": "2026-10-04T08:53:41+09:00",
+   "fetched_at": "2026-10-05T08:59:21+09:00",
    "repeat_ratio": 1.0
   },
   "news": {
@@ -73,15 +73,15 @@
    "count": 135,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-04T08:53:53+09:00",
-   "repeat_ratio": 0.059
+   "fetched_at": "2026-10-05T08:59:32+09:00",
+   "repeat_ratio": 0.0
   },
   "markets": {
    "level": "ok",
    "count": 5,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-04T08:53:54+09:00",
+   "fetched_at": "2026-10-05T08:59:33+09:00",
    "repeat_ratio": 1.0
   },
   "crypto": {
@@ -89,46 +89,44 @@
    "count": 10,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-04T08:53:57+09:00",
+   "fetched_at": "2026-10-05T08:59:37+09:00",
    "repeat_ratio": 1.0
   },
   "realestate": {
    "level": "warn",
-   "count": 19,
+   "count": 28,
    "warn": [
     "LH·온비드 공공데이터 API: 키 없음(DATA_GO_KR_KEY) — 뉴스·바로가기만",
-    "어제와 동일 47%"
+    "어제와 동일 25%"
    ],
    "block": [],
-   "fetched_at": "2026-10-04T08:54:02+09:00",
-   "repeat_ratio": 0.474
+   "fetched_at": "2026-10-05T08:59:42+09:00",
+   "repeat_ratio": 0.25
   },
   "it": {
-   "level": "warn",
+   "level": "ok",
    "count": 60,
-   "warn": [
-    "어제와 동일 23%"
-   ],
+   "warn": [],
    "block": [],
-   "fetched_at": "2026-10-04T08:54:05+09:00",
-   "repeat_ratio": 0.233
+   "fetched_at": "2026-10-05T08:59:45+09:00",
+   "repeat_ratio": 0.067
   },
   "auto": {
    "level": "warn",
    "count": 60,
    "warn": [
-    "어제와 동일 97%"
+    "어제와 동일 100%"
    ],
    "block": [],
-   "fetched_at": "2026-10-04T08:54:10+09:00",
-   "repeat_ratio": 0.967
+   "fetched_at": "2026-10-05T08:59:51+09:00",
+   "repeat_ratio": 1.0
   },
   "publicdata": {
    "level": "ok",
    "count": 10,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-04T08:54:11+09:00",
+   "fetched_at": "2026-10-05T08:59:52+09:00",
    "repeat_ratio": 1.0
   },
   "leisure": {
@@ -136,10 +134,11 @@
    "count": 30,
    "warn": [
     "고캠핑 API: 키 없음(DATA_GO_KR_KEY)",
+    "링크 확인 실패 1/3",
     "어제와 동일 87%"
    ],
    "block": [],
-   "fetched_at": "2026-10-04T08:54:14+09:00",
+   "fetched_at": "2026-10-05T08:59:56+09:00",
    "repeat_ratio": 0.867
   }
  },
@@ -147,52 +146,52 @@
   {
    "module": "news",
    "item_ids": [
-    "89a5c8b5baa70d18"
+    "aaad9ffa55e8e163"
    ],
-   "title": "트럼프, 머스크 AI에 ‘마두로 체포’ 묻더니…한달 뒤 군사작전 결행",
-   "url": "https://www.mk.co.kr/news/it/12167878",
-   "why": "매체 1곳 · AI·IT·국제",
-   "score": 9
+   "title": "의대 정원 늘었는데 과기원도 급증…수시 지원 첫 3만 명 돌파",
+   "url": "https://www.hankyung.com/article/202610053088i",
+   "why": "매체 2곳 · AI·IT·신기술",
+   "score": 11
   },
   {
    "module": "news",
    "item_ids": [
-    "5979df842cb7213f"
+    "cc3019360e36d7da"
    ],
-   "title": "[단독] 예가람저축은행, 열흘 공격받고 이틀 털릴 동안 몰랐다 - MBC 뉴스",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9rRVhGVjJEYmlBbU5NbFk1WlRSTEh6dGlpVXV0OGFFeHg0OFFYcXNMbnZzQjFJWVdTbjRqdlZYeldpbXVscnNEaGpjcDlrV3ZnN05SOVlKd25vREhDUHRuN1J6SURCVzVkMWdFNXcwTjJrSHdG0gF0QVVfeXFMTkc3Q1VLNXRicjFKTUZGQ0xUeFZUZTVWeE9jQ1F1QTVoaXZOSmd2NXp5UUlPOXhfOXFFeXIxa0ZPNHl6TTBQdWRFUnBsTDNiWHZwdHFkamt6Qjh5Y19jTXpNNXd4STMyMkEyRnFvUHQzcTZodHg?oc=5",
+   "title": "“해커 1명이 1년 걸리는 침투·탈취, AI 에이전트는 하루 만에 해”",
+   "url": "https://www.khan.co.kr/article/202610042212015/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
    "why": "매체 1곳 · AI·IT",
    "score": 8
   },
   {
    "module": "news",
    "item_ids": [
-    "28d3c325c321cab4"
+    "b645855653cd91a3"
    ],
-   "title": "4일 아침 ‘쌀쌀’, 일교차 15도 안팎…밤부터 수도권 ‘비 소식’ - 한겨레",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9PUlo4S3owaF81LTlBT1l5R0JLeHJBNVplN1YzT0xybV9MYmpsSDFsU1UzcENiaHZHUklnTXpnNlpodDVlS1lHc1VJRHZkQ0dGckRIVXo4T0lheTJvVFlSRkU0UFpmRzdiaXhseA?oc=5",
-   "why": "매체 2곳",
+   "title": "이란 “미국, 7가지 조건 수용 안 하면 호르무즈 해협 재개방 없어” 재차 강조",
+   "url": "https://www.khan.co.kr/article/202610042240001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "why": "매체 2곳 · 국제",
    "score": 7
   },
   {
    "module": "news",
    "item_ids": [
-    "0363555ccf16e218"
+    "bcaf144c33e3392b"
    ],
-   "title": "“마! 쫌 집에 가라”…‘부캉이’ 그물 뚫고 북항친수공원 리턴 - 매일경제",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5PWkFpS20tLWNwWktFdjZrUjFPZ0RsOHgyWTVVTDRVVDZnWWZkZ0F5ZldqQ1F5T1NaMngwZ0xqNGxmN2RXdmlUdkJ3RWZrTlhWWlJfdg?oc=5",
-   "why": "매체 1곳 · 경제",
-   "score": 6
+   "title": "제주 차귀도 북서쪽서 29톤급 어선 전복···9명 구조·2명 실종",
+   "url": "https://www.khan.co.kr/article/202610050756011/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "why": "매체 2곳 · 사회",
+   "score": 7
   },
   {
    "module": "news",
    "item_ids": [
-    "7ed156f4c6759ca1"
+    "c94b0c550fb2cb44"
    ],
-   "title": "국힘 1년 만에 장외 집회…“이재명 정권 심판” - 한겨레",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5NM2ZjWmpTNUk3ZkhZc2tzX250Q0NVX2hZemFOSEc4aHlnbEt1eWgycV85V1g5dWVDRHRnXzRHbUhheFFpZHBjNHJuRnVLR3Z5YURwTDU0eUhhMHB0SFkzOFROS0dOUE5xZUZobFNiSG5Ec2hB?oc=5",
-   "why": "매체 1곳 · 경제",
-   "score": 6
+   "title": "[단독] 전기차 전환 빨라지면 경제 부담?…“GDP·소비·수출 모두 증가”",
+   "url": "https://www.hani.co.kr/arti/society/environment/1280890.html",
+   "why": "매체 1곳 · 경제·자동차",
+   "score": 7
   }
  ],
  "banned_hits": 0
