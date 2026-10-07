@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-06T10:47:28+09:00",
- "date": "2026-10-06",
+ "built_at": "2026-10-07T09:48:53+09:00",
+ "date": "2026-10-07",
  "site": {
   "title": "모닝브리프",
   "locations": [
@@ -55,7 +55,7 @@
    "count": 7,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-06T10:46:58+09:00",
+   "fetched_at": "2026-10-07T09:48:17+09:00",
    "repeat_ratio": 0.857
   },
   "fx": {
@@ -65,7 +65,7 @@
     "링크 확인 실패 3/3"
    ],
    "block": [],
-   "fetched_at": "2026-10-06T10:46:58+09:00",
+   "fetched_at": "2026-10-07T09:48:17+09:00",
    "repeat_ratio": 1.0
   },
   "news": {
@@ -73,7 +73,7 @@
    "count": 135,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-06T10:47:09+09:00",
+   "fetched_at": "2026-10-07T09:48:30+09:00",
    "repeat_ratio": 0.0
   },
   "markets": {
@@ -81,7 +81,7 @@
    "count": 5,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-06T10:47:10+09:00",
+   "fetched_at": "2026-10-07T09:48:31+09:00",
    "repeat_ratio": 1.0
   },
   "crypto": {
@@ -89,108 +89,107 @@
    "count": 10,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-06T10:47:12+09:00",
+   "fetched_at": "2026-10-07T09:48:35+09:00",
    "repeat_ratio": 1.0
   },
   "realestate": {
    "level": "warn",
-   "count": 21,
+   "count": 25,
    "warn": [
-    "LH·온비드 공공데이터 API: 키 없음(DATA_GO_KR_KEY) — 뉴스·바로가기만",
-    "어제와 동일 38%"
+    "LH·온비드 공공데이터 API: 키 없음(DATA_GO_KR_KEY) — 뉴스·바로가기만"
    ],
    "block": [],
-   "fetched_at": "2026-10-06T10:47:17+09:00",
-   "repeat_ratio": 0.381
+   "fetched_at": "2026-10-07T09:48:39+09:00",
+   "repeat_ratio": 0.12
   },
   "it": {
    "level": "ok",
    "count": 60,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-06T10:47:20+09:00",
+   "fetched_at": "2026-10-07T09:48:43+09:00",
    "repeat_ratio": 0.0
   },
   "auto": {
    "level": "warn",
    "count": 60,
    "warn": [
-    "어제와 동일 68%"
+    "어제와 동일 72%"
    ],
    "block": [],
-   "fetched_at": "2026-10-06T10:47:23+09:00",
-   "repeat_ratio": 0.683
+   "fetched_at": "2026-10-07T09:48:47+09:00",
+   "repeat_ratio": 0.717
   },
   "publicdata": {
    "level": "ok",
    "count": 9,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-06T10:47:25+09:00",
+   "fetched_at": "2026-10-07T09:48:49+09:00",
    "repeat_ratio": 1.0
   },
   "leisure": {
    "level": "warn",
-   "count": 30,
+   "count": 28,
    "warn": [
     "고캠핑 API: 키 없음(DATA_GO_KR_KEY)",
-    "어제와 동일 77%"
+    "어제와 동일 36%"
    ],
    "block": [],
-   "fetched_at": "2026-10-06T10:47:28+09:00",
-   "repeat_ratio": 0.767
+   "fetched_at": "2026-10-07T09:48:53+09:00",
+   "repeat_ratio": 0.357
   }
  },
  "must_know": [
   {
    "module": "news",
    "item_ids": [
-    "bbdcedb1f5b49c92"
+    "8f14d24c4e6baff1"
    ],
-   "title": "美 국채금리 급등에도 상승 마감…나스닥 사상 최고치 [뉴욕증시 브리핑] - 한국경제",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDNWJmNW94YzEtTzIxMEV3cXNSNGVSeS1yc2JlcnlfZ1gtcW9QUmlJZ0FpcTd2RVZlZHNwakttT0hTVjRLSmx6WkhGakN3a2VpZEVfOVBROWIwQQ?oc=5",
+   "title": "실적 기대에 뉴욕증시 상승…S&P500 첫 7800 돌파·나스닥도 최고치",
+   "url": "https://www.chosun.com/economy/int_economy/2026/10/07/EQDQOHZGJVF4TOPR6BCSXSA66E/",
    "why": "매체 1곳 · AI·IT·경제",
    "score": 10
   },
   {
    "module": "news",
    "item_ids": [
-    "7633e96545bb14d3"
+    "1960611197b7e26a"
    ],
-   "title": "안랩 12%↑, 지니언스 한때 상한가···금융권 AI 해킹에 보안주 급등",
-   "url": "https://www.khan.co.kr/article/202610061031001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-   "why": "매체 1곳 · AI·IT·경제",
-   "score": 10
+   "title": "“전기차~수소차 강점 연결”…현대차·기아, 유럽서 전동화 경쟁력 제시",
+   "url": "https://www.mk.co.kr/news/business/12170043",
+   "why": "매체 1곳 · AI·IT·국제",
+   "score": 9
   },
   {
    "module": "news",
    "item_ids": [
-    "e5dddcbd8091e7f7"
+    "624bf158d3ecffb3"
    ],
-   "title": "[속보] 제주 전복 어선 실종자 1명 발견…한국인 선장 추정",
-   "url": "https://www.hani.co.kr/arti/area/jeju/1281049.html",
+   "title": "현대차 ‘2027 쏘나타 디 엣지’ 출시…‘블랙 N라인’ 신설",
+   "url": "https://www.khan.co.kr/article/202610070856001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "why": "매체 2곳 · 자동차",
+   "score": 8
+  },
+  {
+   "module": "news",
+   "item_ids": [
+    "f7c874ebf42b7ca3"
+   ],
+   "title": "“반도체 벨트 따라 인구 이동”…산업 배후 신도시에 실수요 몰린다",
+   "url": "https://www.mk.co.kr/news/realestate/12170063",
+   "why": "매체 1곳 · IT·신기술",
+   "score": 8
+  },
+  {
+   "module": "news",
+   "item_ids": [
+    "148b6bbba35a298e"
+   ],
+   "title": "나주서 60대 부부 숨진 채 발견…경찰, 신원미상 용의자 추적 중",
+   "url": "https://www.hani.co.kr/arti/area/honam/1281242.html",
    "why": "매체 2곳 · 사회",
    "score": 7
-  },
-  {
-   "module": "news",
-   "item_ids": [
-    "214b69d3cdf53e6c"
-   ],
-   "title": "아람코 CEO \"세계 석유 공급 한계…재고 비축에 2년 걸려\" - 연합뉴스TV",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05bFYzZHlfZzRWYmpUS25IalRRQzVCUm5BNWJ2elBpNWZwNnFqd1RnU3JJQzJPVS1ib1NtWkl1U2FWMDFHb3g5ZlZYZFdMc3lsOFY4S1lsd3M4djZrUkZYYmtmdGRQQnM?oc=5",
-   "why": "매체 1곳 · 경제",
-   "score": 6
-  },
-  {
-   "module": "news",
-   "item_ids": [
-    "e3a8721337067d94"
-   ],
-   "title": "조희대로 시작하는 국감, ‘성남라인 인사개입 의혹’으로 끝날듯 - 동아일보",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1pSGVxbmJ2X3ZHbE9KWXJNSEdPUVNmZVFTMngwWDFGMnd4NGNtNWFzbXBUMEZlSTFDNThTYzZ6R0s5aG5od0tKN0ZveFlRT0ZYaHI4aHdURW81S19tV19pV3JCVzhzNldkUUE2UlVlVVNGNXFNakkw0gFmQVVfeXFMUHZ0LUZ1ODYydW5GRVBHUEFmLTFaUUNIRTkwV0ozZVNpTy1LT2hyU2pEZ1habThjSXN3NERHdS03bFdodmRnR2J1RHZzWFlKd3VnbzRGdDhlcm9zNE1iRnhvdXBjWTd3?oc=5",
-   "why": "매체 1곳 · 경제",
-   "score": 6
   }
  ],
  "banned_hits": 0
