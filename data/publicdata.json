@@ -1,6 +1,6 @@
 {
  "module": "publicdata",
- "fetched_at": "2026-10-09T10:16:33+09:00",
+ "fetched_at": "2026-10-10T09:59:13+09:00",
  "source": {
   "name": "공개 데이터 소스 실측",
   "url": "https://www.data.go.kr/",
@@ -11,8 +11,8 @@
    "id": "3b248502eefd21f1",
    "title": "○ Open-Meteo (날씨)",
    "url": "https://open-meteo.com/",
-   "published_at": "2026-10-09",
-   "summary": "정상 · 618ms · 296B · 키 none",
+   "published_at": "2026-10-10",
+   "summary": "정상 · 229ms · 298B · 키 none",
    "tags": [
     "소스 상태",
     "json"
@@ -21,15 +21,15 @@
     "ok": true
    },
    "is_new": false,
-   "streak_days": 21,
+   "streak_days": 22,
    "source_name": "실측"
   },
   {
    "id": "3d529cd44b46e3ea",
    "title": "○ Our World in Data",
    "url": "https://ourworldindata.org/",
-   "published_at": "2026-10-09",
-   "summary": "정상 · 796ms · 168,862B · 키 none",
+   "published_at": "2026-10-10",
+   "summary": "정상 · 493ms · 168,862B · 키 none",
    "tags": [
     "소스 상태",
     "csv"
@@ -38,15 +38,15 @@
     "ok": true
    },
    "is_new": false,
-   "streak_days": 21,
+   "streak_days": 22,
    "source_name": "실측"
   },
   {
    "id": "741f5c321e75223a",
    "title": "○ World Bank",
    "url": "https://data.worldbank.org/",
-   "published_at": "2026-10-09",
-   "summary": "정상 · 282ms · 290B · 키 none",
+   "published_at": "2026-10-10",
+   "summary": "정상 · 232ms · 290B · 키 none",
    "tags": [
     "소스 상태",
     "json"
@@ -55,15 +55,15 @@
     "ok": true
    },
    "is_new": false,
-   "streak_days": 21,
+   "streak_days": 22,
    "source_name": "실측"
   },
   {
    "id": "d2f8c78c516af3af",
    "title": "○ Frankfurter (환율)",
    "url": "https://frankfurter.dev/",
-   "published_at": "2026-10-09",
-   "summary": "정상 · 24ms · 71B · 키 none",
+   "published_at": "2026-10-10",
+   "summary": "정상 · 63ms · 71B · 키 none",
    "tags": [
     "소스 상태",
     "json"
@@ -72,15 +72,15 @@
     "ok": true
    },
    "is_new": false,
-   "streak_days": 21,
+   "streak_days": 22,
    "source_name": "실측"
   },
   {
    "id": "c7ca59c4cc86397a",
    "title": "○ USGS (지진)",
    "url": "https://earthquake.usgs.gov/earthquakes/map/",
-   "published_at": "2026-10-09",
-   "summary": "정상 · 375ms · 969B · 키 none",
+   "published_at": "2026-10-10",
+   "summary": "정상 · 333ms · 948B · 키 none",
    "tags": [
     "소스 상태",
     "json"
@@ -89,15 +89,15 @@
     "ok": true
    },
    "is_new": false,
-   "streak_days": 21,
+   "streak_days": 22,
    "source_name": "실측"
   },
   {
    "id": "0a85d032f7c175da",
    "title": "○ Nager.Date (공휴일)",
    "url": "https://date.nager.at/PublicHoliday/Country/KR",
-   "published_at": "2026-10-09",
-   "summary": "정상 · 195ms · 3,062B · 키 none",
+   "published_at": "2026-10-10",
+   "summary": "정상 · 228ms · 3,062B · 키 none",
    "tags": [
     "소스 상태",
     "json"
@@ -106,61 +106,45 @@
     "ok": true
    },
    "is_new": false,
-   "streak_days": 21,
+   "streak_days": 22,
    "source_name": "실측"
-  },
-  {
-   "id": "fbf0884ef1907e28",
-   "title": "10/09 한글날",
-   "url": "https://date.nager.at/PublicHoliday/Country/KR",
-   "published_at": "2026-10-09",
-   "summary": "오늘 · 금요일",
-   "tags": [
-    "공휴일"
-   ],
-   "metrics": {
-    "days_left": 0
-   },
-   "is_new": false,
-   "streak_days": 14,
-   "source_name": "Nager.Date"
   },
   {
    "id": "938f6ffbc17e54d1",
    "title": "12/25 크리스마스",
    "url": "https://date.nager.at/PublicHoliday/Country/KR",
    "published_at": "2026-12-25",
-   "summary": "77일 뒤 · 금요일",
+   "summary": "76일 뒤 · 금요일",
    "tags": [
     "공휴일"
    ],
    "metrics": {
-    "days_left": 77
+    "days_left": 76
    },
    "is_new": false,
-   "streak_days": 13,
+   "streak_days": 14,
    "source_name": "Nager.Date"
   },
   {
    "id": "be0286b6201a8c1f",
    "title": "세계 지진 (USGS, 7일)",
    "url": "https://earthquake.usgs.gov/earthquakes/map/",
-   "published_at": "2026-10-09",
-   "summary": "이번 주 규모 4.5 이상 120건 · 최대 M6.3 102 km NE of Norsup, Vanuatu",
+   "published_at": "2026-10-10",
+   "summary": "이번 주 규모 4.5 이상 130건 · 최대 M7.7 12 km WSW of Pitaloza Arriba, Panama",
    "tags": [
     "지진"
    ],
    "metrics": {
-    "count": 120
+    "count": 130
    },
    "is_new": false,
-   "streak_days": 21,
+   "streak_days": 22,
    "source_name": "USGS"
   }
  ],
  "status": {
   "ok": true,
-  "count": 9,
+  "count": 8,
   "warn": [],
   "error": null,
   "level": "ok",

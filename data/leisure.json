@@ -1,12 +1,41 @@
 {
  "module": "leisure",
- "fetched_at": "2026-10-09T10:16:36+09:00",
+ "fetched_at": "2026-10-10T09:59:16+09:00",
  "source": {
   "name": "Naver 뉴스 검색 + 고캠핑",
   "url": "https://www.gocamping.or.kr/",
   "kind": "api"
  },
  "items": [
+  {
+   "id": "482295a98f10077e",
+   "title": "고캠핑 — 전국 캠핑장 검색",
+   "url": "https://www.gocamping.or.kr/",
+   "published_at": "2026-10-10",
+   "summary": "한국관광공사 등록 캠핑장",
+   "tags": [
+    "바로가기"
+   ],
+   "metrics": {},
+   "is_new": false,
+   "streak_days": 22,
+   "source_name": "바로가기"
+  },
+  {
+   "id": "d63266afebc6d113",
+   "title": "화성시, 민선9기 100일 ‘더 큰 화성’ 질주…변화 중심에 정명근 시장...",
+   "url": "https://www.kukinews.com/article/view/kuk202610090017",
+   "published_at": "2026-10-09T14:26:00+09:00",
+   "summary": "지난 7월 본격 가동된 '화성에코팜테마파크’는 14.6ha 부지에 106면 규모의 오토캠핑장 과 전망대, 어린이 놀이터, 체험 텃밭, 야외공연장, 농가 레스토랑, 로컬푸드 직매장 등을 고루 갖췄다. 가족 단위 방문객을 위한...",
+   "tags": [
+    "캠핑",
+    "오토캠핑장"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "Naver 뉴스"
+  },
   {
    "id": "eaceaa9cd4b7cafc",
    "title": "밀양 하남읍 새 캐릭터 '포슬이'...\"눈에띄네\"",
@@ -18,8 +47,8 @@
     "오토캠핑장"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "Naver 뉴스"
   },
   {
@@ -33,8 +62,8 @@
     "캠핑장 개장"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "Naver 뉴스"
   },
   {
@@ -48,37 +77,8 @@
     "캠핑장 개장"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "Naver 뉴스"
-  },
-  {
-   "id": "482295a98f10077e",
-   "title": "고캠핑 — 전국 캠핑장 검색",
-   "url": "https://www.gocamping.or.kr/",
-   "published_at": "2026-10-09",
-   "summary": "한국관광공사 등록 캠핑장",
-   "tags": [
-    "바로가기"
-   ],
-   "metrics": {},
    "is_new": false,
-   "streak_days": 21,
-   "source_name": "바로가기"
-  },
-  {
-   "id": "2138141ea272d8d9",
-   "title": "108만 화성, 교통·복지 혁신으로 도시 경쟁력 높인다",
-   "url": "https://www.hankyung.com/article/202610082114h",
-   "published_at": "2026-10-08T20:46:00+09:00",
-   "summary": "14.6㏊ 부지에 오토캠핑장 106면과 전망대, 어린이 놀이터, 체험 텃밭, 야외공연장 등을 갖췄다. 농가 레스토랑과 로컬푸드 직매장을 통해 관광객의 소비가 지역 농업으로 이어지는 구조다. 시는 두 시설을 연계해 잠시...",
-   "tags": [
-    "캠핑",
-    "오토캠핑장"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "streak_days": 2,
    "source_name": "Naver 뉴스"
   },
   {
@@ -92,8 +92,23 @@
     "오토캠핑장"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
+   "source_name": "Naver 뉴스"
+  },
+  {
+   "id": "2138141ea272d8d9",
+   "title": "108만 화성, 교통·복지 혁신으로 도시 경쟁력 높인다",
+   "url": "https://www.hankyung.com/article/202610082114h",
+   "published_at": "2026-10-08T20:46:00+09:00",
+   "summary": "14.6㏊ 부지에 오토캠핑장 106면과 전망대, 어린이 놀이터, 체험 텃밭, 야외공연장 등을 갖췄다. 농가 레스토랑과 로컬푸드 직매장을 통해 관광객의 소비가 지역 농업으로 이어지는 구조다. 시는 두 시설을 연계해 잠시...",
+   "tags": [
+    "캠핑",
+    "오토캠핑장"
+   ],
+   "metrics": {},
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "Naver 뉴스"
   },
   {
@@ -107,8 +122,8 @@
     "오토캠핑장"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "Naver 뉴스"
   },
   {
@@ -122,8 +137,8 @@
     "오토캠핑장"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "Naver 뉴스"
   },
   {
@@ -137,23 +152,8 @@
     "오토캠핑장"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "Naver 뉴스"
-  },
-  {
-   "id": "6d412b0147a035e1",
-   "title": "정명근 화성시장 취임 100일…108만 시민 위한 ‘모두의 행복, 더 큰 화...",
-   "url": "http://www.beyondpost.co.kr/view.php?ud=2026100818510314104c878f8fa1_30",
-   "published_at": "2026-10-08T19:12:00+09:00",
-   "summary": "지난 7월 운영을 시작한 화성에코팜테마파크는 14.6㏊ 부지에 106면 규모의 오토캠핑장 과 전망대, 어린이 놀이터, 체험 텃밭 등을 조성했다. 야외공연장과 농가 레스토랑, 로컬푸드 직매장도 갖춰 가족 단위 휴양과 지역...",
-   "tags": [
-    "캠핑",
-    "오토캠핑장"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "Naver 뉴스"
   },
   {
@@ -167,8 +167,8 @@
     "캠핑장 개장"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "Naver 뉴스"
   },
   {
@@ -182,8 +182,8 @@
     "캠핑장 개장"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "Naver 뉴스"
   },
   {
@@ -197,8 +197,8 @@
     "캠핑장 개장"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "Naver 뉴스"
   },
   {
@@ -212,8 +212,8 @@
     "캠핑장 개장"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "Naver 뉴스"
   },
   {
@@ -227,8 +227,8 @@
     "신규 캠핑장"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "Naver 뉴스"
   },
   {
@@ -243,7 +243,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 2,
+   "streak_days": 3,
    "source_name": "Naver 뉴스"
   },
   {
@@ -258,7 +258,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 2,
+   "streak_days": 3,
    "source_name": "Naver 뉴스"
   },
   {
@@ -273,7 +273,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 2,
+   "streak_days": 3,
    "source_name": "Naver 뉴스"
   },
   {
@@ -288,7 +288,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 2,
+   "streak_days": 3,
    "source_name": "Naver 뉴스"
   },
   {
@@ -303,7 +303,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 2,
+   "streak_days": 3,
    "source_name": "Naver 뉴스"
   },
   {
@@ -318,7 +318,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 2,
+   "streak_days": 3,
    "source_name": "Naver 뉴스"
   },
   {
@@ -333,7 +333,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 3,
+   "streak_days": 4,
    "source_name": "Naver 뉴스"
   },
   {
@@ -348,7 +348,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 3,
+   "streak_days": 4,
    "source_name": "Naver 뉴스"
   },
   {
@@ -363,7 +363,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 3,
+   "streak_days": 4,
    "source_name": "Naver 뉴스"
   },
   {
@@ -378,7 +378,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 3,
+   "streak_days": 4,
    "source_name": "Naver 뉴스"
   },
   {
@@ -393,7 +393,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 3,
+   "streak_days": 4,
    "source_name": "Naver 뉴스"
   },
   {
@@ -408,7 +408,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 9,
+   "streak_days": 10,
    "source_name": "Naver 뉴스"
   },
   {
@@ -423,7 +423,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 9,
+   "streak_days": 10,
    "source_name": "Naver 뉴스"
   },
   {
@@ -438,7 +438,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 10,
+   "streak_days": 11,
    "source_name": "Naver 뉴스"
   },
   {
@@ -453,7 +453,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 11,
+   "streak_days": 12,
    "source_name": "Naver 뉴스"
   }
  ],
@@ -462,7 +462,8 @@
   "count": 30,
   "warn": [
    "고캠핑 API: 키 없음(DATA_GO_KR_KEY)",
-   "어제와 동일 53%"
+   "링크 확인 실패 1/3",
+   "어제와 동일 97%"
   ],
   "error": null,
   "level": "warn",
