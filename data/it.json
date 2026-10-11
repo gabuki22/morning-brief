@@ -1,6 +1,6 @@
 {
  "module": "it",
- "fetched_at": "2026-10-10T09:59:08+09:00",
+ "fetched_at": "2026-10-11T09:16:35+09:00",
  "source": {
   "name": "RSS 5곳",
   "url": "https://feeds.feedburner.com/zdkorea",
@@ -8,10 +8,302 @@
  },
  "items": [
   {
-   "id": "0c2fba7a4bc44bea",
-   "title": "\"공공장소서 AI 안경 쓰지 마\"…결국 '금지법' 등장 예고 [이슈+]",
-   "url": "https://www.hankyung.com/article/202610081069g",
-   "published_at": "2026-10-10T09:00:09+09:00",
+   "id": "369c3478625ede45",
+   "title": "'AI 해킹'에 통신사 비상태세 돌입…전사 취약점 점검",
+   "url": "https://www.etnews.com/20261008000266",
+   "published_at": "2026-10-11T09:01:00+09:00",
+   "summary": "금융권 등 AI 해킹 공격에 통신사들도 전사 취약점 점검에 나서는 등 비상 태세에 돌입했다. 지난해 대규모 해킹 사고로 홍역을 치른 상황에서 또다시 표적이 될 수 있다는 우려에 재발 방지에 총력을 기울이고 있다. 11일 관련 업계에 따르면 SK텔레콤, KT, LG유플러스 통신 3사는 최",
+   "tags": [
+    "AI"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "전자신문"
+  },
+  {
+   "id": "eda345f0b05a2fd1",
+   "title": "취임 6주년 맞은 정의선…피지컬 AI 설루션 기업 전환 속도",
+   "url": "https://www.yna.co.kr/view/AKR20261009061300003",
+   "published_at": "2026-10-11T08:00:08+09:00",
+   "summary": "(서울=연합뉴스) 장하나 기자 = 정의선 현대차그룹 회장이 오는 14일로 취임 6주년을 맞는다.",
+   "tags": [
+    "AI"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "연합뉴스 산업"
+  },
+  {
+   "id": "35dc91695d5dee44",
+   "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+   "published_at": "2026-10-11T07:10:17+09:00",
+   "summary": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we ca",
+   "tags": [
+    "AI"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "The Verge"
+  },
+  {
+   "id": "e8e31af1d426d0ea",
+   "title": "“돈이 부족해?”…빵 공짜로 줬더니, 초등생 4명이 냅다 큰절",
+   "url": "https://www.etnews.com/20261010000026",
+   "published_at": "2026-10-11T06:00:00+09:00",
+   "summary": "돈이 부족해 빵을 사지 못한 아이들에게 크루아상을 선물한 카페의 사연이 온라인에서 화제를 모으고 있다. 빵을 받은 아이들은 식사를 마친 뒤 카페 직원들에게 큰절로 감사 인사를 전했고, 이 모습이 담긴 폐쇄회로(CC)TV 영상에 누리꾼들의 관심이 쏠렸다. 10일 온라인 커뮤니티 등에 따르",
+   "tags": [
+    "가전"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "전자신문"
+  },
+  {
+   "id": "06aff768e81174fd",
+   "title": "구글과 손잡은 日 파나소닉…불붙는 '스마트 홈 경쟁'",
+   "url": "https://www.etnews.com/20261008000207",
+   "published_at": "2026-10-11T06:00:00+09:00",
+   "summary": "일본 대표 가전 기업 파나소닉이 구글과 차세대 스마트 홈 시장을 공략한다. LG전자와 애플 협력 등 가전 제조사와 빅테크 간 동맹이 가속화되면서 스마트 홈 주도권을 잡기 위한 경쟁이 치열해질 전망이다. 파나소닉은 구글과 차세대 스마트 홈·보안 솔루션을 공동 개발할 예정이다. 파나소닉이 ",
+   "tags": [
+    "가전"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "전자신문"
+  },
+  {
+   "id": "e77e9ae83492452b",
+   "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+   "url": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
+   "published_at": "2026-10-11T03:52:07+09:00",
+   "summary": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge th",
+   "tags": [],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "The Verge"
+  },
+  {
+   "id": "7549208eceec51b4",
+   "title": "Ledger wallet tampering suspected after reports of crypto thefts",
+   "url": "https://www.theverge.com/tech/1009294/ledger-wallet-tampering-suspected-after-reports-of-crypto-thefts",
+   "published_at": "2026-10-11T01:36:44+09:00",
+   "summary": "Reports have been mounting that users of the Ledger crypto wallet have seen their accounts drained, and it appears to be related to tampered hardware sold by Cr",
+   "tags": [],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "The Verge"
+  },
+  {
+   "id": "809098db807e66f2",
+   "title": "K-pop star Sunmi loves Notion and ear cleaning videos",
+   "url": "https://www.theverge.com/entertainment/1008654/k-pop-sunmi-wonder-girls-interview",
+   "published_at": "2026-10-11T00:00:00+09:00",
+   "summary": "Sunmi is an undeniable force in K-pop. She first made her debut as a member of the Wonder Girls back in 2007, one of the first K-pop acts to really break throug",
+   "tags": [],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "The Verge"
+  },
+  {
+   "id": "0decde66c5ee642f",
+   "title": "Anthropic is cutting off its internal evaluations from the internet",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+   "published_at": "2026-10-10T23:41:16+09:00",
+   "summary": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In",
+   "tags": [
+    "AI"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "The Verge"
+  },
+  {
+   "id": "30aa1cf96e27af72",
+   "title": "Will Warner Bros. kill Skydance — or will David Ellison kill Warner Bros?",
+   "url": "https://www.theverge.com/podcast/1008733/warner-skydance-paramount-ellison-debt-failure",
+   "published_at": "2026-10-10T23:00:00+09:00",
+   "summary": "Today, I’m talking with Peter Kafka, chief correspondent at Business Insider and host of the Channels podcast, about the gigantic Warner Bros.-Paramount merger ",
+   "tags": [],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "The Verge"
+  },
+  {
+   "id": "6c5c2d6c4ffaa953",
+   "title": "정부 주최 AI해킹 대회 12월 열린다...'ACDC' 예선 참가자 모집",
+   "url": "https://zdnet.co.kr/view/?no=20261010225607",
+   "published_at": "2026-10-10T22:56:07+09:00",
+   "summary": "[지디넷코리아]과학기술정보통신부와 한국인터넷진흥원(KISA, 원장 이상중)이 오는 12월 열리는 '인공지능(AI) 해킹 방어 대회(2026 AI Cyber Defense Contest, ACDC)'의 예선 참가자를 26일까지 모집한다.'AI 해킹 방어 대회(ACDC)'는 인공지능을 활용",
+   "tags": [
+    "AI"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "지디넷코리아"
+  },
+  {
+   "id": "e9dd9149e970dec2",
+   "title": "LG’s RGB LED TV is good for certain situations, but an OLED is better",
+   "url": "https://www.theverge.com/tech/1008957/lg-mrgb95b-rgb-led-tv-review",
+   "published_at": "2026-10-10T22:00:00+09:00",
+   "summary": "When it comes to TVs, the LG name has long been synonymous with OLEDs, continually leading Samsung and Sony as the top OLED manufacturer. But 2026 is all about ",
+   "tags": [
+    "가전",
+    "신기술"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "The Verge"
+  },
+  {
+   "id": "0ea9d786e45ed9d7",
+   "title": "AI agent makers are promising privacy — will they deliver?",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
+   "published_at": "2026-10-10T22:00:00+09:00",
+   "summary": "At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new standard for pri",
+   "tags": [
+    "AI"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "The Verge"
+  },
+  {
+   "id": "9c55825b3fdd5071",
+   "title": "티씨케이, 반도체 식각 SiC 포커스링 특허 정정...디에스테크노 상대 분쟁",
+   "url": "https://zdnet.co.kr/view/?no=20261010213456",
+   "published_at": "2026-10-10T21:54:21+09:00",
+   "summary": "[지디넷코리아]반도체 소재·부품업체 티씨케이가 실리콘카바이드(SiC) 포커스링 특허 1건을 정정했다. 일반적으로 특허 무효화 가능성이 있을 때 특허권자는 특허 권리범위를 좁혀 정정한다. SiC 포커스링은 반도체 식각 공정에 사용하는 소모성 부품이다.티씨케이는 지난 2019년 디에스테크노",
+   "tags": [
+    "반도체",
+    "신기술"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "지디넷코리아"
+  },
+  {
+   "id": "8dd61bac9de3ef72",
+   "title": "[안광섭 AI 진테제] 트럼프가 'SI'를 외치는 이유",
+   "url": "https://zdnet.co.kr/view/?no=20261010212201",
+   "published_at": "2026-10-10T21:22:01+09:00",
+   "summary": "[지디넷코리아]도널드 트럼프 미국 대통령이 미국 시간 8일 자신의 소셜미디어 트루스소셜에 글을 올렸다. '인공지능(AI)'이라는 말을 새 용어 '슈퍼 인텔리전스(SI)' 대신 쓰는 사람을 백악관은 \"적(THE ENEMY)\"으로 간주한다는 내용이다. 적으로 간주하면 무엇이 달라지는지는 밝",
+   "tags": [
+    "AI"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "지디넷코리아"
+  },
+  {
+   "id": "88677ba370a8c12a",
+   "title": "The techlash has gone Hollywood",
+   "url": "https://www.theverge.com/tech/1008836/social-reckoning-cupertino-techlash-installer",
+   "published_at": "2026-10-10T21:00:00+09:00",
+   "summary": "Hi, friends! Welcome to Installer No. 147, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, I missed you all, and also yo",
+   "tags": [],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "The Verge"
+  },
+  {
+   "id": "cf4207dd1f6d8dc0",
+   "title": "\"금융권 AI 해킹 대응\"…파이오링크, CTEM·웹방화벽 등 공급",
+   "url": "https://zdnet.co.kr/view/?no=20261010201449",
+   "published_at": "2026-10-10T20:14:49+09:00",
+   "summary": "[지디넷코리아]최근 금융권 침해사고를 계기로 AI 기반 사이버 공격에 대한 우려가 커지고 있다. AI가 취약점 탐색부터 공격경로 분석, 침투 시도까지 자동화하면서 기존의 주기적인 취약점 점검과 사후 대응만으로는 고도화되는 사이버 위협에 대응하기 어려워지고 있기 때문이다.파이오링크(대표 ",
+   "tags": [
+    "AI"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "지디넷코리아"
+  },
+  {
+   "id": "4a13f9d45e4750e5",
+   "title": "The Telo MT1 is a big truck trapped in a tiny truck’s body",
+   "url": "https://www.theverge.com/transportation/1005502/telo-mt1-review-ev-tiny-truck",
+   "published_at": "2026-10-10T20:00:00+09:00",
+   "summary": "I'm bouncing down the road in San Carlos, California, zipping past behemoth tech companies like EA and Oracle, in America's smallest electric truck. The Telo MT",
+   "tags": [],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "The Verge"
+  },
+  {
+   "id": "aee9b62f84640252",
+   "title": "앤트로픽 AI 모델, 미제 살인사건 허위제보 '논란'",
+   "url": "https://zdnet.co.kr/view/?no=20261010193638",
+   "published_at": "2026-10-10T19:41:16+09:00",
+   "summary": "[지디넷코리아]미국 앤트로픽의 인공지능(AI) 모델이 미해결 살인 사건에 대해 거짓 제보를 한 사실이 확인돼 파장이 일고 있다.9일(현지시간) 테크크런치를 비롯한 주요 외신에 따르면 앤트로픽의 AI 모델이 지난 7월 18일 필라델피아 경찰청(PPD)의 미제 사건 제보 웹사이트에 접속한 ",
+   "tags": [
+    "AI"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "지디넷코리아"
+  },
+  {
+   "id": "d8c84ef58993f7a0",
+   "title": "이소영 중기부 장관 산업계와 첫 소통...\"신성장 혁신기업 육성\"",
+   "url": "https://zdnet.co.kr/view/?no=20261010181545",
+   "published_at": "2026-10-10T18:15:45+09:00",
+   "summary": "[지디넷코리아]이소영 중소벤처기업부(중기부) 장관이 8일 중소기업중앙회를 방문해 김기문 회장 등 중소기업단체협의회 소속 단체장들을 만나 중소기업에 대한 정책 방향에 대해 의견을 나눴다. 중소기업계와 소통 첫걸음이다.이번 자리는 이 장관 취임을 계기로 중소벤처기업부와 중소기업계 간 소통과",
+   "tags": [],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "지디넷코리아"
+  },
+  {
+   "id": "53225fcf728d9737",
+   "title": "개발원, 일본 도쿄도에 K-전자정부 혁신 노하우 지속 전수",
+   "url": "https://zdnet.co.kr/view/?no=20261010173520",
+   "published_at": "2026-10-10T17:35:20+09:00",
+   "summary": "[지디넷코리아]일본 도쿄도 디지털서비스국 공무원 대표단이 8일 오후 한국지역정보개발원(이하 개발원)을 방문해 디지털 행정 혁신 노하우를 공유하고 교류 시간을 가졌다.개발원에 따르면, 이번 방문은 디지털 행정 추진 선진 사례를 공유하고 교류를 이어가기 위해 추진됐다. 도쿄도 디지털서비스국",
+   "tags": [],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "지디넷코리아"
+  },
+  {
+   "id": "2b96d6fd46c09613",
+   "title": "\"韓-EU 우주안보 협력\"...KASS, ESPI와 공동워크숍 개최",
+   "url": "https://zdnet.co.kr/view/?no=20261010170051",
+   "published_at": "2026-10-10T17:00:51+09:00",
+   "summary": "[지디넷코리아]한국우주안보학회(KASS, 회장 이재우)와 유럽우주정책연구소(ESPI, 소장 헤르만 루트비히 뮐러)는 뉴스페이스 시대의 우주 중견국들의 우주안보 역량 강화를 도모하기 위해 양 기관 간 국제공동워크숍을 7일 개최했다. 튀르키예의 안탈리아에서 열리고 있는 세계 최대의 국제 우",
+   "tags": [],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "지디넷코리아"
+  },
+  {
+   "id": "3a549825e348e93b",
+   "title": "AI가 돈 쓸어담는데…\"심상찮다\" 월가가 긴장하는 이유",
+   "url": "https://www.hankyung.com/article/2026101034887",
+   "published_at": "2026-10-10T15:57:42+09:00",
    "summary": "",
    "tags": [
     "AI"
@@ -19,6 +311,285 @@
    "metrics": {},
    "is_new": true,
    "streak_days": 1,
+   "source_name": "한국경제 IT"
+  },
+  {
+   "id": "d229a679822af5ef",
+   "title": "텍스트 대신 확률값 출력 AI '제브', 출시 몇 주 만에 기업가치 75억 달러 평가",
+   "url": "https://zdnet.co.kr/view/?no=20261010105326",
+   "published_at": "2026-10-10T12:32:37+09:00",
+   "summary": "[지디넷코리아]텍스트를 생성하지 않는 인공지능(AI) 모델 '제브(Jev)'의 개발사 타입세이프AI가 모델 출시 몇 주 만에 75억 달러의 기업가치를 인정받았다.테크크런치에 따르면 타입세이프AI는 안드리센호로위츠(a16z)가 주도한 투자 라운드에서 8억7천만 달러를 유치했다. 세쿼이아와",
+   "tags": [
+    "AI"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "지디넷코리아"
+  },
+  {
+   "id": "864777681ad873c5",
+   "title": "국민의힘 \"음식 플랫폼법, 소상공인 부담 키울 우려…졸속 추진 안 돼\"",
+   "url": "https://zdnet.co.kr/view/?no=20261010112649",
+   "published_at": "2026-10-10T12:31:33+09:00",
+   "summary": "[지디넷코리아]국민의힘이 정부와 더불어민주당이 추진 중인 이른바 ‘음식 플랫폼법’과 관련해 소상공인 부담을 오히려 키울 수 있다며 신중한 입법을 촉구했다.박성훈 국민의힘 수석대변인은 10일 논평을 내고 “배달 수수료 부담을 줄이고 플랫폼의 불공정행위를 개선해야 한다는 취지에는 공감하지만",
+   "tags": [],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "지디넷코리아"
+  },
+  {
+   "id": "fe5eb5b6759ad740",
+   "title": "공무원 AI 플랫폼 탑재 LLM, 국산 4종·외산 6종…삼성SDS·네이버 구축",
+   "url": "https://zdnet.co.kr/view/?no=20261010121050",
+   "published_at": "2026-10-10T12:29:58+09:00",
+   "summary": "[지디넷코리아]정부가 공무원 업무에 활용하는 인공지능(AI) 플랫폼에 모델 11종이 탑재된 것으로 확인됐다.삼성SDS와 네이버클라우드가 각각 플랫폼을 구축·운영하는 가운데 두 플랫폼에 공통으로 탑재된 모델 1종을 중복 집계에서 제외하면 전체 모델은 10종이다. 이 가운데 국산은 4종, ",
+   "tags": [
+    "AI"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "지디넷코리아"
+  },
+  {
+   "id": "3ec37f84e4e8e5d9",
+   "title": "디스코드 보안 봇 '더블 카운터' 해킹 피해…이메일 100만건 등 대규모 유출",
+   "url": "https://zdnet.co.kr/view/?no=20261010121815",
+   "published_at": "2026-10-10T12:29:09+09:00",
+   "summary": "[지디넷코리아]디스코드 서버 보호 봇 서비스 '더블 카운터'가 해킹 공격을 받아 약 100만건의 이메일 주소를 포함한 대규모 사용자 정보가 유출됐다.8일 게임인더스트리비즈 등 외신에 따르면, 더블 카운터는 지난 4일 조직적인 해킹 피해를 입었다. 구형 서버에서 외부로 열려 있던 분석 프",
+   "tags": [
+    "게임"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "지디넷코리아"
+  },
+  {
+   "id": "2feda1655d613076",
+   "title": "IDC \"3분기 세계 PC 출하량, 전년比 20% 급감\"",
+   "url": "https://zdnet.co.kr/view/?no=20261010091103",
+   "published_at": "2026-10-10T12:27:07+09:00",
+   "summary": "[지디넷코리아]올 3분기 세계 PC 출하량이 메모리 가격 상승과 공급 제약, 상반기 선구매에 따른 재고 부담 등 영향으로 전년 대비 20% 줄었고 시장조사업체 IDC가 8일(현지시간) 밝혔다.IDC에 따르면 3분기 PC 출하량은 6270만 대로 전년 동기 대비 20.1%, 2분기 대비 ",
+   "tags": [
+    "사무기기"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "지디넷코리아"
+  },
+  {
+   "id": "c8bbdde2db2aa26f",
+   "title": "국감서 다시 거론된 석포제련소…토양정화 이행 상황 쟁점",
+   "url": "https://zdnet.co.kr/view/?no=20261009234633",
+   "published_at": "2026-10-10T12:24:29+09:00",
+   "summary": "[지디넷코리아]영풍 석포제련소의 토양정화 이행이 일부 부지에서 저조한 것으로 나타난 가운데 국정감사에서도 환경오염 대응 문제가 다시 거론됐다.9일 국회 기후에너지환경노동위원회 소속 이헌승 국민의힘 의원이 경북도와 기후에너지환경부로부터 제출받은 자료에 따르면 지난 8월 기준 석포제련소 외",
+   "tags": [],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "지디넷코리아"
+  },
+  {
+   "id": "8da566a69e714b22",
+   "title": "넥슨 '템빨: 오버기어드', 원작 서사 대신 '이용자 중심 서사' 택했다",
+   "url": "https://zdnet.co.kr/view/?no=20261010011219",
+   "published_at": "2026-10-10T12:23:16+09:00",
+   "summary": "[지디넷코리아]넥슨이 신작 MMORPG '템빨: 오버기어드'의 원작 IP 구현 방향과 주요 콘텐츠를 소개하는 공식 영상 '템빨: 오버토크' 2편을 공개했다.지난 8일 공개된 영상에는 이종범 작가와 개발사 그레이게임즈의 최병천 PD, 윤순준 디렉터가 출연해 원작 '템빨'의 방대한 세계와 ",
+   "tags": [
+    "게임"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "지디넷코리아"
+  },
+  {
+   "id": "4fefa05ab7800a08",
+   "title": "e스포츠 전설 페이커 기념우표 나온다",
+   "url": "https://zdnet.co.kr/view/?no=20261009115925",
+   "published_at": "2026-10-10T12:00:03+09:00",
+   "summary": "[지디넷코리아]우정사업본부는 '페이커'라 불리는 e스포츠 이상혁 선수 기념 우표 14만장과 우표첩을 발행한다고 10일 밝혔다.오는 23일 발행되는 기념우표엔 이 선수가 데뷔 이후 세계 e스포츠의 전설로 자리매김하는 과정이 담겼다.기념 우표는 가까운 총괄 우체국이나 인터넷 우체국에서 구매",
+   "tags": [],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "지디넷코리아"
+  },
+  {
+   "id": "daade2b294a99519",
+   "title": "대한전선, CLV 2척으로 해저케이블 '투 트랙 시공'…'턴키 경쟁력'↑",
+   "url": "https://www.etnews.com/20261008000076",
+   "published_at": "2026-10-10T12:00:00+09:00",
+   "summary": "대한전선이 해저케이블 전용 포설선(CLV)을 추가 확보하며 해저케이블 시공 및 턴키 사업 역량을 대폭 강화했다. 이를 앞세워 인공지능(AI) 데이터센터 및 첨단 산업단지 확대로 급증하는 전력 수요와 차세대 전력망 시장에 선제 대응에 나섰다. 대한전선은 기존 해저케이블 전용 7000톤급 ",
+   "tags": [
+    "AI"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "전자신문"
+  },
+  {
+   "id": "f0c039fda57226f1",
+   "title": "“삼성전자 들어온게 인생 최대 업적”…성과급 30억 부부 “진지하게 서민 탈출한 것 같다”",
+   "url": "https://www.etnews.com/20261009000025",
+   "published_at": "2026-10-10T11:40:00+09:00",
+   "summary": "삼성전자 반도체 부문 직원 부부가 앞으로 받을 성과급이 30억원을 넘어설 것으로 예상된다는 글이 직장인 익명 커뮤니티에서 화제가 되고 있다. 반도체 실적 개선으로 대규모 특별성과급 지급이 예고되면서 삼성전자 직원들의 보상 규모에도 관심이 쏠리고 있다. 8일 직장인 익명 커뮤니티 블라인드",
+   "tags": [
+    "가전",
+    "반도체",
+    "신기술"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "전자신문"
+  },
+  {
+   "id": "37a81aba945e53ce",
+   "title": "\"아이폰 에어2, 단점 보완해도 흥행 미지수\"…왜",
+   "url": "https://zdnet.co.kr/view/?no=20261010080359",
+   "published_at": "2026-10-10T11:16:00+09:00",
+   "summary": "[지디넷코리아]내년 출시 예정인 2세대 '아이폰 에어'가 최대 단점으로 지적됐던 단일 카메라와 부족한 배터리 용량을 대폭 개선해 돌아올 것이라는 전망이 나오고 있다.IT매체 폰아레나는 9일(현지시간) 단점을 보강한 아이폰 에어2가 과거 아이폰13 미니나 아이폰16 플러스처럼 일부 팬층의",
+   "tags": [
+    "휴대폰"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "지디넷코리아"
+  },
+  {
+   "id": "998adbfd5691e34f",
+   "title": "ONLYOFFICE 10.0, 오픈소스 오피스 제품군에 AI 툴과 모듈형 앱, 강화된 보안 제공",
+   "url": "https://zdnet.co.kr/view/?no=20261010111002",
+   "published_at": "2026-10-10T11:10:02+09:00",
+   "summary": "[지디넷코리아] 싱가포르, 2026년 10월 10일 /PRNewswire/ -- 온리오피스(ONLYOFFICE)가 편집기에서 직접 상황을 인식하는 AI 도구와 새 모듈형 앱, 대대적인 보안 업그레이드가 포함된 대규모 가을 업데이트 10.0을 발표했다. 온라인, 데스크톱, 모바일 편집기를",
+   "tags": [
+    "AI"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "지디넷코리아"
+  },
+  {
+   "id": "4bdca3bd4fcff524",
+   "title": "테슬라, 유럽선 FSD 포기…'보조주행'으로 부른다",
+   "url": "https://zdnet.co.kr/view/?no=20261010110028",
+   "published_at": "2026-10-10T11:02:14+09:00",
+   "summary": "[지디넷코리아]일론 머스크가 이끄는 테슬라는 주행 보조 장치에 ‘완전자율주행(FSD)’이란 거창한 명칭을 붙였다. 그런데 유럽에서는 소비자들을 오도할 우려가 있다는 지적에 따라 이 명칭을 바꾸기로 했다.테슬라가 유럽에서 FSD 대신 ‘보조주행(Assisted Driving)’이란 말을 ",
+   "tags": [],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "지디넷코리아"
+  },
+  {
+   "id": "74c239b0ad761907",
+   "title": "“쿠팡이 쌀까, 무신사가 쌀까”…'AI 멀티 쇼핑' 뜬다",
+   "url": "https://www.etnews.com/20261008000291",
+   "published_at": "2026-10-10T11:00:00+09:00",
+   "summary": "여러 쇼핑몰 상품을 한곳에서 비교하고 소비자 요구에 맞는 상품까지 찾아주는 '인공지능(AI) 멀티 쇼핑' 서비스가 속속 등장하고 있다. 판매처별 최저가 가격비교를 넘어 AI가 상품 옵션과 구성, 혜택, 리뷰 등을 분석하고 자연어로 입력한 조건까지 고려해 상품을 추천하는 방식이다. 특정 ",
+   "tags": [
+    "AI"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "전자신문"
+  },
+  {
+   "id": "b615c14a10892193",
+   "title": "화성에 출몰하는 '1600㎞ 구름'의 비밀 풀었다",
+   "url": "https://zdnet.co.kr/view/?no=20261010080128",
+   "published_at": "2026-10-10T10:31:15+09:00",
+   "summary": "[지디넷코리아]화성 하늘에는 매일 나타났다가 순식간에 사라지는 구름이 있어 많은 과학자들이 그 비밀을 풀기 위해 노력했다. 그런ㄴ데 길이 약 1600㎞에 달하는 거대한 구름의 정체를 풀어줄 연구 결과가 공개돼 관심이 쏠리고 있다. 과학 전문 매체 라이브사이언스는 화성 구름의 형성 원리를",
+   "tags": [],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "지디넷코리아"
+  },
+  {
+   "id": "857937ad80944be5",
+   "title": "\"애플, 27일 OLED 터치 맥북 프로·아이패드 미니 공개\"",
+   "url": "https://zdnet.co.kr/view/?no=20261009182503",
+   "published_at": "2026-10-10T10:09:19+09:00",
+   "summary": "[지디넷코리아]애플이 이달 말 OLED 터치스크린을 탑재한 맥북 프로와 OLED 아이패드 미니를 공개할 것으로 전망된다고 블룸버그 통신이 9일(현지시간) 보도했다. 보도에 따르면 애플은 27일 M6 칩을 탑재한 14인치 맥북 프로와 아이맥도 함께 공개할 것으로 예상된다. 애플은 13일 ",
+   "tags": [
+    "신기술"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "지디넷코리아"
+  },
+  {
+   "id": "61f6f2303fdab28f",
+   "title": "'3755만 명'은 자산인가, 부채인가",
+   "url": "https://zdnet.co.kr/view/?no=20261010100157",
+   "published_at": "2026-10-10T10:01:57+09:00",
+   "summary": "[지디넷코리아]지난 9월 말부터 일주일 사이 은행과 저축은행, 캐피털사 일곱 곳에서 개인 약 6만 6000명의 정보가 빠져나갔다. 신한은행 2만 5729명과 예가람저축은행 약 4만 명(2026년 10월 4일 기준)이 그 대부분이다. 뚫린 곳은 대출모집인 조회 서비스나 직원용 업무 시스템",
+   "tags": [],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "지디넷코리아"
+  },
+  {
+   "id": "8cbf67d302fa5a2d",
+   "title": "\"컴퓨터의 재발명\"…젠슨 황이 극찬한 350만원짜리 노트북 [김인엽의 AI프런티어]",
+   "url": "https://www.hankyung.com/article/202610080362i",
+   "published_at": "2026-10-10T10:00:02+09:00",
+   "summary": "",
+   "tags": [
+    "사무기기",
+    "AI"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "한국경제 IT"
+  },
+  {
+   "id": "349b24a65f6897e7",
+   "title": "7300Wh 배터리 '괴물 전기자전거’ 등장…\"7명 탄다\"",
+   "url": "https://zdnet.co.kr/view/?no=20261009182237",
+   "published_at": "2026-10-10T09:41:07+09:00",
+   "summary": "[지디넷코리아]7명이 탑승할 수 있는 대형 전기 자전거가 등장해 눈길을 끌고 있다.자동차 전문매체 일렉트렉은 최근 미국 자전거 브랜드 '식스쓰리제로(SixThreeZero)'가 최대 7명까지 탈 수 있는 대형 전기 삼륜자전거와 전용 트레일러 시스템을 공개했다고 보도했다.이 모델은 기본적",
+   "tags": [],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "지디넷코리아"
+  },
+  {
+   "id": "89801df7686d8b67",
+   "title": "사이코패스가 쓴 글에서 찾은 특징 세 가지",
+   "url": "https://zdnet.co.kr/view/?no=20261010093948",
+   "published_at": "2026-10-10T09:39:48+09:00",
+   "summary": "[지디넷코리아]영화나 소설 속 사이코패스는 보통 아무런 감정도 느끼지 못하는 냉혹한 범죄자로 묘사된다. 하지만 실제 사이코패시(Psychopathy) 성향은 훨씬 다차원적이며, 일상에서 작성하는 글 속 단어 선택을 통해서도 그 특성이 드러난다는 연구 결과가 나왔다.9일(현지시간) 사이언",
+   "tags": [],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "지디넷코리아"
+  },
+  {
+   "id": "0c2fba7a4bc44bea",
+   "title": "\"당장 벗어\"…'몰카 공포'에 420만대 초대박 난 제품 퇴출 위기 [이슈+]",
+   "url": "https://www.hankyung.com/article/202610081069g",
+   "published_at": "2026-10-10T09:00:09+09:00",
+   "summary": "",
+   "tags": [],
+   "metrics": {},
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "한국경제 IT"
   },
   {
@@ -31,76 +602,8 @@
     "AI"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "지디넷코리아"
-  },
-  {
-   "id": "8c8d76403d25a33e",
-   "title": "구 소련 위성, 궤도서 또 산산조각…우주쓰레기 ‘위험한 악순환’",
-   "url": "https://zdnet.co.kr/view/?no=20261010080613",
-   "published_at": "2026-10-10T08:50:35+09:00",
-   "summary": "[지디넷코리아]구 소련의 기상위성이 지구 저궤도에서 여러 조각으로 분해되는 현상이 발생해 우려가 커지고 있다. 최근 몇 달 사이 위성 파편화 사고가 잇따르면서 궤도상 위성과 우주선이 파편과 충돌할 위험도 커지고 있다는 지적이 나온다.우주과학 매체 스페이스닷컴은 8일(현지시간) 우주영역인",
-   "tags": [],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "지디넷코리아"
-  },
-  {
-   "id": "27b1f676e51d217f",
-   "title": "\"AI 직접 만들고 시장도 키운다\"…세계 AI 보고서가 본 한국",
-   "url": "https://zdnet.co.kr/view/?no=20261010070839",
-   "published_at": "2026-10-10T08:47:37+09:00",
-   "summary": "[지디넷코리아]한국이 독자 인공지능(AI) 기술 개발에 과감하게 투자하면서 국내 AI 시장 육성에도 적극 나서고 있다는 해외 평가가 나왔다.8일(현지시간) 글로벌 AI 투자사 에어스트리트캐피털이 발표한 '2026년 AI 현황 보고서(State of AI Report 2026)'는 한국이",
-   "tags": [
-    "AI"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "지디넷코리아"
-  },
-  {
-   "id": "2e22d575910a0307",
-   "title": "\"한글날 연휴 어디 갈까\"…국립한글박물관, 서울 곳곳서 문화행사",
-   "url": "https://zdnet.co.kr/view/?no=20261008190711",
-   "published_at": "2026-10-10T08:46:39+09:00",
-   "summary": "[지디넷코리아]훈민정음 반포 580돌이자 한글날 제정 100주년을 맞아 서울 곳곳에서 한글의 아름다움과 가치를 되새길 수 있는 문화행사가 이어지고 있다.10일 국립한글박물관에 따르면 문화체육관광부와 한글 유관단체들은 '내 곁에 한글'을 주제로 서울 주요 문화공간에서 전시와 체험행사 등을",
-   "tags": [],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "지디넷코리아"
-  },
-  {
-   "id": "440781bccce719dc",
-   "title": "100달러 비싸진 아이폰18프로, 수요부진 논쟁 붙었다",
-   "url": "https://zdnet.co.kr/view/?no=20261010081310",
-   "published_at": "2026-10-10T08:13:10+09:00",
-   "summary": "[지디넷코리아]애플이 아이폰18프로의 부품 주문량을 줄였다는 보도가 나오면서 신제품 수요를 둘러싼 논쟁이 불거졌다. 메모리 가격 상승으로 전작보다 100달러 비싸진 아이폰18프로 판매가 기대에 미치지 못한 것 아니냐는 관측이 제기됐고, 일각에서는 완제품 생산 계획에는 변화가 없다는 반론",
-   "tags": [
-    "휴대폰"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "지디넷코리아"
-  },
-  {
-   "id": "b849744135e3a612",
-   "title": "시놉시스, 中 AI 연구소와 반도체 설계 협력 추진",
-   "url": "https://zdnet.co.kr/view/?no=20261009223603",
-   "published_at": "2026-10-10T08:00:04+09:00",
-   "summary": "[지디넷코리아]세계 최대 반도체 설계 자동화(EDA) 소프트웨어 기업 미국 시놉시스(Synopsys)가 반도체 설계효율과 개발속도를 올리기 위해 중국 인공지능(AI) 연구소, 거대언어모델(LLM) 개발사들과 기술 협업을 모색 중이다.일본 니케이아시아(Nikkei Asia)는 시놉시스가 ",
-   "tags": [
-    "반도체",
-    "AI",
-    "신기술"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "지디넷코리아"
   },
   {
@@ -111,403 +614,9 @@
    "summary": "",
    "tags": [],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "한국경제 IT"
-  },
-  {
-   "id": "c5f660e18fa5f611",
-   "title": "금속막대 없이 레이저로 허공에 안테나 만들었다",
-   "url": "https://zdnet.co.kr/view/?no=20261010071329",
-   "published_at": "2026-10-10T07:13:29+09:00",
-   "summary": "[지디넷코리아]레이저를 이용해 공중에 안테나를 만들고 실제 전파를 송신하는 기술이 개발됐다. 금속 구조물 없이 공기를 이온화해 만든 플라즈마를 안테나로 활용하는 방식으로, 향후 위성통신과 레이더 등에서 안테나의 길이와 방향을 자유롭게 조절하는 기술로 발전할 가능성이 제시됐다.미국 노스캐",
-   "tags": [],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "지디넷코리아"
-  },
-  {
-   "id": "9122ef78cd0aa8ae",
-   "title": "허리띠 졸라매고 뼈깎는 체질개선…전자업계 부진 탈출 시동",
-   "url": "https://www.yna.co.kr/view/AKR20261008160600003",
-   "published_at": "2026-10-10T07:01:01+09:00",
-   "summary": "(서울=연합뉴스) 조성흠 기자 = 글로벌 경기둔화와 소비위축, 중국업체의 추격에 원가 부담까지 겹친 국내 전자·가전업계가 뼈를 깎는 체질 개선을...",
-   "tags": [
-    "가전"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "연합뉴스 산업"
-  },
-  {
-   "id": "120cecb47ac5215b",
-   "title": "\"로봇 들이기 이렇게 어렵다\"…WSJ, 월마트 물류자동화 '시행착오' 조명",
-   "url": "https://zdnet.co.kr/view/?no=20261009162953",
-   "published_at": "2026-10-10T07:00:02+09:00",
-   "summary": "[지디넷코리아]미국 유통기업 월마트의 물류 자동화 과정을 통해 산업시설에 로봇을 도입하는 일이 얼마나 어려운지를 월스트리트저널(WSJ)이 10일(현지시간) 조명했다. 월마트는 10년 넘게 수십억 달러를 쏟아부었지만 여전히 크고 작은 문제와 씨름하고 있다.월마트는 미국 내 약 200개 공",
-   "tags": [
-    "신기술"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "지디넷코리아"
-  },
-  {
-   "id": "e5a495564d211469",
-   "title": "[써보니] 아이폰18 프로, 사진 찍는 재미 늘고 손은 무거워졌다",
-   "url": "https://www.yna.co.kr/view/AKR20261009018600017",
-   "published_at": "2026-10-10T07:00:02+09:00",
-   "summary": "(서울=연합뉴스) 박형빈 기자 = '묵직하다'. 애플 아이폰 18 프로를 처음 손에 쥐었을 때 든 생각이다.",
-   "tags": [
-    "휴대폰"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "연합뉴스 산업"
-  },
-  {
-   "id": "dd55a5ecc426cd01",
-   "title": "강원에 과학기술원 설립 추진...여야 의원 공동발의",
-   "url": "https://zdnet.co.kr/view/?no=20261010065911",
-   "published_at": "2026-10-10T06:59:11+09:00",
-   "summary": "[지디넷코리아]강원특별자치도에 과학기술 인재 양성과 첨단산업 연구개발을 담당할 과학기술원을 설립하는 방안이 추진된다.국민의힘 박정하 의원(강원 원주시갑)과 더불어민주당 송기헌 의원(강원 원주시을)은 8일 강원과학기술원 설립을 위한 '강원과학기술원법' 제정안을 공동대표발의했다.현재 국내 ",
-   "tags": [],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "지디넷코리아"
-  },
-  {
-   "id": "a6008c9bba13e5fb",
-   "title": "김종철 방미통위원장, 신한은행 CI 유출에 \"갱신 제도 추진”",
-   "url": "https://zdnet.co.kr/view/?no=20261010065253",
-   "published_at": "2026-10-10T06:52:53+09:00",
-   "summary": "[지디넷코리아]방송미디어통신위원회가 신한은행 고객정보 유출 사고를 계기로 연계정보(CI)를 정기적으로 갱신하거나 유출 시 변경할 수 있도록 제도 개선을 추진한다. 유출된 CI가 계속 사용되면서 추가 피해로 이어지는 것을 막기 위한 조치다.김종철 방미통위원장은 지난 8일 자신의 SNS에 ",
-   "tags": [],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "지디넷코리아"
-  },
-  {
-   "id": "254783d09f451138",
-   "title": "Decade-old RAM is making a comeback",
-   "url": "https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback",
-   "published_at": "2026-10-10T06:50:00+09:00",
-   "summary": "CPU makers have noticed that the seemingly unending RAM price hikes are making it tough for a lot of us to upgrade our PCs. Their solution? A return to last-gen",
-   "tags": [],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "The Verge"
-  },
-  {
-   "id": "bd340d5dc6889f09",
-   "title": "[AI돋보기] AI가 물건 고르고 결제까지…내 카드 맡겨도 될까",
-   "url": "https://www.yna.co.kr/view/AKR20261002022300017",
-   "published_at": "2026-10-10T06:33:01+09:00",
-   "summary": "(서울=연합뉴스) 심재훈 기자 = \"인천공항에서 광화문까지 가는 차 좀 잡아줘.\"",
-   "tags": [
-    "AI"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "연합뉴스 산업"
-  },
-  {
-   "id": "0ad44f3ce5c4ad25",
-   "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
-   "published_at": "2026-10-10T06:15:38+09:00",
-   "summary": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. ",
-   "tags": [
-    "AI"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "The Verge"
-  },
-  {
-   "id": "51759f1efa556596",
-   "title": "에미상도 77년 머문 지상파 떠난다...내년부터 아마존 독점 중계",
-   "url": "https://zdnet.co.kr/view/?no=20261009110514",
-   "published_at": "2026-10-10T06:00:03+09:00",
-   "summary": "[지디넷코리아]미국 에미상 시상식이 2027년부터 6년간 아마존 프라임비디오를 통해 전 세계 240여 개국에 독점 생중계된다. 이로써 77년간 이어진 미국 지상파 방송사의 순환 중계 방식은 올해를 끝으로 막을 내린다.6일(현지시간) 로이터 등에 따르면 에미상 주관사인 텔레비전아카데미와 ",
-   "tags": [],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "지디넷코리아"
-  },
-  {
-   "id": "422017c4c5ea57bf",
-   "title": "치과 치료받으며 게임?…이색 치과 진료법",
-   "url": "https://www.etnews.com/20261008000215",
-   "published_at": "2026-10-10T06:00:00+09:00",
-   "summary": "치과 치료를 받으면서 슈퍼마리오 게임을 즐기는 이색 진료 모습이 눈길을 끌고 있습니다. 브라질 플로리아노폴리스에 위치한 한 치과는 진료실 천장에 대형 모니터를 설치해 환자가 누운 상태에서도 게임이나 영상을 볼 수 있도록 했습니다. 치과의사 '마르코 아우렐리오 세르케이라'는 진료 영상을 ",
-   "tags": [
-    "사무기기",
-    "게임"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "전자신문"
-  },
-  {
-   "id": "6fdf0c67d0e53b1f",
-   "title": "뉴 아시아 포럼, 발리서 열리는 첫 행사에서 뉴 아시아에 미화 300억 달러 투자 유치 목표",
-   "url": "https://zdnet.co.kr/view/?no=20261010051013",
-   "published_at": "2026-10-10T05:10:13+09:00",
-   "summary": "[지디넷코리아]인도네시아 공화국 프라보워 수비안토(Prabowo Subianto) 대통령의 후원 아래 개최 자카르타, 인도네시아 2026년 10월 10일 /PRNewswire/ -- 투자, 자본 형성 및 경제 협력을 위한 새로운 글로벌 플랫폼이 오는 12월 3일부터 4일까지 인도네시아 ",
-   "tags": [],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "지디넷코리아"
-  },
-  {
-   "id": "90a2c46bd9b16dc7",
-   "title": "하이센스, 소셜 키친 통해 AI Companion Suite 현실화",
-   "url": "https://zdnet.co.kr/view/?no=20261010051003",
-   "published_at": "2026-10-10T05:10:03+09:00",
-   "summary": "[지디넷코리아]칭다오, 중국 2026년 10월 10일 /PRNewswire/ -- 글로벌 가전 및 소비자 전자제품 분야의 선도 브랜드인 하이센스(Hisense)가 주방의 지능형 중심으로 설계되어 현재 전 세계 시장에 출시되고 있는 새로운 냉장고 시리즈 PureSmart Duo Serie",
-   "tags": [
-    "가전",
-    "AI"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "지디넷코리아"
-  },
-  {
-   "id": "9f23cff9921d5e8e",
-   "title": "Ohio blogger found guilty of harassment for sending Shrek nude to senator",
-   "url": "https://www.theverge.com/policy/1008991/ohio-blogger-harassment-shrek-nude",
-   "published_at": "2026-10-10T04:41:11+09:00",
-   "summary": "A jury found an Ohio political blogger guilty of telecommunications harassment after he sent an explicit image of Shrek to a Republican state senator. On Friday",
-   "tags": [],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "The Verge"
-  },
-  {
-   "id": "d07dddd55da28704",
-   "title": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
-   "published_at": "2026-10-10T04:09:44+09:00",
-   "summary": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" Those were among the descriptions more than three dozen mathematicians reached for in",
-   "tags": [
-    "AI"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "The Verge"
-  },
-  {
-   "id": "18491f38b58b28f9",
-   "title": "Brendan Carr says he’ll let Pete Hegseth decide whether TV networks can air the public execution",
-   "url": "https://www.theverge.com/policy/1008950/fcc-brendan-carr-pete-hegseth-execution-tv-networks-air",
-   "published_at": "2026-10-10T03:30:48+09:00",
-   "summary": "FCC chairman Brendan Carr said he will defer to Secretary of Defense Pete Hegseth on whether TV networks can air the planned execution of convicted Fort Hood sh",
-   "tags": [
-    "가전"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "The Verge"
-  },
-  {
-   "id": "f11f2c288c2c9565",
-   "title": "Nikon microscopic video competition winner disqualified for using generative AI",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
-   "published_at": "2026-10-10T03:06:57+09:00",
-   "summary": "Nikon says the video that originally won first place in its Small World in Motion contest \"did not comply with the competition rules regarding generative AI.\" B",
-   "tags": [
-    "AI"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "The Verge"
-  },
-  {
-   "id": "1416e45b98aafff8",
-   "title": "Google teases Fitbit Edge launch next week",
-   "url": "https://www.theverge.com/tech/1008918/google-fitbit-edge-launch-next-week",
-   "published_at": "2026-10-10T03:05:55+09:00",
-   "summary": "It looks like Google is getting ready to take the wraps off its rumored Fitbit Edge next Monday. In a post on X, Google posted a picture of what appears to be t",
-   "tags": [],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "The Verge"
-  },
-  {
-   "id": "6f4110ebeea4c7e7",
-   "title": "The Samsung Galaxy S26 Ultra is down to $950 after Prime Day",
-   "url": "https://www.theverge.com/gadgets/1008857/samsung-galaxy-s26-ultra-deal-sale",
-   "published_at": "2026-10-10T02:41:24+09:00",
-   "summary": "Amazon has the Samsung Galaxy S26 Ultra in black with 256GB of storage discounted to $949.99, a healthy discount from its usual price of $1,399.99. This phone’s",
-   "tags": [
-    "휴대폰"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "The Verge"
-  },
-  {
-   "id": "cbc8c23693a4f169",
-   "title": "Amazon’s new Kindles appear to have a light leak problem",
-   "url": "https://www.theverge.com/tech/1008833/amazon-kindle-light-leak",
-   "published_at": "2026-10-10T02:25:39+09:00",
-   "summary": "Some users are reporting that the new Kindles have a light leak issue that is especially apparent when using dark mode. The latest base-model Kindles have a flu",
-   "tags": [],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "The Verge"
-  },
-  {
-   "id": "8628d5e94a22c2c4",
-   "title": "핀테크 포워드 2026, 2900명의 참가자 유치한 가운데 바레인에서 60건 이상의 전략적 협약 체결하며 폐막",
-   "url": "https://zdnet.co.kr/view/?no=20261010021003",
-   "published_at": "2026-10-10T02:10:03+09:00",
-   "summary": "[지디넷코리아]• 제4회 행사는 지난해의 모멘텀을 이어가며 금융 서비스와 기술 전반의 파트너십을 진전시켰다.• 40명 이상의 연사와 국제 대표단, 첫선을 보인 Tech Talent Hub가 한자리에 모이며 핀테크 포워드 2026을 뒷받침한 업계의 참여 규모를 보여줬다. 마나마, 바레인,",
-   "tags": [],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "지디넷코리아"
-  },
-  {
-   "id": "38b901e4802babba",
-   "title": "Microsoft tries to spark new life into Windows",
-   "url": "https://www.theverge.com/tech/1008801/microsoft-windows-surface-event-hybrid-ai-notepad",
-   "published_at": "2026-10-10T02:00:00+09:00",
-   "summary": "When Microsoft released Windows 11 five years ago, it felt like an operating system that was still being renovated, a work in progress. You'd think by now that ",
-   "tags": [],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "The Verge"
-  },
-  {
-   "id": "5ad5c8b701ffc834",
-   "title": "한화오션, 노조 고공농성에 협상 촉구…\"안전·생산 위협 우려\"",
-   "url": "https://zdnet.co.kr/view/?no=20261009235357",
-   "published_at": "2026-10-09T23:53:57+09:00",
-   "summary": "[지디넷코리아]한화오션이 노조 지회장의 크레인 고공농성에 안전과 생산 차질 우려를 제기하며 협상장에서 임금·단체협약 논의를 이어갈 것을 촉구했다.한화오션은 9일 정인섭 경영지원실장 사장 명의의 임직원 담화문을 내고 교섭 제시안의 취지와 주요 쟁점에 대한 입장을 밝혔다. 회사는 약 4개월",
-   "tags": [],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "지디넷코리아"
-  },
-  {
-   "id": "275dd03b53dee4c8",
-   "title": "오픈AI \"연구원 3명 해고, 안전문제 제기 때문 아냐\"",
-   "url": "https://zdnet.co.kr/view/?no=20261009225448",
-   "published_at": "2026-10-09T22:54:48+09:00",
-   "summary": "[지디넷코리아]오픈AI가 안전 담당 연구원 해고 사태에 대해 본격적으로 해명하고 나섰다.CNBC를 비롯한 외신들에 따르면 오픈AI는 8일(현지시간) 안전 전문 연구자 3명을 해고한 것은 ‘심각한 신뢰 위반’을 저질렀기 때문이라고 반박했다.오픈AI는 지난 주 재스민 왕, 토멕 코박, 미키",
-   "tags": [
-    "AI"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "지디넷코리아"
-  },
-  {
-   "id": "ad19879c99c9f178",
-   "title": "[기경학회 기후&에너지 칼럼] 전력수급기본계획은 왜 빗나갈까",
-   "url": "https://zdnet.co.kr/view/?no=20261009223352",
-   "published_at": "2026-10-09T22:33:52+09:00",
-   "summary": "[지디넷코리아]지난 8월 제12차 전력수급기본계획(전기본)의 2040년 전력소비량 전망이 약 847TWh로 제시됐다. 넉 달 전 잠정안은 약 658TWh였다. 반도체와 AI 데이터센터 투자계획을 반영하자 15년 뒤의 숫자가 넉 달 만에 29% 늘었다. 전기본을 하나의 숫자 대신 여러 시",
-   "tags": [
-    "반도체",
-    "AI",
-    "신기술"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "지디넷코리아"
-  },
-  {
-   "id": "b5831d51ab6a8fd1",
-   "title": "[인사] 국토교통부",
-   "url": "https://zdnet.co.kr/view/?no=20261009222416",
-   "published_at": "2026-10-09T22:24:16+09:00",
-   "summary": "[지디넷코리아]◇국장급 승진 ▲국토정보정책관 이대섭 ▲지방시대기획관(국토공간혁신국장) 한정희◇과장급 전보 ▲규제개혁법무담당관 김영아 ▲건축안전과장 위은환 ▲토지정책과장 강태석 ▲모빌리티총괄과장 윤성업 ▲12.29 여객기 참사피해자지원단 계획총괄과장 안재혁 ▲공공택지조사개발과장 이랑",
-   "tags": [],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "지디넷코리아"
-  },
-  {
-   "id": "5cc75d6b647bbd94",
-   "title": "메타, 아동 성착취물 유도 광고 탐지에 LLM 도입",
-   "url": "https://zdnet.co.kr/view/?no=20261009221920",
-   "published_at": "2026-10-09T22:19:20+09:00",
-   "summary": "[지디넷코리아]메타가 현지 시각 10월 7일 올해 상반기 페이스북과 인스타그램에서 아동 성착취 콘텐츠 3,320만 건에 조치했다고 발표했다. 이 가운데 97% 이상은 이용자 신고 전에 자체 시스템이 먼저 찾아냈다. 인도에서는 같은 기간 530만 건에 조치했고, 98% 이상을 신고 전에 ",
-   "tags": [
-    "AI"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "지디넷코리아"
-  },
-  {
-   "id": "3dcd96cc85016d32",
-   "title": "[포토] 대한민국 사이버보안 컨퍼런스 2026",
-   "url": "https://zdnet.co.kr/view/?no=20261009195630",
-   "published_at": "2026-10-09T19:56:30+09:00",
-   "summary": "[지디넷코리아]국내 사이버보안 현황과 미래를 조망한 ‘대한민국 사이버보안 컨퍼런스 2026’이 7일 서울 코엑스 컨퍼런스룸 300호에서 열렸다. 금융권 등에서 해킹 사고가 잇달으고 있는 가운데 열려 더 주목을 받은 이 행사는 AI페스타조직위원회와 전국정보보호정책협의회 및 서울시 정보보안",
-   "tags": [
-    "AI"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "지디넷코리아"
-  },
-  {
-   "id": "5955cd78947b3109",
-   "title": "스페이스X, 지상 통신시장 겨냥...800MHz 주파수 확보 추진",
-   "url": "https://zdnet.co.kr/view/?no=20261009190127",
-   "published_at": "2026-10-09T19:01:27+09:00",
-   "summary": "[지디넷코리아]스페이스X가 미국 전역을 아우르는 800MHz 대역 주파수 확보에 나섰다. 지상 이동통신사와 직접 경쟁을 예고한 셈이다. 위성통신의 약점으로 꼽혔던 실내 통신 문제를 해결하고, 위성과 지상망을 결합한 이동통신 서비스로 사업을 확대한다는 전략으로 풀이된다.8일(현지시간) 로",
-   "tags": [],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "지디넷코리아"
-  },
-  {
-   "id": "e3f31104d535515b",
-   "title": "풀무원, 지리산국립공원 직원·자원활동가 초청…환경 가치 체험 행사",
-   "url": "https://zdnet.co.kr/view/?no=20261009124930",
-   "published_at": "2026-10-09T19:00:01+09:00",
-   "summary": "[지디넷코리아]풀무원이 지리산국립공원 직원과 자원활동가를 초청해 지속가능한 식생활과 환경 가치를 체험하는 프로그램을 진행했다.풀무원은 지난 7일부터 8일까지 충북 괴산군 풀무원아카데미에서 지리산국립공원 경남·전북·전남 3개 사무소 직원과 자원활동가 30여명을 대상으로 교류 프로그램을 운",
-   "tags": [],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "지디넷코리아"
   },
   {
    "id": "bf3430f356cd6500",
@@ -517,21 +626,9 @@
    "summary": "",
    "tags": [],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "한국경제 IT"
-  },
-  {
-   "id": "ff7e20b3df26493f",
-   "title": "‘피자설기’ 인기에...피자헛·편의점도 가세",
-   "url": "https://zdnet.co.kr/view/?no=20261009124233",
-   "published_at": "2026-10-09T18:00:02+09:00",
-   "summary": "[지디넷코리아]백설기에 피자 소스와 치즈를 올린 ‘피자설기’가 인기를 끌면서 피자 전문점과 편의점에서도 관련 상품이 등장하고 있다. 유명 떡집을 찾아다니는 ‘떡지순례’에서 시작된 관심이 배달과 온라인 구매로 이어지며 판매 채널도 넓어지는 모습이다.9일 업계에 따르면 최근 피자설기 유행에",
-   "tags": [],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "지디넷코리아"
   },
   {
    "id": "e185ef5b7542c9f9",
@@ -541,8 +638,8 @@
    "summary": "",
    "tags": [],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "한국경제 IT"
   },
   {
@@ -553,8 +650,8 @@
    "summary": "",
    "tags": [],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "한국경제 IT"
   },
   {
@@ -565,8 +662,8 @@
    "summary": "",
    "tags": [],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "한국경제 IT"
   },
   {
@@ -579,8 +676,8 @@
     "AI"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "한국경제 IT"
   },
   {
@@ -593,53 +690,9 @@
     "가전"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "한국경제 IT"
-  },
-  {
-   "id": "c1f77bf009576d9e",
-   "title": "최태원 \"호남 반도체 팹, 용인 3분의 2 규모 검토...속도감 있게 추진\"",
-   "url": "https://zdnet.co.kr/view/?no=20261009163220",
-   "published_at": "2026-10-09T17:09:42+09:00",
-   "summary": "[지디넷코리아]최태원 SK그룹 회장이 \"현재까지 (전남광주에) 용인 3분의 2 정도 크기 (반도체 팹 구축) 계획을 갖고 있다\"며 \"땅과 수요가 더 있다면 이쪽(전남광주)이 더 커질 것도 충분히 예상한다\"고 밝혔다. 최태원 회장은 9일 전남광주통합특별시 반도체 특화단지 예정 부지를 방문",
-   "tags": [
-    "반도체",
-    "신기술"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "지디넷코리아"
-  },
-  {
-   "id": "c6e2b9dc19f883a4",
-   "title": "[ZD e게임] 빛바랜 일기장 속 아날로그 감성…엔씨 '아스트라에 오라티오'",
-   "url": "https://zdnet.co.kr/view/?no=20261008230655",
-   "published_at": "2026-10-09T17:00:01+09:00",
-   "summary": "[지디넷코리아]엔씨가 선보이고 디나미스 원이 개발 중인 신작 서브컬처 게임 '아스트라에 오라티오'의 글로벌 모바일 비공개 베타 테스트(CBT)가 지난 6일 마무리됐다. 도쿄게임쇼 시연 직후 발 빠르게 진행된 이번 테스트는 서브컬처 마니아층을 겨냥한 뚜렷한 방향성과 독특한 세계관을 가감 ",
-   "tags": [
-    "게임"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "지디넷코리아"
-  },
-  {
-   "id": "cbc11c6bc9ab0860",
-   "title": "광주 부지 찾은 SK그룹 최태원 회장, “호남권 반도체 클러스터 속도감 있게”",
-   "url": "https://www.etnews.com/20261009000054",
-   "published_at": "2026-10-09T16:54:19+09:00",
-   "summary": "최태원 SK그룹 회장이 9일 전남광주통합특별시 반도체 특화단지 예정 부지를 찾아 호남권 반도체 클러스터를 속도감 있게 추진하라고 주문했다. 최 회장은 이날 곽노정 SK하이닉스 대표이사(CEO) 등 주요 경영진과 함께 광주 군공항 부지와 핵심 정비 후보지인 탄약고 일대를 살폈다. 민형배 ",
-   "tags": [
-    "반도체",
-    "신기술"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "전자신문"
   },
   {
    "id": "4b5a04b5be9b4d42",
@@ -652,7 +705,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 2,
+   "streak_days": 3,
    "source_name": "한국경제 IT"
   },
   {
@@ -664,7 +717,7 @@
    "tags": [],
    "metrics": {},
    "is_new": false,
-   "streak_days": 2,
+   "streak_days": 3,
    "source_name": "한국경제 IT"
   },
   {
@@ -676,7 +729,7 @@
    "tags": [],
    "metrics": {},
    "is_new": false,
-   "streak_days": 2,
+   "streak_days": 3,
    "source_name": "한국경제 IT"
   },
   {
@@ -690,7 +743,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 2,
+   "streak_days": 3,
    "source_name": "한국경제 IT"
   },
   {
@@ -704,7 +757,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 2,
+   "streak_days": 3,
    "source_name": "한국경제 IT"
   },
   {
@@ -716,7 +769,7 @@
    "tags": [],
    "metrics": {},
    "is_new": false,
-   "streak_days": 2,
+   "streak_days": 3,
    "source_name": "한국경제 IT"
   },
   {
@@ -728,7 +781,7 @@
    "tags": [],
    "metrics": {},
    "is_new": false,
-   "streak_days": 2,
+   "streak_days": 3,
    "source_name": "한국경제 IT"
   },
   {
@@ -740,64 +793,18 @@
    "tags": [],
    "metrics": {},
    "is_new": false,
-   "streak_days": 2,
-   "source_name": "한국경제 IT"
-  },
-  {
-   "id": "483b3080b121c490",
-   "title": "'K바이오의약품' 3분기 누적 수출액 66억…사상 최대 실적 경신",
-   "url": "https://www.hankyung.com/article/202610081280i",
-   "published_at": "2026-10-08T15:14:19+09:00",
-   "summary": "",
-   "tags": [],
-   "metrics": {},
-   "is_new": false,
-   "streak_days": 2,
-   "source_name": "한국경제 IT"
-  },
-  {
-   "id": "008650da4dd5cfa7",
-   "title": "\"감기 낳았어\" 문자 한 통에 이별…\"너랑 헤어지고 공항장애\"",
-   "url": "https://www.hankyung.com/article/202610081257g",
-   "published_at": "2026-10-08T15:05:26+09:00",
-   "summary": "",
-   "tags": [],
-   "metrics": {},
-   "is_new": false,
-   "streak_days": 2,
-   "source_name": "한국경제 IT"
-  },
-  {
-   "id": "6d0b40c6a8483025",
-   "title": "엘앤씨바이오, 'Re2O V' 공개…기존 제품보다 입자 크기 키워",
-   "url": "https://www.hankyung.com/article/202610081199i",
-   "published_at": "2026-10-08T15:00:28+09:00",
-   "summary": "",
-   "tags": [],
-   "metrics": {},
-   "is_new": false,
-   "streak_days": 2,
-   "source_name": "한국경제 IT"
-  },
-  {
-   "id": "ee220ad84f870258",
-   "title": "[단독] 요금제 손보면 뭐하나…휴대폰 가격 올라 '효과 반감'",
-   "url": "https://www.hankyung.com/article/202610080434g",
-   "published_at": "2026-10-08T14:48:35+09:00",
-   "summary": "",
-   "tags": [],
-   "metrics": {},
-   "is_new": false,
-   "streak_days": 2,
+   "streak_days": 3,
    "source_name": "한국경제 IT"
   }
  ],
  "status": {
   "ok": true,
   "count": 60,
-  "warn": [],
+  "warn": [
+   "어제와 동일 28%"
+  ],
   "error": null,
-  "level": "ok",
+  "level": "warn",
   "block": []
  }
 }

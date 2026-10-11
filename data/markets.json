@@ -1,6 +1,6 @@
 {
  "module": "markets",
- "fetched_at": "2026-10-10T09:58:57+09:00",
+ "fetched_at": "2026-10-11T09:16:19+09:00",
  "source": {
   "name": "Yahoo Finance chart (비공식)",
   "url": "https://finance.yahoo.com/",
@@ -105,7 +105,7 @@
     ]
    },
    "is_new": false,
-   "streak_days": 22,
+   "streak_days": 23,
    "source_name": "Yahoo Finance"
   },
   {
@@ -206,7 +206,7 @@
     ]
    },
    "is_new": false,
-   "streak_days": 22,
+   "streak_days": 23,
    "source_name": "Yahoo Finance"
   },
   {
@@ -315,7 +315,7 @@
     ]
    },
    "is_new": false,
-   "streak_days": 22,
+   "streak_days": 23,
    "source_name": "Yahoo Finance"
   },
   {
@@ -424,23 +424,23 @@
     ]
    },
    "is_new": false,
-   "streak_days": 22,
+   "streak_days": 23,
    "source_name": "Yahoo Finance"
   },
   {
    "id": "13f169f08974e3e1",
-   "title": "닛케이 225 69,042.11",
+   "title": "닛케이 225 69,030.92",
    "url": "https://finance.yahoo.com/quote/%5EN225/",
-   "published_at": "2026-10-08",
-   "summary": "전일 대비 -1.42% · 1개월 +5.99% (2026-09-09~2026-10-08, 19영업일)",
+   "published_at": "2026-10-09",
+   "summary": "전일 대비 -0.02% · 1개월 +5.97% (2026-09-09~2026-10-09, 20영업일)",
    "tags": [
     "지수",
     "일본"
    ],
    "metrics": {
-    "last": 69042.11,
-    "chg_1d": -1.419,
-    "chg_period": 5.986,
+    "last": 69030.92,
+    "chg_1d": -0.016,
+    "chg_period": 5.969,
     "series": [
      [
       "2026-09-09",
@@ -517,11 +517,15 @@
      [
       "2026-10-08",
       69042.11
+     ],
+     [
+      "2026-10-09",
+      69030.92
      ]
     ]
    },
    "is_new": false,
-   "streak_days": 22,
+   "streak_days": 23,
    "source_name": "Yahoo Finance"
   }
  ],

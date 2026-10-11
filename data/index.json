@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-10T09:59:16+09:00",
- "date": "2026-10-10",
+ "built_at": "2026-10-11T09:16:44+09:00",
+ "date": "2026-10-11",
  "site": {
   "title": "모닝브리프",
   "locations": [
@@ -55,7 +55,7 @@
    "count": 7,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-10T09:58:46+09:00",
+   "fetched_at": "2026-10-11T09:16:07+09:00",
    "repeat_ratio": 0.857
   },
   "fx": {
@@ -63,7 +63,7 @@
    "count": 3,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-10T09:58:47+09:00",
+   "fetched_at": "2026-10-11T09:16:07+09:00",
    "repeat_ratio": 1.0
   },
   "news": {
@@ -71,15 +71,15 @@
    "count": 135,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-10T09:58:56+09:00",
-   "repeat_ratio": 0.0
+   "fetched_at": "2026-10-11T09:16:18+09:00",
+   "repeat_ratio": 0.052
   },
   "markets": {
    "level": "ok",
    "count": 5,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-10T09:58:57+09:00",
+   "fetched_at": "2026-10-11T09:16:19+09:00",
    "repeat_ratio": 1.0
   },
   "crypto": {
@@ -87,44 +87,46 @@
    "count": 10,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-10T09:59:00+09:00",
+   "fetched_at": "2026-10-11T09:16:28+09:00",
    "repeat_ratio": 1.0
   },
   "realestate": {
    "level": "warn",
-   "count": 20,
+   "count": 21,
    "warn": [
     "LH·온비드 공공데이터 API: 키 없음(DATA_GO_KR_KEY) — 뉴스·바로가기만",
-    "어제와 동일 50%"
+    "어제와 동일 71%"
    ],
    "block": [],
-   "fetched_at": "2026-10-10T09:59:04+09:00",
-   "repeat_ratio": 0.5
+   "fetched_at": "2026-10-11T09:16:32+09:00",
+   "repeat_ratio": 0.714
   },
   "it": {
-   "level": "ok",
+   "level": "warn",
    "count": 60,
-   "warn": [],
+   "warn": [
+    "어제와 동일 28%"
+   ],
    "block": [],
-   "fetched_at": "2026-10-10T09:59:08+09:00",
-   "repeat_ratio": 0.2
+   "fetched_at": "2026-10-11T09:16:35+09:00",
+   "repeat_ratio": 0.283
   },
   "auto": {
    "level": "warn",
    "count": 60,
    "warn": [
-    "어제와 동일 78%"
+    "어제와 동일 97%"
    ],
    "block": [],
-   "fetched_at": "2026-10-10T09:59:11+09:00",
-   "repeat_ratio": 0.783
+   "fetched_at": "2026-10-11T09:16:39+09:00",
+   "repeat_ratio": 0.967
   },
   "publicdata": {
    "level": "ok",
    "count": 8,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-10T09:59:13+09:00",
+   "fetched_at": "2026-10-11T09:16:41+09:00",
    "repeat_ratio": 1.0
   },
   "leisure": {
@@ -133,63 +135,63 @@
    "warn": [
     "고캠핑 API: 키 없음(DATA_GO_KR_KEY)",
     "링크 확인 실패 1/3",
-    "어제와 동일 97%"
+    "어제와 동일 87%"
    ],
    "block": [],
-   "fetched_at": "2026-10-10T09:59:16+09:00",
-   "repeat_ratio": 0.967
+   "fetched_at": "2026-10-11T09:16:44+09:00",
+   "repeat_ratio": 0.867
   }
  },
  "must_know": [
   {
    "module": "news",
    "item_ids": [
-    "5e2f5db8a1fbfc3a"
+    "dc7189d7a5787407"
    ],
-   "title": "[뉴욕증시] 이번에는 오픈AI 실적 낙관론…강세 마감 - 연합인포맥스",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12WklhZGF2Q3lFOUJWYVQ5c2kyUld0NzZyR3ptVmdWeGZqTjFyX1hHbW9RblZ0ZWRQNzdIa1A5OWxTS0NfeTVqaVU4cEhNd0NEWndBR0FLSEgybTNZR3A2ZEd4ZVYyTXJScEtNLTlLWWY?oc=5",
-   "why": "매체 1곳 · AI·IT·경제",
+   "title": "“내년엔 1200원대도 가능”…‘반도체 달러’ 덕에 원화 강세 계속될까",
+   "url": "https://www.mk.co.kr/news/economy/12172825",
+   "why": "매체 1곳 · IT·경제·신기술",
    "score": 10
   },
   {
    "module": "news",
    "item_ids": [
-    "e61e41dccde035f2"
+    "793ad27e260412e0"
    ],
-   "title": "AI 수요 오해 풀렸지만, S&P 신기록 다가섰지만, 또 떨어진 반도체 [김현석의 월스트리트나우]",
-   "url": "https://www.hankyung.com/article/202610103221i",
-   "why": "매체 1곳 · AI·IT·신기술",
+   "title": "‘AI 정답’만 찾다가 ‘나’를 잃어버릴라 [.txt]",
+   "url": "https://www.hani.co.kr/arti/culture/culture_general/1281751.html",
+   "why": "매체 1곳 · AI·IT",
    "score": 8
   },
   {
    "module": "news",
    "item_ids": [
-    "8555ad329efb518c"
+    "9a9b768dfec99d41"
    ],
-   "title": "매경이 전하는 세상의 지식 (매-세-지, 10월 10일)",
-   "url": "https://www.mk.co.kr/news/economy/12172424",
-   "why": "매체 1곳 · IT·신기술",
+   "title": "한은·국책은행도 해킹 시도 급증…올해만 100만건 ↑ - 연합뉴스TV",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1KbUo1WGIzX3BXNnE3clRtakxrMWRYZ2NDd2ZIYjJ6VFpyaEtCNlpTRlVVSXM1SVlneVRpTE9wdlRpOUxHbUc2M3JhODRpTnRqUzV3TXM4SU95MkpOTDBGOHBYOXJvVXc?oc=5",
+   "why": "매체 1곳 · AI·IT·국제",
    "score": 8
   },
   {
    "module": "news",
    "item_ids": [
-    "4066b93259e4be64"
+    "d0ea6cf9bb93c4ad"
    ],
-   "title": "삼전닉스 대신 방산·반도체 테마형으로…변화하는 레버리지 ETF 판도",
-   "url": "https://www.mk.co.kr/news/stock/12172657",
-   "why": "매체 1곳 · IT·신기술",
-   "score": 8
-  },
-  {
-   "module": "news",
-   "item_ids": [
-    "f5f4c7513b97abc7"
-   ],
-   "title": "北, 최악 ‘인신매매국’ 지정 美 정부 보고서에 “중상모독 정치적 도발”",
-   "url": "https://www.donga.com/news/Politics/article/all/20261010/134817112/1",
-   "why": "매체 2곳 · 국제",
+   "title": "홍준표 “비난 각오하고 김부겸 밀었는데, 대구시민 내 진심 몰라줘···TK 몰락 가슴 아프다”",
+   "url": "https://www.khan.co.kr/article/202610101956001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "why": "매체 2곳",
    "score": 7
+  },
+  {
+   "module": "crypto",
+   "item_ids": [
+    "f468bf6a4153c2a9"
+   ],
+   "title": "Figure Heloc (FIGR_HELOC) ₩1,428",
+   "url": "https://www.coingecko.com/en/coins/figure-heloc",
+   "why": "큰 변동 · 24시간 +6.38% · 7일 -0.33% · 시총 9위 · 이슈: 어떤 코인 이 살아남는가",
+   "score": 0
   }
  ],
  "banned_hits": 0
