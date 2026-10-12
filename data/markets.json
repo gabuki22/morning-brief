@@ -1,6 +1,6 @@
 {
  "module": "markets",
- "fetched_at": "2026-10-11T09:16:19+09:00",
+ "fetched_at": "2026-10-12T09:37:51+09:00",
  "source": {
   "name": "Yahoo Finance chart (비공식)",
   "url": "https://finance.yahoo.com/",
@@ -9,35 +9,19 @@
  "items": [
   {
    "id": "6134aafd41262cc2",
-   "title": "코스피 6,625.93",
+   "title": "코스피 6,549.02",
    "url": "https://finance.naver.com/sise/sise_index.naver?code=KOSPI",
-   "published_at": "2026-10-08",
-   "summary": "전일 대비 -2.62% · 1개월 -4.72% (2026-09-08~2026-10-08, 20영업일)",
+   "published_at": "2026-10-12",
+   "summary": "전일 대비 -1.16% · 1개월 -2.02% (2026-09-14~2026-10-12, 17영업일)",
    "tags": [
     "지수",
     "한국"
    ],
    "metrics": {
-    "last": 6625.93,
-    "chg_1d": -2.616,
-    "chg_period": -4.725,
+    "last": 6549.02,
+    "chg_1d": -1.161,
+    "chg_period": -2.025,
     "series": [
-     [
-      "2026-09-08",
-      6954.52
-     ],
-     [
-      "2026-09-09",
-      7051.64
-     ],
-     [
-      "2026-09-10",
-      7033.92
-     ],
-     [
-      "2026-09-11",
-      6909.91
-     ],
      [
       "2026-09-14",
       6684.37
@@ -101,44 +85,32 @@
      [
       "2026-10-08",
       6625.93
+     ],
+     [
+      "2026-10-12",
+      6549.02
      ]
     ]
    },
    "is_new": false,
-   "streak_days": 23,
+   "streak_days": 24,
    "source_name": "Yahoo Finance"
   },
   {
    "id": "b3f66872d62db5f6",
-   "title": "코스닥 892.27",
+   "title": "코스닥 880.31",
    "url": "https://finance.naver.com/sise/sise_index.naver?code=KOSDAQ",
-   "published_at": "2026-10-08",
-   "summary": "전일 대비 -0.69% · 1개월 +9.90% (2026-09-08~2026-10-08, 20영업일)",
+   "published_at": "2026-10-12",
+   "summary": "전일 대비 -1.34% · 1개월 +9.11% (2026-09-14~2026-10-12, 17영업일)",
    "tags": [
     "지수",
     "한국"
    ],
    "metrics": {
-    "last": 892.27,
-    "chg_1d": -0.686,
-    "chg_period": 9.902,
+    "last": 880.31,
+    "chg_1d": -1.34,
+    "chg_period": 9.113,
     "series": [
-     [
-      "2026-09-08",
-      811.88
-     ],
-     [
-      "2026-09-09",
-      830.37
-     ],
-     [
-      "2026-09-10",
-      836.92
-     ],
-     [
-      "2026-09-11",
-      820.64
-     ],
      [
       "2026-09-14",
       806.79
@@ -202,11 +174,15 @@
      [
       "2026-10-08",
       892.27
+     ],
+     [
+      "2026-10-12",
+      880.31
      ]
     ]
    },
    "is_new": false,
-   "streak_days": 23,
+   "streak_days": 24,
    "source_name": "Yahoo Finance"
   },
   {
@@ -315,7 +291,7 @@
     ]
    },
    "is_new": false,
-   "streak_days": 23,
+   "streak_days": 24,
    "source_name": "Yahoo Finance"
   },
   {
@@ -424,7 +400,7 @@
     ]
    },
    "is_new": false,
-   "streak_days": 23,
+   "streak_days": 24,
    "source_name": "Yahoo Finance"
   },
   {
@@ -525,7 +501,7 @@
     ]
    },
    "is_new": false,
-   "streak_days": 23,
+   "streak_days": 24,
    "source_name": "Yahoo Finance"
   }
  ],

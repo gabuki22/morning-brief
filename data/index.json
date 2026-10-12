@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-11T09:16:44+09:00",
- "date": "2026-10-11",
+ "built_at": "2026-10-12T09:38:16+09:00",
+ "date": "2026-10-12",
  "site": {
   "title": "모닝브리프",
   "locations": [
@@ -55,7 +55,7 @@
    "count": 7,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-11T09:16:07+09:00",
+   "fetched_at": "2026-10-12T09:37:35+09:00",
    "repeat_ratio": 0.857
   },
   "fx": {
@@ -63,7 +63,7 @@
    "count": 3,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-11T09:16:07+09:00",
+   "fetched_at": "2026-10-12T09:37:35+09:00",
    "repeat_ratio": 1.0
   },
   "news": {
@@ -71,15 +71,15 @@
    "count": 135,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-11T09:16:18+09:00",
-   "repeat_ratio": 0.052
+   "fetched_at": "2026-10-12T09:37:45+09:00",
+   "repeat_ratio": 0.0
   },
   "markets": {
    "level": "ok",
    "count": 5,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-11T09:16:19+09:00",
+   "fetched_at": "2026-10-12T09:37:51+09:00",
    "repeat_ratio": 1.0
   },
   "crypto": {
@@ -87,46 +87,44 @@
    "count": 10,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-11T09:16:28+09:00",
+   "fetched_at": "2026-10-12T09:37:55+09:00",
    "repeat_ratio": 1.0
   },
   "realestate": {
    "level": "warn",
-   "count": 21,
+   "count": 26,
    "warn": [
     "LH·온비드 공공데이터 API: 키 없음(DATA_GO_KR_KEY) — 뉴스·바로가기만",
-    "어제와 동일 71%"
+    "어제와 동일 35%"
    ],
    "block": [],
-   "fetched_at": "2026-10-11T09:16:32+09:00",
-   "repeat_ratio": 0.714
+   "fetched_at": "2026-10-12T09:38:00+09:00",
+   "repeat_ratio": 0.346
   },
   "it": {
-   "level": "warn",
+   "level": "ok",
    "count": 60,
-   "warn": [
-    "어제와 동일 28%"
-   ],
+   "warn": [],
    "block": [],
-   "fetched_at": "2026-10-11T09:16:35+09:00",
-   "repeat_ratio": 0.283
+   "fetched_at": "2026-10-12T09:38:03+09:00",
+   "repeat_ratio": 0.0
   },
   "auto": {
    "level": "warn",
    "count": 60,
    "warn": [
-    "어제와 동일 97%"
+    "어제와 동일 90%"
    ],
    "block": [],
-   "fetched_at": "2026-10-11T09:16:39+09:00",
-   "repeat_ratio": 0.967
+   "fetched_at": "2026-10-12T09:38:07+09:00",
+   "repeat_ratio": 0.9
   },
   "publicdata": {
    "level": "ok",
    "count": 8,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-11T09:16:41+09:00",
+   "fetched_at": "2026-10-12T09:38:13+09:00",
    "repeat_ratio": 1.0
   },
   "leisure": {
@@ -134,63 +132,62 @@
    "count": 30,
    "warn": [
     "고캠핑 API: 키 없음(DATA_GO_KR_KEY)",
-    "링크 확인 실패 1/3",
-    "어제와 동일 87%"
+    "어제와 동일 70%"
    ],
    "block": [],
-   "fetched_at": "2026-10-11T09:16:44+09:00",
-   "repeat_ratio": 0.867
+   "fetched_at": "2026-10-12T09:38:16+09:00",
+   "repeat_ratio": 0.7
   }
  },
  "must_know": [
   {
    "module": "news",
    "item_ids": [
-    "dc7189d7a5787407"
+    "28b6c4c5a8d8f323"
    ],
-   "title": "“내년엔 1200원대도 가능”…‘반도체 달러’ 덕에 원화 강세 계속될까",
-   "url": "https://www.mk.co.kr/news/economy/12172825",
+   "title": "[속보] 합참 “북한, 동해로 미상 발사체 발사”",
+   "url": "https://www.hani.co.kr/arti/politics/defense/1281882.html",
+   "why": "매체 4곳",
+   "score": 13
+  },
+  {
+   "module": "news",
+   "item_ids": [
+    "b5347876c06eeb42"
+   ],
+   "title": "10월1∼10일 수출 261억달러 ‘역대 최대’…반도체 170.9%↑",
+   "url": "https://www.hani.co.kr/arti/economy/economy_general/1281880.html",
+   "why": "매체 2곳 · IT·경제·신기술",
+   "score": 13
+  },
+  {
+   "module": "news",
+   "item_ids": [
+    "2b9133730820072a"
+   ],
+   "title": "반도체 업고 이달초 수출 261억달러…2배로 뛰며 역대 최대(종합)",
+   "url": "https://www.yna.co.kr/view/AKR20261012028651002",
    "why": "매체 1곳 · IT·경제·신기술",
    "score": 10
   },
   {
    "module": "news",
    "item_ids": [
-    "793ad27e260412e0"
+    "87524d10e85bea02"
    ],
-   "title": "‘AI 정답’만 찾다가 ‘나’를 잃어버릴라 [.txt]",
-   "url": "https://www.hani.co.kr/arti/culture/culture_general/1281751.html",
+   "title": "AI가 쏟아낸 722편 논문에 세계 수학계 ‘혼돈’",
+   "url": "https://www.hani.co.kr/arti/science/science_general/1281883.html",
    "why": "매체 1곳 · AI·IT",
    "score": 8
   },
   {
-   "module": "news",
-   "item_ids": [
-    "9a9b768dfec99d41"
-   ],
-   "title": "한은·국책은행도 해킹 시도 급증…올해만 100만건 ↑ - 연합뉴스TV",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1KbUo1WGIzX3BXNnE3clRtakxrMWRYZ2NDd2ZIYjJ6VFpyaEtCNlpTRlVVSXM1SVlneVRpTE9wdlRpOUxHbUc2M3JhODRpTnRqUzV3TXM4SU95MkpOTDBGOHBYOXJvVXc?oc=5",
-   "why": "매체 1곳 · AI·IT·국제",
-   "score": 8
-  },
-  {
-   "module": "news",
-   "item_ids": [
-    "d0ea6cf9bb93c4ad"
-   ],
-   "title": "홍준표 “비난 각오하고 김부겸 밀었는데, 대구시민 내 진심 몰라줘···TK 몰락 가슴 아프다”",
-   "url": "https://www.khan.co.kr/article/202610101956001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-   "why": "매체 2곳",
-   "score": 7
-  },
-  {
    "module": "crypto",
    "item_ids": [
-    "f468bf6a4153c2a9"
+    "f6b18db9a4f56551"
    ],
-   "title": "Figure Heloc (FIGR_HELOC) ₩1,428",
-   "url": "https://www.coingecko.com/en/coins/figure-heloc",
-   "why": "큰 변동 · 24시간 +6.38% · 7일 -0.33% · 시총 9위 · 이슈: 어떤 코인 이 살아남는가",
+   "title": "Zcash (ZEC) ₩1,718,846",
+   "url": "https://www.coingecko.com/en/coins/zcash",
+   "why": "큰 변동 · 24시간 +5.12% · 7일 -5.46% · 시총 10위 · 이슈: 스타크넷(STRK), 주간 105% 질주...비트 코인 횡보장에 '잭팟'",
    "score": 0
   }
  ],

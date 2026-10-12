@@ -1,6 +1,6 @@
 {
  "module": "realestate",
- "fetched_at": "2026-10-11T09:16:32+09:00",
+ "fetched_at": "2026-10-12T09:38:00+09:00",
  "source": {
   "name": "RSS 6곳",
   "url": "https://www.hankyung.com/feed/realestate",
@@ -8,11 +8,11 @@
  },
  "items": [
   {
-   "id": "4d3d5d1c858b69ca",
-   "title": "국채금리 급등에 줄어든 매력에도…개인, 리츠 ETF 순매수액↑",
-   "url": "https://www.yna.co.kr/view/AKR20261008168900008",
-   "published_at": "2026-10-11T06:10:01+09:00",
-   "summary": "(서울=연합뉴스) 고은지 기자 = 최근 국채 금리가 고공행진하면서 리츠(REITs·부동산투자회사) 상장지수펀드(ETF)의 매력이 상대적으로 줄었...",
+   "id": "afc15eb52d62624e",
+   "title": "서울 아파트 3분기 매매거래 54.7%가 전고점 이상",
+   "url": "https://www.yna.co.kr/view/AKR20261012039200003",
+   "published_at": "2026-10-12T09:27:54+09:00",
+   "summary": "(서울=연합뉴스) 임기창 기자 = 올 3분기 서울 아파트 매매거래의 절반 이상이 과거 최고 거래가와 같거나 그보다 높은 가격에 거래된 것으로 나...",
    "tags": [
     "부동산",
     "수도권"
@@ -23,11 +23,26 @@
    "source_name": "연합뉴스 경제"
   },
   {
-   "id": "f2abcb754f0fab49",
-   "title": "돔구장 옆에 호텔·쇼핑몰·오피스… 지자체 유치전과 맞물린 부동산 개발",
-   "url": "https://www.chosun.com/economy/real_estate/2026/10/11/G5RGKZDGGQ3DANRQG4ZGGMRSG4/",
-   "published_at": "2026-10-11T06:00:00+09:00",
-   "summary": "돔구장 유치 경쟁이 호텔·쇼핑몰·오피스를 함께 짓는 복합개발 경쟁으로 번지고 있다. 부산 북항과 광명시흥 신도시, 천안아산역 일대에서는 돔 건립을 기존 개발사업과 연계하는 구상이 추진되고 있다. 경기·공연으로 사람을 모아 주변 시설의 소비로 연결하려는 전략이지만, 비경기일 수요 확보와 ",
+   "id": "da096c8d5b57edb4",
+   "title": "LH, 임대주택 150만호 넘었다… 거주 인구는 266만명",
+   "url": "https://www.chosun.com/economy/real_estate/2026/10/12/GI2DQNLFMU2TGYTFGJRWGMJSGQ/",
+   "published_at": "2026-10-12T09:23:38+09:00",
+   "summary": "한국토지주택공사(LH)가 운영 중인 임대주택(건설임대·매입임대·전세임대)이 150만 호를 넘었다. 거주인구는 대구광역시 인구보다 많은 266만명에 달한다. LH는 내년부터 2030년까지 매년 14만호 이상 임대주택을 추가 공급할 계획이다. LH는 임대주택(건설임대·매입임대·전세임대)이 ",
+   "tags": [
+    "부동산",
+    "청약"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "조선일보 경제"
+  },
+  {
+   "id": "7366f4f75a187469",
+   "title": "\"인천 부평도 국평 10억 시대\"…非서울로 확산되는 집값 급등세",
+   "url": "https://www.chosun.com/economy/realty/apartment_sales/2026/10/12/GM3DOODBGE3GENTBMUYTSZRRGA/",
+   "published_at": "2026-10-12T09:20:58+09:00",
+   "summary": "[땅집고] 인천 부평구에서 국평(전용면적 84㎡) 아파트 분양가가 10억원을 돌파했다. 서울과 수도권 주요 지역을 중심으로 이어진 분양가 상승세가 인천 구도심까지 확산하는 모습이다. 인근 기존 아파트 실거래가보다 3억~4억원가량 비싼 데다, 지난해 분양한 주변 단지보다도 가격이 1억원 ",
    "tags": [
     "부동산",
     "수도권"
@@ -38,27 +53,11 @@
    "source_name": "조선일보 경제"
   },
   {
-   "id": "2fa27d611c6cd714",
-   "title": "실거래보다 1억 낮은 진주시 아파트…소액 투자자 추천 경매 5선",
-   "url": "https://www.chosun.com/economy/realty/investment_trends/2026/10/11/GQ2DEMLGGA3TCOJXME3DAN3DGM/",
-   "published_at": "2026-10-11T06:00:00+09:00",
-   "summary": "인공지능(AI) 기반 경매정보 플랫폼 땅집고옥션(▶바로가기)이 개발한 ‘만능검색’ 시스템을 통해 전국 법원에서 입찰하는 경매 물건 중 알짜 정보만 골라 여러분에게 매일 배달합니다. 만능검색은 클릭 몇 번으로 전국 모든 경매 물건 가운데 내가 원하는 시점, 지역만 선택하면 수익성과 안정성",
-   "tags": [
-    "부동산",
-    "경매",
-    "AI"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "조선일보 경제"
-  },
-  {
-   "id": "8fd82f88363b2bd8",
-   "title": "카카오에 5000억 받았던 90년생 대표, 350억 슈퍼펜트하우스 선점",
-   "url": "https://www.chosun.com/economy/realty/realestate_industry/2026/10/11/GE2GCNTDMU4DAY3GGU2DGM3FME/",
-   "published_at": "2026-10-11T06:00:00+09:00",
-   "summary": "[땅집고] 이승윤 전 래디쉬 대표가 과거 분양가 350억원 상당 서울 강남구 청담동 ‘워너청담’ 슈퍼펜트하우스를 선점했던 주인공인 것으로 확인됐다. 그가 래디쉬를 창업한지 약 5년 만에 5000억원 엑시트에 성공해 ‘영 리치’ 반열에 오르자마자 초호화 아파트를 손에 넣은 것이다. 대법원",
+   "id": "b3a6cc05909f43db",
+   "title": "삼성물산, 반포푸르지오 입찰제안…'넥스트 리모델링' 첫선",
+   "url": "https://www.yna.co.kr/view/AKR20261012034600003",
+   "published_at": "2026-10-12T09:17:40+09:00",
+   "summary": "(서울=연합뉴스) 오예진 기자 = 삼성물산 건설부문(이하 삼성물산)은 서울 서초구 반포푸르지오 아파트 리모델링 사업에 입찰제안서를 냈다고 12일...",
    "tags": [
     "부동산",
     "수도권"
@@ -66,29 +65,72 @@
    "metrics": {},
    "is_new": true,
    "streak_days": 1,
-   "source_name": "조선일보 경제"
+   "source_name": "연합뉴스 경제"
   },
   {
-   "id": "1fb38195324074a6",
-   "title": "\"세금 낭비\" vs \"적어도 절반 보장해야\"…전세 피해 '3분의 1 반환' 딜레마",
-   "url": "https://www.chosun.com/economy/realty/realestate_news/2026/10/11/GQYTEYJSME3DOMJZG43WEZRZHA/",
-   "published_at": "2026-10-11T06:00:00+09:00",
-   "summary": "[땅집고] 전세사기 피해자가 경·공매를 거치고도 돌려받은 돈이 임차보증금의 3분의 1에 미치지 못하면 국가가 부족분을 지원하는 ‘최소보장 제도’를 11월 13일부터 시행한다. 피해자 주거 안정을 돕기 위한 조치지만, 개인 간 임대차계약에서 발생한 손실을 세금으로 보전하는 것이 적절한지를",
+   "id": "97c1f8b86fc0b220",
+   "title": "9월 전세사기 피해자 623건 추가 인정…누적 4만1559건",
+   "url": "https://www.khan.co.kr/article/202610120913001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
+   "published_at": "2026-10-12T09:13:00+09:00",
+   "summary": "서울의 한 빌라촌. 연합뉴스지난달 전세사기 피해자로 새로 인정된 사례가 623건으로 집계되면서, 누적 결정 건수가 4만1559건에 이르렀다.국토교통부는 지난달 전세사기피해지원위원회 전체회의를 세 차례 개최해 1642건을 심의했고, 이 가운데 623건을 피해자 등으로 최종 결정했다고 12",
    "tags": [
     "부동산",
-    "경매"
+    "수도권"
    ],
    "metrics": {},
    "is_new": true,
    "streak_days": 1,
-   "source_name": "조선일보 경제"
+   "source_name": "경향신문 경제"
   },
   {
-   "id": "125e44c954a84c91",
-   "title": "북한에도 '전세'가?…세입자가 갑이라는 주거 정체",
-   "url": "https://www.chosun.com/economy/realty/realestate_news/2026/10/11/GAZDKZBVGM3DAMRUME4TGNZUG4/",
-   "published_at": "2026-10-11T06:00:00+09:00",
-   "summary": "[땅집고] 평양에서 기차로 서너 시간 떨어진 황해도의 한 아파트. 시세가 2만 달러인 집에 집주인이 아닌 주민이 살고 있다. 매달 월세를 내는 것도 아니다. 입주하면서 집값의 절반 수준인 1만 달러를 집주인에게 맡겼기 때문이다. 한국의 전세와 비슷한 구조다. 북한에서는 이를 ‘대부동거’",
+   "id": "5ab845f9add2c921",
+   "title": "[단독]아파트에 아이스링크를? 국토부, ‘초호화 커뮤니티 시설’ 등장에 실태 파악 착수",
+   "url": "https://www.khan.co.kr/article/202610120600111/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
+   "published_at": "2026-10-12T06:00:11+09:00",
+   "summary": "반포주공1단지 재건축 커뮤니티 시설 계획. 현대건설 홍보영상 갈무리정부가 서울 강남 등 재건축 추진 아파트 단지에 ‘아이스링크·오페라하우스’ 등 초호화 커뮤니티 시설까지 거론되자 실태 파악에 나선다. 대형 건설사들의 고급화 경쟁이 궁극적으로 공사비와 분양가를 끌어올리고 준공 후 운영·관",
+   "tags": [
+    "부동산",
+    "수도권"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "경향신문 경제"
+  },
+  {
+   "id": "9667ada564ac1a3c",
+   "title": "탈모약 건보-농지조사 오락가락, ETF 뒷북 규제… 국민 혼란 키워",
+   "url": "https://www.donga.com/news/Economy/article/all/20261012/134822321/2",
+   "published_at": "2026-10-12T04:30:00+09:00",
+   "summary": "농지 전수조사, 부동산 세금 강화, 기초연금 개편 등 최근 정부가 번복한 주요 정책은 이재명 대통령의 지시로 담당 부처에서 ‘속도전’으로 추진하다 현장 혼란을 키웠다는 공통점이 있다. 국민과 이해당사자, 전문가 의견을 충분히 듣고 예상되는 부작용을 파악하는 등 정책을 정교하게 추진해야 ",
+   "tags": [
+    "부동산"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "동아일보 경제"
+  },
+  {
+   "id": "f983e0b28544f88e",
+   "title": "[단독]입찰담합 적발 업체들, 3기 신도시서 감리계약 또 수주",
+   "url": "https://www.donga.com/news/Economy/article/all/20261011/134822354/2",
+   "published_at": "2026-10-12T04:30:00+09:00",
+   "summary": "3기 신도시 아파트 건설공사 27개 지구 중 절반이 넘은 16개 지구에서 과거에 담합 등으로 적발됐던 업체들이 적발 이후에도 감리 계약을 수주한 것으로 나타났다. 행정소송 등을 통해 최종 처분 확정을 미루고, 그 사이에 계속해서 신규 사업을 수주하는 일이 반복되고 있다는 지적이 나온다.",
+   "tags": [
+    "부동산"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "동아일보 경제"
+  },
+  {
+   "id": "be23358cad935ffe",
+   "title": "양자역학의 세계 알기 쉽게 풀어줍니다",
+   "url": "https://www.chosun.com/economy/money/2026/10/12/7DFHJP7VIJHXJH6EQ4EIX54VVU/",
+   "published_at": "2026-10-12T00:36:00+09:00",
+   "summary": "15일부터 20일 사이 방송되는 ‘조선일보 머니’는 은퇴 후 연금 절세 비법부터 요동치는 부동산 시장 전망, 신비로운 양자역학의 세계, 거시 경제를 관통하는 국채 금리와 환율까지 최근 경제 흐름을 꿰뚫어 보는 다양한 주제를 심도 있게 다룬다. 15일 은퇴스쿨에는 안명희 우리은행 연금사업",
    "tags": [
     "부동산"
    ],
@@ -98,35 +140,122 @@
    "source_name": "조선일보 경제"
   },
   {
-   "id": "f9087ccb00f34f75",
-   "title": "LH, 수도권 미분양 아파트 ‘매입확약’ 착수…최대 1만8천가구 대상",
-   "url": "https://www.hani.co.kr/arti/economy/property/1281648.html",
-   "published_at": "2026-10-11",
+   "id": "0f083398f2bd7ce9",
+   "title": "대출 묶은 ‘10·15 대책’ 1년…서울 중저가 아파트 매매·전셋값 뛰었다",
+   "url": "https://www.hani.co.kr/arti/economy/property/1281809.html",
+   "published_at": "2026-10-12",
+   "summary": "",
+   "tags": [
+    "부동산",
+    "수도권"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "한겨레 경제"
+  },
+  {
+   "id": "0900f18a73d56825",
+   "title": "‘재산 등록·부동산 취득 제한 위반’ LH 임직원들 솜방망이 징계",
+   "url": "https://www.khan.co.kr/article/202610112009005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
+   "published_at": "2026-10-11T20:09:00+09:00",
+   "summary": "적발된 29건 모두 가장 낮은 ‘견책’김미애 의원 “수위 적정성 점검을”한국토지주택공사(LH) 임직원들이 재산 등록과 부동산 취득 제한 관련 의무를 위반하고도 모두 가장 낮은 수준의 징계인 ‘견책’만 받은 것으로 드러났다.국회 국토교통위원회 김미애 국민의힘 의원이 11일 LH에서 제출받",
+   "tags": [
+    "부동산",
+    "청약"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "경향신문 경제"
+  },
+  {
+   "id": "dccce6d563608856",
+   "title": "수원 영통구, 집값 상승률 1위…분당구도 강세",
+   "url": "https://www.hankyung.com/article/2026101145381",
+   "published_at": "2026-10-11T17:58:13+09:00",
+   "summary": "",
+   "tags": [
+    "부동산",
+    "수도권"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "한국경제 부동산"
+  },
+  {
+   "id": "fe98d59a7766c664",
+   "title": "재산등록·부동산 취득제한 위반 LH 임직원 징계 모두 ‘견책’",
+   "url": "https://www.khan.co.kr/article/202610111730001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
+   "published_at": "2026-10-11T17:30:00+09:00",
+   "summary": "경남 진주시에 있는 한국토지주택공사(LH) 본사 사옥. LH 제공한국토지주택공사(LH) 임직원들이 재산 등록과 부동산 취득 제한 관련 의무를 위반하고도 모두 가장 낮은 수준의 징계인 견책을 받은 것으로 나타났다.국회 국토교통위원회 소속 김미애 국민의힘 의원이 11일 LH에서 제출받아 공",
+   "tags": [
+    "부동산",
+    "청약"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "경향신문 경제"
+  },
+  {
+   "id": "aaf3fb7567670317",
+   "title": "반도체 성과급 66% 뛰었지만…예정처 “소비 진작 효과는 제한적”",
+   "url": "https://www.khan.co.kr/article/202610111644001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
+   "published_at": "2026-10-11T16:44:00+09:00",
+   "summary": "삼성전자와 SK하이닉스. 경향신문 자료사진반도체 호황으로 기업 실적과 임금이 크게 늘고 있지만, 소득 증가가 민간소비 확대로 이어지는 효과는 제한적일 것이라는 분석이 나왔다. 임금 상승이 일부 산업의 일시적 성과급에 집중된 데다 주식·부동산 등 자산가격 상승에 따른 혜택도 고소득층에 쏠",
+   "tags": [
+    "부동산",
+    "신기술"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "경향신문 경제"
+  },
+  {
+   "id": "935c8c8a8cb007b1",
+   "title": "\"그냥 청약 안 할래요\" 포기 속출…분양시장에 무슨 일이 [이송렬의 부동산한입]",
+   "url": "https://www.hankyung.com/article/2026100800956",
+   "published_at": "2026-10-11T16:00:01+09:00",
    "summary": "",
    "tags": [
     "부동산",
     "청약"
    ],
    "metrics": {},
-   "is_new": false,
-   "streak_days": 2,
-   "source_name": "한겨레 경제"
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "한국경제 부동산"
   },
   {
-   "id": "dbe9faae7919cfee",
-   "title": "신도시 발표 후 8년 지난 고양 창릉, 아직도 비닐하우스가 그대로",
-   "url": "https://www.donga.com/news/Economy/article/all/20261010/134817088/1",
-   "published_at": "2026-10-10T07:59:00+09:00",
-   "summary": "“갑자기 2억 원이 더 필요하다는데, 2억 원이 단기간에 급하게 만들 수 있는 돈은 아니지 않습니까.”경기 고양시 창릉 신도시 사전청약에 당첨된 박모 씨(30)는 사업 지연으로 본청약이 미뤄지면서 분양가가 오르는 바람에 분양받는 걸 포기했다. 사전청약 당시 추정 분양가에 맞춰 자금 계획",
+   "id": "f9a9aabbdd5b6be3",
+   "title": "[집코노미2026 다시보기 영상] \"정부, 공급 확대에 최우선…집값 잡을 것\"",
+   "url": "https://www.hankyung.com/article/202610114186i",
+   "published_at": "2026-10-11T15:00:05+09:00",
+   "summary": "",
    "tags": [
-    "부동산",
-    "수도권",
-    "청약"
+    "부동산"
    ],
    "metrics": {},
-   "is_new": false,
-   "streak_days": 2,
-   "source_name": "동아일보 경제"
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "한국경제 부동산"
+  },
+  {
+   "id": "208542348588632c",
+   "title": "\"내 돈은요\"…수천억 안 돌려준 '악성임대인' 또 보증받나",
+   "url": "https://www.hankyung.com/article/2026101140717",
+   "published_at": "2026-10-11T11:13:49+09:00",
+   "summary": "",
+   "tags": [
+    "부동산"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "한국경제 부동산"
   },
   {
    "id": "2ce3083e3d1cd1c6",
@@ -139,7 +268,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 2,
+   "streak_days": 3,
    "source_name": "한국경제 부동산"
   },
   {
@@ -153,7 +282,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 2,
+   "streak_days": 3,
    "source_name": "한국경제 부동산"
   },
   {
@@ -167,38 +296,8 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 2,
+   "streak_days": 3,
    "source_name": "한국경제 부동산"
-  },
-  {
-   "id": "3e4b95d0d03ea8cd",
-   "title": "LH, 안 팔린 집 사준다…수도권 공공택지 미분양 ‘매입확약’ 연말까지 접수",
-   "url": "https://www.khan.co.kr/article/202610090950001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
-   "published_at": "2026-10-09T09:50:00+09:00",
-   "summary": "서울의 한 아파트 단지. 문재원 기자한국토지주택공사(LH)가 민간 건설사가 지은 아파트가 분양에서 팔리지 않을 경우 이를 사주는 ‘미분양 매입확약’을 올해 말까지 접수한다. 건설사가 미분양 걱정 없이 공사를 일찍 시작하도록 유도해 주택 공급을 앞당기겠다는 취지다.LH는 9일 정부가 지난",
-   "tags": [
-    "부동산",
-    "수도권",
-    "청약"
-   ],
-   "metrics": {},
-   "is_new": false,
-   "streak_days": 3,
-   "source_name": "경향신문 경제"
-  },
-  {
-   "id": "7d11aab507d58577",
-   "title": "농민 반발에…상속·고령 임대농지 ‘처분 제외’",
-   "url": "https://www.khan.co.kr/article/202610082215015/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
-   "published_at": "2026-10-08T22:15:01+09:00",
-   "summary": "정부, 농지 전수조사 후속조치…‘명백한 투기’ 목적만 처벌하기로농업용 창고 등 미허가 시설 처리 유예…특별법 통한 양성화 추진농지 전수조사를 진행하고 있는 정부가 투기가 아닌 관행적 농지 임대·휴경의 경우 농지은행 위탁을 하지 않고 처분 대상에서 제외하기로 했다. 지난 5월 농지 전수조",
-   "tags": [
-    "부동산"
-   ],
-   "metrics": {},
-   "is_new": false,
-   "streak_days": 3,
-   "source_name": "경향신문 경제"
   },
   {
    "id": "21eea9f62bc99f97",
@@ -211,7 +310,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 3,
+   "streak_days": 4,
    "source_name": "한국경제 부동산"
   },
   {
@@ -226,7 +325,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 3,
+   "streak_days": 4,
    "source_name": "한국경제 부동산"
   },
   {
@@ -241,42 +340,14 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 3,
-   "source_name": "한국경제 부동산"
-  },
-  {
-   "id": "8146383ff5e39ee1",
-   "title": "[속보] 정부, 농지 특조법으로 관행적 임대차·미허가 시설 양성화",
-   "url": "https://www.hankyung.com/article/2026100806747",
-   "published_at": "2026-10-08T11:07:05+09:00",
-   "summary": "",
-   "tags": [
-    "부동산"
-   ],
-   "metrics": {},
-   "is_new": false,
-   "streak_days": 3,
-   "source_name": "한국경제 부동산"
-  },
-  {
-   "id": "cc74bdf78887a920",
-   "title": "[속보] 정부, 상속·고령농·임대차 농지 등은 전수조사 처분서 제외",
-   "url": "https://www.hankyung.com/article/2026100806487",
-   "published_at": "2026-10-08T11:02:45+09:00",
-   "summary": "",
-   "tags": [
-    "부동산"
-   ],
-   "metrics": {},
-   "is_new": false,
-   "streak_days": 3,
+   "streak_days": 4,
    "source_name": "한국경제 부동산"
   },
   {
    "id": "6a0834327afccc3b",
    "title": "LH 청약플러스 — 분양·임대 공고",
    "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
-   "published_at": "2026-10-11",
+   "published_at": "2026-10-12",
    "summary": "수도권 공고는 지역 필터로",
    "tags": [
     "바로가기",
@@ -284,14 +355,14 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 23,
+   "streak_days": 24,
    "source_name": "바로가기"
   },
   {
    "id": "25744536b7c84e25",
    "title": "온비드 — 공매 물건",
    "url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateList.do",
-   "published_at": "2026-10-11",
+   "published_at": "2026-10-12",
    "summary": "부동산 공매 검색",
    "tags": [
     "바로가기",
@@ -299,14 +370,14 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 23,
+   "streak_days": 24,
    "source_name": "바로가기"
   },
   {
    "id": "c91f39808692d334",
    "title": "법원경매정보 — 매각기일 공고",
    "url": "https://www.courtauction.go.kr/",
-   "published_at": "2026-10-11",
+   "published_at": "2026-10-12",
    "summary": "관할 법원별 기일 확인",
    "tags": [
     "바로가기",
@@ -314,16 +385,16 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 23,
+   "streak_days": 24,
    "source_name": "바로가기"
   }
  ],
  "status": {
   "ok": true,
-  "count": 21,
+  "count": 26,
   "warn": [
    "LH·온비드 공공데이터 API: 키 없음(DATA_GO_KR_KEY) — 뉴스·바로가기만",
-   "어제와 동일 71%"
+   "어제와 동일 35%"
   ],
   "error": null,
   "level": "warn",
