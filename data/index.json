@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-12T09:38:16+09:00",
- "date": "2026-10-12",
+ "built_at": "2026-10-13T11:37:36+09:00",
+ "date": "2026-10-13",
  "site": {
   "title": "모닝브리프",
   "locations": [
@@ -55,7 +55,7 @@
    "count": 7,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-12T09:37:35+09:00",
+   "fetched_at": "2026-10-13T11:37:03+09:00",
    "repeat_ratio": 0.857
   },
   "fx": {
@@ -63,7 +63,7 @@
    "count": 3,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-12T09:37:35+09:00",
+   "fetched_at": "2026-10-13T11:37:04+09:00",
    "repeat_ratio": 1.0
   },
   "news": {
@@ -71,7 +71,7 @@
    "count": 135,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-12T09:37:45+09:00",
+   "fetched_at": "2026-10-13T11:37:13+09:00",
    "repeat_ratio": 0.0
   },
   "markets": {
@@ -79,7 +79,7 @@
    "count": 5,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-12T09:37:51+09:00",
+   "fetched_at": "2026-10-13T11:37:14+09:00",
    "repeat_ratio": 1.0
   },
   "crypto": {
@@ -87,44 +87,43 @@
    "count": 10,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-12T09:37:55+09:00",
+   "fetched_at": "2026-10-13T11:37:18+09:00",
    "repeat_ratio": 1.0
   },
   "realestate": {
    "level": "warn",
-   "count": 26,
+   "count": 24,
    "warn": [
-    "LH·온비드 공공데이터 API: 키 없음(DATA_GO_KR_KEY) — 뉴스·바로가기만",
-    "어제와 동일 35%"
+    "LH·온비드 공공데이터 API: 키 없음(DATA_GO_KR_KEY) — 뉴스·바로가기만"
    ],
    "block": [],
-   "fetched_at": "2026-10-12T09:38:00+09:00",
-   "repeat_ratio": 0.346
+   "fetched_at": "2026-10-13T11:37:23+09:00",
+   "repeat_ratio": 0.125
   },
   "it": {
    "level": "ok",
    "count": 60,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-12T09:38:03+09:00",
+   "fetched_at": "2026-10-13T11:37:26+09:00",
    "repeat_ratio": 0.0
   },
   "auto": {
    "level": "warn",
    "count": 60,
    "warn": [
-    "어제와 동일 90%"
+    "어제와 동일 58%"
    ],
    "block": [],
-   "fetched_at": "2026-10-12T09:38:07+09:00",
-   "repeat_ratio": 0.9
+   "fetched_at": "2026-10-13T11:37:31+09:00",
+   "repeat_ratio": 0.583
   },
   "publicdata": {
    "level": "ok",
    "count": 8,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-12T09:38:13+09:00",
+   "fetched_at": "2026-10-13T11:37:33+09:00",
    "repeat_ratio": 1.0
   },
   "leisure": {
@@ -132,52 +131,52 @@
    "count": 30,
    "warn": [
     "고캠핑 API: 키 없음(DATA_GO_KR_KEY)",
-    "어제와 동일 70%"
+    "어제와 동일 43%"
    ],
    "block": [],
-   "fetched_at": "2026-10-12T09:38:16+09:00",
-   "repeat_ratio": 0.7
+   "fetched_at": "2026-10-13T11:37:36+09:00",
+   "repeat_ratio": 0.433
   }
  },
  "must_know": [
   {
    "module": "news",
    "item_ids": [
-    "28b6c4c5a8d8f323"
+    "ad32ec084acabc3f"
    ],
-   "title": "[속보] 합참 “북한, 동해로 미상 발사체 발사”",
-   "url": "https://www.hani.co.kr/arti/politics/defense/1281882.html",
-   "why": "매체 4곳",
-   "score": 13
+   "title": "코스피, 매도 사이드카 발동…6,000선 위협 - 연합뉴스TV",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93WUFUWEZsaVpnZTJNZ3JQdDJFY21EV1RTM0VKUXFMZVlEZHNUUExzLVhRR0NNTjdmWE1TTHhmdndyenpPX3hfUG1CMVQ5SUhOR2JBZE1KSC1OUDJGU0FSSG9NWmIzTEk?oc=5",
+   "why": "매체 1곳 · AI·IT·경제",
+   "score": 10
   },
   {
    "module": "news",
    "item_ids": [
-    "b5347876c06eeb42"
+    "cd6b67c581add6f3"
    ],
-   "title": "10월1∼10일 수출 261억달러 ‘역대 최대’…반도체 170.9%↑",
-   "url": "https://www.hani.co.kr/arti/economy/economy_general/1281880.html",
-   "why": "매체 2곳 · IT·경제·신기술",
-   "score": 13
-  },
-  {
-   "module": "news",
-   "item_ids": [
-    "2b9133730820072a"
-   ],
-   "title": "반도체 업고 이달초 수출 261억달러…2배로 뛰며 역대 최대(종합)",
-   "url": "https://www.yna.co.kr/view/AKR20261012028651002",
+   "title": "[속보]IMF, 한국 올해 성장률 ‘3.3%’까지 올려···석 달 만에 0.7%P 다시 상향",
+   "url": "https://www.khan.co.kr/article/202610131103001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
    "why": "매체 1곳 · IT·경제·신기술",
    "score": 10
   },
   {
    "module": "news",
    "item_ids": [
-    "87524d10e85bea02"
+    "08c16ec8194890c4"
    ],
-   "title": "AI가 쏟아낸 722편 논문에 세계 수학계 ‘혼돈’",
-   "url": "https://www.hani.co.kr/arti/science/science_general/1281883.html",
-   "why": "매체 1곳 · AI·IT",
+   "title": "한국광고주협회, ‘2026 한국광고주대회’ 22일 조선호텔서 개최",
+   "url": "https://www.mk.co.kr/news/society/12174310",
+   "why": "매체 1곳 · AI·IT·경제",
+   "score": 10
+  },
+  {
+   "module": "news",
+   "item_ids": [
+    "250098235268f3d5"
+   ],
+   "title": "IMF, 한국 성장률 2.6%→3.3% 상향…“반도체가 성장 견인”",
+   "url": "https://www.hani.co.kr/arti/economy/economy_general/1282096.html",
+   "why": "매체 1곳 · IT·신기술",
    "score": 8
   },
   {
@@ -185,9 +184,9 @@
    "item_ids": [
     "f6b18db9a4f56551"
    ],
-   "title": "Zcash (ZEC) ₩1,718,846",
+   "title": "Zcash (ZEC) ₩1,597,227",
    "url": "https://www.coingecko.com/en/coins/zcash",
-   "why": "큰 변동 · 24시간 +5.12% · 7일 -5.46% · 시총 10위 · 이슈: 스타크넷(STRK), 주간 105% 질주...비트 코인 횡보장에 '잭팟'",
+   "why": "큰 변동 · 24시간 -6.38% · 7일 -11.96% · 시총 10위 · 이슈: Zcash 1시간 새 3.59% 하락해 1195달러 기록",
    "score": 0
   }
  ],
