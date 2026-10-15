@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-15T08:58:33+09:00",
- "date": "2026-10-15",
+ "built_at": "2026-10-16T08:43:42+09:00",
+ "date": "2026-10-16",
  "site": {
   "title": "모닝브리프",
   "locations": [
@@ -55,7 +55,7 @@
    "count": 7,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-15T08:58:07+09:00",
+   "fetched_at": "2026-10-16T08:43:10+09:00",
    "repeat_ratio": 0.857
   },
   "fx": {
@@ -63,7 +63,7 @@
    "count": 3,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-15T08:58:07+09:00",
+   "fetched_at": "2026-10-16T08:43:11+09:00",
    "repeat_ratio": 1.0
   },
   "news": {
@@ -71,7 +71,7 @@
    "count": 135,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-15T08:58:14+09:00",
+   "fetched_at": "2026-10-16T08:43:21+09:00",
    "repeat_ratio": 0.0
   },
   "markets": {
@@ -79,7 +79,7 @@
    "count": 5,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-15T08:58:15+09:00",
+   "fetched_at": "2026-10-16T08:43:22+09:00",
    "repeat_ratio": 1.0
   },
   "crypto": {
@@ -87,43 +87,43 @@
    "count": 10,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-15T08:58:18+09:00",
+   "fetched_at": "2026-10-16T08:43:26+09:00",
    "repeat_ratio": 1.0
   },
   "realestate": {
    "level": "warn",
-   "count": 29,
+   "count": 25,
    "warn": [
     "LH·온비드 공공데이터 API: 키 없음(DATA_GO_KR_KEY) — 뉴스·바로가기만"
    ],
    "block": [],
-   "fetched_at": "2026-10-15T08:58:22+09:00",
-   "repeat_ratio": 0.138
+   "fetched_at": "2026-10-16T08:43:30+09:00",
+   "repeat_ratio": 0.2
   },
   "it": {
    "level": "ok",
    "count": 60,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-15T08:58:25+09:00",
+   "fetched_at": "2026-10-16T08:43:33+09:00",
    "repeat_ratio": 0.0
   },
   "auto": {
    "level": "warn",
    "count": 60,
    "warn": [
-    "어제와 동일 80%"
+    "어제와 동일 75%"
    ],
    "block": [],
-   "fetched_at": "2026-10-15T08:58:28+09:00",
-   "repeat_ratio": 0.8
+   "fetched_at": "2026-10-16T08:43:37+09:00",
+   "repeat_ratio": 0.75
   },
   "publicdata": {
    "level": "ok",
    "count": 8,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-15T08:58:30+09:00",
+   "fetched_at": "2026-10-16T08:43:39+09:00",
    "repeat_ratio": 1.0
   },
   "leisure": {
@@ -131,52 +131,52 @@
    "count": 30,
    "warn": [
     "고캠핑 API: 키 없음(DATA_GO_KR_KEY)",
-    "어제와 동일 60%"
+    "어제와 동일 80%"
    ],
    "block": [],
-   "fetched_at": "2026-10-15T08:58:33+09:00",
-   "repeat_ratio": 0.6
+   "fetched_at": "2026-10-16T08:43:42+09:00",
+   "repeat_ratio": 0.8
   }
  },
  "must_know": [
   {
    "module": "news",
    "item_ids": [
-    "32ed01be9162029d"
+    "538c324bca390f5e"
    ],
-   "title": "AI 멈추면 경기침체가 온다...CPI 높았는데 장기금리 떨어진 이유",
-   "url": "https://www.mk.co.kr/news/business/12176388",
+   "title": "AI·반도체주 4일간 시총 1조달러 증발…중국발 충격 한국에 집중되나",
+   "url": "https://www.khan.co.kr/article/202610160806001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
    "why": "매체 1곳 · AI·IT·경제",
    "score": 10
   },
   {
    "module": "news",
    "item_ids": [
-    "459347f31103bf73"
+    "e9f22e06c3adfba3"
    ],
-   "title": "화웨이의 반도체 굴기…'로직폴딩'으로 EUV 벽 넘는다",
-   "url": "https://www.hankyung.com/article/202610141879i",
-   "why": "매체 1곳 · IT·신기술",
+   "title": "‘검은 목요일’ 맞은 증시...코스피·코스닥, 7%대 동반 폭락 - 한겨레",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9NZmJ5SWQ0QnRzOFJDSGNmajZ6ZFhoc3o1eGwwZFlWUzdrdGRMUEprM1ItV09LZzFBZUNJdDhZYTJtTGE4YkVGOGR5bUFoUTdJb3JRa1lyVnRwenNaQ3BOMC1PSFpZd0ZaMy1hVDhJc0w2Zw?oc=5",
+   "why": "매체 1곳 · 경제·부동산",
    "score": 8
   },
   {
    "module": "news",
    "item_ids": [
-    "8021700115987653"
+    "c2076bb709894f9b"
    ],
-   "title": "한화 건설부문, AI 이용한 현장 위험 요인 신고 시스템 구축",
-   "url": "https://www.chosun.com/economy/real_estate/2026/10/15/GJSDEMBUMZRDOMZQGYZWKYJYGI/",
-   "why": "매체 1곳 · AI·IT",
+   "title": "애플 CEO, 중국산 반도체 사용 시사…“메모리 제약 절대적 위기”",
+   "url": "https://www.khan.co.kr/article/202610160719001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "why": "매체 1곳 · IT·국제·신기술",
    "score": 8
   },
   {
    "module": "news",
    "item_ids": [
-    "d5e780c09e30bb72"
+    "ccc8a031f99afadb"
    ],
-   "title": "믿었던 ‘삼전닉스’에 발목 잡혀...반도체 ETF 줄줄이 수익률 바닥",
-   "url": "https://www.chosun.com/economy/money/2026/10/15/XNRFKIXXL5HFPMRQB35ZOFGCCI/",
-   "why": "매체 1곳 · IT·신기술",
+   "title": "\"AI 슈퍼사이클 끝났나\"…반도체 시총 나흘 만에 1조달러 증발",
+   "url": "https://www.hankyung.com/article/2026101653047",
+   "why": "매체 1곳 · AI·IT·신기술",
    "score": 8
   },
   {
@@ -184,9 +184,9 @@
    "item_ids": [
     "f6b18db9a4f56551"
    ],
-   "title": "Zcash (ZEC) ₩1,533,572",
+   "title": "Zcash (ZEC) ₩1,635,755",
    "url": "https://www.coingecko.com/en/coins/zcash",
-   "why": "큰 변동 · 24시간 -6.06% · 7일 -13.17% · 시총 10위 · 이슈: 알트 코인 , 제조업 지표와 함께 깨어난다?...\"2021년보다 더 큰 ",
+   "why": "큰 변동 · 24시간 +6.79% · 7일 +3.53% · 시총 10위 · 이슈: XRP, ETF는 사는데 고래는 거래소... 힘 겨루기 승자는?",
    "score": 0
   }
  ],
