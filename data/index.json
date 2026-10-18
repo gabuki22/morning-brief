@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-18T08:12:34+09:00",
- "date": "2026-10-18",
+ "built_at": "2026-10-19T08:21:52+09:00",
+ "date": "2026-10-19",
  "site": {
   "title": "모닝브리프",
   "locations": [
@@ -55,7 +55,7 @@
    "count": 7,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-18T08:12:08+09:00",
+   "fetched_at": "2026-10-19T08:21:20+09:00",
    "repeat_ratio": 0.857
   },
   "fx": {
@@ -63,7 +63,7 @@
    "count": 3,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-18T08:12:08+09:00",
+   "fetched_at": "2026-10-19T08:21:20+09:00",
    "repeat_ratio": 1.0
   },
   "news": {
@@ -71,15 +71,15 @@
    "count": 135,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-18T08:12:15+09:00",
-   "repeat_ratio": 0.03
+   "fetched_at": "2026-10-19T08:21:31+09:00",
+   "repeat_ratio": 0.015
   },
   "markets": {
    "level": "ok",
    "count": 5,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-18T08:12:15+09:00",
+   "fetched_at": "2026-10-19T08:21:32+09:00",
    "repeat_ratio": 1.0
   },
   "crypto": {
@@ -87,44 +87,44 @@
    "count": 10,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-18T08:12:19+09:00",
+   "fetched_at": "2026-10-19T08:21:36+09:00",
    "repeat_ratio": 1.0
   },
   "realestate": {
    "level": "warn",
-   "count": 31,
+   "count": 35,
    "warn": [
     "LH·온비드 공공데이터 API: 키 없음(DATA_GO_KR_KEY) — 뉴스·바로가기만",
-    "어제와 동일 61%"
+    "어제와 동일 31%"
    ],
    "block": [],
-   "fetched_at": "2026-10-18T08:12:24+09:00",
-   "repeat_ratio": 0.613
+   "fetched_at": "2026-10-19T08:21:41+09:00",
+   "repeat_ratio": 0.314
   },
   "it": {
    "level": "ok",
    "count": 60,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-18T08:12:26+09:00",
-   "repeat_ratio": 0.183
+   "fetched_at": "2026-10-19T08:21:44+09:00",
+   "repeat_ratio": 0.0
   },
   "auto": {
    "level": "warn",
    "count": 60,
    "warn": [
-    "어제와 동일 100%"
+    "어제와 동일 87%"
    ],
    "block": [],
-   "fetched_at": "2026-10-18T08:12:29+09:00",
-   "repeat_ratio": 1.0
+   "fetched_at": "2026-10-19T08:21:48+09:00",
+   "repeat_ratio": 0.867
   },
   "publicdata": {
    "level": "ok",
    "count": 8,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-18T08:12:31+09:00",
+   "fetched_at": "2026-10-19T08:21:49+09:00",
    "repeat_ratio": 1.0
   },
   "leisure": {
@@ -132,63 +132,63 @@
    "count": 30,
    "warn": [
     "고캠핑 API: 키 없음(DATA_GO_KR_KEY)",
-    "어제와 동일 80%"
+    "어제와 동일 73%"
    ],
    "block": [],
-   "fetched_at": "2026-10-18T08:12:34+09:00",
-   "repeat_ratio": 0.8
+   "fetched_at": "2026-10-19T08:21:52+09:00",
+   "repeat_ratio": 0.733
   }
  },
  "must_know": [
   {
    "module": "news",
    "item_ids": [
-    "271f883585dd6115"
+    "dbc0c0111a738432"
    ],
-   "title": "빚투 3천억 강제청산…\"증시 무너져도 정부 '예의 주시' 말뿐\" [분석+] - 한국경제",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fVlUtcUVRS2dpb2Y5eUtnZndkQmlHM2FHWk1wNjlzTHBWT1RpbUF2R1g2SjQzNDgteExPSzU4SEdLNXl3c0FxdlFNcTN2UmRVMmZoTHExVFZOQQ?oc=5",
-   "why": "매체 1곳 · AI·IT·경제",
-   "score": 10
-  },
-  {
-   "module": "news",
-   "item_ids": [
-    "03d1b073c8262af5"
-   ],
-   "title": "북, 신형 초고속 정밀유도 어뢰 발사시험…\"인공지능 도입\"",
-   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008801943",
+   "title": "AI 시대, 사람이 사람을 더 잘 돌보려면?",
+   "url": "https://www.hani.co.kr/arti/economy/it/1282981.html",
    "why": "매체 1곳 · AI·IT",
    "score": 8
   },
   {
    "module": "news",
    "item_ids": [
-    "f6a175c74b656e99"
+    "4196e08d7a9de408"
    ],
-   "title": "[경제뭔데]분기에 100조 버는데 외국인은 왜 삼전닉스를 파는 걸까",
-   "url": "https://www.khan.co.kr/article/202610180600011/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-   "why": "매체 1곳 · IT·경제",
+   "title": "AI로 환생한 DJ에게 조언을 구한다면… [두런두런 AI ㉕]",
+   "url": "https://www.hani.co.kr/arti/economy/it/1282977.html",
+   "why": "매체 1곳 · AI·IT",
    "score": 8
   },
   {
    "module": "news",
    "item_ids": [
-    "9ec43ad5b44792b4"
+    "6a4b0ef2a04286c5"
    ],
-   "title": "민주, 부천 화재 순직 소방관 애도…\"처우 개선 지원 힘쓸 것\"",
-   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008802126",
-   "why": "매체 2곳 · 사회",
-   "score": 7
+   "title": "K-반도체 미래 이끌 인재 양성… 한국반도체마이스터고, 2027학년도 신입생 모집",
+   "url": "https://www.mk.co.kr/news/society/12179159",
+   "why": "매체 1곳 · IT·신기술",
+   "score": 8
   },
   {
    "module": "news",
    "item_ids": [
-    "3212453a1294632b"
+    "5a9259d8eff55eb8"
    ],
-   "title": "유치원 급식 색감 내려고 물감 섞어…중국, 책임자에 무기징역 선고 - 한겨레",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1oRDNPMzZkNk1CRF9aNXBla2xIYlFvUVlKVm9RbFVmcWt1MlY4T3IxYV9FbVJBRUdtX3VLUVR4dHRPby1xRzdyVGNuX2s3aGE0LUE0aC1GbEZER1dUbDZuZWtpYw?oc=5",
-   "why": "매체 2곳 · 국제",
+   "title": "김민석, 추미애 설화에 “국민 마음 풀릴 때까지 노력해야”",
+   "url": "https://www.khan.co.kr/article/202610190742001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "why": "매체 2곳",
    "score": 7
+  },
+  {
+   "module": "crypto",
+   "item_ids": [
+    "f468bf6a4153c2a9"
+   ],
+   "title": "Figure Heloc (FIGR_HELOC) ₩1,435",
+   "url": "https://www.coingecko.com/en/coins/figure-heloc",
+   "why": "큰 변동 · 24시간 +5.10% · 7일 +0.95% · 시총 9위 · 이슈: 어떤 코인 이 살아남는가",
+   "score": 0
   }
  ],
  "banned_hits": 0
