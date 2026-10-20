@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-19T08:21:52+09:00",
- "date": "2026-10-19",
+ "built_at": "2026-10-20T09:26:46+09:00",
+ "date": "2026-10-20",
  "site": {
   "title": "모닝브리프",
   "locations": [
@@ -55,7 +55,7 @@
    "count": 7,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-19T08:21:20+09:00",
+   "fetched_at": "2026-10-20T09:26:09+09:00",
    "repeat_ratio": 0.857
   },
   "fx": {
@@ -63,7 +63,7 @@
    "count": 3,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-19T08:21:20+09:00",
+   "fetched_at": "2026-10-20T09:26:10+09:00",
    "repeat_ratio": 1.0
   },
   "news": {
@@ -71,15 +71,15 @@
    "count": 135,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-19T08:21:31+09:00",
-   "repeat_ratio": 0.015
+   "fetched_at": "2026-10-20T09:26:17+09:00",
+   "repeat_ratio": 0.0
   },
   "markets": {
    "level": "ok",
    "count": 5,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-19T08:21:32+09:00",
+   "fetched_at": "2026-10-20T09:26:17+09:00",
    "repeat_ratio": 1.0
   },
   "crypto": {
@@ -87,44 +87,46 @@
    "count": 10,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-19T08:21:36+09:00",
+   "fetched_at": "2026-10-20T09:26:20+09:00",
    "repeat_ratio": 1.0
   },
   "realestate": {
    "level": "warn",
-   "count": 35,
+   "count": 20,
    "warn": [
     "LH·온비드 공공데이터 API: 키 없음(DATA_GO_KR_KEY) — 뉴스·바로가기만",
-    "어제와 동일 31%"
+    "어제와 동일 25%"
    ],
    "block": [],
-   "fetched_at": "2026-10-19T08:21:41+09:00",
-   "repeat_ratio": 0.314
+   "fetched_at": "2026-10-20T09:26:25+09:00",
+   "repeat_ratio": 0.25
   },
   "it": {
    "level": "ok",
    "count": 60,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-19T08:21:44+09:00",
+   "fetched_at": "2026-10-20T09:26:27+09:00",
    "repeat_ratio": 0.0
   },
   "auto": {
    "level": "warn",
    "count": 60,
    "warn": [
-    "어제와 동일 87%"
+    "어제와 동일 58%"
    ],
    "block": [],
-   "fetched_at": "2026-10-19T08:21:48+09:00",
-   "repeat_ratio": 0.867
+   "fetched_at": "2026-10-20T09:26:30+09:00",
+   "repeat_ratio": 0.583
   },
   "publicdata": {
-   "level": "ok",
+   "level": "warn",
    "count": 8,
-   "warn": [],
+   "warn": [
+    "USGS (지진) 실패"
+   ],
    "block": [],
-   "fetched_at": "2026-10-19T08:21:49+09:00",
+   "fetched_at": "2026-10-20T09:26:44+09:00",
    "repeat_ratio": 1.0
   },
   "leisure": {
@@ -132,63 +134,63 @@
    "count": 30,
    "warn": [
     "고캠핑 API: 키 없음(DATA_GO_KR_KEY)",
-    "어제와 동일 73%"
+    "어제와 동일 63%"
    ],
    "block": [],
-   "fetched_at": "2026-10-19T08:21:52+09:00",
-   "repeat_ratio": 0.733
+   "fetched_at": "2026-10-20T09:26:46+09:00",
+   "repeat_ratio": 0.633
   }
  },
  "must_know": [
   {
    "module": "news",
    "item_ids": [
-    "dbc0c0111a738432"
+    "9d97723aad9401b7"
    ],
-   "title": "AI 시대, 사람이 사람을 더 잘 돌보려면?",
-   "url": "https://www.hani.co.kr/arti/economy/it/1282981.html",
-   "why": "매체 1곳 · AI·IT",
-   "score": 8
+   "title": "[기고]테슬라 로드스터가 묻는 디지털전환 2.0: AI와 함께 핵심가치를 만들 수 있는가",
+   "url": "https://www.donga.com/news/It/article/all/20261020/134872037/1",
+   "why": "매체 1곳 · AI·IT·경제",
+   "score": 11
   },
   {
    "module": "news",
    "item_ids": [
-    "4196e08d7a9de408"
+    "c608c01bf4063ebd"
    ],
-   "title": "AI로 환생한 DJ에게 조언을 구한다면… [두런두런 AI ㉕]",
-   "url": "https://www.hani.co.kr/arti/economy/it/1282977.html",
-   "why": "매체 1곳 · AI·IT",
-   "score": 8
+   "title": "“양자컴퓨터, 혁신적인 기술 잠재력에도 투자는 신중해야”",
+   "url": "https://www.chosun.com/economy/money/2026/10/20/3NWOVKAMQZBGVME6FURL4DDVYE/",
+   "why": "매체 1곳 · AI·IT·경제",
+   "score": 10
   },
   {
    "module": "news",
    "item_ids": [
-    "6a4b0ef2a04286c5"
+    "f47761c55f09280e"
    ],
-   "title": "K-반도체 미래 이끌 인재 양성… 한국반도체마이스터고, 2027학년도 신입생 모집",
-   "url": "https://www.mk.co.kr/news/society/12179159",
+   "title": "기술주 반등에 나스닥 1%↑···필라델피아 반도체 9거래일만에 상승마감",
+   "url": "https://www.khan.co.kr/article/202610200723001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
    "why": "매체 1곳 · IT·신기술",
    "score": 8
   },
   {
    "module": "news",
    "item_ids": [
-    "5a9259d8eff55eb8"
+    "1ff21aba02a99b5c"
    ],
-   "title": "김민석, 추미애 설화에 “국민 마음 풀릴 때까지 노력해야”",
-   "url": "https://www.khan.co.kr/article/202610190742001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-   "why": "매체 2곳",
+   "title": "트럼프, ‘11월 김정은 회담’ 질문에 “모르겠다, 요청 확실치 않아”",
+   "url": "https://www.hani.co.kr/arti/international/america/1283167.html",
+   "why": "매체 2곳 · 국제",
    "score": 7
   },
   {
-   "module": "crypto",
+   "module": "news",
    "item_ids": [
-    "f468bf6a4153c2a9"
+    "d4ef8174baf15fe5"
    ],
-   "title": "Figure Heloc (FIGR_HELOC) ₩1,435",
-   "url": "https://www.coingecko.com/en/coins/figure-heloc",
-   "why": "큰 변동 · 24시간 +5.10% · 7일 +0.95% · 시총 9위 · 이슈: 어떤 코인 이 살아남는가",
-   "score": 0
+   "title": "‘재정 빨대’ 발언 뒤에 가려진 소방 국가직화···소방관들 “이제는 진짜 바꿔야” - 경향신문",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUYmVCNmhFYmM1Rm4xSGZjSmFZUHhIVTNveEFNU0Zwbm1rd1RxaXpLSUFsQTRKSFc4cFVveWVhdnhSUlA5OVF1SmRIVUVXWVNwclA4U002b2hMd9IBX0FVX3lxTE9fWmJBcUVDcDZLYUtrSmt3a0N5bFl0cW1OdU5WQTF3bGplX2N2Q21PRWlRaHVGUS11UVBVY0hhRlF5YldYeWtZb0lvS1FzZnZwQ3B4bmFUVmI1cjdHS1A0?oc=5",
+   "why": "매체 1곳 · 경제",
+   "score": 6
   }
  ],
  "banned_hits": 0
