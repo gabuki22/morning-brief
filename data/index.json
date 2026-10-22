@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-21T08:58:53+09:00",
- "date": "2026-10-21",
+ "built_at": "2026-10-22T09:03:24+09:00",
+ "date": "2026-10-22",
  "site": {
   "title": "모닝브리프",
   "locations": [
@@ -55,7 +55,7 @@
    "count": 7,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-21T08:57:22+09:00",
+   "fetched_at": "2026-10-22T09:02:47+09:00",
    "repeat_ratio": 0.857
   },
   "fx": {
@@ -63,7 +63,7 @@
    "count": 3,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-21T08:57:23+09:00",
+   "fetched_at": "2026-10-22T09:02:48+09:00",
    "repeat_ratio": 1.0
   },
   "news": {
@@ -71,7 +71,7 @@
    "count": 135,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-21T08:57:30+09:00",
+   "fetched_at": "2026-10-22T09:02:57+09:00",
    "repeat_ratio": 0.0
   },
   "markets": {
@@ -79,7 +79,7 @@
    "count": 5,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-21T08:57:31+09:00",
+   "fetched_at": "2026-10-22T09:02:57+09:00",
    "repeat_ratio": 1.0
   },
   "crypto": {
@@ -87,45 +87,43 @@
    "count": 10,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-21T08:57:35+09:00",
+   "fetched_at": "2026-10-22T09:03:02+09:00",
    "repeat_ratio": 1.0
   },
   "realestate": {
    "level": "warn",
-   "count": 32,
+   "count": 23,
    "warn": [
     "LH·온비드 공공데이터 API: 키 없음(DATA_GO_KR_KEY) — 뉴스·바로가기만"
    ],
    "block": [],
-   "fetched_at": "2026-10-21T08:57:39+09:00",
-   "repeat_ratio": 0.094
+   "fetched_at": "2026-10-22T09:03:06+09:00",
+   "repeat_ratio": 0.13
   },
   "it": {
-   "level": "warn",
+   "level": "ok",
    "count": 60,
-   "warn": [
-    "전자신문 실패: URLError"
-   ],
+   "warn": [],
    "block": [],
-   "fetched_at": "2026-10-21T08:58:42+09:00",
+   "fetched_at": "2026-10-22T09:03:09+09:00",
    "repeat_ratio": 0.0
   },
   "auto": {
    "level": "warn",
    "count": 60,
    "warn": [
-    "어제와 동일 68%"
+    "어제와 동일 70%"
    ],
    "block": [],
-   "fetched_at": "2026-10-21T08:58:47+09:00",
-   "repeat_ratio": 0.683
+   "fetched_at": "2026-10-22T09:03:12+09:00",
+   "repeat_ratio": 0.7
   },
   "publicdata": {
    "level": "ok",
    "count": 8,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-21T08:58:49+09:00",
+   "fetched_at": "2026-10-22T09:03:22+09:00",
    "repeat_ratio": 1.0
   },
   "leisure": {
@@ -133,63 +131,63 @@
    "count": 30,
    "warn": [
     "고캠핑 API: 키 없음(DATA_GO_KR_KEY)",
-    "어제와 동일 43%"
+    "어제와 동일 80%"
    ],
    "block": [],
-   "fetched_at": "2026-10-21T08:58:53+09:00",
-   "repeat_ratio": 0.433
+   "fetched_at": "2026-10-22T09:03:24+09:00",
+   "repeat_ratio": 0.8
   }
  },
  "must_know": [
   {
    "module": "news",
    "item_ids": [
-    "86f4f69697b27524"
+    "f4027044e90529c4"
    ],
-   "title": "21일 낮부터 찬 바람에 기온 뚝···전국 곳곳 비",
-   "url": "https://www.khan.co.kr/article/202610210746001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "title": "[속보] 김여정 “전국경선 새 대응수단 임무대기…확성기도 수일내 대기” - 매일경제",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lVS1qUHUyVTYxdUEzN0dHd3BKM1VvdlFSWEw0R0xTQTZ3WS1TUkR0VWZVZl9YUVpXdDgwdm5DVVJHaWJMTFl4UmYyOGtYeUxFYzJiRmFn?oc=5",
    "why": "매체 2곳 · 경제",
    "score": 9
   },
   {
    "module": "news",
    "item_ids": [
-    "23b30e033b5ac72c"
+    "c025feba8bf90287"
    ],
-   "title": "뉴욕증시, 실적 호조·유가 하락에 투자심리 개선‥다우 1%↑ - MBC 뉴스",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4zenN3cFNmQzdwVFVfQTBiTGgxS2t5b2tURFZuSS1TbFMwaVVkN195cG4wS0s1YW9uOVc4cmprTDAycjNnT09Rc1UwVXo5X2JGWlNDQkE2UlhiVjJVa05tQXRVS3hUblYteEM4RmR0UzE0TFNB0gF0QVVfeXFMTnljdWhmeVRiZ2NxQ085VW1IMlBIM0VzQ09sYjRMZm5tdm9jNVhLS191X0FhLThZZmY4SVhJcVgxdTJfQTVBV1Q5NVQyWC16cnQ5VUowbjBqYVV3UVJkUjFPbzA4LUREdjlLRmlRU3dRczJ5dng?oc=5",
+   "title": "IBK證, 기업은행 연계 계좌개설 이벤트 실시…선착순 주식 증정",
+   "url": "https://www.hankyung.com/article/2026102275996",
+   "why": "매체 2곳 · IT",
+   "score": 9
+  },
+  {
+   "module": "news",
+   "item_ids": [
+    "7d685bf1d206862b"
+   ],
+   "title": "테슬라, 3분기 매출 37조…시장 예상치 웃돌아",
+   "url": "https://www.khan.co.kr/article/202610220742001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "why": "매체 2곳 · 국제·자동차",
+   "score": 8
+  },
+  {
+   "module": "news",
+   "item_ids": [
+    "595657d43c2c77b5"
+   ],
+   "title": "김승섭 교수 “편향적 ‘인류 학습’…AI 교정은 불가능”",
+   "url": "https://www.hani.co.kr/arti/society/society_general/1283568.html",
    "why": "매체 1곳 · AI·IT",
    "score": 8
   },
   {
    "module": "news",
    "item_ids": [
-    "cb41118b1cd1ff84"
+    "a8302d5cfc22cc9c"
    ],
-   "title": "\"오늘도 내 계좌 녹겠네\"…美 반도체주 하루 만에 또 약세 전환",
-   "url": "https://www.hankyung.com/article/2026102146806",
-   "why": "매체 1곳 · IT·신기술",
-   "score": 8
-  },
-  {
-   "module": "news",
-   "item_ids": [
-    "8d99a1191434a9a2"
-   ],
-   "title": "한투證 “카카오, 3분기 실적 부진 전망… AI 수익화 전략부터 보여줘야”",
-   "url": "https://www.chosun.com/economy/stock-finance/2026/10/21/GVSTMZBQMYYTINTEMM2TENJTGQ/",
+   "title": "한국 질병·우울 긍정으로 포장…AI ‘위험한 환각’",
+   "url": "https://www.hani.co.kr/arti/society/society_general/1283564.html",
    "why": "매체 1곳 · AI·IT",
    "score": 8
-  },
-  {
-   "module": "crypto",
-   "item_ids": [
-    "f6b18db9a4f56551"
-   ],
-   "title": "Zcash (ZEC) ₩1,664,929",
-   "url": "https://www.coingecko.com/en/coins/zcash",
-   "why": "큰 변동 · 24시간 +8.61% · 7일 +3.70% · 시총 10위 · 이슈: ETF 5억달러 몰렸는데...비트 코인 (BTC), 8만 3,000딜러서",
-   "score": 0
   }
  ],
  "banned_hits": 0
