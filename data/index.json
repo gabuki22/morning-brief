@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-23T09:02:51+09:00",
- "date": "2026-10-23",
+ "built_at": "2026-10-24T08:53:13+09:00",
+ "date": "2026-10-24",
  "site": {
   "title": "모닝브리프",
   "locations": [
@@ -55,7 +55,7 @@
    "count": 7,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-23T09:01:05+09:00",
+   "fetched_at": "2026-10-24T08:52:47+09:00",
    "repeat_ratio": 0.857
   },
   "fx": {
@@ -63,7 +63,7 @@
    "count": 3,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-23T09:01:33+09:00",
+   "fetched_at": "2026-10-24T08:52:48+09:00",
    "repeat_ratio": 1.0
   },
   "news": {
@@ -71,7 +71,7 @@
    "count": 135,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-23T09:02:28+09:00",
+   "fetched_at": "2026-10-24T08:52:55+09:00",
    "repeat_ratio": 0.0
   },
   "markets": {
@@ -79,7 +79,7 @@
    "count": 5,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-23T09:02:29+09:00",
+   "fetched_at": "2026-10-24T08:52:55+09:00",
    "repeat_ratio": 1.0
   },
   "crypto": {
@@ -87,43 +87,44 @@
    "count": 10,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-23T09:02:33+09:00",
+   "fetched_at": "2026-10-24T08:52:58+09:00",
    "repeat_ratio": 1.0
   },
   "realestate": {
    "level": "warn",
-   "count": 38,
+   "count": 32,
    "warn": [
-    "LH·온비드 공공데이터 API: 키 없음(DATA_GO_KR_KEY) — 뉴스·바로가기만"
+    "LH·온비드 공공데이터 API: 키 없음(DATA_GO_KR_KEY) — 뉴스·바로가기만",
+    "어제와 동일 38%"
    ],
    "block": [],
-   "fetched_at": "2026-10-23T09:02:39+09:00",
-   "repeat_ratio": 0.079
+   "fetched_at": "2026-10-24T08:53:02+09:00",
+   "repeat_ratio": 0.375
   },
   "it": {
    "level": "ok",
    "count": 60,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-23T09:02:42+09:00",
+   "fetched_at": "2026-10-24T08:53:05+09:00",
    "repeat_ratio": 0.0
   },
   "auto": {
    "level": "warn",
    "count": 60,
    "warn": [
-    "어제와 동일 62%"
+    "어제와 동일 77%"
    ],
    "block": [],
-   "fetched_at": "2026-10-23T09:02:47+09:00",
-   "repeat_ratio": 0.617
+   "fetched_at": "2026-10-24T08:53:09+09:00",
+   "repeat_ratio": 0.767
   },
   "publicdata": {
    "level": "ok",
    "count": 8,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-23T09:02:47+09:00",
+   "fetched_at": "2026-10-24T08:53:10+09:00",
    "repeat_ratio": 1.0
   },
   "leisure": {
@@ -131,63 +132,63 @@
    "count": 30,
    "warn": [
     "고캠핑 API: 키 없음(DATA_GO_KR_KEY)",
-    "어제와 동일 53%"
+    "어제와 동일 67%"
    ],
    "block": [],
-   "fetched_at": "2026-10-23T09:02:51+09:00",
-   "repeat_ratio": 0.533
+   "fetched_at": "2026-10-24T08:53:13+09:00",
+   "repeat_ratio": 0.667
   }
  },
  "must_know": [
   {
    "module": "news",
    "item_ids": [
-    "7b51cbf33b64ffa6"
+    "5cf849175d7901b9"
    ],
-   "title": "경찰, 강서구 ‘친모 살해’ 40대 여성 구속영장 신청",
-   "url": "https://www.hani.co.kr/arti/society/society_general/1283782.html",
-   "why": "매체 3곳 · 사회",
+   "title": "뉴욕증시 하락 출발…“AI 관련 종목 매도세 이후 신중한 분위기” - KBS 뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NSl9QZ2hna21RZ2RRcDUxRjBrWUZFZ3lZeGdaeHlMZjluNHRSN2VXUkk0YTJncW1sR0UzY0I1RkVndzFvX0lqS2dvMWJuRGhHdGJVQzkteVFvcnc?oc=5",
+   "why": "매체 1곳 · AI·IT·경제",
    "score": 10
   },
   {
    "module": "news",
    "item_ids": [
-    "6bfde20696b8d2ea"
+    "2c8eb0f3f710a87a"
    ],
-   "title": "LH、AIフロンティア発足…イ社長「AIでパラダイム転換」",
-   "url": "https://www.chosun.com/jp/economy-jp/2026/10/23/OUBDOMWEY5CXTJS6Z3NHNH54ZA/",
-   "why": "매체 1곳 · AI·IT·부동산",
+   "title": "요즘 미국선 “아직도 AI 돈 안뺐어?”…대신 돈몰리는 ‘국밥’ 어디",
+   "url": "https://www.mk.co.kr/news/world/12184703",
+   "why": "매체 1곳 · AI·IT·경제",
    "score": 10
   },
   {
    "module": "news",
    "item_ids": [
-    "bc037f5344102f0a"
+    "741b4e978b957add"
    ],
-   "title": "LH, AI 프론티어 출범… 이성훈 사장 “신속 공급 위해 AI로 패러다임 바꿔야”",
-   "url": "https://www.chosun.com/economy/real_estate/2026/10/23/GRRTMYTBGBSDOOJYMUYWKYTBGI/",
-   "why": "매체 1곳 · AI·IT·부동산",
-   "score": 10
+   "title": "파리 명품매장에 합판 깔았다... 대규모 시위 앞두고 폭풍전야 - 조선일보",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSGs0WnVPN2FsTUhidFh3WGVPTGpEQkZUMXRsT25wYkF0d1FxdV9jMUk2aWlSRU5QMXBLSUx5UUYxMEVLQjVDZl8tZ2pSZ2pKbzJHVnliWTVyeGhHS1Z3WmJRYnlDaWx3RHZzMVE2ek8tMEhNMkhVX2xuUWdyNWp1N3lEQl9DRG5TYmlfYlNPLUVSVEpKc3ZFV3V1dGpmZw?oc=5",
+   "why": "매체 1곳 · 경제·국제·사회",
+   "score": 6
   },
   {
    "module": "news",
    "item_ids": [
-    "39003d888f9eaac1"
+    "beb09abb82728030"
    ],
-   "title": "8월 은행 대출 연체율 0.69%…10여년 만에 최고",
-   "url": "https://www.khan.co.kr/article/202610230735001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-   "why": "매체 2곳 · 경제",
-   "score": 9
+   "title": "제주 가까이 오나 안오나…태풍경로 놓고 '기상청 한일전' - 한국경제",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBOEh2TjlWSWJtN0x0R3EwWldzNHY3Mlk4dElsOWRndFhUUHZCU2h4UVZEU1g2WHp2bEpsTlR0NjczdmhYdkFDNm1fVjR2SFJKamlfT2x0QzlhZw?oc=5",
+   "why": "매체 1곳 · 경제",
+   "score": 6
   },
   {
-   "module": "crypto",
+   "module": "news",
    "item_ids": [
-    "f6b18db9a4f56551"
+    "b0c487b74559a5c9"
    ],
-   "title": "Zcash (ZEC) ₩1,615,300",
-   "url": "https://www.coingecko.com/en/coins/zcash",
-   "why": "큰 변동 · 24시간 -7.39% · 7일 -1.14% · 시총 10위 · 이슈: 비트 코인 (BTC), 8만 5,000달러 앞에서 좌절...시총 600억",
-   "score": 0
+   "title": "\"태국서만 月 1억씩 번다\"…전세계서 난리 난 한국 식당 [권용훈의 트렌드워치]",
+   "url": "https://www.hankyung.com/article/202610217150i",
+   "why": "매체 1곳 · 부동산",
+   "score": 6
   }
  ],
  "banned_hits": 0
