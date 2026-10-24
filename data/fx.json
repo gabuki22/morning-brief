@@ -1,6 +1,6 @@
 {
  "module": "fx",
- "fetched_at": "2026-10-24T08:52:48+09:00",
+ "fetched_at": "2026-10-25T08:22:05+09:00",
  "source": {
   "name": "Frankfurter (ECB 고시)",
   "url": "https://api.frankfurter.dev/v1",
@@ -12,7 +12,7 @@
    "title": "USD/KRW 1,324.45",
    "url": "https://www.google.com/finance/quote/USD-KRW",
    "published_at": "2026-10-23",
-   "summary": "전 영업일 대비 -0.01% · 30일 전 대비 -3.23% (ECB 2026-10-23 고시)",
+   "summary": "전 영업일 대비 -0.01% · 30일 전 대비 -2.26% (ECB 2026-10-23 고시)",
    "tags": [
     "환율",
     "KRW"
@@ -20,12 +20,8 @@
    "metrics": {
     "last": 1324.45,
     "chg_1d": -0.014,
-    "chg_period": -3.226,
+    "chg_period": -2.258,
     "series": [
-     [
-      "2026-09-24",
-      1368.6
-     ],
      [
       "2026-09-25",
       1355.05
@@ -113,14 +109,14 @@
     ]
    },
    "is_new": false,
-   "streak_days": 36
+   "streak_days": 37
   },
   {
    "id": "4444e6fab2b3cfce",
    "title": "USD/JPY 156.80",
    "url": "https://www.google.com/finance/quote/USD-JPY",
    "published_at": "2026-10-23",
-   "summary": "전 영업일 대비 -0.16% · 30일 전 대비 -1.29% (ECB 2026-10-23 고시)",
+   "summary": "전 영업일 대비 -0.16% · 30일 전 대비 -0.50% (ECB 2026-10-23 고시)",
    "tags": [
     "환율",
     "JPY"
@@ -128,12 +124,8 @@
    "metrics": {
     "last": 156.8,
     "chg_1d": -0.159,
-    "chg_period": -1.291,
+    "chg_period": -0.501,
     "series": [
-     [
-      "2026-09-24",
-      158.85
-     ],
      [
       "2026-09-25",
       157.59
@@ -221,14 +213,14 @@
     ]
    },
    "is_new": false,
-   "streak_days": 36
+   "streak_days": 37
   },
   {
    "id": "477047c498bfc860",
    "title": "USD/EUR 0.89",
    "url": "https://www.google.com/finance/quote/USD-EUR",
    "published_at": "2026-10-23",
-   "summary": "전 영업일 대비 +0.11% · 30일 전 대비 +1.56% (ECB 2026-10-23 고시)",
+   "summary": "전 영업일 대비 +0.11% · 30일 전 대비 +1.88% (ECB 2026-10-23 고시)",
    "tags": [
     "환율",
     "EUR"
@@ -236,12 +228,8 @@
    "metrics": {
     "last": 0.89342,
     "chg_1d": 0.108,
-    "chg_period": 1.555,
+    "chg_period": 1.877,
     "series": [
-     [
-      "2026-09-24",
-      0.87974
-     ],
      [
       "2026-09-25",
       0.87696
@@ -329,7 +317,7 @@
     ]
    },
    "is_new": false,
-   "streak_days": 36
+   "streak_days": 37
   }
  ],
  "status": {
