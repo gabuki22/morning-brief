@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-25T08:22:43+09:00",
- "date": "2026-10-25",
+ "built_at": "2026-10-26T08:21:11+09:00",
+ "date": "2026-10-26",
  "site": {
   "title": "모닝브리프",
   "locations": [
@@ -55,7 +55,7 @@
    "count": 7,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-25T08:22:05+09:00",
+   "fetched_at": "2026-10-26T08:20:37+09:00",
    "repeat_ratio": 0.857
   },
   "fx": {
@@ -63,7 +63,7 @@
    "count": 3,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-25T08:22:05+09:00",
+   "fetched_at": "2026-10-26T08:20:38+09:00",
    "repeat_ratio": 1.0
   },
   "news": {
@@ -71,7 +71,7 @@
    "count": 135,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-25T08:22:18+09:00",
+   "fetched_at": "2026-10-26T08:20:48+09:00",
    "repeat_ratio": 0.0
   },
   "markets": {
@@ -79,7 +79,7 @@
    "count": 5,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-25T08:22:19+09:00",
+   "fetched_at": "2026-10-26T08:20:49+09:00",
    "repeat_ratio": 1.0
   },
   "crypto": {
@@ -87,27 +87,27 @@
    "count": 10,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-25T08:22:23+09:00",
+   "fetched_at": "2026-10-26T08:20:52+09:00",
    "repeat_ratio": 1.0
   },
   "realestate": {
    "level": "warn",
-   "count": 34,
+   "count": 28,
    "warn": [
     "LH·온비드 공공데이터 API: 키 없음(DATA_GO_KR_KEY) — 뉴스·바로가기만",
-    "어제와 동일 62%"
+    "어제와 동일 36%"
    ],
    "block": [],
-   "fetched_at": "2026-10-25T08:22:29+09:00",
-   "repeat_ratio": 0.618
+   "fetched_at": "2026-10-26T08:20:57+09:00",
+   "repeat_ratio": 0.357
   },
   "it": {
    "level": "ok",
    "count": 60,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-25T08:22:32+09:00",
-   "repeat_ratio": 0.117
+   "fetched_at": "2026-10-26T08:21:00+09:00",
+   "repeat_ratio": 0.0
   },
   "auto": {
    "level": "warn",
@@ -116,7 +116,7 @@
     "어제와 동일 98%"
    ],
    "block": [],
-   "fetched_at": "2026-10-25T08:22:37+09:00",
+   "fetched_at": "2026-10-26T08:21:05+09:00",
    "repeat_ratio": 0.983
   },
   "publicdata": {
@@ -124,7 +124,7 @@
    "count": 8,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-25T08:22:40+09:00",
+   "fetched_at": "2026-10-26T08:21:07+09:00",
    "repeat_ratio": 1.0
   },
   "leisure": {
@@ -132,62 +132,62 @@
    "count": 30,
    "warn": [
     "고캠핑 API: 키 없음(DATA_GO_KR_KEY)",
-    "어제와 동일 100%"
+    "어제와 동일 73%"
    ],
    "block": [],
-   "fetched_at": "2026-10-25T08:22:43+09:00",
-   "repeat_ratio": 1.0
+   "fetched_at": "2026-10-26T08:21:11+09:00",
+   "repeat_ratio": 0.733
   }
  },
  "must_know": [
   {
    "module": "news",
    "item_ids": [
-    "e88274279f3efe49"
+    "ee615ff13c2bd655"
    ],
-   "title": "장중 4% 폭락 코스피 상승 마감 원인은? 솔리다임 미 상장 중단에 하이닉스 급등 여파 - 문화일보",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBydnBPTHQ3YTZMZWExbW43b2dMaUVmd3o0N3QzeWZXWVdGaHNDa3R1Y20zeF9zNFhPQUJTTXdzT2hETXF4NERQUWxkMHpmbzBQ?oc=5",
-   "why": "매체 1곳 · AI·IT·경제",
-   "score": 10
+   "title": "[노인위한AI ⑤] “슬슬 가십시다”…AI가 ‘화장실 알리미’로",
+   "url": "https://www.hani.co.kr/arti/economy/it/1284104.html",
+   "why": "매체 1곳 · AI·IT",
+   "score": 8
   },
   {
    "module": "news",
    "item_ids": [
-    "ed3d1e6a108d9ddf"
+    "80ef7cd0c953a6b7"
    ],
-   "title": "점심에 계란 프라이 하나 더?…여름엔 ‘금값’ 계란, 가을지나 가격 ‘뚝’[경제뭔데]",
-   "url": "https://www.khan.co.kr/article/202610250700001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-   "why": "매체 1곳 · AI·IT·경제",
-   "score": 10
+   "title": "“공장만으론 안 돼”…공급망·인프라·인력 ‘반도체 생태계’ 뿌리 내려야",
+   "url": "https://www.hani.co.kr/arti/society/society_general/1284093.html",
+   "why": "매체 1곳 · IT·신기술",
+   "score": 8
   },
   {
    "module": "news",
    "item_ids": [
-    "b5a369646c8ffacb"
+    "31f88c09ae983fb5"
    ],
-   "title": "김정은 '당일치기 방중' 끝났다…'中 서열 4위' 왕후닝과 회담 - 한국경제",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15cXNjZG9TMGJkQjRFem83ZG40SVV5dzZWUFIzemFIU0lrMUstczVhM3NLTThXOFdaclhPOTJoMG1rNWdlbGNsVHpxaGZxSVpkMkEzUHluYUpLUQ?oc=5",
-   "why": "매체 2곳 · 경제·국제",
-   "score": 9
+   "title": "빅테크 실적, AI 투자불안 잠재울까…슈퍼위크의 시작[오늘 아침, 당신이 알아야 할 7가지]",
+   "url": "https://www.hankyung.com/article/202610253783i",
+   "why": "매체 1곳 · AI·IT",
+   "score": 8
   },
   {
    "module": "news",
    "item_ids": [
-    "bcbb9fc2525d4e2f"
+    "54994deb4e1600b3"
    ],
-   "title": "한라산에 209㎜ 폭우…제주·남해안 풍수해 위기경보 ‘주의’로 올려 - 한겨레",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44Zld1akhmQTE3aWZRZmozOFVfbTZYSHNsaElsQlJqN3dHSk9aenF3bl9COFhTNk1sS01KUXhIR3dCUmNwY3hyT3pXNDgyaXJxWUh1ZlloS1hNTnpzeWtsT1BnZWVSWjVYMkVEWg?oc=5",
+   "title": "전국 흐리고 곳곳에 비…낮 최고 25도",
+   "url": "https://www.khan.co.kr/article/202610260723001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
    "why": "매체 2곳",
    "score": 7
   },
   {
    "module": "news",
    "item_ids": [
-    "10a9a23f2760c9fe"
+    "d80abf8a54546c9c"
    ],
-   "title": "[속보] 北, 김정은 방중 보도…\"불패의 북중친선 영원히 굳건히 계승\"",
-   "url": "https://www.hankyung.com/article/2026102528047",
-   "why": "매체 2곳 · 국제",
+   "title": "북한, 안보리에 서한…“지뢰 폭발 사건은 한국의 자작극”",
+   "url": "https://www.khan.co.kr/article/202610260755001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "why": "매체 2곳",
    "score": 7
   }
  ],
