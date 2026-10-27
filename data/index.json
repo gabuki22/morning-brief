@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-26T08:21:11+09:00",
- "date": "2026-10-26",
+ "built_at": "2026-10-27T09:34:20+09:00",
+ "date": "2026-10-27",
  "site": {
   "title": "모닝브리프",
   "locations": [
@@ -55,7 +55,7 @@
    "count": 7,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-26T08:20:37+09:00",
+   "fetched_at": "2026-10-27T09:33:54+09:00",
    "repeat_ratio": 0.857
   },
   "fx": {
@@ -63,7 +63,7 @@
    "count": 3,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-26T08:20:38+09:00",
+   "fetched_at": "2026-10-27T09:33:54+09:00",
    "repeat_ratio": 1.0
   },
   "news": {
@@ -71,7 +71,7 @@
    "count": 135,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-26T08:20:48+09:00",
+   "fetched_at": "2026-10-27T09:34:01+09:00",
    "repeat_ratio": 0.0
   },
   "markets": {
@@ -79,7 +79,7 @@
    "count": 5,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-26T08:20:49+09:00",
+   "fetched_at": "2026-10-27T09:34:02+09:00",
    "repeat_ratio": 1.0
   },
   "crypto": {
@@ -87,44 +87,43 @@
    "count": 10,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-26T08:20:52+09:00",
+   "fetched_at": "2026-10-27T09:34:06+09:00",
    "repeat_ratio": 1.0
   },
   "realestate": {
    "level": "warn",
-   "count": 28,
+   "count": 24,
    "warn": [
-    "LH·온비드 공공데이터 API: 키 없음(DATA_GO_KR_KEY) — 뉴스·바로가기만",
-    "어제와 동일 36%"
+    "LH·온비드 공공데이터 API: 키 없음(DATA_GO_KR_KEY) — 뉴스·바로가기만"
    ],
    "block": [],
-   "fetched_at": "2026-10-26T08:20:57+09:00",
-   "repeat_ratio": 0.357
+   "fetched_at": "2026-10-27T09:34:10+09:00",
+   "repeat_ratio": 0.125
   },
   "it": {
    "level": "ok",
    "count": 60,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-26T08:21:00+09:00",
+   "fetched_at": "2026-10-27T09:34:12+09:00",
    "repeat_ratio": 0.0
   },
   "auto": {
    "level": "warn",
    "count": 60,
    "warn": [
-    "어제와 동일 98%"
+    "어제와 동일 60%"
    ],
    "block": [],
-   "fetched_at": "2026-10-26T08:21:05+09:00",
-   "repeat_ratio": 0.983
+   "fetched_at": "2026-10-27T09:34:16+09:00",
+   "repeat_ratio": 0.6
   },
   "publicdata": {
    "level": "ok",
    "count": 8,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-26T08:21:07+09:00",
+   "fetched_at": "2026-10-27T09:34:18+09:00",
    "repeat_ratio": 1.0
   },
   "leisure": {
@@ -132,62 +131,62 @@
    "count": 30,
    "warn": [
     "고캠핑 API: 키 없음(DATA_GO_KR_KEY)",
-    "어제와 동일 73%"
+    "어제와 동일 43%"
    ],
    "block": [],
-   "fetched_at": "2026-10-26T08:21:11+09:00",
-   "repeat_ratio": 0.733
+   "fetched_at": "2026-10-27T09:34:20+09:00",
+   "repeat_ratio": 0.433
   }
  },
  "must_know": [
   {
    "module": "news",
    "item_ids": [
-    "ee615ff13c2bd655"
+    "cada17225bd510a3"
    ],
-   "title": "[노인위한AI ⑤] “슬슬 가십시다”…AI가 ‘화장실 알리미’로",
-   "url": "https://www.hani.co.kr/arti/economy/it/1284104.html",
+   "title": "\"AI시대, 설비 투자뿐만 아니라 '사람에 대한 투자' 이뤄져야\"",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008815802",
+   "why": "매체 1곳 · AI·IT·경제",
+   "score": 10
+  },
+  {
+   "module": "news",
+   "item_ids": [
+    "d1a1a0ae4f2b6c73"
+   ],
+   "title": "올해 3분기 GDP 1% 성장…반도체 수출 호조 영향",
+   "url": "https://www.khan.co.kr/article/202610270817001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "why": "매체 1곳 · IT·경제·신기술",
+   "score": 10
+  },
+  {
+   "module": "news",
+   "item_ids": [
+    "2f15cbe859f4054d"
+   ],
+   "title": "한국은행, 3분기 GDP 1% 성장‥정부소비·설비투자 증가 영향 - MBC 뉴스",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9DeE5hUzVBWTdQRkdDYmctMVR5d1U2OGRSOTZMa3JuSERZZlhQVVpSNnNOQ2lLbV80M2paWjlhVHRsdnFub0VQWjV4WS15a3Z4Z01BX2NITnJEM0xvUkR3bGZJT1J3UzFMOFE1bi11RDZxZjFW0gF0QVVfeXFMT2R6SHh5ajRrQkZkT2ZXZWR4TldqdDhObllicTFDSDVGelNDQzFncERCTTBHVVpCRnV0NDlHeF9BMnZRRTVBcUFWcXVOLVhkSU1LYjFnUmM5QnU0cFA1WWxsRU05NTg2NW5ybkt2RGZ6RG05N0w?oc=5",
+   "why": "매체 1곳 · IT·경제·신기술",
+   "score": 10
+  },
+  {
+   "module": "news",
+   "item_ids": [
+    "feed7d60bba020f4"
+   ],
+   "title": "[속보] 오픈AI “수학·컴퓨터과학·물리학 수십년 난제 3개 풀었다”",
+   "url": "https://www.hani.co.kr/arti/international/america/1284301.html",
    "why": "매체 1곳 · AI·IT",
    "score": 8
   },
   {
    "module": "news",
    "item_ids": [
-    "80ef7cd0c953a6b7"
+    "329d3a7cd9ed4b89"
    ],
-   "title": "“공장만으론 안 돼”…공급망·인프라·인력 ‘반도체 생태계’ 뿌리 내려야",
-   "url": "https://www.hani.co.kr/arti/society/society_general/1284093.html",
-   "why": "매체 1곳 · IT·신기술",
-   "score": 8
-  },
-  {
-   "module": "news",
-   "item_ids": [
-    "31f88c09ae983fb5"
-   ],
-   "title": "빅테크 실적, AI 투자불안 잠재울까…슈퍼위크의 시작[오늘 아침, 당신이 알아야 할 7가지]",
-   "url": "https://www.hankyung.com/article/202610253783i",
-   "why": "매체 1곳 · AI·IT",
-   "score": 8
-  },
-  {
-   "module": "news",
-   "item_ids": [
-    "54994deb4e1600b3"
-   ],
-   "title": "전국 흐리고 곳곳에 비…낮 최고 25도",
-   "url": "https://www.khan.co.kr/article/202610260723001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-   "why": "매체 2곳",
-   "score": 7
-  },
-  {
-   "module": "news",
-   "item_ids": [
-    "d80abf8a54546c9c"
-   ],
-   "title": "북한, 안보리에 서한…“지뢰 폭발 사건은 한국의 자작극”",
-   "url": "https://www.khan.co.kr/article/202610260755001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-   "why": "매체 2곳",
+   "title": "물가·증시·집값 비상인데… 여당, 탄핵·특검 무한반복",
+   "url": "https://www.chosun.com/politics/assembly/2026/10/27/TH7APOWZSVDH3PYSMHLJWP5FIY/",
+   "why": "매체 2곳 · 경제·부동산·사회",
    "score": 7
   }
  ],

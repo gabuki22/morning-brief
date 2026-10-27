@@ -1,12 +1,281 @@
 {
  "module": "leisure",
- "fetched_at": "2026-10-26T08:21:11+09:00",
+ "fetched_at": "2026-10-27T09:34:20+09:00",
  "source": {
   "name": "Naver 뉴스 검색 + 고캠핑",
   "url": "https://www.gocamping.or.kr/",
   "kind": "api"
  },
  "items": [
+  {
+   "id": "e2e996d933e135fc",
+   "title": "“어디 갈까” 네이버, “어디서 잘까” 야놀자·여기어때…국내여행 공...",
+   "url": "https://www.thepowernews.co.kr/view.php?ud=202610261454237400de3f0aa1be_7",
+   "published_at": "2026-10-27T09:16:00+09:00",
+   "summary": "27일 오픈 서베이에 따르면 최근 1년 내 국내여행 경험자 1000명을 대상으로 여행 계획 순서를 조사한 결과... 7%, 캠핑· 글램핑 18.1% 등으로 관심 영역도 다양해졌다. 특히 20대 여성의 여행 관심 범위가 가장 넓었다. 전체...",
+   "tags": [
+    "캠핑",
+    "글램핑 오픈"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "Naver 뉴스"
+  },
+  {
+   "id": "482295a98f10077e",
+   "title": "고캠핑 — 전국 캠핑장 검색",
+   "url": "https://www.gocamping.or.kr/",
+   "published_at": "2026-10-27",
+   "summary": "한국관광공사 등록 캠핑장",
+   "tags": [
+    "바로가기"
+   ],
+   "metrics": {},
+   "is_new": false,
+   "streak_days": 39,
+   "source_name": "바로가기"
+  },
+  {
+   "id": "b0cabf739182d592",
+   "title": "'현장으로 간 부산시의회', 정례회 앞두고 낙동강 보전 실태 점검",
+   "url": "https://www.bzeronews.com/news/articleView.html?idxno=824363",
+   "published_at": "2026-10-26T20:34:00+09:00",
+   "summary": "화명생태공원에서는 주차장과 오토캠핑장 운영 상태를 점검했다. 특히 장기 방치 차량으로 인한 주민 불편과 안전 문제를 집중 확인하고 주차질서 확립을 주문했다. 화명생태공원은 연간 수십만 명의 시민이 찾는 대규모...",
+   "tags": [
+    "캠핑",
+    "오토캠핑장"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "Naver 뉴스"
+  },
+  {
+   "id": "c894206835190e2f",
+   "title": "“가을 단풍 물든 백운산…취향에 맞춰 걸어보세요”",
+   "url": "http://www.kjdaily.com/article.php?aid=1793007855690329008",
+   "published_at": "2026-10-26T18:52:00+09:00",
+   "summary": "숲속의 집과 오토캠핑장 에서 하룻밤을 보내며 맞이하는 아침 안개 낀 단풍 숲은 당일 여행과는 차원이 다른 힐링을 선사한다. 광양시 관계자는 “백운산은 정상의 탁 트인 조망부터 고즈넉한 둘레길, 자연휴양림의...",
+   "tags": [
+    "캠핑",
+    "오토캠핑장"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "Naver 뉴스"
+  },
+  {
+   "id": "e195597867e3972f",
+   "title": "가을빛 물든 누리파크서 '할로윈 분장쇼'… 장수군, 달빛누리 페스티벌...",
+   "url": "https://www.greened.kr/news/articleView.html?idxno=353048",
+   "published_at": "2026-10-26T17:46:00+09:00",
+   "summary": "장수군은 누리파크 공원과 인접한 오토캠핑장 의 공간적 특성을 최대한 살려 축제 분위기를 입체적으로 연출할 계획이다. 일반 방문객은 물론 캠핑객까지 자연스럽게 어우러지는 가족 친화형 가을 축제로 꾸민다는...",
+   "tags": [
+    "캠핑",
+    "오토캠핑장"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "Naver 뉴스"
+  },
+  {
+   "id": "e608eda46dcdc972",
+   "title": "'코베아 캠핑랜드' 연내 착공 박차…\"준공 지연 없도록 최선\"",
+   "url": "https://www.nocutnews.co.kr/news/6597302?utm_source=naver&utm_medium=article&utm_campaign=20261026053912",
+   "published_at": "2026-10-26T17:40:00+09:00",
+   "summary": "특히 물놀이 시설, 야외공연장, 세미나실, F&B공간, 어린이놀이터 등을 갖춘 전국 최대 규모의 복합 캠핑장 으로 꾸며질 예정이다. 시는 건설 초기 경제적 파급 효과만 860억 원으로 추산하고 있으며 개장 이후에는 연간...",
+   "tags": [
+    "캠핑",
+    "캠핑장 개장"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "Naver 뉴스"
+  },
+  {
+   "id": "3270fe331031466f",
+   "title": "[순창·장수·완주 24시] 순창 고추장 떡볶이, 무주에서 세계 트레일러...",
+   "url": "https://www.sisajournal.com/news/articleView.html?idxno=391707",
+   "published_at": "2026-10-26T17:15:00+09:00",
+   "summary": "이번 행사는 누리파크와 캠핑장 을 연계해 가족 단위 방문객과 캠핑객, 군민이 함께 어울리는 특별한 가을... 이를 통해 지역 내 신규 일자리를 창출하고, 관내 기업 및 인력을 적극 활용해 지역 경제 활성화에 기여할...",
+   "tags": [
+    "캠핑",
+    "신규 캠핑장"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "Naver 뉴스"
+  },
+  {
+   "id": "70dd54c80ef80878",
+   "title": "[똑똑한유통] CJ제일제당 한식페스타 비비고 부스·롯데웰푸드 의성마늘...",
+   "url": "https://www.ekn.kr/web/view.php?key=20261026028121285",
+   "published_at": "2026-10-26T16:52:00+09:00",
+   "summary": "불닭 신규 캐릭터 '페포'가 곳곳에서 참가자를 맞았다. 포토존 인증샷을 찍으면 주는 페포 굿즈는 1시간여 만에 동났고 게임존 '불닭펀치'·'페포터치' 상품 1000여개도 일찍 품절됐다. 참가자들은 캠핑장 에서 하루를...",
+   "tags": [
+    "캠핑",
+    "신규 캠핑장"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "Naver 뉴스"
+  },
+  {
+   "id": "fdc7abda71629d63",
+   "title": "부산시의회 복지환경위, 행정사무감사 앞두고 낙동강 환경시설 점검",
+   "url": "https://www.news1.kr/local/busan-gyeongnam/6332225",
+   "published_at": "2026-10-26T16:23:00+09:00",
+   "summary": "위원회는 낙동강하구에코센터를 시작으로 낙동강 본류 수질관리 현황을 살펴본 뒤 화명생태공원 주차장과 화명 오토캠핑장 등을 방문해 주요 업무와 시설 운영 현황을 점검했다. 먼저 낙동강하구에코센터에서는 전시관과...",
+   "tags": [
+    "캠핑",
+    "오토캠핑장"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "Naver 뉴스"
+  },
+  {
+   "id": "28a120c76c052dca",
+   "title": "부산시의회 복지환경위, 정례회 앞두고 '낙동강 생태환경 현장' 점검",
+   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3732964",
+   "published_at": "2026-10-26T16:16:00+09:00",
+   "summary": "위원회는 이날 낙동강하구에코센터와 낙동강 본류 수질관리 현장, 화명생태공원 주차장과 화명 오토캠핑장 등을 차례로 방문해 주요 업무와 시설 운영 현황을 살폈다. 낙동강하구에코센터에서는 전시관과 철새도래지...",
+   "tags": [
+    "캠핑",
+    "오토캠핑장"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "Naver 뉴스"
+  },
+  {
+   "id": "328f51ea84e40738",
+   "title": "삼양식품, 평창서 아웃도어 축제 개최…트레일런·캠핑·웰니스 프로그...",
+   "url": "https://www.e-science.co.kr/news/articleView.html?idxno=138161",
+   "published_at": "2026-10-26T16:14:00+09:00",
+   "summary": "참가자들은 대관령의 자연환경을 배경으로 야외 활동을 즐기고, 캠핑장 에서 하루를 보냈다. 둘째 날에는... 불닭의 신규 캐릭터 '페포'를 활용한 참여형 콘텐츠도 운영됐다. 포토존에서 사진을 찍고 캐릭터 굿즈를 받는...",
+   "tags": [
+    "캠핑",
+    "신규 캠핑장"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "Naver 뉴스"
+  },
+  {
+   "id": "7dd7870d69445124",
+   "title": "북부 퀸즐랜드주 관광청, 신규 여행·숙박 라인업 공개",
+   "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=66459",
+   "published_at": "2026-10-26T15:20:00+09:00",
+   "summary": "이 밖에도 마리바 부시 스테이의 럭셔리 글램핑 장 오픈 , 케이프 요크에 위치한 페어뷰 스테이션의 오지 목장 체험 숙소 등 개성 있는 숙소도 눈길을 끈다. 모리스 그룹은 케언즈의 랜드마크 더블 아일랜드의 임대권을...",
+   "tags": [
+    "캠핑",
+    "글램핑 오픈"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "Naver 뉴스"
+  },
+  {
+   "id": "9959ffdd783d070b",
+   "title": "[오늘의 브랜드] 디오디, 이마트·맥스와 협업한 ‘블랙 토끼 포차 에디...",
+   "url": "https://www.ibabynews.com/news/articleView.html?idxno=156196",
+   "published_at": "2026-10-26T14:18:00+09:00",
+   "summary": "캠핑장 에서는 야외 포차를, 집에서는 홈포차나 홈자카야, 베란다 캠핑 등을 연출할 수 있도록 조리와... ◇ 마리엔메이, 일본 큐텐 ‘메가 데뷔’ 신규 브랜드 1위…일본 시장 공략 K-뷰티 스킨케어 브랜드 마리엔메이(Mary...",
+   "tags": [
+    "캠핑",
+    "신규 캠핑장"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "Naver 뉴스"
+  },
+  {
+   "id": "63e1fba3e7e63638",
+   "title": "호주 북부 퀸즐랜드주관광청, 하반기 신규 투어·숙박·미식·이벤트 공...",
+   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3732645",
+   "published_at": "2026-10-26T13:30:00+09:00",
+   "summary": "마리바 부시 스테이의 럭셔리 글램핑 장 개장, 케이프 요크의 페어뷰 스테이션 오지 목장 체험 숙소 등도... 새로 오픈 했다. 116년의 역사를 지닌 그래프턴 호텔 역시 리노베이션을 마치고 재개장했다. 관광 상품으로는 해양...",
+   "tags": [
+    "캠핑",
+    "글램핑 오픈"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "Naver 뉴스"
+  },
+  {
+   "id": "fde895ac1daf922f",
+   "title": "할로윈 옷 입고 보물 찾고…장수 누리파크서 '달빛누리 페스티벌'",
+   "url": "http://www.inews24.com/view/2018873",
+   "published_at": "2026-10-26T12:05:00+09:00",
+   "summary": "한국관광공사 고캠핑에도 누리파크 캠핑장은 19개 사이트 규모의 오토캠핑장 으로 소개돼 있으며, 공원과 산책로 등 주변 시설을 함께 이용할 수 있는 캠핑 공간으로 안내돼 있다. 장수군이 올해 할로윈 행사를 캠핑장까지...",
+   "tags": [
+    "캠핑",
+    "오토캠핑장"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "Naver 뉴스"
+  },
+  {
+   "id": "e89a8e4c5c90a8a0",
+   "title": "中 캠핑시장, 성장 넘어 품질·차별화 경쟁으로",
+   "url": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=180&CONTENTS_NO=1&bbsGbn=243&bbsSn=243&pNttSn=244822",
+   "published_at": "2026-10-26T11:27:00+09:00",
+   "summary": "(三个皮匠)] 캠핑 장 비는 교체 주기가 긴 내구재로, 신규 구매뿐 아니라 기능 개선을 위한 업그레이드와 노후 제품 교체가 주요 수요를 이룬다. 입문자용 제품은 사양이 비슷해 가격경쟁이 치열한 반면, 경량화...",
+   "tags": [
+    "캠핑",
+    "신규 캠핑장"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "Naver 뉴스"
+  },
+  {
+   "id": "318475640207e30d",
+   "title": "북부 퀸즐랜드주 관광청, 하반기 투어·숙박·미식 신규 라인업 대대적...",
+   "url": "https://www.discoverynews.kr/news/articleView.html?idxno=1104870",
+   "published_at": "2026-10-26T11:14:00+09:00",
+   "summary": "기타 특화 숙소: 마리바 부시 스테이 글램핑 장, 페어뷰 스테이션 오지 목장 체험 숙소가 가동되며... 순차 오픈 )을 추진한다. 에버 블룸필드 [사진=퀸즐랜드주관광청] ◇ 시내 신규 F&B 공간 및 해양 행사·역사...",
+   "tags": [
+    "캠핑",
+    "글램핑 오픈"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "Naver 뉴스"
+  },
+  {
+   "id": "4d48f24381bebf42",
+   "title": "쉼 없이 달려온 구광모 회장의 8년...LG를 미래 기업으로 이끌다",
+   "url": "https://www.koreareport.co.kr/news/articleView.html?idxno=53947",
+   "published_at": "2026-10-26T09:26:00+09:00",
+   "summary": "집 안에 머물던 '스탠바이미'를 캠핑장 과 베란다, 야외로 들고 나가 쓸 수 있게 한 것으로, 캠핑에 관심... 올해 상반기에는 AI 데이터센터 프로젝트를 포함해 3조 원이 넘는 ESS 신규 수주를 확보했고, 북미 ESS 수주...",
+   "tags": [
+    "캠핑",
+    "신규 캠핑장"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "Naver 뉴스"
+  },
   {
    "id": "27097b179a409b18",
    "title": "가을 단풍 이렇게 즐길세요...광양시 백운산",
@@ -18,23 +287,9 @@
     "오토캠핑장"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "Naver 뉴스"
-  },
-  {
-   "id": "482295a98f10077e",
-   "title": "고캠핑 — 전국 캠핑장 검색",
-   "url": "https://www.gocamping.or.kr/",
-   "published_at": "2026-10-26",
-   "summary": "한국관광공사 등록 캠핑장",
-   "tags": [
-    "바로가기"
-   ],
-   "metrics": {},
    "is_new": false,
-   "streak_days": 38,
-   "source_name": "바로가기"
+   "streak_days": 2,
+   "source_name": "Naver 뉴스"
   },
   {
    "id": "482a4c55e0a7971d",
@@ -47,98 +302,8 @@
     "오토캠핑장"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "Naver 뉴스"
-  },
-  {
-   "id": "17cddef35a21d87f",
-   "title": "영주댐 가족캠프, 전국 관광객 끌었다…참가 가족 96%가 외지인",
-   "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4088377",
-   "published_at": "2026-10-25T17:40:00+09:00",
-   "summary": "영주호 오토캠핑장 에서 동물카라반 숙박과 별자리 관찰을 하고, 지역 농가와 이산서원에서 농촌·전통문화 체험에도 참여했다. 7·8회차에는 풍기인삼축제 방문 일정도 포함됐다. 이산서원 김태곤 선생은 \"영주 밖에서...",
-   "tags": [
-    "캠핑",
-    "오토캠핑장"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "Naver 뉴스"
-  },
-  {
-   "id": "9fc5548a28c3ae30",
-   "title": "대전 동구, 28일 '2026년 재난대응 안전한국훈련'",
-   "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1106749",
-   "published_at": "2026-10-25T15:16:00+09:00",
-   "summary": "동구는 오는 28일 상소 오토캠핑장 과 구청 중회의실에서 '2026년 재난대응 안전한국훈련'을 진행한다고 밝혔다. 이번 훈련은 '재난 및 안전관리 기본법'에 따라 대규모 재난 발생 시 관계기관 간 협력체계를 점검하고 현장...",
-   "tags": [
-    "캠핑",
-    "오토캠핑장"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "Naver 뉴스"
-  },
-  {
-   "id": "372a890ce8b8f476",
-   "title": "가을 의령 풍경 속에서 만나는 아름다운 가볼 만한 곳",
-   "url": "https://www.joongangenews.com/news/articleView.html?idxno=554268",
-   "published_at": "2026-10-25T13:50:00+09:00",
-   "summary": "유곡면 당동리에 자리한 유농 오토캠핑장 은 유곡천을 중심으로 조성된 농촌체험랜드이다. 30여 동의 캠핑 사이트는 차량 주차가 바로 옆에 가능하여 편리함을 제공한다. 이곳에는 자연스러운 농촌 풍경을 즐길 수 있는...",
-   "tags": [
-    "캠핑",
-    "오토캠핑장"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "Naver 뉴스"
-  },
-  {
-   "id": "e619961f88ed9081",
-   "title": "박정은 작가의 사람 사는 이야기(31) - 가을비 편에 부치는 편지",
-   "url": "https://www.newsgn.com/news/articleView.html?idxno=581147",
-   "published_at": "2026-10-25T13:40:00+09:00",
-   "summary": "지난주 대전에 사는 큰언니 가족과 계족산 자락의 오토캠핑장 에서 하룻밤을 보냈다. 산 입구부터 진하고 연한 분홍빛 코스모스가 지천으로 펴 우리를 반겨줬다. 가을을 맞으러 나온 차량들 사이에서 조금 늦게 도착했지만...",
-   "tags": [
-    "캠핑",
-    "오토캠핑장"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "Naver 뉴스"
-  },
-  {
-   "id": "efe3ec14a1458970",
-   "title": "경기도 안성, 고즈넉한 풍경 속 가볼 만한 곳",
-   "url": "https://www.joongangenews.com/news/articleView.html?idxno=554258",
-   "published_at": "2026-10-25T13:10:00+09:00",
-   "summary": "숲속의 집, 오토캠핑장 , 야영장을 비롯해 방문자센터와 샤워실 등 편의시설을 갖추고 있어 자연 속에서 휴식을 취하기에 알맞다. 해발 547m의 서운산과 인근 석남사로 이어지는 다양한 등산로가 조성되어 있어 걷기를...",
-   "tags": [
-    "캠핑",
-    "오토캠핑장"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "Naver 뉴스"
-  },
-  {
-   "id": "8bc9fc079e081d94",
-   "title": "영주댐 가족캠프, 외지 가족 발길 이끌었다",
-   "url": "https://www.imaeil.com/page/view/2026102510064353058",
-   "published_at": "2026-10-25T12:26:00+09:00",
-   "summary": "가족들은 영주댐 물문화관과 영주호 전망대, 무섬마을을 둘러보고 영주호 오토캠핑장 에서 동물카라반 숙박과 별자리 관찰을 즐겼다. 지역 농가 체험과 이산서원 전통문화 체험도 함께했다. 특히 7·8회 차는...",
-   "tags": [
-    "캠핑",
-    "오토캠핑장"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "Naver 뉴스"
   },
   {
@@ -153,7 +318,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 3,
+   "streak_days": 4,
    "source_name": "Naver 뉴스"
   },
   {
@@ -168,7 +333,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 3,
+   "streak_days": 4,
    "source_name": "Naver 뉴스"
   },
   {
@@ -183,7 +348,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 3,
+   "streak_days": 4,
    "source_name": "Naver 뉴스"
   },
   {
@@ -198,7 +363,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 3,
+   "streak_days": 4,
    "source_name": "Naver 뉴스"
   },
   {
@@ -213,37 +378,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 3,
-   "source_name": "Naver 뉴스"
-  },
-  {
-   "id": "86cd45aaac8223ac",
-   "title": "'제약단지·발안산단 직주근접' 롯데건설 '화성 향남 롯데캐슬 시그니처...",
-   "url": "https://www.catchnews.kr/news/articleView.html?idxno=129682",
-   "published_at": "2026-10-23T10:21:00+09:00",
-   "summary": "단지는 중앙광장을 중심으로 공원과 2.4㎞ 길이의 순환산책로, 글램핑 정원을 배치했다. 전 세대 세대창고를 제공하며 드레스룸, 팬트리, 알파룸(일부 타입)·3면 발코니 확장 등을 적용했다. 약 7660㎡ 규모 커뮤니티...",
-   "tags": [
-    "캠핑",
-    "글램핑 오픈"
-   ],
-   "metrics": {},
-   "is_new": false,
-   "streak_days": 3,
-   "source_name": "Naver 뉴스"
-  },
-  {
-   "id": "708c24eaa96c6942",
-   "title": "롯데건설, 화성 향남 롯데캐슬 시그니처 견본주택 오픈",
-   "url": "https://www.arunews.com/news/articleView.html?idxno=68526",
-   "published_at": "2026-10-23T10:10:00+09:00",
-   "summary": "중앙광장을 중심으로 공원과 2.4km 길이의 순환산책로, 글램핑 정원을 배치해 쾌적한 휴식 공간을 조성했다. 전 세대 세대창고를 제공하며 드레스룸, 팬트리, 알파룸(일부 타입) 및 3면 발코니 확장 등을 적용해 공간...",
-   "tags": [
-    "캠핑",
-    "글램핑 오픈"
-   ],
-   "metrics": {},
-   "is_new": false,
-   "streak_days": 3,
+   "streak_days": 4,
    "source_name": "Naver 뉴스"
   },
   {
@@ -258,22 +393,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 4,
-   "source_name": "Naver 뉴스"
-  },
-  {
-   "id": "8c211231313c0c0f",
-   "title": "아부다비, 도시만 있는 게 아니라고요?",
-   "url": "https://www.travie.com/news/articleView.html?idxno=56122",
-   "published_at": "2026-10-23T06:40:00+09:00",
-   "summary": "에코 글램핑 돔이나 운치 있는 베두인 텐트에 여장을 풀고, 로맨틱한 캠프파이어와 밤하늘을 빼곡히... 이곳을 제대로 즐기는 최고의 방법은 오픈 톱 4WD에 올라타 누비는 에코 사파리, 광활한 대자연을 누비며 동물을...",
-   "tags": [
-    "캠핑",
-    "글램핑 오픈"
-   ],
-   "metrics": {},
-   "is_new": false,
-   "streak_days": 4,
+   "streak_days": 5,
    "source_name": "Naver 뉴스"
   },
   {
@@ -288,7 +408,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 4,
+   "streak_days": 5,
    "source_name": "Naver 뉴스"
   },
   {
@@ -303,112 +423,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 4,
-   "source_name": "Naver 뉴스"
-  },
-  {
-   "id": "f62a4e2a7dd27799",
-   "title": "[유통단신] 롯데백화점, '롯데몰 벨리타운 청량리' 오픈 外 놀유니버스...",
-   "url": "https://www.getnews.co.kr/news/articleView.html?idxno=884481",
-   "published_at": "2026-10-22T17:06:00+09:00",
-   "summary": "롯데백화점에 따르면 신규 점은 수만 평에 달하는 기존 백화점 규모와 달리 5400평 규모에 핵심 테넌트를... ■오뚜기가 오는 24일부터 25일까지 서울 난지 캠핑장 에서 열리는 '2026 서울바비큐페스티벌(SEOUL BBQ FESTIVAL)'에...",
-   "tags": [
-    "캠핑",
-    "신규 캠핑장"
-   ],
-   "metrics": {},
-   "is_new": false,
-   "streak_days": 4,
-   "source_name": "Naver 뉴스"
-  },
-  {
-   "id": "9764ad040e6e0cbb",
-   "title": "[오늘의 먹거리] 삼양식품·오뚜기·롯데칠성음료·국순당",
-   "url": "http://www.financialreview.co.kr/news/articleView.html?idxno=45750",
-   "published_at": "2026-10-22T16:36:00+09:00",
-   "summary": "삼양식품은 이번 박람회로 프랑스를 비롯한 유럽 주요국 유통망 신규 입점 및 입지 강화를 위한 발판을... 난지 캠핑장 에서 열리는 '2026 서울바비큐페스티벌(SEOUL BBQ FESTIVAL)'에 참여해 '해피냠냠 라면가게' 부스를...",
-   "tags": [
-    "캠핑",
-    "신규 캠핑장"
-   ],
-   "metrics": {},
-   "is_new": false,
-   "streak_days": 4,
-   "source_name": "Naver 뉴스"
-  },
-  {
-   "id": "1a395e6fb31f965c",
-   "title": "신일전자, 큐브 히터 신제품 출시…23일 GS홈쇼핑 첫 공개",
-   "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=875181",
-   "published_at": "2026-10-22T15:24:00+09:00",
-   "summary": "이번 뉴 에디션은 기존 기능에 퓨어 화이트와 샌드 등 신규 색상 2종을 더했다. 저전력 설계와 함께 10초... 본체는 스탠드형과 테이블형으로 전환할 수 있는 2-in-1 구조로 설계돼 실내뿐 아니라 캠핑장 등에서도 쓸...",
-   "tags": [
-    "캠핑",
-    "신규 캠핑장"
-   ],
-   "metrics": {},
-   "is_new": false,
-   "streak_days": 4,
-   "source_name": "Naver 뉴스"
-  },
-  {
-   "id": "fc7dc69f7a01c7e4",
-   "title": "[유통소식] 이랜드복지재단, 지역 교회와 위기가정 안전망 구축",
-   "url": "http://www.4th.kr/news/articleView.html?idxno=2120188",
-   "published_at": "2026-10-22T15:12:00+09:00",
-   "summary": "캐릭터 찾기와 사회관계망서비스(SNS) 인증 이벤트를 진행하며, 관광 정보 서비스인 오르GO 앱 신규 가입... 오뚜기 오뚜기, 서울바비큐페스티벌서 한강라면 부스 운영 오뚜기가 서울 난지 캠핑장 에서 열리는 바비큐...",
-   "tags": [
-    "캠핑",
-    "신규 캠핑장"
-   ],
-   "metrics": {},
-   "is_new": false,
-   "streak_days": 4,
-   "source_name": "Naver 뉴스"
-  },
-  {
-   "id": "c44e28b1e62256c7",
-   "title": "[잘먹잘살+]하림·CU·오리온·동원그룹·오뚜기·동서식품·롯데웰푸드...",
-   "url": "https://www.businessplus.kr/news/articleView.html?idxno=118584",
-   "published_at": "2026-10-22T15:04:00+09:00",
-   "summary": "인도에서도 신규 생산라인을 본격 가동했다. 이번 증설로 카스타드의 글로벌 생산능력은 연간 최대... 난지 캠핑장 에서 열리는 '2026 서울바비큐페스티벌'(SEOUL BBQ FESTIVAL)에 참여해 '해피냠냠 라면가게' 부스를...",
-   "tags": [
-    "캠핑",
-    "신규 캠핑장"
-   ],
-   "metrics": {},
-   "is_new": false,
-   "streak_days": 4,
-   "source_name": "Naver 뉴스"
-  },
-  {
-   "id": "69154ecfed3c6dc2",
-   "title": "[유통24시] 디올뷰티, '달콤한 꿈의 아뜰리에' 홀리데이 캠페인 外",
-   "url": "https://news.dealsitetv.com/articles/177335",
-   "published_at": "2026-10-22T14:32:00+09:00",
-   "summary": "◆삼양그룹, 신규 기업광고 시리즈 공개 삼양그룹이 공식 유튜브 채널을 통해 신규 기업광고 시리즈... ◆오뚜기, 서울바비큐페스티벌 '라면가게' 운영 오뚜기가 10월 24일(토)부터 25일(일)까지 서울 난지 캠핑장 에서...",
-   "tags": [
-    "캠핑",
-    "신규 캠핑장"
-   ],
-   "metrics": {},
-   "is_new": false,
-   "streak_days": 4,
-   "source_name": "Naver 뉴스"
-  },
-  {
-   "id": "54df9d18e7201474",
-   "title": "롯데건설, '화성 향남 롯데캐슬 시그니처' 견본주택 오픈 예정",
-   "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=279411",
-   "published_at": "2026-10-22T11:00:00+09:00",
-   "summary": "중앙광장을 중심으로 2.4km 길이의 순환산책로와 글램핑 정원을 배치해 단지 내에서 여가를 즐길 수 있도록 했다. 세대 내부에는 드레스룸과 팬트리 등 수납공간을 강화하고, 전 세대에 별도의 세대창고를 제공해 공간...",
-   "tags": [
-    "캠핑",
-    "글램핑 오픈"
-   ],
-   "metrics": {},
-   "is_new": false,
-   "streak_days": 4,
+   "streak_days": 5,
    "source_name": "Naver 뉴스"
   },
   {
@@ -423,7 +438,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 5,
+   "streak_days": 6,
    "source_name": "Naver 뉴스"
   },
   {
@@ -438,22 +453,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 7,
-   "source_name": "Naver 뉴스"
-  },
-  {
-   "id": "9938490ef6d131b7",
-   "title": "가을 하늘과 임진강을 벗 삼아 걷는 길…평화누리길 8코스 '반구정길'",
-   "url": "https://www.pressian.com/pages/articles/2026101712561165428?utm_source=naver&utm_medium=search",
-   "published_at": "2026-10-17T12:57:00+09:00",
-   "summary": "2010년 개장 한 평화누리길은 총 12개 코스(김포 3, 고양 2, 파주 4, 연천 3)로 구성돼 있으며, 전체 길이는 약... 평화누리와 인접한 곳에 자리한 평화누리 캠핑장 은 임진강과 건너편 민통선을 마주하며 가을의 정취를 만끽할...",
-   "tags": [
-    "캠핑",
-    "캠핑장 개장"
-   ],
-   "metrics": {},
-   "is_new": false,
-   "streak_days": 9,
+   "streak_days": 8,
    "source_name": "Naver 뉴스"
   }
  ],
@@ -462,7 +462,7 @@
   "count": 30,
   "warn": [
    "고캠핑 API: 키 없음(DATA_GO_KR_KEY)",
-   "어제와 동일 73%"
+   "어제와 동일 43%"
   ],
   "error": null,
   "level": "warn",

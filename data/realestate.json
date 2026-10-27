@@ -1,6 +1,6 @@
 {
  "module": "realestate",
- "fetched_at": "2026-10-26T08:20:57+09:00",
+ "fetched_at": "2026-10-27T09:34:10+09:00",
  "source": {
   "name": "RSS 6곳",
   "url": "https://www.hankyung.com/feed/realestate",
@@ -8,27 +8,29 @@
  },
  "items": [
   {
-   "id": "ffceb70b2ea109b6",
-   "title": "6억9341만원 vs 239만원···자산 상·하위 20% 평균 집값 격차 290배 ‘최대’",
-   "url": "https://www.khan.co.kr/article/202610260805001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
-   "published_at": "2026-10-26T08:05:00+09:00",
-   "summary": "남산에서 바라본 아파트 단지. 김정근기자자산 상·하위 20%가 보유해 거주하는 주택의 가격 차이가 290배에 달해 2017년 집계 이래 최대치인 것으로 나타났다.26일 국가데이터처의 국가통계포털(KOSIS)을 보면 지난해 자산 1분위(하위 20%) 가구의 자가 거주 주택 평균 가격은 2",
+   "id": "df9587d1a74f89db",
+   "title": "아파트 청약 청주는 15만건, 아산은 달랑 84건...무엇이 운명을 갈랐나?",
+   "url": "https://www.chosun.com/economy/realty/apartment_sales/2026/10/27/GEZWCNZYMZRGIMTEGVSWMMJZGA/",
+   "published_at": "2026-10-27T09:22:31+09:00",
+   "summary": "[땅집고] 같은 날 1순위 청약을 진행한 충북 청주와 충남 아산의 아파트 분양 성적이 극명하게 엇갈렸다. 청주에서는 1200여 가구 모집에 약 15만건의 청약이 몰린 반면, 아산에서는 1300가구 넘는 모집 물량에 신청이 고작 84건에 그쳤다. 평균 경쟁률 격차는 약 2000배에 달한다",
    "tags": [
-    "부동산"
+    "부동산",
+    "청약"
    ],
    "metrics": {},
    "is_new": true,
    "streak_days": 1,
-   "source_name": "경향신문 경제"
+   "source_name": "조선일보 경제"
   },
   {
-   "id": "a09417109e13a548",
-   "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
-   "url": "https://www.yna.co.kr/view/AKR20261026010200011",
-   "published_at": "2026-10-26T07:30:01+09:00",
-   "summary": "■ 상하위 20% 집값 격차 290배로 상승…다주택 등 포함시 더 확대",
+   "id": "13fb8462ea0f4461",
+   "title": "LH, 4분기 건설형 임대주택 4천663가구 입주자 모집",
+   "url": "https://www.yna.co.kr/view/AKR20261027037700003",
+   "published_at": "2026-10-27T09:08:13+09:00",
+   "summary": "(세종=연합뉴스) 오진송 기자 = 한국토지주택공사(LH)는 올해 4분기 전국 16개 단지에서 건설형 임대주택 4천663가구의 입주자를 모집한다고...",
    "tags": [
-    "부동산"
+    "부동산",
+    "청약"
    ],
    "metrics": {},
    "is_new": true,
@@ -36,10 +38,10 @@
    "source_name": "연합뉴스 경제"
   },
   {
-   "id": "a03f6dde4cc3cdf2",
-   "title": "이준기, 14년 전 11억에 산 광진구 '62평 아파트' 지금은…",
-   "url": "https://www.hankyung.com/article/2026102639107",
-   "published_at": "2026-10-26T07:20:09+09:00",
+   "id": "0420803ee16bb9c3",
+   "title": "\"내 전세금부터 지키자\"…등기부에 권리 새긴 도봉 세입자들",
+   "url": "https://www.hankyung.com/article/2026102767506",
+   "published_at": "2026-10-27T08:47:23+09:00",
    "summary": "",
    "tags": [
     "부동산"
@@ -50,26 +52,11 @@
    "source_name": "한국경제 부동산"
   },
   {
-   "id": "f54db863d3ad6b9e",
-   "title": "서초구, 28일 '재건축 정책 콘서트'…정비제도·세무 안내",
-   "url": "https://www.yna.co.kr/view/AKR20261026009000004",
-   "published_at": "2026-10-26T07:01:52+09:00",
-   "summary": "(서울=연합뉴스) 정준영 기자 = 서울 서초구(구청장 전성수)는 오는 28일 오후 2시 구청 대강당에서 재건축조합 임원, 조합원 등 지역 주민들...",
-   "tags": [
-    "부동산",
-    "수도권"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "연합뉴스 경제"
-  },
-  {
-   "id": "48150130d0fe2307",
-   "title": "코픽스 급등에 고정·변동 대출 금리차 축소… 고민 깊어지는 차주",
-   "url": "https://www.chosun.com/economy/stock-finance/2026/10/26/MEZDGYRVHE3DIMJXGZTDEZJSGY/",
-   "published_at": "2026-10-26T06:00:00+09:00",
-   "summary": "최근 아파트를 매수하고 잔금 납부를 앞둔 30대 A씨는 주택담보대출 금리 선택을 두고 고민에 빠졌다. 당초 금리가 낮은 6개월 변동형으로 대출을 신청했지만, 5년 주기형으로 변경하는 방안을 검토하고 있다. 대출 신청 당시 0.7%포인트(p) 넘게 벌어졌던 두 상품의 금리 격차가 0.6%",
+   "id": "c508ba7ae12349a1",
+   "title": "아파트 판 돈 5억원, 얼마씩 써야 노후파산 피할까",
+   "url": "https://www.chosun.com/economy/economy_general/2026/10/27/CMXTCQX4FNE65HXPSTYRXHKVB4/",
+   "published_at": "2026-10-27T07:24:53+09:00",
+   "summary": "“아파트 한 채를 팔아 5억원을 마련하면, 은퇴 후 매달 얼마씩 꺼내 쓸 수 있을까요?” 은퇴를 앞둔 이들이 자주 하는 고민 유형이다. 평생 모은 돈을 아끼자니 노후를 제대로 누리지 못할 것 같고, 그렇다고 생활비로 넉넉하게 꺼내 쓰려니 돈이 일찍 바닥날까 걱정이다.",
    "tags": [
     "부동산"
    ],
@@ -79,25 +66,11 @@
    "source_name": "조선일보 경제"
   },
   {
-   "id": "876055e36d9e5393",
-   "title": "상하위 20% 집값 격차 290배로 상승…다주택 등 포함시 더 확대",
-   "url": "https://www.yna.co.kr/view/AKR20261023150200002",
-   "published_at": "2026-10-26T05:51:00+09:00",
-   "summary": "(세종=연합뉴스) 김수현 기자 = 자산 상·하위 20%가 보유하고 거주하는 주택의 가격 차이가 300배에 육박하는 것으로 나타났다. 이는 20...",
-   "tags": [
-    "부동산"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "연합뉴스 경제"
-  },
-  {
-   "id": "d22806642135a65e",
-   "title": "국회 재경위 “종부세율 올리면 세입자에 稅부담 전가 가능성”",
-   "url": "https://www.donga.com/news/Economy/article/all/20261026/134905872/2",
-   "published_at": "2026-10-26T04:30:00+09:00",
-   "summary": "정부가 추진하는 종합부동산세 개편으로 집주인의 세금 부담이 세입자에게 전가돼 전월세 가격이 오를 수 있다는 국회 검토 의견이 나왔다. 부동산 양도소득세 공제 축소가 주택 매물 감소로 이어질 수 있다는 우려도 제기되면서 국회 세법 개정안 심사 과정에서 논쟁이 예상된다. 25일 국회 재정경",
+   "id": "985bf81a8bab77a8",
+   "title": "“비만약이 미워요”…헬스장, 올해만 590곳 폐업",
+   "url": "https://www.donga.com/news/Economy/article/all/20261027/134913778/1",
+   "published_at": "2026-10-27T05:36:32+09:00",
+   "summary": "위고비, 마운자로에 이어 비만 신약 ‘에페(성분명 에페글레나타이드)’ 출시가 임박하면서 동네 헬스장의 근심이 깊어지고 있다. 아파트 커뮤니티 활성화와 러닝 열풍으로 가뜩이나 타격을 입은 상황에서 비만 치료제들까지 잇달아 등장하자 헬스업계에서는 “더는 버티기 힘들다”는 하소연이 나온다.2",
    "tags": [
     "부동산"
    ],
@@ -107,14 +80,13 @@
    "source_name": "동아일보 경제"
   },
   {
-   "id": "e67aae331e77307f",
-   "title": "서울아파트 월세 비중, 중형 상승폭 소형 2배",
-   "url": "https://www.donga.com/news/Economy/article/all/20261026/134905778/2",
-   "published_at": "2026-10-26T04:30:00+09:00",
-   "summary": "올해 들어 서울 아파트 전세 거래가 급감하면서 전용면적 60㎡ 초과∼85㎡ 이하 면적대에서 전세의 월세화가 가속화된 것으로 나타났다. 최근 정부는 전세의 월세화가 1인 가구 증가 등에 따른 것이라고 설명했지만 1인 가구가 주로 찾는 소형보다 중형 평형 아파트의 월세 비중이 더 큰 폭으로",
+   "id": "e3adc4fae6353c1a",
+   "title": "부동산 상승에… 상하위 20% 집값 격차 300배 육박, 9년만에 최대",
+   "url": "https://www.donga.com/news/Economy/article/all/20261027/134913301/2",
+   "published_at": "2026-10-27T04:30:00+09:00",
+   "summary": "자산 상하위 20%가 보유하고 거주하는 주택의 가격 차이가 290배에 이르는 것으로 나타났다. 2017년 관련 통계를 집계한 이래 가장 크게 격차가 벌어진 것이다. 26일 국가데이터처의 국가통계포털(KOSIS)에 따르면 지난해 자산 상위 20%인 5분위 가구의 거주 주택 평균 가격은 6",
    "tags": [
-    "부동산",
-    "수도권"
+    "부동산"
    ],
    "metrics": {},
    "is_new": true,
@@ -122,53 +94,10 @@
    "source_name": "동아일보 경제"
   },
   {
-   "id": "ff4293199916d3d7",
-   "title": "종부세 개정안에…국회 보고서 “수도권 쏠림 커지고 임대료 오를 수도”",
-   "url": "https://www.hani.co.kr/arti/economy/economy_general/1284032.html",
-   "published_at": "2026-10-26",
-   "summary": "",
-   "tags": [
-    "부동산"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "한겨레 경제"
-  },
-  {
-   "id": "abc58584fed3c778",
-   "title": "‘반포 현대’ 재초환 부담금 연내 부과 예고…재건축 시장 영향은?",
-   "url": "https://www.hani.co.kr/arti/economy/property/1284024.html",
-   "published_at": "2026-10-26",
-   "summary": "",
-   "tags": [
-    "부동산"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "한겨레 경제"
-  },
-  {
-   "id": "d67f60d1759d349d",
-   "title": "‘전세 부족 정부 책임론’ 반박 바쁜 국토부 장관…시장과 괴리",
-   "url": "https://www.khan.co.kr/article/202610252059005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
-   "published_at": "2026-10-25T20:59:00+09:00",
-   "summary": "홍지선 “1인 가구 증가 탓” SNS 글 이어 국감선 “지방서도 감소”지방 부족 현상 심하지 않은 데다 소형 평형 넘어 30평대도 월세화이성훈 LH 사장 “윤 정부서 착공 준 탓”…현 정부서도 회복 느려지난 국정감사에서 홍지선 국토교통부 장관(사진) 등이 현 부동산 시장에 대해 ‘정부 ",
-   "tags": [
-    "부동산",
-    "청약"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "경향신문 경제"
-  },
-  {
-   "id": "e58f7d9c17288f34",
-   "title": "반도체 호황에…경기 화성 병점 집값 상승률 1위",
-   "url": "https://www.hankyung.com/article/2026102535351",
-   "published_at": "2026-10-25T18:21:33+09:00",
+   "id": "dea8939ba2467448",
+   "title": "화성 ‘반도체 벨트’ 중심에 등장한 초고가 아파트…흥행 성적은?",
+   "url": "https://www.hani.co.kr/arti/economy/property/1284221.html",
+   "published_at": "2026-10-27",
    "summary": "",
    "tags": [
     "부동산",
@@ -178,13 +107,13 @@
    "metrics": {},
    "is_new": true,
    "streak_days": 1,
-   "source_name": "한국경제 부동산"
+   "source_name": "한겨레 경제"
   },
   {
-   "id": "9705b1ce4790cca6",
-   "title": "지방 부동산도 주식·코인 팔아 샀다",
-   "url": "https://www.hankyung.com/article/2026102535101",
-   "published_at": "2026-10-25T18:00:35+09:00",
+   "id": "db2e65d0ec6542e3",
+   "title": "자산 상·하위 20% 집값 격차 ‘290배’…2017년 이후 최대",
+   "url": "https://www.hani.co.kr/arti/economy/economy_general/1284179.html",
+   "published_at": "2026-10-27",
    "summary": "",
    "tags": [
     "부동산"
@@ -192,17 +121,30 @@
    "metrics": {},
    "is_new": true,
    "streak_days": 1,
-   "source_name": "한국경제 부동산"
+   "source_name": "한겨레 경제"
   },
   {
-   "id": "62b49bf238b60f6b",
-   "title": "전세 부족은 구조적 변화, 공급 부족은 전 정부 책임···국토장관·LH사장의 ‘반쪽짜리’ 진단",
-   "url": "https://www.khan.co.kr/article/202610251711001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
-   "published_at": "2026-10-25T17:11:00+09:00",
-   "summary": "홍지선 국토교통부 장관이 23일 국회에서 열린 국토교통위원회 종합감사에서 질문에 답하고 있다. 연합뉴스지난 국정감사에서 홍지선 국토교통부 장관 등이 현 부동산 시장에 대해 정부 정책 책임론을 부정하는 취지의 발언을 했지만 실제 시장 현황과는 다소 동떨어진 것으로 나타났다.홍 장관은 지난",
+   "id": "df2892c33b2bf456",
+   "title": "‘마감 임박’이라더니 모집률 28%…민간임대 시행사 4곳 공정위 제재",
+   "url": "https://www.hani.co.kr/arti/economy/economy_general/1284140.html",
+   "published_at": "2026-10-27",
+   "summary": "",
    "tags": [
-    "부동산",
-    "청약"
+    "부동산"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "한겨레 경제"
+  },
+  {
+   "id": "26481ee95176abf9",
+   "title": "자산 상·하위 20% 집값 6억9341만 대 239만원…290배 차이 ‘역대 최대’",
+   "url": "https://www.khan.co.kr/article/202610262036005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
+   "published_at": "2026-10-26T20:36:00+09:00",
+   "summary": "자산 상·하위 20%가 보유해 거주하는 주택의 가격 차이가 290배에 달해 2017년 집계 이래 최대로 벌어졌다.26일 국가데이터처의 국가통계포털(KOSIS)을 보면 지난해 자산 하위 20%(1분위) 가구의 자가 거주 주택 평균 가격은 239만원이었다. 1년 전보다 9.1% 떨어진 것으",
+   "tags": [
+    "부동산"
    ],
    "metrics": {},
    "is_new": true,
@@ -210,10 +152,10 @@
    "source_name": "경향신문 경제"
   },
   {
-   "id": "8addda9f9d4ed64e",
-   "title": "[집코노미2026 다시보기 영상] 표찬 \"역세권 토지 투자하려면 역에서 이 정도 거리가 적당\"",
-   "url": "https://www.hankyung.com/article/202610231936i",
-   "published_at": "2026-10-25T16:37:19+09:00",
+   "id": "e7eb9cf1bbadf5bc",
+   "title": "'완판' 맞아?…오피스텔 계약률 아무도 모른다",
+   "url": "https://www.hankyung.com/article/2026102658991",
+   "published_at": "2026-10-26T17:19:41+09:00",
    "summary": "",
    "tags": [
     "부동산"
@@ -224,10 +166,10 @@
    "source_name": "한국경제 부동산"
   },
   {
-   "id": "d0212e23b0ae4637",
-   "title": "\"15억원 넘으면 대출 금지\"…SNS 괴담에 금융당국 '경고' [이송렬의 부동산한입]",
-   "url": "https://www.hankyung.com/article/2026102302356",
-   "published_at": "2026-10-25T16:00:03+09:00",
+   "id": "2cf4218756dc6ec2",
+   "title": "법원이 선임한 조합장 사임…북아현3구역 재개발 난항",
+   "url": "https://www.hankyung.com/article/2026102535371",
+   "published_at": "2026-10-26T14:25:00+09:00",
    "summary": "",
    "tags": [
     "부동산"
@@ -238,10 +180,10 @@
    "source_name": "한국경제 부동산"
   },
   {
-   "id": "8b98853432676884",
-   "title": "[집코노미2026 다시보기 영상] 박형준 \"공실률은 낮고 수익은 높고…단기임대가 뜬다\"",
-   "url": "https://www.hankyung.com/article/202610231933i",
-   "published_at": "2026-10-25T14:20:04+09:00",
+   "id": "6bec6ec02dc4823d",
+   "title": "입주 마쳤는데 조합원 승계 가능…재건축 틈새투자 해볼까",
+   "url": "https://www.hankyung.com/article/2026102535341",
+   "published_at": "2026-10-26T14:23:10+09:00",
    "summary": "",
    "tags": [
     "부동산"
@@ -252,10 +194,10 @@
    "source_name": "한국경제 부동산"
   },
   {
-   "id": "9052d7de20ed67f1",
-   "title": "\"강남까지 20분이면 간다\"…집값 들썩이는 '철도 도시' 반전 [철길옆집]",
-   "url": "https://www.hankyung.com/article/2026102167076",
-   "published_at": "2026-10-25T12:00:03+09:00",
+   "id": "62f720361cf9cf50",
+   "title": "대보건설, 대전 가오동1구역 재건축 수주…공사비 2107억원",
+   "url": "https://www.hankyung.com/article/202610265262i",
+   "published_at": "2026-10-26T14:10:18+09:00",
    "summary": "",
    "tags": [
     "부동산"
@@ -266,112 +208,108 @@
    "source_name": "한국경제 부동산"
   },
   {
-   "id": "a7ea79e54fc43e82",
-   "title": "[집코노미2026 다시보기 영상] 김용남 \"일본 집값 고공행진…수요 더 몰릴 것\"",
-   "url": "https://www.hankyung.com/article/202610231925i",
-   "published_at": "2026-10-24T18:01:21+09:00",
+   "id": "33dddd537cee6db0",
+   "title": "\"집 사려니 12억, 전세 살려니 6억\"…강북 아파트값에 '한숨'",
+   "url": "https://www.hankyung.com/article/2026102652367",
+   "published_at": "2026-10-26T14:08:04+09:00",
    "summary": "",
    "tags": [
     "부동산"
    ],
    "metrics": {},
-   "is_new": false,
-   "streak_days": 2,
+   "is_new": true,
+   "streak_days": 1,
    "source_name": "한국경제 부동산"
   },
   {
-   "id": "d58de2c3cb43af5b",
-   "title": "[집코노미2026 다시보기 영상] 이현정 \"경매, 역대급 큰장 뜬다…내집 마련 기회\"",
-   "url": "https://www.hankyung.com/article/202610231918i",
-   "published_at": "2026-10-24T15:21:59+09:00",
-   "summary": "",
-   "tags": [
-    "부동산",
-    "경매"
-   ],
-   "metrics": {},
-   "is_new": false,
-   "streak_days": 2,
-   "source_name": "한국경제 부동산"
-  },
-  {
-   "id": "f44ea5dc25776c12",
-   "title": "지방 집값 제자리인데…전·월세는 '고공행진'",
-   "url": "https://www.hankyung.com/article/2026102316841",
-   "published_at": "2026-10-23T17:15:23+09:00",
+   "id": "0fc843ac50cf55b1",
+   "title": "세종 스마트시티 선도지구 첫 분양…'엘 수자인' 2191가구 다음달",
+   "url": "https://www.hankyung.com/article/202610265172i",
+   "published_at": "2026-10-26T13:45:29+09:00",
    "summary": "",
    "tags": [
     "부동산"
    ],
    "metrics": {},
-   "is_new": false,
-   "streak_days": 3,
+   "is_new": true,
+   "streak_days": 1,
    "source_name": "한국경제 부동산"
   },
   {
-   "id": "bc90504776588ab6",
-   "title": "홍지선 \"주택 인허가·착공 감소가 전세난 원인\"",
-   "url": "https://www.hankyung.com/article/2026102316861",
-   "published_at": "2026-10-23T17:13:19+09:00",
+   "id": "7d4b95eb720cd3c3",
+   "title": "IPARK현산, 금정역세권1구역 재개발 수주…누적수주액 2조원 돌파",
+   "url": "https://www.hankyung.com/article/202610265135i",
+   "published_at": "2026-10-26T13:42:40+09:00",
    "summary": "",
    "tags": [
     "부동산"
    ],
    "metrics": {},
-   "is_new": false,
-   "streak_days": 3,
+   "is_new": true,
+   "streak_days": 1,
    "source_name": "한국경제 부동산"
   },
   {
-   "id": "1a9d38dcadc23749",
-   "title": "BS한양, '세종스마트시티 엘 수자인' 2316가구 11월 분양",
-   "url": "https://www.hankyung.com/article/202610231504i",
-   "published_at": "2026-10-23T16:22:44+09:00",
+   "id": "b77967bd4530834d",
+   "title": "스카이라운지·실내수영장…지방 아파트도 '호텔급 커뮤니티' 경쟁",
+   "url": "https://www.hankyung.com/article/202610264422i",
+   "published_at": "2026-10-26T10:04:51+09:00",
    "summary": "",
    "tags": [
     "부동산"
    ],
    "metrics": {},
-   "is_new": false,
-   "streak_days": 3,
+   "is_new": true,
+   "streak_days": 1,
    "source_name": "한국경제 부동산"
   },
   {
-   "id": "d5655f1f4cc93d2f",
-   "title": "LH, '시흥거모 S-1블록' 공공분양 300가구…59㎡ 4억원대",
-   "url": "https://www.hankyung.com/article/202610231291i",
-   "published_at": "2026-10-23T14:57:08+09:00",
+   "id": "96a9965d14b54496",
+   "title": "원룸 안 팔리는데…'이 평수' 오피스텔 거래는 늘어난 이유",
+   "url": "https://www.hankyung.com/article/2026102641216",
+   "published_at": "2026-10-26T09:08:21+09:00",
    "summary": "",
    "tags": [
-    "부동산",
-    "수도권",
-    "청약"
+    "부동산"
    ],
    "metrics": {},
-   "is_new": false,
-   "streak_days": 3,
+   "is_new": true,
+   "streak_days": 1,
    "source_name": "한국경제 부동산"
   },
   {
-   "id": "eb2f845624fb0afe",
-   "title": "지방 '신흥주거지' 청약 35 대 1…논산·청주·울산서 2293가구 분양",
-   "url": "https://www.hankyung.com/article/202610231278i",
-   "published_at": "2026-10-23T14:53:07+09:00",
+   "id": "0a00f9a09718db16",
+   "title": "창원 용지호수 앞에 46층 아파트…삼성물산, 7381억 재건축 수주",
+   "url": "https://www.hankyung.com/article/2026102642156",
+   "published_at": "2026-10-26T08:52:50+09:00",
    "summary": "",
    "tags": [
-    "부동산",
-    "청약"
+    "부동산"
    ],
    "metrics": {},
-   "is_new": false,
-   "streak_days": 3,
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "한국경제 부동산"
+  },
+  {
+   "id": "c8e1cd5b631e0de8",
+   "title": "기막힌 부동산 양극화…상·하위 20% 집값 격차 300배 육박",
+   "url": "https://www.hankyung.com/article/2026102641377",
+   "published_at": "2026-10-26T08:43:15+09:00",
+   "summary": "",
+   "tags": [
+    "부동산"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
    "source_name": "한국경제 부동산"
   },
   {
    "id": "6a0834327afccc3b",
    "title": "LH 청약플러스 — 분양·임대 공고",
    "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
-   "published_at": "2026-10-26",
+   "published_at": "2026-10-27",
    "summary": "수도권 공고는 지역 필터로",
    "tags": [
     "바로가기",
@@ -379,14 +317,14 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 38,
+   "streak_days": 39,
    "source_name": "바로가기"
   },
   {
    "id": "25744536b7c84e25",
    "title": "온비드 — 공매 물건",
    "url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateList.do",
-   "published_at": "2026-10-26",
+   "published_at": "2026-10-27",
    "summary": "부동산 공매 검색",
    "tags": [
     "바로가기",
@@ -394,14 +332,14 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 38,
+   "streak_days": 39,
    "source_name": "바로가기"
   },
   {
    "id": "c91f39808692d334",
    "title": "법원경매정보 — 매각기일 공고",
    "url": "https://www.courtauction.go.kr/",
-   "published_at": "2026-10-26",
+   "published_at": "2026-10-27",
    "summary": "관할 법원별 기일 확인",
    "tags": [
     "바로가기",
@@ -409,16 +347,15 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 38,
+   "streak_days": 39,
    "source_name": "바로가기"
   }
  ],
  "status": {
   "ok": true,
-  "count": 28,
+  "count": 24,
   "warn": [
-   "LH·온비드 공공데이터 API: 키 없음(DATA_GO_KR_KEY) — 뉴스·바로가기만",
-   "어제와 동일 36%"
+   "LH·온비드 공공데이터 API: 키 없음(DATA_GO_KR_KEY) — 뉴스·바로가기만"
   ],
   "error": null,
   "level": "warn",
