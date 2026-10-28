@@ -1,6 +1,6 @@
 {
  "module": "news",
- "fetched_at": "2026-10-27T09:34:01+09:00",
+ "fetched_at": "2026-10-28T09:33:26+09:00",
  "source": {
   "name": "매체 RSS 9곳",
   "url": "https://news.google.com/?hl=ko&gl=KR",
@@ -8,50 +8,55 @@
  },
  "items": [
   {
-   "id": "329d3a7cd9ed4b89",
-   "title": "물가·증시·집값 비상인데… 여당, 탄핵·특검 무한반복",
-   "url": "https://www.chosun.com/politics/assembly/2026/10/27/TH7APOWZSVDH3PYSMHLJWP5FIY/",
-   "published_at": "2026-10-27T00:56:00+09:00",
-   "summary": "국정감사가 이번 주 마무리되면 국회에서 내년도 예산안과 민생 법안 심사가 본격화된다. 하지만 집권 여당인 더불어민주당의 관심은 온통 조희대 대법원장 탄핵 여부와 대통령 사건의 조작기소를 밝히는 특검에 쏠려 있다. 집값과 물가가 오르고 증시마저 불안한데 민생보다 정치 공방에만 몰두하고 있",
+   "id": "09dd206e7695e4f4",
+   "title": "[뷰리핑] 대법, 김건희 ‘추가 구속영장’ 발부",
+   "url": "https://www.hani.co.kr/arti/politics/politics_general/1284514.html",
+   "published_at": "2026-10-28",
+   "summary": "",
+   "tags": [],
+   "metrics": {
+    "cluster": 87,
+    "outlets": 2,
+    "cluster_tags": [
+     "사회"
+    ]
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "한겨레"
+  },
+  {
+   "id": "e9ee5b841f7d5904",
+   "title": "[속보] SK하이닉스, 3분기 영업이익 83조 ‘어닝 서프라이즈’",
+   "url": "https://www.hani.co.kr/arti/economy/marketing/1284506.html",
+   "published_at": "2026-10-28",
+   "summary": "",
+   "tags": [],
+   "metrics": {
+    "cluster": 95,
+    "outlets": 2,
+    "cluster_tags": [
+     "경제"
+    ]
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "한겨레"
+  },
+  {
+   "id": "5ff26cb31eda5d59",
+   "title": "김건희 추가 구속영장 발부…대법 “증거인멸·도망 염려” - KBS 뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5FeGxhT1FuYzdDandHT0dnRnp3VHliaDlfREF5b0Vka19JU1hsdE1LZmIyMWE4dkE5VXlyOUprNkpVZFRqSkpZLXRCYWEyZTdUNFhFa21BdlFGdHB0SU5NajYtbU0zUQ?oc=5",
+   "published_at": "2026-10-28T06:31:00+09:00",
+   "summary": "김건희 추가 구속영장 발부…대법 “증거인멸·도망 염려” KBS 뉴스 [속보] SK하이닉스, 60조원 추가 주주환원…배당·자사주 매입 JTBC [속보]김건희 구속 최장 8개월 연장…대법, 추가 구속영장 발부 문화일보 [속보]대법원, 김건희 추가 구속영장 발부 “증거인멸·도주 염려”…최대 ",
    "tags": [
-    "경제",
-    "부동산",
-    "정치",
     "사회"
    ],
    "metrics": {
-    "cluster": 23,
+    "cluster": 87,
     "outlets": 2,
     "cluster_tags": [
-     "경제",
-     "부동산",
-     "사회",
-     "정치"
-    ]
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "조선일보"
-  },
-  {
-   "id": "0a1dff7736420625",
-   "title": "물가·증시·집값 비상인데… 여당, 탄핵·특검 무한반복 - 조선일보",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYlpYeVhaYndDSFlXdnU0UjJOLTRWb1NtMHJVaTVIZ28zSjYtVFpFemU3dXpkYzl2a2loUUZOM25uNVlJUURmdjV6WmNqakFDWWVYVFYxd1R0OUk5TTRTb1Znd2hfUWxGS3NOMUhnanE3eHFLaV9idU5YcGxIWXRFY01jZWVhUQ?oc=5",
-   "published_at": "2026-10-27T00:56:00+09:00",
-   "summary": "물가·증시·집값 비상인데… 여당, 탄핵·특검 무한반복 조선일보 민주당, 오늘 의원총회…내년도 예산안, ‘신천지 의혹’ 등 논의 KBS 뉴스 “조희대 탄핵, 다 망하자는 얘기···정청래 때 왜 안했나” 주간경향 與, 오늘 의원총회…조희대 국조 추진 등 의견 수렴 연합뉴스 與강경파 “조희대",
-   "tags": [
-    "경제",
-    "부동산",
-    "정치"
-   ],
-   "metrics": {
-    "cluster": 23,
-    "outlets": 2,
-    "cluster_tags": [
-     "경제",
-     "부동산",
-     "사회",
-     "정치"
+     "사회"
     ]
    },
    "is_new": true,
@@ -59,22 +64,35 @@
    "source_name": "구글뉴스 KR"
   },
   {
-   "id": "70ccbc6115985c42",
-   "title": "\"쓰레기 같은 나라\"…'노벨상 뒤끝' 트럼프, 노르웨이에 막말 - 연합뉴스",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9OWlJtUG96VXB4dnZ2WTFROTl4Z3Q5QnNxTnZYV21RODNUOGRmZlh4S3pTUzk4clFydzdGYzRwOHIycUNBYW5oamZLSHhXd3UzVmZsaUpHNExkS1XSAWBBVV95cUxQbUFLTnlyUWFlU3g3OVk5aVhJQlBXb3pnXzBJUzJJdktSNnE0MjRYZ25jczNZRVZDeHExWkRFRUZDTDNFVmNtOWJJbkI5MzVkaWV6YUFfeFJRWEJJdW5NOUI?oc=5",
-   "published_at": "2026-10-27T02:35:56+09:00",
-   "summary": "\"쓰레기 같은 나라\"…'노벨상 뒤끝' 트럼프, 노르웨이에 막말 연합뉴스 “쓰레기 같은 나라”…‘노벨상 뒤끝 작렬’ 트럼프가 지목한 국가 매일경제 \"거지같은 나라\"…노벨상 못탄 트럼프, 노르웨이 원색 비난 뉴스1 노벨상 못 받은 트럼프, 노르웨이에 또 화풀이···“쓰레기 같은 나라” 경향",
+   "id": "92fb2a28fcf2a99f",
+   "title": "[속보]SK하이닉스, 60조원 추가 주주환원…배당·자사주 매입",
+   "url": "https://www.donga.com/news/Economy/article/all/20261028/134922169/1",
+   "published_at": "2026-10-28T08:34:00+09:00",
+   "summary": "[속보]SK하이닉스, 60조원 추가 주주환원…배당·자사주 매입",
+   "tags": [],
+   "metrics": {
+    "cluster": 48,
+    "outlets": 2,
+    "cluster_tags": []
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "동아일보"
+  },
+  {
+   "id": "a80fbfc9f210f2ca",
+   "title": "속보 SK하이닉스 3분기 실적 발표...영업이익 83조 원 - YTN",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9vMmVQVWtFRHNVM0IwVk1aTjZWdnM1ZDZDNmRZOXRXVDNubGZWWGRkN2ZpSWdOemJJYnVSTXE4cWl6ZmtWQnR3UkR1d2lDU2g2akxJTzNjMzNwcnZOdHc?oc=5",
+   "published_at": "2026-10-28T08:38:00+09:00",
+   "summary": "속보 SK하이닉스 3분기 실적 발표...영업이익 83조 원 YTN SK하이닉스, 2026년 3분기 경영실적 발표 SK hynix SK하이닉스, 3분기 영업익 83조…분기 매출 첫 100조 'OPM 80%' 녹색경제신문 [속보] SK하이닉스, 3분기 영업이익 83조원...60조원 추가 주",
    "tags": [
-    "경제",
-    "국제"
+    "경제"
    ],
    "metrics": {
-    "cluster": 57,
+    "cluster": 95,
     "outlets": 2,
     "cluster_tags": [
-     "경제",
-     "국제",
-     "정치"
+     "경제"
     ]
    },
    "is_new": true,
@@ -82,239 +100,227 @@
    "source_name": "구글뉴스 KR"
   },
   {
-   "id": "89c0572cc0b97bc1",
-   "title": "노벨상 못 받은 트럼프, 노르웨이에 또 화풀이···“쓰레기 같은 나라”",
-   "url": "https://www.khan.co.kr/article/202610270748001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-   "published_at": "2026-10-27T07:48:00+09:00",
-   "summary": "26일(현지시간) 프레더릭 W. 스미스 공항에 도착한 도널드 트럼프 미국 대통령이 에어포스 원에서 내리고 있다. AFP연합뉴스도널드 트럼프 미국 대통령이 노벨평화상을 받지 못한 데 대한 불만을 재차 쏟아내며 노르웨이를 “쓰레기 같은 나라”라고 비난하자 노르웨이 정부가 반박했다. 노르웨이",
-   "tags": [
-    "정치",
-    "국제"
-   ],
+   "id": "7eb73a372f0097c3",
+   "title": "[속보] SK하이닉스, 60조원 추가 주주환원…주당 2만원 배당",
+   "url": "https://www.khan.co.kr/article/202610280846001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "published_at": "2026-10-28T08:46:00+09:00",
+   "summary": "SK하이닉스가 올해 약 100조원 규모의 주주환원에 나선다. 최근 자사주 매입·소각 40조원에 더해 추가로 60조원 이상의 자사주 매입·소각에 나서기로 했다.SK하이닉스는 28일 올해 현금배당 30조원 이상과 자사주 매입·소각 60조원 이상 등 총 약 100조원 규모의 주주환원을 추진한",
+   "tags": [],
    "metrics": {
-    "cluster": 57,
+    "cluster": 48,
     "outlets": 2,
-    "cluster_tags": [
-     "경제",
-     "국제",
-     "정치"
-    ]
+    "cluster_tags": []
    },
    "is_new": true,
    "streak_days": 1,
    "source_name": "경향신문"
   },
   {
-   "id": "4642ee93247165bc",
-   "title": "법무장관 후보 박균택·양부남 압축… 둘다 검찰 출신 ‘공소 취소파’ - 조선일보",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZEpkY2c3TFhETGtCWG9JQnR5Szl4RU9hN2lCaXFpY2lKMmZnaHRQZmtKbkVGQUowT0htckotR0RzNEFaYjFxOVBMY2dtdnktZVk4VTRXZERRTzVOQXBiM25ZM2g2MXpKLW40Y3NWOHI3LW56bTdXVnRmUW9lamNJNmhMTWJnclE4YWt5LXhOODY?oc=5",
-   "published_at": "2026-10-26T00:51:58+09:00",
-   "summary": "법무장관 후보 박균택·양부남 압축… 둘다 검찰 출신 ‘공소 취소파’ 조선일보 법무부 장관 하마평에 ‘공소취소파’ 논란…차관도 사의 KBS 뉴스 '조작기소'와 '공소취소' 사이에서 길 잃은 여권 OhmyNews “오세훈 무죄에 李대통령, 잔뜩 겁 먹었다…허겁지겁 공취모 법무장관 검토” 장",
-   "tags": [
-    "정치",
-    "사회"
-   ],
-   "metrics": {
-    "cluster": 123,
-    "outlets": 1,
-    "cluster_tags": [
-     "사회",
-     "정치"
-    ]
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "구글뉴스 KR"
-  },
-  {
-   "id": "3e1c2cba1b02fd3c",
-   "title": "프랑스 시위, 약탈 재연 면해…산발 충돌에 1,300명 체포 - 연합뉴스TV",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE54emtmeFgxYXYySzV0QnBmTDZLZW15cUxmdmMxWlZDYTdqcGF2ckJzWmdyVXp4emw1Ql9vRXBtZWtfN2lJN3R5ZjFSdFVDZXRVODMxMW9uTjlXR1VfdkxJT2dHUU02V2c?oc=5",
-   "published_at": "2026-10-26T05:38:00+09:00",
-   "summary": "프랑스 시위, 약탈 재연 면해…산발 충돌에 1,300명 체포 연합뉴스TV 마크롱 “폭력 사태에 SNS 탓”…정부는 대입 제도 개편안 KBS 뉴스 \"교사 늘리고 대입 플랫폼 개선\"...핼러윈 시위 '강행' YTN 佛 극우후보 르펜 ‘구국영웅 잔다르크’ 이미지로 대선 출정식 동아일보 프랑스",
+   "id": "d7ed8ec8a0e028e1",
+   "title": "[속보]SK하이닉스, 60조원 추가 주주환원…배당·자사주 매입",
+   "url": "https://www.donga.com/news/Economy/article/all/20261028/134922204/1",
+   "published_at": "2026-10-28T08:51:00+09:00",
+   "summary": "SK하이닉스가 올해 약 100조원 규모의 주주환원을 추진한다. 올해 8월 40조원 규모의 자사주 매입·소각을 결정한 만큼, 추가적으로 60조 원 상당이 주주환원에 투입되는 것이다. 이로써 SK하이닉스는 현금 배당에 30조원 이상, 자사주 매입·소각에 60조원 이상을 투입할 계획이다.SK",
    "tags": [],
    "metrics": {
-    "cluster": 126,
-    "outlets": 1,
+    "cluster": 48,
+    "outlets": 2,
     "cluster_tags": []
    },
    "is_new": true,
    "streak_days": 1,
-   "source_name": "구글뉴스 KR"
+   "source_name": "동아일보"
   },
   {
-   "id": "13b8a128c1f8b8e5",
-   "title": "'선관위' 특검, 28일 올림픽공원서 투표지 검증 - MBC 뉴스",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9NOE1seUR6NVd1Ym03bDYzNkdFRzdLYUx1U1RXc09FS1RVLUxxUWwyME5ZclF6TkFGUzBNOVBNVHNhQnEwbnV3bmItZVh1VDAzTUUybjRfblZnQlJ4ZUpZcWxYUHd1SlpYYVd1ZTNuam9GSWxHa3I40gF3QVVfeXFMUGdPSnJDSm9BeHZhZzNxbUNMZGxZd2hMMmdhTVV5SEEtVlRxZUdDYzg3LUgxQTJYY2Jma0FZdU92cnRmQ09ndnRwbHY2MGNvUmpTelkzREhZZnJtYUlWUmZJUmhYNFlxbVFVMEJrWHNfMzZyLV84V0U?oc=5",
-   "published_at": "2026-10-26T09:37:16+09:00",
-   "summary": "'선관위' 특검, 28일 올림픽공원서 투표지 검증 MBC 뉴스 Google 뉴스에서 헤드라인 및 의견 더보기",
+   "id": "5e4f0c8ad79ad053",
+   "title": "선관위특검, 핸드볼경기장 내부 진입…투표지 검증 착수",
+   "url": "https://www.hankyung.com/article/202610289586i",
+   "published_at": "2026-10-28T08:56:26+09:00",
+   "summary": "",
    "tags": [
     "정치"
    ],
    "metrics": {
-    "cluster": 124,
-    "outlets": 1,
+    "cluster": 7,
+    "outlets": 2,
     "cluster_tags": [
      "정치"
     ]
    },
    "is_new": true,
    "streak_days": 1,
-   "source_name": "구글뉴스 KR"
+   "source_name": "한국경제"
   },
   {
-   "id": "5bd5bf1c1a7d93a8",
-   "title": "미국 유권자 69% “트럼프 행정부 부패·이해 충돌 우려” - KBS 뉴스",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PcUdqT3lrNEtIeFVYNGw0MWs0NTZybFBqb0ZPNFV1NFE4VVRKTHIwbi1sU2lMZko4RkNKTWFiSlB5dktWYjBRVVdiYTYtT2Z1LTNpU2pwMUwyX2s?oc=5",
-   "published_at": "2026-10-26T11:24:00+09:00",
-   "summary": "미국 유권자 69% “트럼프 행정부 부패·이해 충돌 우려” KBS 뉴스 패배 직감한 트럼프 \"모조리 거부권\" 폭주…한국까지 사정권 JTBC 美상원 7곳서 박빙… 재산세-구직난 등 ‘먹고사는 문제’ 화두로 동아일보 '공화당 텃밭'까지 밀릴 위기...트럼프, 결국 직접 유세 나섰다 [자막뉴",
-   "tags": [
-    "국제"
-   ],
-   "metrics": {
-    "cluster": 120,
-    "outlets": 1,
-    "cluster_tags": [
-     "국제"
-    ]
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "구글뉴스 KR"
-  },
-  {
-   "id": "50e804f2759ee924",
-   "title": "リディア・コ、金恵景夫人への「ゴルフレッスン」疑惑否定…「事実でない」",
-   "url": "https://www.chosun.com/jp/economy-jp/2026/10/26/HA7IADCJ7JBY7JN7OXZFSJKWOI/",
-   "published_at": "2026-10-26T17:05:59+09:00",
-   "summary": "李在明（イ・ジェミョン）大統領の配偶者である金恵景（キム・ヘギョン）夫人が有名プロゴルファーを伴ってゴルフをした、とされる疑惑。保守系最大野党「国民の力」の朱晋佑（チュ・ジンウ）議員が主張するこの疑惑で当事者として名指しされたプロゴルファーのリディア・コが、疑惑を否定した。 リディア・コは26日、インスタグラムを通じ「",
+   "id": "70e264d7f7005f22",
+   "title": "[속보] 대신증권, 고객정보 3만8000여건 유출…긴급 대응조치 시행",
+   "url": "https://www.hankyung.com/article/2026102896147",
+   "published_at": "2026-10-28T08:57:33+09:00",
+   "summary": "",
    "tags": [],
    "metrics": {
-    "cluster": 22,
-    "outlets": 1,
+    "cluster": 29,
+    "outlets": 2,
     "cluster_tags": []
    },
    "is_new": true,
    "streak_days": 1,
-   "source_name": "조선일보"
+   "source_name": "한국경제"
   },
   {
-   "id": "cada17225bd510a3",
-   "title": "\"AI시대, 설비 투자뿐만 아니라 '사람에 대한 투자' 이뤄져야\"",
-   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008815802",
-   "published_at": "2026-10-26T20:45:00+09:00",
-   "summary": "▲ 장지연 한국노동연구원 선임연구위원이 26일 국민경제자문회의가 개최한 'AI 대전환 시대, 어떻게 준비할 것인가: 역량개발과…",
+   "id": "57cad1fa9de0786c",
+   "title": "[속보]당정, ‘가상자산 과세 유예’ 결론 못내…“여러가지 점검”",
+   "url": "https://www.donga.com/news/Politics/article/all/20261028/134922375/2",
+   "published_at": "2026-10-28T09:09:00+09:00",
+   "summary": "더불어민주당과 정부가 내년 1월 시행 예정인 가상자산 과세의 추가 유예 여부를 논의했지만 결론을 내리지 못했다. 민주당은 과세 준비 상황과 제도 보완 필요성 등을 당 차원에서 추가로 점검하기로 했다.국회 재정경제기획위원회 민주당 간사인 오기형 의원은 28일 국회에서 열린 가상자산 과세 ",
    "tags": [
     "경제",
-    "IT",
-    "AI"
+    "정치"
    ],
    "metrics": {
-    "cluster": 114,
-    "outlets": 1,
+    "cluster": 12,
+    "outlets": 2,
     "cluster_tags": [
-     "AI",
-     "IT",
-     "경제"
+     "경제",
+     "정치"
     ]
    },
    "is_new": true,
    "streak_days": 1,
-   "source_name": "SBS"
+   "source_name": "동아일보"
   },
   {
-   "id": "59ab2c2ca0737c37",
-   "title": "강신철 국방 장관 “브런슨에 ‘전작권 조건 변화’ 발언 우려 전달” - 경향신문",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mT2RlNE1XcHJVaWoteG1JOEF0VHZja3VuSGRfSXZJVkx2VVNqdnFWdmkxV0oyWW1mSFBtOV9TMXFuMVFjT0RfeXRkQ2Q4bnY4LXlHdnpmYzhYZ9IBX0FVX3lxTE1Xc1dhTFZ2X2swVVZmd2FWY3J1NGc1X0xESVZQQmo0N09kSS11WUV3WE5nNXFhbjlfNVd5am5jcHZEZzFEM3dnSUFFY1F5ZGk1RWY1V1M3NExjQ1ZNTm4w?oc=5",
-   "published_at": "2026-10-26T21:31:00+09:00",
-   "summary": "강신철 국방 장관 “브런슨에 ‘전작권 조건 변화’ 발언 우려 전달” 경향신문 강신철 \"북한과 전쟁 났을때 미군 믿을 수 있나… 그렇지 않은 것\" 조선일보 강신철 “북한과 전쟁 시 미군 믿을 수 있느냐” 발언 논란 …전작권 전환 시기·방식 두고 韓美, 與野 갈등 문화일보 ‘전작권 전환 연",
+   "id": "18e72ab7beed9db7",
+   "title": "당정, 가상자산 과세 유예 결론 못내…\"여러 가지 점검\"",
+   "url": "https://www.yna.co.kr/view/AKR20261028030751001",
+   "published_at": "2026-10-28T09:25:01+09:00",
+   "summary": "(서울=연합뉴스) 박경준 정연솔 기자 = 더불어민주당과 정부가 내년 1월 가상자산 과세 시행을 앞두고 28일 국회에서 당정협의회를 열어 이를 유...",
    "tags": [
     "정치"
    ],
    "metrics": {
-    "cluster": 118,
-    "outlets": 1,
+    "cluster": 12,
+    "outlets": 2,
+    "cluster_tags": [
+     "경제",
+     "정치"
+    ]
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "연합뉴스"
+  },
+  {
+   "id": "dc9684ef00c50062",
+   "title": "선관위특검, 올림픽공원 핸드볼경기장 진입…투표지 공개검증 착수",
+   "url": "https://www.yna.co.kr/view/AKR20261028046300004",
+   "published_at": "2026-10-28T09:26:30+09:00",
+   "summary": "(서울=연합뉴스) 정윤주 조현영 최원정 기자 = 6·3 지방선거 투표용지 부족 사태 등을 수사하는 이태한 선거관리위원회 특별검사팀이 28일 서울...",
+   "tags": [
+    "정치"
+   ],
+   "metrics": {
+    "cluster": 7,
+    "outlets": 2,
     "cluster_tags": [
      "정치"
     ]
    },
    "is_new": true,
    "streak_days": 1,
-   "source_name": "구글뉴스 KR"
+   "source_name": "연합뉴스"
   },
   {
-   "id": "270b9b02aabc3150",
-   "title": "JYPエンターテインメント「日系投資グループから買収提案受けていない」",
-   "url": "https://www.chosun.com/jp/economy-jp/2026/10/26/4M3RSBPWBRBGRE45SGP2G6I6LQ/",
-   "published_at": "2026-10-26T21:55:28+09:00",
-   "summary": "日系投資グループが経営権を確保できる水準でJYPエンターテインメント株の取得を進めるとの報道が出たことを受け、会社側は「買収提案を受けたことはない」との立場を示した。26日、YTNはザ・ネックスロック（NEXROC）グループとSVCV株式会社が報道資料を出し、来月20日の公開買い付け開始を目標に手続きを検討していると報",
+   "id": "6c9672a7f5556868",
+   "title": "[속보] 대신증권, 고객정보 3만8천여건 유출…긴급 대응조치 시행",
+   "url": "https://www.mk.co.kr/news/stock/12188030",
+   "published_at": "2026-10-28T17:59:06+09:00",
+   "summary": "",
    "tags": [],
    "metrics": {
-    "cluster": 15,
-    "outlets": 1,
+    "cluster": 29,
+    "outlets": 2,
     "cluster_tags": []
    },
    "is_new": true,
    "streak_days": 1,
-   "source_name": "조선일보"
+   "source_name": "매일경제"
   },
   {
-   "id": "e0fee074182e939c",
-   "title": "유명 골퍼에게 \"황제 레슨\"?…\"스토킹 멈춰라\" 고발",
-   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008815708",
-   "published_at": "2026-10-26T23:06:00+09:00",
-   "summary": "이재명 대통령의 부인, 김혜경 여사가 유명 프로골퍼와 골프를 쳤다고 국민의힘 주진우 의원이 주장했습니다. 해당 골퍼가 이를 직접 부인하면서 폭로는 힘을 잃었지만, 공방이 이어지면서 결국 법적 대응으로 번지게 됐습니다.고정현 기자의 보도입니다.",
+   "id": "0227f8cdaa5f8260",
+   "title": "구로구 주택가 시신 유기한 남성 2명 체포…빌라주인 등(종합) - 연합뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9OSWtwRFc1eUxrNlRRU1FMSGhuTFpPMDE5eExUZEJpTlBlcThveE8xTTBVUWZTR3gwSEMtblFncVdBVmFNNWRnM0pSS2tBV21nWGc4U010YzJxZzjSAWBBVV95cUxOWkdDS2FLNF90QlJpNmRrX3ZieDhrcUc0MzVydUhLYmZzT2pkN1ROTHdBRjVXem92Z1YwZi1XdEJxZUd5REJfTFZoZ2NsTDBqSGlrS2h1UjhoSllIMFJzdkM?oc=5",
+   "published_at": "2026-10-27T18:01:22+09:00",
+   "summary": "구로구 주택가 시신 유기한 남성 2명 체포…빌라주인 등(종합) 연합뉴스 주택가 쓰레기 더미서 ‘미라화’ 시신 발견…남성 2명 체포 JTBC 속보 경찰 \"서울 구로구에서 시체 유기한 혐의로 2명 체포\" YTN 서울 주택가 쓰레기 더미서 미라화된 시신…비닐·신문지에 감싼 채 발견 - 머니투",
    "tags": [
-    "정치"
-   ],
-   "metrics": {
-    "cluster": 115,
-    "outlets": 1,
-    "cluster_tags": [
-     "정치"
-    ]
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "SBS"
-  },
-  {
-   "id": "b5ccd5753d6ca086",
-   "title": "[사설]‘52시간 특례’ 입법 대신 시행령 ‘땜질’… 속도전 가능할까 - 동아일보",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5SanhSZDhORWt5LXNCaDRJOURmTmVudXRiQzRicXQwbEdfZU9kYi1wR0puTURjdy1ESG1WS2lLSXU3YWlGS0Y4VFZnT0ZKS2lMUWRpQmtFYUh5NHM5WXFNeW5WZkZRZjNHWkdyUWp6RWhVVk9MM3fSAWZBVV95cUxPUW5EVDBNbmtTR2RkUlU2QUxYaWhNeDYxSUQ5czZXTC1XOWdKcUZ4YWQyb0F0aFc0TUJESkRpT0dYTXlFQkN2VFRVc2gtdENiam9VdlJDM08tenR2cnVRQzBXd2FkNXc?oc=5",
-   "published_at": "2026-10-26T23:30:00+09:00",
-   "summary": "[사설]‘52시간 특례’ 입법 대신 시행령 ‘땜질’… 속도전 가능할까 동아일보 반도체 주52시간제 예외… 시행령 땜질한다는 정부 동아일보 대통령 주문에 주52시간 해법 찾는 정부…시행령 등 다양한 대안 검토 - 머니투데이 머니투데이 규제합리화위원회 제2차 전체회의 - 사진 | 멀티미디어",
-   "tags": [
-    "정치",
-    "IT",
-    "신기술"
-   ],
-   "metrics": {
-    "cluster": 122,
-    "outlets": 1,
-    "cluster_tags": [
-     "IT",
-     "신기술",
-     "정치"
-    ]
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "구글뉴스 KR"
-  },
-  {
-   "id": "4dee5cf72cebac72",
-   "title": "김혜경 여사, 오월어머니집 전·현직 임원과 청와대서 오찬",
-   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008815867",
-   "published_at": "2026-10-26T23:49:00+09:00",
-   "summary": "▲ 오월어머니집 초청한 김혜경 여사이재명 대통령의 배우자 김혜경 여사가 5·18 민주화운동 관련 단체인 '오월어머니집'…",
-   "tags": [
-    "정치"
+    "사회"
    ],
    "metrics": {
     "cluster": 112,
     "outlets": 1,
     "cluster_tags": [
+     "사회"
+    ]
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "구글뉴스 KR"
+  },
+  {
+   "id": "bacaa6085c173372",
+   "title": "“니들은 사형”…특검 압수수색에 ‘올공 시위’ 다시 거세져 - 한겨레",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE44ZXMyODA1RVVoZ01OdTFVMDZkYVcwYldCaE1OUV80alRybG41ZmtTcXBGbndQTTFpZ0g0UHNZV2hGdlB6WUNpV3d1a2FuN1ZCYWNwN2pfZ2ZOVl9mbFZRU3RGSzA3MEdkYUFoaGRuNDFndw?oc=5",
+   "published_at": "2026-10-27T19:50:00+09:00",
+   "summary": "“니들은 사형”…특검 압수수색에 ‘올공 시위’ 다시 거세져 한겨레 [속보] 장동혁, '투표지 검증' 올림픽공원서 \"의혹 다 밝혀야\" MBC 뉴스 [속보] 이태한 선관위 특검, 핸드볼경기장 진입… 투표지 검증 착수 조선일보 올림픽공원 핸드볼경기장 현장 검증 나선 이태한 특검 뉴시스 ‘올공",
+   "tags": [
+    "정치"
+   ],
+   "metrics": {
+    "cluster": 110,
+    "outlets": 1,
+    "cluster_tags": [
+     "정치"
+    ]
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "구글뉴스 KR"
+  },
+  {
+   "id": "17c38f07c13141aa",
+   "title": "\"고소득자는 인간이 아닌가\"…주 52시간 예외 두고 '고심'",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008817661",
+   "published_at": "2026-10-27T22:18:00+09:00",
+   "summary": "전남광주 반도체 클러스터 등을 지원하기 위한 법안인 초광역 특구법은, 이례적으로 두 개의 법안으로 나뉘어 발의된 상태입니다. 주 52시간제에 예외를 두는 특례 조항 때문인데요.",
+   "tags": [
+    "IT",
+    "신기술"
+   ],
+   "metrics": {
+    "cluster": 106,
+    "outlets": 1,
+    "cluster_tags": [
+     "IT",
+     "신기술"
+    ]
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "SBS"
+  },
+  {
+   "id": "3559b322ad5389d3",
+   "title": "브라질 룰라, 이 대통령 당선 축하에 \"진심으로 감사\"",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008817834",
+   "published_at": "2026-10-27T22:52:00+09:00",
+   "summary": "▲ 이재명 대통령과 루이스 이나시우 룰라 다시우바 브라질 대통령이 지난 7월 27일 브라질리아 대통령관저에서 공동언론발표를 마친 뒤 …",
+   "tags": [
+    "정치"
+   ],
+   "metrics": {
+    "cluster": 107,
+    "outlets": 1,
+    "cluster_tags": [
      "정치"
     ]
    },
@@ -323,10 +329,166 @@
    "source_name": "SBS"
   },
   {
-   "id": "f31a23f2778f7fd2",
-   "title": "우주급유냐, 다단로켓이냐…머스크-베이조스, 달 착륙 비행 정면승부",
-   "url": "https://www.hani.co.kr/arti/science/science_general/1284310.html",
-   "published_at": "2026-10-27",
+   "id": "a78f8c157077ee64",
+   "title": "美당국자, '전작권 X연도 협의'에 \"조건들 충족될 때 이양\" - 연합뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01MWN1WGlOckx1X21pd1lpb2tmSTYxN0RScFY4V3R6Z2ZMTVhNbHh5LXBCeGRKYzA5NzdFWndUaUdLUlZLV01FYTJ5MHg5QldNQ0poRTFCd1k2MXfSAWBBVV95cUxOS2NmaE9heXduSFozaHdTOXlvTjlSd1JLVlZiOGxjNHBUVjFjY0NIcVdqZkc5ZF9VTUJERmZ2NHBvZm9IaVRUS3lkR09LcExrOW4tbUtJUDlBalVUS3hSZEo?oc=5",
+   "published_at": "2026-10-27T22:55:51+09:00",
+   "summary": "美당국자, '전작권 X연도 협의'에 \"조건들 충족될 때 이양\" 연합뉴스 [사설] 지뢰 대응도 쩔쩔매는 ‘강신철 국방’, 전쟁 나면 믿을 수 있겠나 조선일보 국방부 일일 정례 브리핑 대한민국 정책브리핑 한동훈 “美 믿을 수 없다? 국방장관이 운동권 흉내” 문화일보 [속보] 한미안보협의회의",
+   "tags": [
+    "정치"
+   ],
+   "metrics": {
+    "cluster": 116,
+    "outlets": 1,
+    "cluster_tags": [
+     "정치"
+    ]
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "구글뉴스 KR"
+  },
+  {
+   "id": "f12067cfb5289b3c",
+   "title": "\"비정상의 정상화…한 달에 한 번쯤은 오세요\"",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008817670",
+   "published_at": "2026-10-27T23:22:00+09:00",
+   "summary": "이재명 대통령이 중대범죄수사청장의 국무회의 참석은 비정상의 정상화라고 말했습니다. 그러면서 공개회의에 참석하는 게 정치적 중립과 무슨 상관이 있느냐고 반문했는데, 다만 업무상 참석이 어려울 경우 한 달에 한 번 정도 와도 된다며 여지를 남겼습니다.강민우 기자입니다.",
+   "tags": [
+    "정치"
+   ],
+   "metrics": {
+    "cluster": 99,
+    "outlets": 1,
+    "cluster_tags": [
+     "정치"
+    ]
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "SBS"
+  },
+  {
+   "id": "e87628761939d625",
+   "title": "\"골프 특별감찰\"…\"사이버 레커로 전향하라\"",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008817671",
+   "published_at": "2026-10-27T23:25:00+09:00",
+   "summary": "국민의힘 주진우 의원이 제기한 김혜경 여사의 골프 의혹을 두고, 오늘은 당 지도부까지 나서 특별감찰 대상이라며 공세를 이어갔습니다. 이에 민주당은 아니면 말고 식의 무책임한 폭로를 멈추라며 강하게 비판했습니다.김보미 기자의 보도입니다.",
+   "tags": [
+    "정치"
+   ],
+   "metrics": {
+    "cluster": 101,
+    "outlets": 1,
+    "cluster_tags": [
+     "정치"
+    ]
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "SBS"
+  },
+  {
+   "id": "e984ccfb4b19df68",
+   "title": "쪼그라드는 달…4억년간 반지름 45m 줄었다",
+   "url": "https://www.hani.co.kr/arti/science/science_general/1284518.html",
+   "published_at": "2026-10-28",
+   "summary": "",
+   "tags": [],
+   "metrics": {
+    "cluster": 83,
+    "outlets": 1,
+    "cluster_tags": []
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "한겨레"
+  },
+  {
+   "id": "4e871c7db0f0ffea",
+   "title": "대신증권 3만8490명 개인정보 유출…“해커의 비정상적 접근 포착”",
+   "url": "https://www.hani.co.kr/arti/economy/finance/1284517.html",
+   "published_at": "2026-10-28",
+   "summary": "",
+   "tags": [],
+   "metrics": {
+    "cluster": 84,
+    "outlets": 1,
+    "cluster_tags": []
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "한겨레"
+  },
+  {
+   "id": "4b5e46c1b990c46f",
+   "title": "아이젠코트 “네타냐후, 국민 불신임 받아들이고 정계 은퇴하라”",
+   "url": "https://www.hani.co.kr/arti/international/international_general/1284516.html",
+   "published_at": "2026-10-28",
+   "summary": "",
+   "tags": [],
+   "metrics": {
+    "cluster": 85,
+    "outlets": 1,
+    "cluster_tags": []
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "한겨레"
+  },
+  {
+   "id": "a08bd8dbe35478cf",
+   "title": "생후 50일 아기, 분유 먹다 심정지…119 영상통화가 살려냈다",
+   "url": "https://www.hani.co.kr/arti/area/capital/1284515.html",
+   "published_at": "2026-10-28",
+   "summary": "",
+   "tags": [],
+   "metrics": {
+    "cluster": 86,
+    "outlets": 1,
+    "cluster_tags": []
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "한겨레"
+  },
+  {
+   "id": "c4b8ccb3a1ab1430",
+   "title": "김민석 “조희대 문제, 디테일 충분히 전달 안돼…그래서 국정조사”",
+   "url": "https://www.hani.co.kr/arti/politics/politics_general/1284513.html",
+   "published_at": "2026-10-28",
+   "summary": "",
+   "tags": [],
+   "metrics": {
+    "cluster": 88,
+    "outlets": 1,
+    "cluster_tags": []
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "한겨레"
+  },
+  {
+   "id": "925135d3599b7d69",
+   "title": "[속보] 한미안보협의회의, 28년 만에 해 넘긴다…미 국방부 “상호 합의”",
+   "url": "https://www.hani.co.kr/arti/international/america/1284512.html",
+   "published_at": "2026-10-28",
+   "summary": "",
+   "tags": [],
+   "metrics": {
+    "cluster": 89,
+    "outlets": 1,
+    "cluster_tags": []
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "한겨레"
+  },
+  {
+   "id": "478c5d46b4a7894c",
+   "title": "금감원장, 해킹 사태에 “금융지주 이사회, 정보보안 역량제고 앞장을”",
+   "url": "https://www.hani.co.kr/arti/economy/finance/1284511.html",
+   "published_at": "2026-10-28",
    "summary": "",
    "tags": [],
    "metrics": {
@@ -339,10 +501,10 @@
    "source_name": "한겨레"
   },
   {
-   "id": "b5ad5e358dc32ca8",
-   "title": "9월 일반회사채 발행 급증…만기 상환은 3조 더 많아",
-   "url": "https://www.hani.co.kr/arti/economy/finance/1284309.html",
-   "published_at": "2026-10-27",
+   "id": "e02c486b2e09439c",
+   "title": "7000㎞ 날아온 흰이마기러기, 홍도평야를 기억했다",
+   "url": "https://www.hani.co.kr/arti/animalpeople/wild_animal/1284510.html",
+   "published_at": "2026-10-28",
    "summary": "",
    "tags": [],
    "metrics": {
@@ -355,42 +517,50 @@
    "source_name": "한겨레"
   },
   {
-   "id": "decd9f8e77f5a7ad",
-   "title": "[뷰리핑] 오세훈·한동훈·이준석, 연대에 ‘동상이몽’?",
-   "url": "https://www.hani.co.kr/arti/politics/politics_general/1284308.html",
-   "published_at": "2026-10-27",
+   "id": "0a1ea0294babcc8f",
+   "title": "장동혁, ‘올공’ 투표지 검증 현장서 “부정선거 더 큰 목소리로 외쳐달라”",
+   "url": "https://www.hani.co.kr/arti/politics/assembly/1284509.html",
+   "published_at": "2026-10-28",
    "summary": "",
-   "tags": [],
+   "tags": [
+    "정치"
+   ],
    "metrics": {
     "cluster": 92,
     "outlets": 1,
-    "cluster_tags": []
+    "cluster_tags": [
+     "정치"
+    ]
    },
    "is_new": true,
    "streak_days": 1,
    "source_name": "한겨레"
   },
   {
-   "id": "4f18faaa51726c57",
-   "title": "조건휘, 프로당구 5차 투어 1위 ‘통산 4승’…“5년간 루틴의 힘”",
-   "url": "https://www.hani.co.kr/arti/sports/sports_general/1284307.html",
-   "published_at": "2026-10-27",
+   "id": "fb76b728072c1093",
+   "title": "선관위특검, ‘올공’ 진입…147일 만에 투표 용지 검증 나서",
+   "url": "https://www.hani.co.kr/arti/society/society_general/1284508.html",
+   "published_at": "2026-10-28",
    "summary": "",
-   "tags": [],
+   "tags": [
+    "정치"
+   ],
    "metrics": {
     "cluster": 93,
     "outlets": 1,
-    "cluster_tags": []
+    "cluster_tags": [
+     "정치"
+    ]
    },
    "is_new": true,
    "streak_days": 1,
    "source_name": "한겨레"
   },
   {
-   "id": "9990b4b4112d7e6c",
-   "title": "‘골프 의혹’ 영상 슬쩍 고친 주진우…리디아 고에 사과 없이 “일부 오류”",
-   "url": "https://www.hani.co.kr/arti/politics/politics_general/1284306.html",
-   "published_at": "2026-10-27",
+   "id": "5baaf2abe0c733b9",
+   "title": "[속보] SK하이닉스, 분기배당 2만원…올해 주주환원 100조원 공식화",
+   "url": "https://www.hani.co.kr/arti/economy/marketing/1284507.html",
+   "published_at": "2026-10-28",
    "summary": "",
    "tags": [],
    "metrics": {
@@ -403,26 +573,10 @@
    "source_name": "한겨레"
   },
   {
-   "id": "c64ccbfef6ba4313",
-   "title": "제1회 김학철문학상 대상 황정은…시상식 내달 4일",
-   "url": "https://www.hani.co.kr/arti/culture/book/1284305.html",
-   "published_at": "2026-10-27",
-   "summary": "",
-   "tags": [],
-   "metrics": {
-    "cluster": 95,
-    "outlets": 1,
-    "cluster_tags": []
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "한겨레"
-  },
-  {
-   "id": "e21c4965c100c4be",
-   "title": "트럼프 “똥통 나라 노르웨이, 이민 안 받겠다”…노벨평화상 ‘뒤끝’",
-   "url": "https://www.hani.co.kr/arti/international/international_general/1284304.html",
-   "published_at": "2026-10-27",
+   "id": "5f51162039a7562c",
+   "title": "‘대선 패배’ 보우소나루, 여권 제출 명령에도 미국으로 도피한 듯",
+   "url": "https://www.hani.co.kr/arti/international/international_general/1284505.html",
+   "published_at": "2026-10-28",
    "summary": "",
    "tags": [
     "국제"
@@ -439,10 +593,10 @@
    "source_name": "한겨레"
   },
   {
-   "id": "fb5432177249fa5c",
-   "title": "어쩌면 올 가을 ‘마지막 여름’…강한 바람에 내일 아침 겨울이 실려온다",
-   "url": "https://www.hani.co.kr/arti/society/environment/1284303.html",
-   "published_at": "2026-10-27",
+   "id": "55815101c4bb5723",
+   "title": "코트와 패딩 챙겨야…하루 새 10도 뚝, 전국 곳곳 아침 영하권",
+   "url": "https://www.hani.co.kr/arti/society/environment/1284504.html",
+   "published_at": "2026-10-28",
    "summary": "",
    "tags": [],
    "metrics": {
@@ -455,542 +609,122 @@
    "source_name": "한겨레"
   },
   {
-   "id": "001d1309367992de",
-   "title": "[속보] 3분기 경제성장률 1.0%…‘연간 3.3%’ 전망치 9달 만에 초과달성",
-   "url": "https://www.hani.co.kr/arti/economy/economy_general/1284302.html",
-   "published_at": "2026-10-27",
-   "summary": "",
+   "id": "16bbdbe367a7a65b",
+   "title": "프랑스 정부, 시위 막으려 SNS 차단까지 검토 - 연합뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wQ05SN29QVTd5TnBaOE1hT0lHdzVLWTRWdzNvLVMyNE1UM2xWY2dEVXlhTW5MSnJEZkJOUFBiLTg3WHEzVEZCUE1JVF9PRzI1U0RlQVk5WTFoMmPSAWBBVV95cUxPbHJQc2h0SVBzWk1jby1NZml4bTQ5YTI1WFdWbms0bFBDd3dDQjFSRWpmeUM2VGNtaGV5ajUteFNqcDI0WDg2SEM5eEpjNlZKQnc0RVhCSWNCcDlMZmkwLVg?oc=5",
+   "published_at": "2026-10-28T00:24:24+09:00",
+   "summary": "프랑스 정부, 시위 막으려 SNS 차단까지 검토 연합뉴스 프랑스 정부, 주말 대규모 시위 막으려 SNS 차단까지 추진 경향신문 [김성웅 돋보기] 유럽 사태를 보면서 우리가 준비해야 하는 것은 기호일보 佛정부, 대규모 시위 앞두고 SNS·인터넷 접속 차단 추진했다 뉴스1 [투자의 창] 프",
    "tags": [
-    "경제"
-   ],
-   "metrics": {
-    "cluster": 98,
-    "outlets": 1,
-    "cluster_tags": [
-     "경제"
-    ]
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "한겨레"
-  },
-  {
-   "id": "feed7d60bba020f4",
-   "title": "[속보] 오픈AI “수학·컴퓨터과학·물리학 수십년 난제 3개 풀었다”",
-   "url": "https://www.hani.co.kr/arti/international/america/1284301.html",
-   "published_at": "2026-10-27",
-   "summary": "",
-   "tags": [
-    "IT",
-    "AI"
-   ],
-   "metrics": {
-    "cluster": 99,
-    "outlets": 1,
-    "cluster_tags": [
-     "AI",
-     "IT"
-    ]
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "한겨레"
-  },
-  {
-   "id": "030d5d74719d14b4",
-   "title": "경찰 ‘부실수사 논란’ 포항 집단 성폭력 사건 피의자 전원 구속기소",
-   "url": "https://www.hani.co.kr/arti/society/society_general/1284300.html",
-   "published_at": "2026-10-27",
-   "summary": "",
-   "tags": [
-    "사회"
-   ],
-   "metrics": {
-    "cluster": 100,
-    "outlets": 1,
-    "cluster_tags": [
-     "사회"
-    ]
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "한겨레"
-  },
-  {
-   "id": "1519a67c54988bc6",
-   "title": "고문하는 나라로 가느냐, 민주주의로 가느냐의 분수령 [금자㉘]",
-   "url": "https://www.hani.co.kr/arti/society/society_general/1284299.html",
-   "published_at": "2026-10-27",
-   "summary": "",
-   "tags": [],
-   "metrics": {
-    "cluster": 101,
-    "outlets": 1,
-    "cluster_tags": []
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "한겨레"
-  },
-  {
-   "id": "007935148a9d2fa7",
-   "title": "브라질 대선 극우 패배에 트럼프 “선거 조작”…네타냐후도 오늘 시험대",
-   "url": "https://www.hani.co.kr/arti/international/america/1284298.html",
-   "published_at": "2026-10-27",
-   "summary": "",
-   "tags": [
-    "정치",
-    "국제"
-   ],
-   "metrics": {
-    "cluster": 102,
-    "outlets": 1,
-    "cluster_tags": [
-     "국제",
-     "정치"
-    ]
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "한겨레"
-  },
-  {
-   "id": "a73e84804c417dc6",
-   "title": "소비심리 한달 만에 다시 하락세…국내 증시 불안정·중동 정세 여파",
-   "url": "https://www.hani.co.kr/arti/economy/economy_general/1284297.html",
-   "published_at": "2026-10-27",
-   "summary": "",
-   "tags": [],
-   "metrics": {
-    "cluster": 103,
-    "outlets": 1,
-    "cluster_tags": []
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "한겨레"
-  },
-  {
-   "id": "3a915a1b52c11f7d",
-   "title": "미 중간선거 사전투표 4년 전보다 37% 증가…민주·무당층 참여 열기",
-   "url": "https://www.hani.co.kr/arti/international/america/1284296.html",
-   "published_at": "2026-10-27",
-   "summary": "",
-   "tags": [
-    "정치"
-   ],
-   "metrics": {
-    "cluster": 104,
-    "outlets": 1,
-    "cluster_tags": [
-     "정치"
-    ]
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "한겨레"
-  },
-  {
-   "id": "22cabd5a4df1e1c3",
-   "title": "자주포에 앉은 북한군, '보란 듯' 포신 돌렸다",
-   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008815872",
-   "published_at": "2026-10-27T00:34:00+09:00",
-   "summary": "북한의 자주포가 눈에 띄게 남쪽으로 내려 배치된 모습이 저희 카메라에 포착됐습니다. 대남 확성기 방송을 재개하겠다고 예고한 상황에서 접경지역 주민들의 불안이 커지고 있습니다.첫 소식, 김민준 기자가 취재했습니다.",
-   "tags": [],
-   "metrics": {
-    "cluster": 111,
-    "outlets": 1,
-    "cluster_tags": []
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "SBS"
-  },
-  {
-   "id": "4d975c60b17f5736",
-   "title": "접경 긴장 속 \"30대에 민통선 뚫렸다\" 질타",
-   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008815873",
-   "published_at": "2026-10-27T00:37:00+09:00",
-   "summary": "북한이 아직 우리 군사회담 제안에 응답하지 않은 가운데 국정감사에 나온 강신철 국방장관은 김정은 위원장의 방중 시점을 예상해 회담을 제안한 거라고 밝혔습니다.",
-   "tags": [
-    "정치"
-   ],
-   "metrics": {
-    "cluster": 110,
-    "outlets": 1,
-    "cluster_tags": [
-     "정치"
-    ]
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "SBS"
-  },
-  {
-   "id": "24e87c76f84f25bf",
-   "title": "[신문은 선생님] [사소한 역사] 고대 아테네 스포츠 경기 우승자에게 올리브유 담긴 항아리 준 데서 유래했죠",
-   "url": "https://www.chosun.com/national/nie/2026/10/27/UDHHES7UZJEB5HTYYFX5IEOADM/",
-   "published_at": "2026-10-27T00:40:00+09:00",
-   "summary": "최근 프로축구 구단 FC서울이 리그 우승을 확정했습니다. 프로야구도 다음 달 최종 승자가 가려져요. “트로피의 주인은 누가 될까?”라는 말을 흔히 할 정도로 트로피는 우승의 상징인데요. 컵 형태로 만들어지는 경우가 많아 우승컵이라고도 해요. 오늘은 트로피에 얽힌 이야기를 함께 알아보겠습",
-   "tags": [],
-   "metrics": {
-    "cluster": 16,
-    "outlets": 1,
-    "cluster_tags": []
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "조선일보"
-  },
-  {
-   "id": "38eeb03d96f7fcf3",
-   "title": "[신문은 선생님] [스타와 정신건강] 그만하고 싶어도 멈추지 못했던 ‘강박’, 경기장에선 무수한 ‘연습’으로 이어졌어요",
-   "url": "https://www.chosun.com/national/nie/2026/10/27/7HZU2DDA75HMPP7I4HLAOU3FTE/",
-   "published_at": "2026-10-27T00:40:00+09:00",
-   "summary": "2001년 10월, 잉글랜드와 그리스의 월드컵 예선전이 막바지에 이르렀어요. 잉글랜드는 1대2로 뒤지고 있었어요. 추가 시간, 위기에 빠진 잉글랜드에 마지막이나 다름없는 프리킥 기회가 찾아왔어요. 공 앞에 선 사람은 당시 26세였던 데이비드 베컴(현재 51세)이었어요. 베컴이 오른발로 ",
-   "tags": [],
-   "metrics": {
-    "cluster": 27,
-    "outlets": 1,
-    "cluster_tags": []
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "조선일보"
-  },
-  {
-   "id": "0575ce0ec118be26",
-   "title": "'오세훈 무죄'에 다시 불붙은 \"조희대 탄핵\"",
-   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008815874",
-   "published_at": "2026-10-27T00:40:00+09:00",
-   "summary": "오세훈 서울시장이 항소심에서 무죄 판결을 받은 것을 계기로 조희대 대법원장을 탄핵해야 한다는 목소리가 범여권에서 한층 높아지고 있습니다. 재제청 거부에 이어 탄핵을 할 이유가 늘었다는 민주당 주장에 국민의 힘은 기승 전 탄핵이냐고 비판했습니다.보도에 김관진 기자입니다.",
-   "tags": [
-    "사회"
-   ],
-   "metrics": {
-    "cluster": 109,
-    "outlets": 1,
-    "cluster_tags": [
-     "사회"
-    ]
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "SBS"
-  },
-  {
-   "id": "928b52cc85ee0c42",
-   "title": "유명 프로와 골프?…\"스토킹 멈춰라\" 고발",
-   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008815875",
-   "published_at": "2026-10-27T00:43:00+09:00",
-   "summary": "이재명 대통령의 부인, 김혜경 여사가 유명 프로 골퍼와 골프를 쳤다고 국민의힘 주진우 의원이 주장했습니다. 해당 골퍼가 이를 직접 부인하면서 폭로는 힘을 잃었지만 공방이 그치지 않으면서 결국 맞고소로 번지게 됐습니다.고정현 기자의 보도입니다.",
-   "tags": [
-    "정치"
-   ],
-   "metrics": {
-    "cluster": 108,
-    "outlets": 1,
-    "cluster_tags": [
-     "정치"
-    ]
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "SBS"
-  },
-  {
-   "id": "5cad778f3b44bf6a",
-   "title": "보폭 넓히는 오세훈… 연이틀 野의원들과 만찬 회동 - 조선일보",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeHNyZTdaRjk0dXc3WVJoRUxQU3ZDNzFUN2VTUzI0UG14SDFCVnJZeHNiME43ZEpZRDV6bDB0ZmJhcEFzYkxKVk8zOWlDVHE4aVNtd1QzNDREbDI1ZFZfdTBkT2hZc2pnRmhMWS1jcmlhYVNNOXh5NFd6ekhuZDhEcWZ3Wmphdw?oc=5",
-   "published_at": "2026-10-27T00:47:00+09:00",
-   "summary": "보폭 넓히는 오세훈… 연이틀 野의원들과 만찬 회동 조선일보 “吳에 징역형 바래” 법사위원장 서영교 직권남용 고발 문화일보 ‘오세훈 중심’ 보수 통합론에 한동훈 포함 놓고 ‘동상이몽’ 경향신문 최민희 “정치적 사건에 AI 판사 도입…법안 준비하겠다” 동아일보 “명태균, 과장은 좀 있지만.",
-   "tags": [
-    "정치",
-    "IT",
-    "AI"
-   ],
-   "metrics": {
-    "cluster": 116,
-    "outlets": 1,
-    "cluster_tags": [
-     "AI",
-     "IT",
-     "정치"
-    ]
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "구글뉴스 KR"
-  },
-  {
-   "id": "22539ccd4d35fbb3",
-   "title": "物価・株価・住宅価格に警報…与党、弾劾・特検を反復",
-   "url": "https://www.chosun.com/jp/politics-national-jp/2026/10/27/3HEIQRAUGNEMHKIVXX3GFY5N54/",
-   "published_at": "2026-10-27T00:56:00+09:00",
-   "summary": "国政監査が今週終了すれば、国会では来年度予算案と民生法案の審査が本格化する。しかし、与党「共に民主党」の関心はチョ・ヒデ大法院長の弾劾の是非と、大統領関連事件の「捏造起訴」を明らかにする特別検察官に集中している。住宅価格と物価が上昇し、株式市場まで不安定な中、民生よりも政治攻防にばかり没頭しているとの指摘が出ている。",
-   "tags": [],
-   "metrics": {
-    "cluster": 24,
-    "outlets": 1,
-    "cluster_tags": []
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "조선일보"
-  },
-  {
-   "id": "bbc94140f610a64f",
-   "title": "\"공부 약이라고\"…57초 만에 항우울제 두 달 치 '뚝딱'",
-   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008815713",
-   "published_at": "2026-10-27T01:57:00+09:00",
-   "summary": "수능을 앞둔 일부 수험생 사이에서 정신과 약이 '공부 잘하는 약'으로 잘못 알려지고 있습니다. 실제 복용했다가 심각한 부작용을 겪는 사례가 발생하고 있는데요.",
-   "tags": [],
-   "metrics": {
-    "cluster": 113,
-    "outlets": 1,
-    "cluster_tags": []
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "SBS"
-  },
-  {
-   "id": "b68740f15f2710f6",
-   "title": "국힘, 김혜경 여사-유명골퍼 軍골프장 라운딩 의혹 제기 - 동아일보",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA2TTY5Z282ODl1czZfOGN6MnBIckx6VU1IUE5nN1dUZlZfTGtJdVFObUN4bThCenpCZS1NTXg0blRlWUNWSm5sRjAzYUJQSmZmQmdnN19MdlBGanhCQ25SUWNXSUxVOFZ3MjdHRllBOWxWMUtDNzRV0gFmQVVfeXFMUDBueGptOEdIUzF5eXppaUhZaThQNTlJUm1iZVpTVUx0U2hzUDRoS1ZOY0Ixal9ZbXZpTWtFUGQ2dlYtdmE1RmkzLUt0RjhvVGlvYlpvdERpV0szanJvbGVLUzJ2ck93?oc=5",
-   "published_at": "2026-10-27T04:30:00+09:00",
-   "summary": "국힘, 김혜경 여사-유명골퍼 軍골프장 라운딩 의혹 제기 동아일보 주진우 ‘황제 레슨’ 폭로하더니…리디아고 ‘저 아닌데요?’ 황당 JTBC 주진우, \"황제 골프\" 의혹 공방...김건희, 추가 구속될까? [뉴스UP] YTN ‘황제 골프’ 의혹에 리디아 고도 반박…민주당 “주진우, 법적조치 ",
-   "tags": [],
-   "metrics": {
-    "cluster": 121,
-    "outlets": 1,
-    "cluster_tags": []
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "구글뉴스 KR"
-  },
-  {
-   "id": "5bb1f6510bf1b44f",
-   "title": "사우디·이란 긴장 완화에 유가 하락…\"전쟁 프리미엄만 20달러\" - 파이낸셜뉴스",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52QlZNa1EzWV9MdUpfalFjaXh4R3hHUkxLRlAzQmxDd2NBeGNMdXFMdXZJNjdaM0ZaSUU5VTlXYVgyclF5YWlBR1VMa1pBQmpvcFBFSU54UTd6dw?oc=5",
-   "published_at": "2026-10-27T05:09:16+09:00",
-   "summary": "사우디·이란 긴장 완화에 유가 하락…\"전쟁 프리미엄만 20달러\" 파이낸셜뉴스 이란·사우디 회동에 국제유가 하락…WTI 1.5%↓ 연합뉴스TV 이란 중재 외교 노력에 유가 하락세 지속 Investing.com 한국어 중동 확전에 불붙은 기름값... 117달러 돌파, 반년새 최고 - 머니투",
-   "tags": [],
-   "metrics": {
-    "cluster": 125,
-    "outlets": 1,
-    "cluster_tags": []
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "구글뉴스 KR"
-  },
-  {
-   "id": "53cf3be4968ec233",
-   "title": "韓国株下落で消費心理悪化、1カ月で低下に転換",
-   "url": "https://www.chosun.com/jp/economy-jp/2026/10/27/7XRTG55H4FBTVFRITOCPPI3ODU/",
-   "published_at": "2026-10-27T06:00:01+09:00",
-   "summary": "韓国株式市場の大幅下落の影響で、やや持ち直していた消費心理が1カ月ぶりに低下した。韓国銀行が27日発表した「消費者動向調査」によると、10月の消費者心理指数（CCSI）は105.4で、前月より1.2ポイント下落した。CCSIは8月に低下した後、9月に反発していたが、再び下落した。",
-   "tags": [],
-   "metrics": {
-    "cluster": 20,
-    "outlets": 1,
-    "cluster_tags": []
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "조선일보"
-  },
-  {
-   "id": "6163fc2984f9117b",
-   "title": "주가 하락이 끌어내리는 소비 심리…한 달 만에 하락 전환",
-   "url": "https://www.chosun.com/economy/economy_general/2026/10/27/FNKRS6BP6BGJVKLWTYNLCP6NAA/",
-   "published_at": "2026-10-27T06:00:01+09:00",
-   "summary": "한국 주식 시장이 크게 하락한 영향으로 다소 살아났던 소비 심리가 한 달 만에 내려갔다. 27일 한국은행의 ‘소비자 동향 조사’에 따르면 10월 소비자심리지수(CCSI)는 105.4로 전월보다 1.2포인트 하락했다. CCSI는 8월 하락한 후 9월 반등했었는데 다시 내려갔다.",
-   "tags": [],
-   "metrics": {
-    "cluster": 21,
-    "outlets": 1,
-    "cluster_tags": []
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "조선일보"
-  },
-  {
-   "id": "e10ff874cb894ef8",
-   "title": "美중산층이 사랑하는 식당인데… 오바마, 트럼프 때리려다 실언 논란",
-   "url": "https://www.chosun.com/international/us/2026/10/27/FINXEMUQPBA7XHFZZIZV3NYQVA/",
-   "published_at": "2026-10-27T06:04:18+09:00",
-   "summary": "11월 중간선거를 앞두고 민주당 지원 유세에 나선 버락 오바마 전 대통령이 도널드 트럼프 대통령을 비판하면서 “백악관을 사담 후세인이 치즈케이크 팩토리를 열어버린 것처럼 보이게 만들었다”고 말한 것을 두고 미 정치권을 중심으로 논란이 일고 있다. 오바마의 이런 발언은 트럼프가 백악관에 ",
-   "tags": [
-    "정치",
-    "국제"
-   ],
-   "metrics": {
-    "cluster": 18,
-    "outlets": 1,
-    "cluster_tags": [
-     "국제",
-     "정치"
-    ]
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "조선일보"
-  },
-  {
-   "id": "f923644d9a932c08",
-   "title": "米中間層に人気の店なのに…オバマ氏、トランプ氏批判で失言物議",
-   "url": "https://www.chosun.com/jp/international-jp/2026/10/27/ZHQCTPAIEVB6LMZBDR4GRUTHG4/",
-   "published_at": "2026-10-27T06:04:18+09:00",
-   "summary": "11月の中間選挙を前に民主党候補の応援演説に乗り出したバラク・オバマ元大統領が、ドナルド・トランプ大統領を批判し、「ホワイトハウスを、サダム・フセインがチーズケーキ・ファクトリーを開いたかのように見せている」と述べたことを巡り、米政界を中心に論争が起きている。オバマ氏の発言は、トランプ氏がホワイトハウスに大型宴会場を建",
-   "tags": [],
-   "metrics": {
-    "cluster": 19,
-    "outlets": 1,
-    "cluster_tags": []
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "조선일보"
-  },
-  {
-   "id": "a91e9608cf1f14ee",
-   "title": "‘구속 만료 D-4’ 김건희, 오늘 대법원서 추가 구속영장 심문 - KBS 뉴스",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBnVVkwVXdxdTkwTEFsVlc5bW0tQkpodDNZZEJ3WmhyVGNKd3JXYVI2bk5ZMWtXdDU3Um1fV1EzZkI4V3V3ZnU5Ymd6Uk1TdURYNUlYalVETFZQUzQ?oc=5",
-   "published_at": "2026-10-27T06:14:00+09:00",
-   "summary": "‘구속 만료 D-4’ 김건희, 오늘 대법원서 추가 구속영장 심문 KBS 뉴스 한병도 \"조희대 국정조사 추진 여부, 오늘 의총서 결정…권한 남용 의혹 밝혀야\" 뉴시스 ‘구속 연장이냐 석방이냐’…김건희 여사 오늘 ‘운명의 날’ 경기일보 석방 4일 앞둔 김건희 추가구속 분수령···대법 오늘 ",
-   "tags": [
-    "사회"
-   ],
-   "metrics": {
-    "cluster": 117,
-    "outlets": 1,
-    "cluster_tags": [
-     "사회"
-    ]
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "구글뉴스 KR"
-  },
-  {
-   "id": "f08517cae4989c25",
-   "title": "자주포에 앉은 북한군, '보란 듯' 포신 돌렸다",
-   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008815941",
-   "published_at": "2026-10-27T06:16:00+09:00",
-   "summary": "북한이 주력 자주포를 보란 듯이 남쪽으로 내려 배치한 모습이 저희 카메라에 포착됐습니다. 이달 중 대남 확성기를 다시 시작하겠다고 한 상황에서 나온 조치라 긴장 고조를 노린 거라는 분석이 나옵니다.김민준 기자입니다.",
-   "tags": [],
-   "metrics": {
-    "cluster": 111,
-    "outlets": 1,
-    "cluster_tags": []
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "SBS"
-  },
-  {
-   "id": "59437a02a08dca50",
-   "title": "접경 긴장 속 \"30대에 민통선 뚫렸다\" 질타",
-   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008815942",
-   "published_at": "2026-10-27T06:18:00+09:00",
-   "summary": "북한이 아직 우리 군사 회담 제안에 응답하지 않는 가운데 어제 국정감사에 나온 강신철 국방장관은 김정은 위원장의 방중 시점을 예상해 회담을 제안한 거라고 밝혔습니다.",
-   "tags": [
-    "정치"
-   ],
-   "metrics": {
-    "cluster": 110,
-    "outlets": 1,
-    "cluster_tags": [
-     "정치"
-    ]
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "SBS"
-  },
-  {
-   "id": "9891cb87b7f32c0c",
-   "title": "'오세훈 무죄'에 다시 불붙은 \"조희대 탄핵\"",
-   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008815943",
-   "published_at": "2026-10-27T06:20:00+09:00",
-   "summary": "오세훈 서울시장이 항소심에서 무죄 판결을 받은 것을 조희대 대법원장과 연결시키면서 조 대법원장을 탄핵해야 한다는 주장이 여권에서 힘을 얻고 있습니다.",
-   "tags": [
-    "사회"
-   ],
-   "metrics": {
-    "cluster": 109,
-    "outlets": 1,
-    "cluster_tags": [
-     "사회"
-    ]
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "SBS"
-  },
-  {
-   "id": "701fb4c823328104",
-   "title": "유명 프로와 골프?…\"스토킹 멈춰라\" 고발",
-   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008815944",
-   "published_at": "2026-10-27T06:22:00+09:00",
-   "summary": "국민의힘 주진우 의원이 이재명 대통령의 부인인 김혜경 여사가 유명 프로 골퍼와 골프를 쳤다고 주장했습니다. 어제 종일 청와대와 여야가 이 문제로 공방을 거듭했고 결국 맞고소로 번지게 됐습니다.고정현 기자입니다.",
-   "tags": [
-    "정치"
-   ],
-   "metrics": {
-    "cluster": 108,
-    "outlets": 1,
-    "cluster_tags": [
-     "정치"
-    ]
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "SBS"
-  },
-  {
-   "id": "258628734cfbc7a7",
-   "title": "민주당, 오늘 의원총회…조희대 국조 추진 등 의견 수렴",
-   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008816081",
-   "published_at": "2026-10-27T07:23:00+09:00",
-   "summary": "▲ 더불어민주당 의원총회민주당이 오늘 의원총회를 열고 조희대 대법원장에 대한 국정조사 추진 등을 논의합니다.민주당은 오늘 오후 비공개…",
-   "tags": [
-    "정치",
-    "사회"
-   ],
-   "metrics": {
-    "cluster": 106,
-    "outlets": 1,
-    "cluster_tags": [
-     "사회",
-     "정치"
-    ]
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "SBS"
-  },
-  {
-   "id": "ecdf556386c5324a",
-   "title": "룰라 당선에 브라질 금융시장 패닉···주가 17% 폭락에 서킷브레이커 발동 - 경향신문",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE03UFpIMS1MLW1NZl8zeGpBa0pYSVpPT3BrWkFwcUZmZ3JnSndxWWNUeVZVbHBROWlIVmdnM0F1LWRxS0t4dHhpZG05YXNsQzgzZFBYWWFFUTNCQdIBX0FVX3lxTFBudE9DdGkzY3lLWVY1SFh4ZFY0MjdxNTUtZnFCWHpuN2ptRUdxWU5LMTVKU1NBNjM4RU52Z0hESXVvRVM2U05NWFBvTWU5SDlRVXhXUHZrSDY4N045MW1F?oc=5",
-   "published_at": "2026-10-27T07:31:00+09:00",
-   "summary": "룰라 당선에 브라질 금융시장 패닉···주가 17% 폭락에 서킷브레이커 발동 경향신문 좌파 정부 연임에 브라질 금융시장 패닉셀 조선일보 트럼프, 브라질 대선 결과에 \"조작된 부패 선거\" YTN 대통령 인기 여전한데 주가는 왜 폭락?…국가재정 우려 커지는 브라질 매일경제 마켓 [뉴욕환시] ",
-   "tags": [
-    "경제",
-    "정치",
     "국제"
    ],
    "metrics": {
     "cluster": 119,
     "outlets": 1,
     "cluster_tags": [
+     "국제"
+    ]
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "구글뉴스 KR"
+  },
+  {
+   "id": "665cfd2b20266da9",
+   "title": "민주, 사상 첫 대법원장 국정조사 추진…탄핵은?",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008817872",
+   "published_at": "2026-10-28T00:44:00+09:00",
+   "summary": "민주당이 조희대 대법원장에 대한 국정조사를 실시하기로 결정했습니다. 다음달 5일 본회의에 조사요구서 제출을 예고한 가운데, 국민의힘은 노골적인 사법부 탄압이라며 모든 수단을 동원해 막을 것이라고 반발했습니다.전연남 기자의 보도입니다.",
+   "tags": [
+    "사회"
+   ],
+   "metrics": {
+    "cluster": 104,
+    "outlets": 1,
+    "cluster_tags": [
+     "사회"
+    ]
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "SBS"
+  },
+  {
+   "id": "940a4c8b32cb4efa",
+   "title": "\"고소득자는 인간이 아닌가\"…주52시간 예외 '고심'",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008817874",
+   "published_at": "2026-10-28T00:52:00+09:00",
+   "summary": "전남광주 반도체 클러스터 등을 지원하기 위한 법안인 '초광역 특구법'이 이례적으로 2개의 법안으로 발의가 된 상태입니다. 주 52시간제에 예외를 두는 특례 조항 때문인데요.",
+   "tags": [
+    "IT",
+    "신기술"
+   ],
+   "metrics": {
+    "cluster": 106,
+    "outlets": 1,
+    "cluster_tags": [
+     "IT",
+     "신기술"
+    ]
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "SBS"
+  },
+  {
+   "id": "5c481eb2859a1b54",
+   "title": "북한 해안포 개방…지뢰는 '방어무기'라는 통일장관",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008817873",
+   "published_at": "2026-10-28T01:27:00+09:00",
+   "summary": "북한이 접경지역에 해안포를 개방한 모습이 포착됐습니다. 군사회담 제안에 대해 북한이 침묵하는 가운데, 국정감사에서는 '지뢰는 방어무기'라는 정동영 통일장관의 발언을 놓고 설전이 벌어졌습니다.노동규 기자입니다.",
+   "tags": [
+    "정치"
+   ],
+   "metrics": {
+    "cluster": 103,
+    "outlets": 1,
+    "cluster_tags": [
+     "정치"
+    ]
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "SBS"
+  },
+  {
+   "id": "0041bebcc8530b1e",
+   "title": "여, 조희대 탄핵 즉각추진 역풍 우려 “확실한 근거부터 찾자” - 한겨레",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBOOWtPaFZYQ0c1M1RzSlBMY0hEanJKVHFhVXVlUVVVWjFIRVh1NGF1Vy1rVVB0ZWIxaGc0REFYd3AzaWc1VF9ZQVBUZk9YZFZxdVBEVXgwa0tjMWNQdkVEMEg0VG41S25lNzRtbTJtOXZ1UDZy?oc=5",
+   "published_at": "2026-10-28T01:32:00+09:00",
+   "summary": "여, 조희대 탄핵 즉각추진 역풍 우려 “확실한 근거부터 찾자” 한겨레 초유의 대법원장 국조… 민주당, 내달 강행 예고 조선일보 김민석 \"조희대 문제 충분히 전달 안 돼\"‥'선 국정조사' 기조 확인 MBC 뉴스 광화문 7:30 동아일보 [연합뉴스 이 시각 헤드라인] - 18:00 매일경제",
+   "tags": [
+    "경제",
+    "사회"
+   ],
+   "metrics": {
+    "cluster": 114,
+    "outlets": 1,
+    "cluster_tags": [
      "경제",
-     "국제",
+     "사회"
+    ]
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "구글뉴스 KR"
+  },
+  {
+   "id": "1d00f756f53a9e59",
+   "title": "오세훈 축하연서 이준석 “‘오’뚝이처럼” 삼행시…윤상현 “비행기” 건배사 - 한겨레",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE41MllEcUJ0MGRBQWFHd09uZmxvYXRKeEZibmxRemJzamt3VGtmMjFXcE12U2w0NHB2YWpjaENlMnJhVmJxTElpcl9uRnkxcVNsVDRROUJfVTI2RFhObWh5cFNUbUtrdnRKdnpjUFpHOXYxYXlf?oc=5",
+   "published_at": "2026-10-28T01:33:00+09:00",
+   "summary": "오세훈 축하연서 이준석 “‘오’뚝이처럼” 삼행시…윤상현 “비행기” 건배사 한겨레 “명태균, 과장은 좀 있지만... 오세훈, 운이 좋다” 김영선 전 의원 인터뷰 뉴스타파 견제 주고받는 ‘장-이-한’, 吳에 구애 동상이몽 동아일보 윤상현 \"장동혁, 보수 대통합 플랫폼 만들어주면 좋겠다\" M",
+   "tags": [
+    "정치"
+   ],
+   "metrics": {
+    "cluster": 115,
+    "outlets": 1,
+    "cluster_tags": [
      "정치"
     ]
    },
@@ -999,22 +733,334 @@
    "source_name": "구글뉴스 KR"
   },
   {
-   "id": "00a6570dfef49e26",
-   "title": "앤트로픽, IPO 신청…기업가치 ‘2조달러’ 역대 최대 규모 예상",
-   "url": "https://www.khan.co.kr/article/202610270732001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-   "published_at": "2026-10-27T07:32:00+09:00",
-   "summary": "인공지능(AI) 모델 ‘클로드’ 개발사인 앤트로픽이 26일(현지시간) 기업공개(IPO) 절차를 공식 시작했다. ‘챗GPT’를 개발한 오픈AI보다 앞선 앤트로픽의 이번 상장은 AI 투자 열풍을 둘러싼 여러 우려를 가늠할 수 있는 시험대로 여겨진다.앤트로픽은 이날 미국 증권거래위원회(SEC",
+   "id": "cbec5282a10b19d3",
+   "title": "서울 강남 구룡마을 화재에 부상 1명·이재민 107명…대응 1단계로 하향 - 한겨레",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5WT21Ob2pENUpfeEtUcDM5RE0xQ1ltbGhaSGFoVEZXWlJnXzJDMEVMQXdkMXFfeUc5SjhwTFFwQW11aFFQdzAwUjctcjYwNDBVQ1BOYjBYZmlFUGM2ZjJZeEFSNmV2RkloSVhabHBhS0psUQ?oc=5",
+   "published_at": "2026-10-28T02:20:00+09:00",
+   "summary": "서울 강남 구룡마을 화재에 부상 1명·이재민 107명…대응 1단계로 하향 한겨레 경찰, 오전 10시 '구룡마을 화재' 합동감식 YTN 강남 구룡마을 집어삼킨 불길…13시간 만에 꺼졌지만 107명 피해 주간조선 구룡마을 13시간 만에 완진…또 큰불에 77가구 피해 JTBC [천지일보 이슈",
    "tags": [
-    "국제",
-    "IT",
-    "AI"
+    "사회"
    ],
    "metrics": {
-    "cluster": 59,
+    "cluster": 108,
     "outlets": 1,
     "cluster_tags": [
-     "AI",
-     "IT",
+     "사회"
+    ]
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "구글뉴스 KR"
+  },
+  {
+   "id": "f25de4bdf465b403",
+   "title": "전문가들 “북중러 밀착 속 한국, 미한동맹 관리 주력해야” - VOA 한국어 홈페이지",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5BSmM3bXhYcjVyRnF3Tmo2eFFpUHg1UnRfenppdjVTVmZmTmpPWVBmc3Myb3k0bkVLdnVUQkxkSEY4UHVXdnJJRXl0bDk1OTBLSkt0aU5sbTRiQ3VhMWgyR1Q4M3hqVHBhQVHSAWxBVV95cUxQaDFnOGl3dHU2blA4S3ZabzJmZjVNRlRmVGt0U0FaZkY2QnBCWndDTW1DMFMtVGF6eUxoYndVZE9OaGdIU2tHYlpkUkxiNmpNYldsOE5VNHJNcktkNlNGTnZlZmdmQWFrZWxJU20?oc=5",
+   "published_at": "2026-10-28T02:23:26+09:00",
+   "summary": "전문가들 “북중러 밀착 속 한국, 미한동맹 관리 주력해야” VOA 한국어 홈페이지 제재 비웃듯 버스 공장 간 김정은...미국 담당 배석 속셈은? YTN 사이언스 北, 중·러 다리연결해 결속 다지는데… 南은 美와 통상·안보 갈등 더 깊어져[Who, What, Why] 문화일보 조현 \"북중",
+   "tags": [
+    "국제"
+   ],
+   "metrics": {
+    "cluster": 117,
+    "outlets": 1,
+    "cluster_tags": [
+     "국제"
+    ]
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "구글뉴스 KR"
+  },
+  {
+   "id": "f23997f789a87fc8",
+   "title": "반포에서 검단까지… 지금 청약통장을 꺼내 볼 곳들",
+   "url": "https://www.chosun.com/economy/real_estate/2026/10/28/PFCRWZL3XNF6NBOAD3UWGXGR3Y/",
+   "published_at": "2026-10-28T03:00:00+09:00",
+   "summary": "이번 주도 서울 아파트값은 89주째 상승 기록을 이어갔습니다. 하락세를 보이던 강남 3구도 보합으로 돌아섰습니다. 오늘은 시세 이야기 대신 청약지를 소개해 드리려 합니다. 대출 문이 좁아진 지금, 분양가 상한제가 적용되는 청약만큼 확실한 내 집 마련 수단도 드뭅니다. 서울의 대어부터 반",
+   "tags": [
+    "부동산"
+   ],
+   "metrics": {
+    "cluster": 18,
+    "outlets": 1,
+    "cluster_tags": [
+     "부동산"
+    ]
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "조선일보"
+  },
+  {
+   "id": "2efd3101b4a924b5",
+   "title": "[속보]“반네타냐후 52~53석, 친네타냐후 50석”···이스라엘 총선 출구조사 - 경향신문",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WYjZwNElxSHE2eXFLb3hNQnRkTV9ZZmJZaVY1YVpBeW5lRG9wVDRhaW84ckZETFZKM2Rlc3hnOERsOURSQkVyZWdUaWUxeGkxM0pLRVpiWldhZ9IBX0FVX3lxTE80d3dGaU9EZzRKaGN0Y1hkT1JITlFfd2lmMnlQdUprbno5NEt3b3p1WE1HSDlEUW1GSUVBMXlLeDFvYU5UWjdOTkFnUWxoTGN5eS10VE1WWUJxUktFbG5J?oc=5",
+   "published_at": "2026-10-28T05:20:00+09:00",
+   "summary": "[속보]“반네타냐후 52~53석, 친네타냐후 50석”···이스라엘 총선 출구조사 경향신문 [속보] 빗썸, 사내 메신저 해킹…\"회원정보 유출여부 확인중\" - 머니투데이 머니투데이 네타냐후도 반대파도 과반 실패한 듯…이스라엘 총선 초박빙 JTBC [이스라엘 총선 르포] 정권교체 기대에 환호",
+   "tags": [],
+   "metrics": {
+    "cluster": 109,
+    "outlets": 1,
+    "cluster_tags": []
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "구글뉴스 KR"
+  },
+  {
+   "id": "8e2e36a9943cf868",
+   "title": "올림픽공원 투표용지, 지방선거 147일 만인 오늘 공개검증",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008818008",
+   "published_at": "2026-10-28T05:55:00+09:00",
+   "summary": "▲ 6·3 지방선거 투표용지 부족 사태로 인한 '개표소 봉쇄 시위'가 계속되고 있는 서울 송파구 올림픽공원 핸드볼경기장…",
+   "tags": [
+    "정치"
+   ],
+   "metrics": {
+    "cluster": 105,
+    "outlets": 1,
+    "cluster_tags": [
+     "정치"
+    ]
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "SBS"
+  },
+  {
+   "id": "59c4f0e889fb2977",
+   "title": "민주, 사상 첫 대법원장 국정조사 추진키로",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008817982",
+   "published_at": "2026-10-28T06:19:00+09:00",
+   "summary": "민주당이 대법원장에 대한 사상 초유의 국정조사를 실시하기로 결정했습니다. 탄핵까지 갈지 판단할 근거를 쌓겠다는 것인데, 국민의힘은 사법부 탄압이라고 비판했습니다.전연남 기자입니다.",
+   "tags": [
+    "사회"
+   ],
+   "metrics": {
+    "cluster": 104,
+    "outlets": 1,
+    "cluster_tags": [
+     "사회"
+    ]
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "SBS"
+  },
+  {
+   "id": "a954d91c27e434cd",
+   "title": "트럼프 \"이란 공격, 다시 해도 한다\"…추가 공격설 속 강경 발언 주목 - 파이낸셜뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DSUxYMDd0OWE4MFFRb2did2dHcGJHUW5nYThtaXY2aDRCMFN2b2J1U0VlcGVaRk5qQ0dQMWtmMDZkLXRYSFZWcWJSLVVGYXdHQVBfNzdheTVfQQ?oc=5",
+   "published_at": "2026-10-28T06:20:20+09:00",
+   "summary": "트럼프 \"이란 공격, 다시 해도 한다\"…추가 공격설 속 강경 발언 주목 파이낸셜뉴스 Google 뉴스에서 헤드라인 및 의견 더보기",
+   "tags": [
+    "국제"
+   ],
+   "metrics": {
+    "cluster": 118,
+    "outlets": 1,
+    "cluster_tags": [
+     "국제"
+    ]
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "구글뉴스 KR"
+  },
+  {
+   "id": "9687335ab53512ac",
+   "title": "북 김정은, 중대장대회 참가자와 기념사진…\"제1의 임무, 싸움준비 완성\"",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008818067",
+   "published_at": "2026-10-28T06:47:00+09:00",
+   "summary": "▲ 김정은 북한 국무위원장이 10월 22일과 23일 평양에서 조선인민군 제3차 중대장 대회를 주재하고 '새 시대 강군건설과 중…",
+   "tags": [],
+   "metrics": {
+    "cluster": 102,
+    "outlets": 1,
+    "cluster_tags": []
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "SBS"
+  },
+  {
+   "id": "e91caf651cac8505",
+   "title": "\"골프 특별감찰 대상\"…\"사이버 레커로 전향하라\"",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008817999",
+   "published_at": "2026-10-28T06:52:00+09:00",
+   "summary": "국민의힘 주진우 의원이 제기한 김혜경 여사의 골프 관련 의혹을 두고 여야 공방이 더 거세지고 있습니다. 국민의힘은 지도부까지 나서서 특별감찰 대상이라고 공세를 이어갔고, 민주당은 주 의원이 '아니면 말고'식의 의혹 제기를 멈추라며 강하게 비판했습니다.김보미 기자입니다.",
+   "tags": [
+    "정치"
+   ],
+   "metrics": {
+    "cluster": 101,
+    "outlets": 1,
+    "cluster_tags": [
+     "정치"
+    ]
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "SBS"
+  },
+  {
+   "id": "a1fa0522d5be1e22",
+   "title": "트럼프, 또 대러제재 빗장 푸나…“’푸틴 비자금’ 지정해제 검토“ - 연합뉴스TV",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9MSGpGTlJRN0EtSW9HNlZ0OUVzQWI0bWdoQTJUNlNmT2xEWGtHUGNKWTlmRF9INHBWWWt2dG1mWHpGN1pPdkd3V1BfSlVVSTJLaHR1ZEIwTk9xQTFCQWhETk5EaU9SaWM?oc=5",
+   "published_at": "2026-10-28T06:55:00+09:00",
+   "summary": "트럼프, 또 대러제재 빗장 푸나…“’푸틴 비자금’ 지정해제 검토“ 연합뉴스TV 트럼프, 대러 제재 또 완화?…“‘푸틴 비자금’ 지정 해제 검토” KBS 뉴스 트럼프 정부, 러시아 국부펀드 제재 해제 추진 뉴시스 러 경유 실은 유조선 3척 미국행…제재 대상 선박도 포함 연합뉴스 '딥 레드",
+   "tags": [
+    "국제"
+   ],
+   "metrics": {
+    "cluster": 120,
+    "outlets": 1,
+    "cluster_tags": [
+     "국제"
+    ]
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "구글뉴스 KR"
+  },
+  {
+   "id": "59a88ad75720db58",
+   "title": "고리 3·4호기 '계속 운전' 허가…각각 2034년·2035년까지",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008817986",
+   "published_at": "2026-10-28T07:26:00+09:00",
+   "summary": "가동이 정지돼있는 부산 기장군의 고리 원자력 발전소 3호기와 4호기에 대한 '계속 운전'이 허가됐습니다.원자력안전위원회는 어제 고…",
+   "tags": [],
+   "metrics": {
+    "cluster": 100,
+    "outlets": 1,
+    "cluster_tags": []
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "SBS"
+  },
+  {
+   "id": "06904dd5e40a0079",
+   "title": "\"비정상의 정상화…한 달에 한 번쯤은 오세요\"",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008818083",
+   "published_at": "2026-10-28T07:34:00+09:00",
+   "summary": "중수청장이 국무회의에 참석하는 것은 '비정상의 정상화'라고 이재명 대통령이 말했습니다. 수사 독립성을 침해할 수 있다는 우려에 거듭해서 정면 반박하고 있는 것인데, 중수청장에게는 한 달에 한 번 정도는 오라고 얘기하기도 했습니다.강민우 기자입니다.",
+   "tags": [
+    "정치"
+   ],
+   "metrics": {
+    "cluster": 99,
+    "outlets": 1,
+    "cluster_tags": [
+     "정치"
+    ]
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "SBS"
+  },
+  {
+   "id": "ad9784fb540b5126",
+   "title": "\"아, 야구 못하나\" 11승 문동주에게 찾아온 좌절…속도 붙은 재활, '몬스터'의 길을 바라본다 [인터뷰①]",
+   "url": "https://www.chosun.com/sports/baseball/2026/10/28/MU4GMYJRMVTGCYRVGNSTAMRTG4/",
+   "published_at": "2026-10-28T07:34:25+09:00",
+   "summary": "[스포츠조선 이종서 기자] \"주어진 상황에서 하루하루 최선을 다하고 있습니다.\" 문동주(23·한화 이글스)는 지난 6월 눈물의 시간을 보냈다. 5월2일 삼성전에서 어깨 통증을 호소했고, 결국 6월20일 미국 로스앤젤레스 켈란-조브 클리닉에서 닐 엘라트라체 박사에게 관절 와순 봉합 수술을",
+   "tags": [
+    "국제"
+   ],
+   "metrics": {
+    "cluster": 19,
+    "outlets": 1,
+    "cluster_tags": [
+     "국제"
+    ]
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "조선일보"
+  },
+  {
+   "id": "e00beade1365685a",
+   "title": "놀이터에서 민폐 ‘골프연습’ 못 한다…과태료 최대 300만원",
+   "url": "https://www.donga.com/news/Society/article/all/20261028/134921998/1",
+   "published_at": "2026-10-28T07:45:03+09:00",
+   "summary": "내년 2월부터 어린이놀이터에서 골프나 야구 연습 등 어린이의 안전을 위협하는 운동행위가 제한된다. 이를 중지하라는 관할 지방자치단체의 명령을 따르지 않으면 최대 300만원의 과태료가 부과될 수 있다.28일 관계부처에 따르면 행정안전부는 이 같은 내용을 담은 ‘어린이놀이시설 안전관리법 시",
+   "tags": [],
+   "metrics": {
+    "cluster": 69,
+    "outlets": 1,
+    "cluster_tags": []
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "동아일보"
+  },
+  {
+   "id": "a15c52dbe332395b",
+   "title": "“남모르게, 남다르게, 올바르게”…운율로 이름 새긴 ‘르게(LGE)다꼼’",
+   "url": "https://www.donga.com/news/Economy/article/all/20261027/134917010/1",
+   "published_at": "2026-10-28T08:00:00+09:00",
+   "summary": "“남모르게, 남다르게, 올바르게”세 단어를 연달아 소리 내 읽어 보면 전부 ‘르게’로 끝나는 걸 알 수 있다. 여기에 ‘닷컴’을 프렌치식 감성을 담아서 읽으면 어떻게 될까. ‘르게다꼼’. LG전자가 공식 온라인몰 LGE닷컴에 붙인 별명이다.LG전자가 지난달 18일 온에어한 ‘르게다꼼’ ",
+   "tags": [],
+   "metrics": {
+    "cluster": 68,
+    "outlets": 1,
+    "cluster_tags": []
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "동아일보"
+  },
+  {
+   "id": "696e37633e5e43df",
+   "title": "내년 1월 결혼 백진희 “최다니엘이 내 부케 받기로 해”",
+   "url": "https://www.donga.com/news/Entertainment/article/all/20261028/134922036/1",
+   "published_at": "2026-10-28T08:00:14+09:00",
+   "summary": "배우 백진희가 최다니엘에게 부케를 받으라고 했다.백진희는 27일 배우 최다니엘 유튜브 채널에 나와 결혼에 관해 얘기했다.백진희는 최다니엘과 인연에 대해 “드라마 ‘저글러스’를 함께 했고, 예전에 같은 회사였다”고 말했다.함께 출연한 배우 김민식은 백진희에게 “좋은 소식도 있지 않나”고 ",
+   "tags": [],
+   "metrics": {
+    "cluster": 67,
+    "outlets": 1,
+    "cluster_tags": []
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "동아일보"
+  },
+  {
+   "id": "87e9f713dc66dce1",
+   "title": "선관위 특검, 올림픽공원 투표용지 오늘 공개검증 나서",
+   "url": "https://www.khan.co.kr/article/202610280801001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "published_at": "2026-10-28T08:01:00+09:00",
+   "summary": "국회 국정조사특별위원회가 서울 송파구 올림픽공원 핸드볼경기장 개표소 현장조사를 한 지난 7월2일 시위 참가자들이 핸드볼경기장 입구를 봉쇄하고 있다. 권도현 기자6·3 지방선거 투표용지 부족 사태 등을 수사하는 이태한 선거관리위원회 특별검사팀이 28일 서울 올림픽공원 핸드볼경기장에서 투표",
+   "tags": [
+    "정치"
+   ],
+   "metrics": {
+    "cluster": 57,
+    "outlets": 1,
+    "cluster_tags": [
+     "정치"
+    ]
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "경향신문"
+  },
+  {
+   "id": "31ba931599f36270",
+   "title": "미8군 사령관 “북한군, 러·우크라 전쟁서 현대전 경험 쌓고 있다”",
+   "url": "https://www.khan.co.kr/article/202610280802001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "published_at": "2026-10-28T08:02:00+09:00",
+   "summary": "조지프 힐버트 주한미군 미8군 사령관. 미육군협회(AUSA) 갈무리조지프 힐버트(중장) 주한미군 제8군 사령관이 북한군이 러시아·우크라이나 전쟁에 참전하면서 현대전에 대한 실전 경험을 쌓고 있다고 밝혔다.힐버트 사령관은 이달 워싱턴DC에서 기자들과 만 “우리 모두가 우크라이나와 중동에서",
+   "tags": [
+    "국제"
+   ],
+   "metrics": {
+    "cluster": 44,
+    "outlets": 1,
+    "cluster_tags": [
      "국제"
     ]
    },
@@ -1023,31 +1069,33 @@
    "source_name": "경향신문"
   },
   {
-   "id": "5d9426685a2cd05b",
-   "title": "전국 맑지만 곳곳 강한 바람···해안가 ‘강풍특보’ 가능성",
-   "url": "https://www.khan.co.kr/article/202610270742001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-   "published_at": "2026-10-27T07:42:00+09:00",
-   "summary": "전국에 강한 바람이 불며 기온이 떨어지기 시작한 지난 21일 서울 마포구 하늘공원을 찾은 시민들이 억새 사이를 걷고 있다. 정효진 기자27일인 오늘은 전국이 대체로 맑겠지만, 바람이 강하게 불어 시설물 관리와 안전사고에 주의가 요구된다.기상청에 따르면, 이날 오전 5시 기준 주요 지역 ",
+   "id": "655ca01601137f04",
+   "title": "트럼프 텍사스 유세서 “베네수엘라 美 51번째 주 만들자”",
+   "url": "https://www.donga.com/news/Inter/article/all/20261028/134922108/1",
+   "published_at": "2026-10-28T08:17:39+09:00",
+   "summary": "도널드 트럼프 미국 대통령이 석유 강국 베네수엘라를 미국의 51번째 주로 만들자고 주장했다. 이번 중간선거에서 경합 주 중 하나로 부상한 텍사스주를 두 달 사이 네 번째 방문한 자리에서 베네수엘라 원유 확보를 부각하려는 의도로 보인다.트럼프 대통령은 27일(현지 시간) 텍사스주 코퍼스크",
    "tags": [
-    "사회"
+    "정치",
+    "국제"
    ],
    "metrics": {
-    "cluster": 58,
+    "cluster": 66,
     "outlets": 1,
     "cluster_tags": [
-     "사회"
+     "국제",
+     "정치"
     ]
    },
    "is_new": true,
    "streak_days": 1,
-   "source_name": "경향신문"
+   "source_name": "동아일보"
   },
   {
-   "id": "e24fda4073d8d8b1",
-   "title": "김건희, 오늘 ‘운명의 날’···추가 구속 여부 결정할 대법원 심문 열려",
-   "url": "https://www.khan.co.kr/article/202610270759001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-   "published_at": "2026-10-27T07:59:00+09:00",
-   "summary": "도이치모터스 주가조작 혐의 등을 받는 김건희 여사의 1심 선고가 열린 지난 1월28일 서울역에서 시민들이 판결 생중계를 지켜보고 있다. 권도현 기자대법원이 이달 구속 만기를 앞둔 김건희 여사에 대한 추가 구속 여부를 가를 심문을 27일 진행한다.27일 법조계에 따르면 대법원 2부(주심 ",
+   "id": "2e775e7dc71b273e",
+   "title": "[속보]이찬진 “주요 금투사서 전반적인 해킹 사고 발생”",
+   "url": "https://www.khan.co.kr/article/202610280828001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "published_at": "2026-10-28T08:28:00+09:00",
+   "summary": "이찬진 금융감독원장이 28일 서울 영등포구 금융감독원에서 열린 은행지주 이사회 의장 간담회에서 발언하고 있다. 연합뉴스이찬진 금융감독원장은 28일 “전날 주요 금투사 쪽에서 전반적인 해킹 사고가 발생한 것으로 안다”며 금융권에 정보기술(IT) 보안을 재차 당부했다.이 원장은 이날 서울 ",
    "tags": [
     "사회"
    ],
@@ -1063,11 +1111,31 @@
    "source_name": "경향신문"
   },
   {
-   "id": "920dcebaa6b54386",
-   "title": "법무장관 후보군 박균택·양부남, 한동훈·오세훈 겨냥 선명성 경쟁",
-   "url": "https://www.khan.co.kr/article/202610270802001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-   "published_at": "2026-10-27T08:02:00+09:00",
-   "summary": "더불어민주당 박균택(왼쪽)·양부남 의원이 차기 법무부 장관 후보군으로 검토되고 있다. 연합뉴스차기 법무부 장관 후보군으로 거론되는 박균택·양부남 더불어민주당 의원이 야권 인사를 겨냥한 메시지를 잇따라 내놓았다. 한동훈 무소속 의원·오세훈 서울시장에 대한 공정한 수사와 유죄 판결을 각각 ",
+   "id": "e3b956659349277d",
+   "title": "김민석 “조희대 국조 100% 같은 의견 아니지만…탄핵은 객관적 근거 더 다져야”",
+   "url": "https://www.donga.com/news/Politics/article/all/20261028/134922115/1",
+   "published_at": "2026-10-28T08:28:00+09:00",
+   "summary": "더불어민주당 김민석 대표가 28일 당 안팎의 조희대 대법원장 탄핵 주장과 관련해 “과거 탄핵의 경우와 비교해 여론의 지형도 보고, 국민들에게 쟁점들이 얼마나 충분히 전달됐는가를 볼 때 조금 더 객관적인 근거를 다져 나가야 한다”고 밝혔다. 김 대표는 이날 민주당 공식 유튜브 채널 ‘민티",
+   "tags": [
+    "사회"
+   ],
+   "metrics": {
+    "cluster": 65,
+    "outlets": 1,
+    "cluster_tags": [
+     "사회"
+    ]
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "동아일보"
+  },
+  {
+   "id": "a0e87d6f0515b51e",
+   "title": "[속보]선관위특검, ‘투표지 현장 검증’ 올공 경기장 진입…시위대 충돌 없이 개방",
+   "url": "https://www.khan.co.kr/article/202610280830001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "published_at": "2026-10-28T08:30:00+09:00",
+   "summary": "6·3 지방선거 투표용지 부족 사태 등을 수사하는 이태한 선거관리위원회 특별검사가 28일 서울 올림픽공원 핸드볼경기장에서 투표용지 공개검증을 하기에 앞서 현장에 도착하고 있다. 연합뉴스6·3 지방선거 투표용지 부족 사태 등을 수사하는 선거관리위원회 특별검사팀이 28일 투표용지 공개 검증",
    "tags": [
     "정치"
    ],
@@ -1083,52 +1151,38 @@
    "source_name": "경향신문"
   },
   {
-   "id": "188199bbd90e389c",
-   "title": "‘좌파 대부’ 룰라 당선되자 브라질 금융시장 패닉셀",
-   "url": "https://www.chosun.com/economy/stock-finance/2026/10/27/N7IFMYY5PVGP7CKZVLIMLZ66YU/",
-   "published_at": "2026-10-27T08:12:41+09:00",
-   "summary": "브라질 좌파 정권이 연임하자 브라질 금융시장에 주식·채권·통화가 한꺼번에 무너지는 ‘트리플 약세’가 밀어닥쳤다. 26일(이하 현지시각) 보베스파지수는 17만6608.23에 장을 마쳤다. 직전 거래일인 지난 23일보다 13.88% 떨어졌다. 하루 낙폭으로는 코로나가 세계 증시를 덮친 20",
-   "tags": [],
-   "metrics": {
-    "cluster": 28,
-    "outlets": 1,
-    "cluster_tags": []
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "조선일보"
-  },
-  {
-   "id": "b3499eefae6fed40",
-   "title": "「左派の大物」ルラ氏当選でブラジル金融市場パニック売り",
-   "url": "https://www.chosun.com/jp/economy-jp/2026/10/27/7A5BY5LK6ZEC5NQKMK44EURLLU/",
-   "published_at": "2026-10-27T08:12:41+09:00",
-   "summary": "ブラジルの左派政権が続投を決めると、ブラジル金融市場では株式・債券・通貨が一斉に崩れる「トリプル安」が押し寄せた。26日（以下、現地時間）、ボベスパ指数は17万6608.23で取引を終えた。直前の取引日だった23日より13.88％下落した。1日の下落率としては、コロナが世界の株式市場を襲った2020年3月以来、6年7カ",
-   "tags": [],
-   "metrics": {
-    "cluster": 29,
-    "outlets": 1,
-    "cluster_tags": []
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "조선일보"
-  },
-  {
-   "id": "2e8b6463dfd68138",
-   "title": "트럼프, 차기 유엔 수장에 ‘유럽판 트럼프’ 오르반 밀기···중·러도 호응",
-   "url": "https://www.khan.co.kr/article/202610270813001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-   "published_at": "2026-10-27T08:13:00+09:00",
-   "summary": "2017년 5월25일(현지시간) 브뤼셀 나토 본부에서 열린 나토(북대서양조약기구) 정상회담에서 도널드 트럼프 미국 대통령과 빅토르 오르반 당시 헝가리 총리가 기념사진을 찍고 있다. AFP연합뉴스도널드 트럼프 미국 행정부가 차기 유엔 사무총장 후보로 ‘유럽판 트럼프’라 불리는 빅토르 오르",
+   "id": "4427167fa4cf4774",
+   "title": "경북 포항·안동·청도서 화재 잇따라…차량·창고 등 불타",
+   "url": "https://www.donga.com/news/Society/article/all/20261028/134922149/1",
+   "published_at": "2026-10-28T08:30:14+09:00",
+   "summary": "27일 오후 9시 57분쯤 경북 포항시 북구 장성동에서 주차돼 있던 승합차에 전기적 요인으로 추정되는 불이 났다.소방 당국은 진화 장비 9대와 인력 19명을 투입해 약 11분 만에 불을 껐다.불로 그랜드 카니발 차량 1대가 전소됐다.앞서 오후 6시 52분쯤에 안동시 남선면 구미리의 주거",
    "tags": [
-    "정치",
-    "국제"
+    "사회"
+   ],
+   "metrics": {
+    "cluster": 64,
+    "outlets": 1,
+    "cluster_tags": [
+     "사회"
+    ]
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "동아일보"
+  },
+  {
+   "id": "644a41560a5ff1d7",
+   "title": "이 대통령 “농지조사는 농업개혁의 핵심…책임 전가 비난은 사실 왜곡”",
+   "url": "https://www.khan.co.kr/article/202610280831001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "published_at": "2026-10-28T08:31:00+09:00",
+   "summary": "이재명 대통령이 27일 청와대에서 열린 국무회의에서 발언하고 있다. 연합뉴스이재명 대통령이 28일 전국 농지 전수 조사 지시와 관련해 일각의 ‘책임 전가’ 비판에 대해 “농지 조사는 잘못한 일이 아니라 칭찬받아 마땅한 개혁 조치”라고 반박했다.이 대통령은 이날 엑스에 “‘짜장면 좋다는 ",
+   "tags": [
+    "정치"
    ],
    "metrics": {
     "cluster": 54,
     "outlets": 1,
     "cluster_tags": [
-     "국제",
      "정치"
     ]
    },
@@ -1137,55 +1191,19 @@
    "source_name": "경향신문"
   },
   {
-   "id": "11ec0d5c4900af9a",
-   "title": "홍준표, ‘변호사’로 사건 맡는다···‘명태균 여론조사비’ 의혹 지인 영장심사 변론",
-   "url": "https://www.khan.co.kr/article/202610270814001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-   "published_at": "2026-10-27T08:14:00+09:00",
-   "summary": "홍준표 전 대구시장이 지난 26일 자신의 페이스북 계정에 남긴 글. 페이스북 갈무리홍준표 전 대구시장이 ‘명태균 여론조사비 대납 의혹’으로 수사를 받는 지인의 구속 전 피의자 심문(영장실질심사)에서 변론을 맡을 것으로 보인다.홍 전 시장은 지난 26일 자신의 페이스북 계정을 통해 관련 ",
-   "tags": [],
+   "id": "64dbab696d9513e1",
+   "title": "정부, 민간 주요정보통신기반시설 170여개 취약점 점검 착수",
+   "url": "https://www.khan.co.kr/article/202610280831011/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "published_at": "2026-10-28T08:31:01+09:00",
+   "summary": "지난 5일 서울 시내 한 건물 내에 설치된 은행 ATM기. 연합뉴스정부가 최근 금융·공공기관의 개인정보 유출 사고를 계기로 민간 주요 정보통신 기반시설 170여곳에 대한 보안 취약점 점검에 착수했다.28일 정부 당국에 따르면 과학기술정보통신부는 민간 분야 주요 정보통신 기반시설을 관리하",
+   "tags": [
+    "사회"
+   ],
    "metrics": {
     "cluster": 53,
     "outlets": 1,
-    "cluster_tags": []
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "경향신문"
-  },
-  {
-   "id": "e1ee4e8430f77471",
-   "title": "의료진이 직접 집으로···방문진료 차량, 주정차 단속 안 한다[서울25]",
-   "url": "https://www.khan.co.kr/article/202610270815001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-   "published_at": "2026-10-27T08:15:00+09:00",
-   "summary": "용산구, 방문진료 차량 1시간여 주정차 단속 유예발급받은 표지판 차량 앞 유리에 비치해야서울 용산구 용산구보건소가 발급할 주정차 단속 제외 차량 표지판 안내문. 용산구 제공서울 용산구가 11월부터 ‘재택의료 방문차량’에 한해 주정차 단속을 해제한다고 27일 밝혔다.방문진료 의료진의 주차",
-   "tags": [],
-   "metrics": {
-    "cluster": 52,
-    "outlets": 1,
-    "cluster_tags": []
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "경향신문"
-  },
-  {
-   "id": "d1a1a0ae4f2b6c73",
-   "title": "올해 3분기 GDP 1% 성장…반도체 수출 호조 영향",
-   "url": "https://www.khan.co.kr/article/202610270817001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-   "published_at": "2026-10-27T08:17:00+09:00",
-   "summary": "올해 3분기 경제성장률이 시장 예상보다 높은 1.0%를 기록한 것으로 나타났다. 반도체 호황이 지속되는 가운데 수출 호조와 설비투자 증가가 영향을 미친 것으로 풀이된다.한국은행은 3분기 실질 국내총생산(GDP) 성장률(직전분기대비·속보치)이 1.0%로 집계됐다고 27일 밝혔다.이는 한은",
-   "tags": [
-    "경제",
-    "IT",
-    "신기술"
-   ],
-   "metrics": {
-    "cluster": 51,
-    "outlets": 1,
     "cluster_tags": [
-     "IT",
-     "경제",
-     "신기술"
+     "사회"
     ]
    },
    "is_new": true,
@@ -1193,35 +1211,21 @@
    "source_name": "경향신문"
   },
   {
-   "id": "2c0a3eeb87146093",
-   "title": "북한 \"지뢰 폭발은 자작극\"…유엔에 보낸 억지 서한",
-   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008815970",
-   "published_at": "2026-10-27T08:27:00+09:00",
-   "summary": "북한이 서부 전선에서 지뢰가 폭발한 것은 한국의 자작극이라는 내용의 서한을 유엔 안보리 의장 앞으로 보냈습니다. 우리와는 단절하고 국제 여론전에 나서는 것으로 보입니다.김아영 기자입니다.",
-   "tags": [],
-   "metrics": {
-    "cluster": 107,
-    "outlets": 1,
-    "cluster_tags": []
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "SBS"
-  },
-  {
-   "id": "794076869b582f60",
-   "title": "경찰, 28일 선관위 특검 ‘투표지 검증’에 48개 기동대 투입",
-   "url": "https://www.khan.co.kr/article/202610270828001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-   "published_at": "2026-10-27T08:28:00+09:00",
-   "summary": "6·3 지방선거 투표용지 부족 사태로 촉발된 잠실 개표소 봉쇄 시위가 이어진 지난 9월8일 대한체육회 관계자들이 경찰의 지원을 받아 서울 송파구 올림픽공원 핸드볼경기장으로 진입하고 있다. 문재원 기자경찰이 6·3 지방선거 투표용지 부족 사태를 수사 중인 이태한 선관위특검의 현장 검증을 ",
+   "id": "044498bf32e1f1e5",
+   "title": "“브라질 대선 패배 보우소나루, 여권 제출 명령 어기고 미국 도피”",
+   "url": "https://www.khan.co.kr/article/202610280832001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "published_at": "2026-10-28T08:32:00+09:00",
+   "summary": "플라비우 보우소나루 상원의원이 25일(현지시간) 치러진 브라질 대선 결선 투표가 마무리된 뒤 발언하고 있다. AP연합뉴스브라질 대통령 선거에서 패한 플라비우 보우소나루 상원의원이 대법원의 여권 제출 명령을 이행하지 않은 채 미국으로 떠났다고 로이터통신이 소식통 2명을 인용해 27일(현지",
    "tags": [
     "정치",
-    "사회"
+    "사회",
+    "국제"
    ],
    "metrics": {
-    "cluster": 50,
+    "cluster": 52,
     "outlets": 1,
     "cluster_tags": [
+     "국제",
      "사회",
      "정치"
     ]
@@ -1231,52 +1235,14 @@
    "source_name": "경향신문"
   },
   {
-   "id": "c8e30731a5d5afe4",
-   "title": "“내 항공권 정보 괜찮나”…대한항공·아시아나 해킹 피해에 ‘불안’",
-   "url": "https://www.donga.com/news/It/article/all/20261027/134914304/1",
-   "published_at": "2026-10-27T08:38:18+09:00",
-   "summary": "대한항공(003490)과 아시아나항공(020560)의 예약·발권 시스템 운영사인 아마데우스에서 고객 정보가 유출되면서 피해 범위가 어디까지 확대될지 우려가 커지고 있다. 현재까지 확인된 유출 정보에는 일부 고객의 예약 번호가 포함돼 있지만, 다른 개인정보가 함께 유출됐는지는 조사 중이다",
+   "id": "6be313536715ee43",
+   "title": "[속보]SK하이닉스 3분기 영업이익 작년 대비 632%↑···60조원 추가 주주환원",
+   "url": "https://www.khan.co.kr/article/202610280835001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "published_at": "2026-10-28T08:35:00+09:00",
+   "summary": "지난 23일 경기 이천시 SK하이닉스 본사 모습. 연합뉴스[속보]SK하이닉스 3분기 영업이익 작년 대비 632%↑···60조원 추가 주주환원",
    "tags": [],
    "metrics": {
-    "cluster": 74,
-    "outlets": 1,
-    "cluster_tags": []
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "동아일보"
-  },
-  {
-   "id": "59a676cf03b048e5",
-   "title": "아우디, 美 조지아 SUV 공장 신설…북미 영토 확장 승부수 띄웠다",
-   "url": "https://www.donga.com/news/Economy/article/all/20261027/134914353/1",
-   "published_at": "2026-10-27T08:46:26+09:00",
-   "summary": "아우디가 미국 조지아주에 첫 현지 완성차 생산 거점을 조성하며 북미 시장 공략을 대폭 강화한다. 아우디는 약 40억 달러를 투입해 4500여 개의 일자리를 창출하고, 연간 최대 20만 대를 생산할 수 있는 제조 시설을 마련한다고 밝혔다. 신규 공장은 2027년 첫 삽을 뜨며, 2030년",
-   "tags": [
-    "국제",
-    "자동차"
-   ],
-   "metrics": {
-    "cluster": 73,
-    "outlets": 1,
-    "cluster_tags": [
-     "국제",
-     "자동차"
-    ]
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "동아일보"
-  },
-  {
-   "id": "6820d5370981294c",
-   "title": "[속보]케인, 마침내 발롱도르 품었다···잉글랜드 선수론 오언 이후 25년 만에 영예",
-   "url": "https://www.khan.co.kr/article/202610270847001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-   "published_at": "2026-10-27T08:47:00+09:00",
-   "summary": "잉글랜드 해리 케인이 27일 발롱도르를 수상하며 활짝 웃고 있다. EPA연합뉴스잉글랜드 축구대표팀 주장 해리 케인(33·바이에른 뮌헨)이 2026 발롱도르를 수상했다.프랑스 매체 레퀴프는 27일 케인이 킬리안 음바페(레알 마드리드)를 제치고 발롱도르 수상자로 선정됐다고 발표했다.케인은 ",
-   "tags": [],
-   "metrics": {
-    "cluster": 49,
+    "cluster": 51,
     "outlets": 1,
     "cluster_tags": []
    },
@@ -1285,36 +1251,30 @@
    "source_name": "경향신문"
   },
   {
-   "id": "a27114ffc641c529",
-   "title": "“오르반이 유엔 총장? 웃긴 소리”···트럼프 구상에 유럽·미국서 냉소",
-   "url": "https://www.khan.co.kr/article/202610270849001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-   "published_at": "2026-10-27T08:49:00+09:00",
-   "summary": "지난해 11월7일(현지시간) 도널드 트럼프 미국 대통령(왼쪽)이 워싱턴 D C 백악관에서 빅토르 오르반 당시 헝가리 총리를 맞이하고 있다. Getty Images/이매진스트럼프 미국 행정부가 차기 유엔 사무총장 후보로 빅토르 오르반 전 헝가리 총리를 밀고 있다는 보도가 나오자 유럽 정치",
-   "tags": [
-    "정치",
-    "국제"
-   ],
+   "id": "9ffa2f4e548b10d0",
+   "title": "[속보]SK하이닉스 3분기 영업이익 83조3338억원…분기 매출 첫 100조원 돌파",
+   "url": "https://www.khan.co.kr/article/202610280838001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "published_at": "2026-10-28T08:38:00+09:00",
+   "summary": "SK하이닉스가 올해 3분기 영업이익 83조원을 넘어서며 역대 최고 실적을 기록했다.SK하이닉스는 올해 3분기 연결 기준 매출은 104조6155억원으로 지난해 같은 기간 대비 327.9% 늘었다고 공시했다. 3분기 영업이익은 83조3338억원으로, 지난해 같은 기간보다 632.1% 증가했",
+   "tags": [],
    "metrics": {
-    "cluster": 48,
+    "cluster": 50,
     "outlets": 1,
-    "cluster_tags": [
-     "국제",
-     "정치"
-    ]
+    "cluster_tags": []
    },
    "is_new": true,
    "streak_days": 1,
    "source_name": "경향신문"
   },
   {
-   "id": "8a7d8c50dd5b05b1",
-   "title": "조정석 “공연 중 바지가 허벅지까지 내려가”…동료 배우들도 당황",
-   "url": "https://www.donga.com/news/Entertainment/article/all/20261027/134914378/1",
-   "published_at": "2026-10-27T08:51:00+09:00",
-   "summary": "배우 조정석이 SBS ‘거장항준’에서 뮤지컬 ‘그리스’ 공연 도중 바지가 허벅지까지 내려갔던 아찔한 실수를 공개한다. 동료 배우들마저 걱정했던 당시 상황과 예상 밖으로 뜨거웠던 관객 반응, 오히려 팬이 많이 생겼다는 뒷이야기를 전한다.",
+   "id": "da9f7ba6f9954a6c",
+   "title": "[속보]SK하닉, 주당 2만원 분기 배당…3분기 영업익 83조",
+   "url": "https://www.donga.com/news/Economy/article/all/20261028/134922184/1",
+   "published_at": "2026-10-28T08:41:00+09:00",
+   "summary": "SK하이닉스가 28일 연결 기준 올해 3분기 영업이익이 83조3338억 원으로 지난해 동기보다 632.1% 증가한 것으로 잠정 집계됐다고 공시했다. 매출은 104조6155억 원으로 동기 대비 327.9% 증가했다. 순이익은 39조7756억 원으로 215.7% 늘었다.SK하이닉스는 이날 ",
    "tags": [],
    "metrics": {
-    "cluster": 72,
+    "cluster": 63,
     "outlets": 1,
     "cluster_tags": []
    },
@@ -1323,262 +1283,10 @@
    "source_name": "동아일보"
   },
   {
-   "id": "05ac28ddfb1dcec8",
-   "title": "‘시즌 랭킹 1위’ 조건휘, 마르티네스 PBA 최다승 저지하고 통산 4승",
-   "url": "https://www.donga.com/news/Sports/article/all/20261027/134914383/1",
-   "published_at": "2026-10-27T08:52:06+09:00",
-   "summary": "올 시즌 랭킹 1위를 달리는 조건휘(웰컴저축은행)가 남자 프로당구(PBA) 통산 4번째 우승 트로피를 들어 올렸다.조건휘는 26일 경기도 고양시 킨텍스 PBA 스타디움에서 열린 프로당구 2026~2027시즌 5차 투어 ‘지금 잘 사는 방법 zgm NH농협카드 PBA-LPBA 챔피언십’ ",
-   "tags": [],
-   "metrics": {
-    "cluster": 71,
-    "outlets": 1,
-    "cluster_tags": []
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "동아일보"
-  },
-  {
-   "id": "bcb8a4e2778ccaca",
-   "title": "지구대 앞 쓰러진 남성…경찰, 심폐소생술로 살렸다 (영상)",
-   "url": "https://www.donga.com/news/Society/article/all/20261027/134914401/2",
-   "published_at": "2026-10-27T08:53:00+09:00",
-   "summary": "길을 걷다 갑자기 의식을 잃고 쓰러진 남성이 지구대 경찰관들의 신속한 응급조치로 의식과 호흡을 되찾았다.26일 서울경찰에 따르면 지난달 17일 서울의 한 지구대 앞을 지나던 남성이 갑자기 쓰러졌다. 이를 목격한 시민은 곧바로 지구대로 달려가 상황을 알렸다.경찰관들은 즉시 현장으로 나가 ",
-   "tags": [
-    "사회"
-   ],
-   "metrics": {
-    "cluster": 70,
-    "outlets": 1,
-    "cluster_tags": [
-     "사회"
-    ]
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "동아일보"
-  },
-  {
-   "id": "e06c47932c104183",
-   "title": "룰라 승리에 트럼프 “브라질 대선 조작된 듯”···근거는 안 내놔",
-   "url": "https://www.khan.co.kr/article/202610270858001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-   "published_at": "2026-10-27T08:58:00+09:00",
-   "summary": "26일(현지시간) 도널드 트럼프 미국 대통령이 메릴랜드주 앤드류스 합동기지에서 에어포스 원에 탑승하기 전 기자들의 질문에 답하고 있다. AFP연합뉴스도널드 트럼프 미국 대통령이 브라질 대선에서 루이스 이나시우 룰라 다시우바 대통령이 승리하자 선거가 조작됐다는 주장을 내놨다. 구체적인 근",
-   "tags": [
-    "정치",
-    "국제"
-   ],
-   "metrics": {
-    "cluster": 47,
-    "outlets": 1,
-    "cluster_tags": [
-     "국제",
-     "정치"
-    ]
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "경향신문"
-  },
-  {
-   "id": "8b22b61f9811009b",
-   "title": "국힘 “특감, 실질권력 김현지 감찰 사각지대 놓아둘 이유 없어”",
-   "url": "https://www.donga.com/news/Politics/article/all/20261027/134914327/1",
-   "published_at": "2026-10-27T09:00:00+09:00",
-   "summary": "국민의힘이 27일 최길수 청와대 특별감찰관(특감)을 향해 “김현지 대통령제1부속실장을 직접 감찰할 수 없다고 해서, 김현지 실장이 관여했다는 의혹까지 감찰의 사각지대에 놓아둘 이유는 없다”며 “특별감찰관은 대통령의 최측근을 보호하라고 만든 자리가 아니고 대통령과 그 주변의 권력 남용을 ",
-   "tags": [
-    "정치"
-   ],
-   "metrics": {
-    "cluster": 67,
-    "outlets": 1,
-    "cluster_tags": [
-     "정치"
-    ]
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "동아일보"
-  },
-  {
-   "id": "cf806746ebf75a69",
-   "title": "영진종합건설, 협력사와 함께 무재해 선포식 개최",
-   "url": "https://www.donga.com/news/Economy/article/all/20261026/134911830/2",
-   "published_at": "2026-10-27T09:00:00+09:00",
-   "summary": "영진종합건설은 지난 22일 임직원과 협력업체 관계자들이 참석한 가운데 ‘2026년 무재해 선포식’을 열고 현장 안전사고 예방을 위한 실천 과제를 논의했다고 밝혔다.행사는 외부 전문가 특강과 본부별 분임토의로 진행됐다. 참석자들은 안전관리의 중요성과 현장 적용 방안을 살펴보고, 작업 과정",
-   "tags": [
-    "사회"
-   ],
-   "metrics": {
-    "cluster": 68,
-    "outlets": 1,
-    "cluster_tags": [
-     "사회"
-    ]
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "동아일보"
-  },
-  {
-   "id": "aff2b6527b9d70bc",
-   "title": "메디아크, DHT 흡착 MOF 신물질 특허 등록",
-   "url": "https://www.donga.com/news/list/article/all/20261026/134910631/2",
-   "published_at": "2026-10-27T09:00:00+09:00",
-   "summary": "메디아크는 유전성 탈모에 관여하는 디하이드로테스토스테론(이하 DHT)을 흡착하는 MOF 기반 신물질을 개발하고 관련 특허를 등록했다고 26일 밝혔다.이번 기술은 DHT 생성을 억제하는 대신 이미 생성된 DHT 분자를 소재에 흡착시키는 방식이다. 기존 일부 탈모치료 의약품이 호르몬 생성 ",
-   "tags": [],
-   "metrics": {
-    "cluster": 69,
-    "outlets": 1,
-    "cluster_tags": []
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "동아일보"
-  },
-  {
-   "id": "830e0539902f520e",
-   "title": "[단독] 오비맥주 첫 소주 '찰랑'…한 달 만에 3000곳 뚫었다",
-   "url": "https://www.hankyung.com/article/202610265816i",
-   "published_at": "2026-10-27T09:00:06+09:00",
-   "summary": "",
-   "tags": [],
-   "metrics": {
-    "cluster": 89,
-    "outlets": 1,
-    "cluster_tags": []
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "한국경제"
-  },
-  {
-   "id": "0422a13b92dad096",
-   "title": "'반도체 톱10 2배'에 다시 '베팅'…초고수의 하락장 매매법",
-   "url": "https://www.hankyung.com/article/202610276806i",
-   "published_at": "2026-10-27T09:00:25+09:00",
-   "summary": "",
-   "tags": [
-    "IT",
-    "신기술"
-   ],
-   "metrics": {
-    "cluster": 88,
-    "outlets": 1,
-    "cluster_tags": [
-     "IT",
-     "신기술"
-    ]
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "한국경제"
-  },
-  {
-   "id": "85beec9a863e95c1",
-   "title": "\"싱가포르 이어 일본·베트남까지\"…화요, 글로벌 면세망 넓힌다",
-   "url": "https://www.hankyung.com/article/202610276807g",
-   "published_at": "2026-10-27T09:02:54+09:00",
-   "summary": "",
-   "tags": [
-    "국제"
-   ],
-   "metrics": {
-    "cluster": 87,
-    "outlets": 1,
-    "cluster_tags": [
-     "국제"
-    ]
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "한국경제"
-  },
-  {
-   "id": "613b3e6cfcdd1441",
-   "title": "유승민 \"독자 전작권 환수는 美에 이혼 통보…동맹 해체\"",
-   "url": "https://www.hankyung.com/article/202610276699H",
-   "published_at": "2026-10-27T09:03:46+09:00",
-   "summary": "",
-   "tags": [],
-   "metrics": {
-    "cluster": 86,
-    "outlets": 1,
-    "cluster_tags": []
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "한국경제"
-  },
-  {
-   "id": "742a431975d55e76",
-   "title": "대웅제약·DNC, 피부부터 윤곽까지 '복합시술' 전략 공유",
-   "url": "https://www.hankyung.com/article/202610276877i",
-   "published_at": "2026-10-27T09:03:48+09:00",
-   "summary": "",
-   "tags": [],
-   "metrics": {
-    "cluster": 85,
-    "outlets": 1,
-    "cluster_tags": []
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "한국경제"
-  },
-  {
-   "id": "d7adadb580470bfd",
-   "title": "헤이지니 전 직원 \"연봉 2000만원, 하루 16시간씩 근무\" 폭로",
-   "url": "https://www.hankyung.com/article/202610276717H",
-   "published_at": "2026-10-27T09:04:19+09:00",
-   "summary": "",
-   "tags": [],
-   "metrics": {
-    "cluster": 84,
-    "outlets": 1,
-    "cluster_tags": []
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "한국경제"
-  },
-  {
-   "id": "4cbb598bf50c2a5f",
-   "title": "\"한 끼에 23만원 넘어도 킹크랩\"…연말 호텔 뷔페 예약 '만석'",
-   "url": "https://www.hankyung.com/article/2026102768057",
-   "published_at": "2026-10-27T09:07:05+09:00",
-   "summary": "",
-   "tags": [],
-   "metrics": {
-    "cluster": 83,
-    "outlets": 1,
-    "cluster_tags": []
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "한국경제"
-  },
-  {
-   "id": "e697d18180e94184",
-   "title": "김정은, 베트남 주석 축전에 답전…“양국 관계 새로운 발전기”",
-   "url": "https://www.donga.com/news/Politics/article/all/20261027/134914505/1",
-   "published_at": "2026-10-27T09:07:30+09:00",
-   "summary": "김정은 북한 노동당 총비서가 북한의 정권수립기념일을 축하한 또 럼 베트남 공산당 서기장 겸 국가주석에게 답전을 보내 양국 관계를 ‘새로운 발전기’로 평가했다. 또 지난해 정상회담을 계기로 가까워진 양국 관계를 더욱 발전시켜 나가겠다는 뜻을 밝혔다.노동당 기관지 노동신문은 27일 김 총비",
-   "tags": [],
-   "metrics": {
-    "cluster": 66,
-    "outlets": 1,
-    "cluster_tags": []
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "동아일보"
-  },
-  {
-   "id": "5b88a7abb7f6ed73",
-   "title": "코스피, 앤트로픽發 훈풍에 장 초반 3%대 강세…삼전닉스 4~6%↑",
-   "url": "https://www.hankyung.com/article/2026102768606",
-   "published_at": "2026-10-27T09:07:37+09:00",
+   "id": "d9d73d8c149e839f",
+   "title": "[속보] SK하이닉스, 보통주 2만원 분기배당…총 14조원 규모",
+   "url": "https://www.hankyung.com/article/2026102895427",
+   "published_at": "2026-10-28T08:42:28+09:00",
    "summary": "",
    "tags": [],
    "metrics": {
@@ -1591,42 +1299,10 @@
    "source_name": "한국경제"
   },
   {
-   "id": "2412c6882b49793e",
-   "title": "[날씨]내일 아침 5~10도 ‘뚝’, 최저 -2도…전국 맑고 곳곳 서리·얼음",
-   "url": "https://www.donga.com/news/Society/article/all/20261027/134914514/1",
-   "published_at": "2026-10-27T09:09:08+09:00",
-   "summary": "수요일인 28일 전국이 대체로 맑겠지만 아침 기온이 최저 -2도까지 떨어지며 춥겠다. 경기 북동부와 강원 내륙·산지, 충북, 일부 남부 내륙에서는 기온이 영하권으로 내려가고 내륙 곳곳에 서리가 내리거나 얼음이 어는 곳도 있겠다.27일 기상청에 따르면 28일 아침 최저기온은 -2~7도, ",
-   "tags": [],
-   "metrics": {
-    "cluster": 65,
-    "outlets": 1,
-    "cluster_tags": []
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "동아일보"
-  },
-  {
-   "id": "43f3476ce704dff0",
-   "title": "[정치쇼] 김준형 \"오세훈 무죄도 조희대 간접적 영향 탓…직무정지 급선무\"",
-   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008816165",
-   "published_at": "2026-10-27T09:10:00+09:00",
-   "summary": "- 조희대 탄핵 발의 촉구? 與 머뭇거려 일정 꼬여- 조희대 그냥 두면 더 큰일 나...직무정지도 급선무- 타협안으로 국정조사? 탄핵요건 충분한데 굳이- 吳 무죄도 정치적 판결...'내란 바퀴벌레들' 많아- 조희대, 사법부 전체적 분위기에 간접적 영향 줘- 김정은 깜짝 방중? 북중 혈맹",
-   "tags": [],
-   "metrics": {
-    "cluster": 105,
-    "outlets": 1,
-    "cluster_tags": []
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "SBS"
-  },
-  {
-   "id": "ce7f175dfa83e533",
-   "title": "한솔로지스틱스, 美 인디애나에 물류 거점…배터리 공급망 사업 확대",
-   "url": "https://www.hankyung.com/article/202610276901i",
-   "published_at": "2026-10-27T09:10:50+09:00",
+   "id": "2e8745fdd0eaef06",
+   "title": "[속보] SK하이닉스, 자사주 20조 매입…10조 소각·10조 임직원보상",
+   "url": "https://www.hankyung.com/article/2026102895527",
+   "published_at": "2026-10-28T08:43:41+09:00",
    "summary": "",
    "tags": [],
    "metrics": {
@@ -1639,10 +1315,10 @@
    "source_name": "한국경제"
   },
   {
-   "id": "6244489be86d2f63",
-   "title": "에임드바이오 ADC 후보물질 임상 1상 첫 투약…마일스톤 요건 충족",
-   "url": "https://www.hankyung.com/article/202610276902i",
-   "published_at": "2026-10-27T09:13:01+09:00",
+   "id": "3fb97b31c8cafdfc",
+   "title": "메디포스트, 국산 배지 기반 줄기세포 은행 CDMO 사업 진출",
+   "url": "https://www.hankyung.com/article/202610289527i",
+   "published_at": "2026-10-28T08:44:16+09:00",
    "summary": "",
    "tags": [],
    "metrics": {
@@ -1655,10 +1331,26 @@
    "source_name": "한국경제"
   },
   {
-   "id": "da7bf22e195d1b58",
-   "title": "매년 아이폰 뿌리던 유튜버…3억 더 사려다 '당황'한 이유 [이슈+]",
-   "url": "https://www.hankyung.com/article/202610276626g",
-   "published_at": "2026-10-27T09:13:32+09:00",
+   "id": "37606041288262d5",
+   "title": "김정은, 北 중대장대회 참가자들과 기념촬영…“만반의 임전태세” 강조",
+   "url": "https://www.donga.com/news/Politics/article/all/20261028/134922215/2",
+   "published_at": "2026-10-28T08:44:25+09:00",
+   "summary": "김정은 북한 국무위원장이 조선인민군 제3차 중대장대회 참가자들과 기념사진을 찍고 전투 준비 태세 완성을 위한 강도 높은 훈련을 강조했다.조선중앙통신은 28일 김 위원장이 전날 제3차 중대장대회 참가자들과 기념사진을 촬영했다고 보도했다. 통신에 따르면 김 위원장은 대회 참가자들에게 격려의",
+   "tags": [],
+   "metrics": {
+    "cluster": 62,
+    "outlets": 1,
+    "cluster_tags": []
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "동아일보"
+  },
+  {
+   "id": "d096b869c4bd933c",
+   "title": "[속보] SK하이닉스 \"2030년까지 수요 우위 지속 전망\"",
+   "url": "https://www.hankyung.com/article/2026102895557",
+   "published_at": "2026-10-28T08:44:25+09:00",
    "summary": "",
    "tags": [],
    "metrics": {
@@ -1671,18 +1363,58 @@
    "source_name": "한국경제"
   },
   {
-   "id": "b2499c7d98a5abc3",
-   "title": "JYP엔터, 일본계 투자사 인수 추진설 부인에도 '급등'",
-   "url": "https://www.hankyung.com/article/2026102768956",
-   "published_at": "2026-10-27T09:13:42+09:00",
+   "id": "902cd9f06218e71a",
+   "title": "오너일가 222명 주식 지분변동…주식 순취득 '1등' 이재용",
+   "url": "https://www.hankyung.com/article/202610289434H",
+   "published_at": "2026-10-28T08:44:50+09:00",
    "summary": "",
+   "tags": [],
+   "metrics": {
+    "cluster": 78,
+    "outlets": 1,
+    "cluster_tags": []
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "한국경제"
+  },
+  {
+   "id": "c88526e3e9701cf4",
+   "title": "미 정부 당국자 “한·미는 조건 기반 전작권 이양에 합의한 것”",
+   "url": "https://www.khan.co.kr/article/202610280845001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "published_at": "2026-10-28T08:45:00+09:00",
+   "summary": "22일 경기도 여주시 남한강 일대에서 열린 한미연합 제병협동 도하훈련에서 K2전차가 연합 부교를 통해 도하하고 있다. 육군 제공도널드 트럼프 미국 행정부가 전시작전통제권(전작권) 전환 시기에 대해 “전작권 이양은 미국과 한국이 상호 합의한 조건에 기반한 절차로 남아 있다”는 기존 입장을",
    "tags": [
     "국제"
    ],
    "metrics": {
-    "cluster": 78,
+    "cluster": 49,
     "outlets": 1,
     "cluster_tags": [
+     "국제"
+    ]
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "경향신문"
+  },
+  {
+   "id": "ed198e926172aece",
+   "title": "노을, 자궁경부암 AI 진단 유럽 확대…보스니아 공급 계약",
+   "url": "https://www.hankyung.com/article/202610289566i",
+   "published_at": "2026-10-28T08:47:13+09:00",
+   "summary": "",
+   "tags": [
+    "국제",
+    "IT",
+    "AI"
+   ],
+   "metrics": {
+    "cluster": 77,
+    "outlets": 1,
+    "cluster_tags": [
+     "AI",
+     "IT",
      "국제"
     ]
    },
@@ -1691,108 +1423,10 @@
    "source_name": "한국경제"
   },
   {
-   "id": "18443b14699802e4",
-   "title": "정점식 “靑, 金여사 골프 쳤는지만 밝혀라…특감 1호 임무”",
-   "url": "https://www.donga.com/news/Politics/article/all/20261027/134914454/1",
-   "published_at": "2026-10-27T09:14:00+09:00",
-   "summary": "국민의힘 정점식 원내대표가 27일 이재명 대통령의 부인 김혜경 여사가 군 골프장에서 유명 프로골프 선수와 라운딩을 했다는 의혹에 대해 “문제의 핵심은 대통령이 아닌 그 가족이 군 시설인 태릉 골프장을 사적으로 유용했다는 사실”이라며 “청와대는 김 여사가 골프를 쳤는지 안 쳤는지만 해명하",
-   "tags": [
-    "정치"
-   ],
-   "metrics": {
-    "cluster": 64,
-    "outlets": 1,
-    "cluster_tags": [
-     "정치"
-    ]
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "동아일보"
-  },
-  {
-   "id": "b8e22d8a8a4a8e79",
-   "title": "네타냐후, 총선 앞두고 이란 타격 군 압박 논란...'공포 정치' 승부수 - 뉴스핌",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE40QXJVaUF3Z2d6QlZMazNVbXZSYmNIM2FzanJQaHkwcnlpN0EwM2N2NEtGTXBnMXRVczlIRTBiNERXd21fNF9iVkNERGVQUUg0Nm1Vc2NNUWZ1bS1F?oc=5",
-   "published_at": "2026-10-27T09:14:00+09:00",
-   "summary": "네타냐후, 총선 앞두고 이란 타격 군 압박 논란...'공포 정치' 승부수 뉴스핌 ‘나 안 뽑으면 핵폭발’ 경고…\"네타냐후 막자\" 귀국 행렬 JTBC 운명의 이스라엘 총선 돌입...'트럼프 입김' 결과 가르나? YTN \"접전 선거 앞둔 네타냐후, 트럼프에 추가 공개지지 요청\" 연합뉴스 전",
-   "tags": [
-    "정치",
-    "국제"
-   ],
-   "metrics": {
-    "cluster": 127,
-    "outlets": 1,
-    "cluster_tags": [
-     "국제",
-     "정치"
-    ]
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "구글뉴스 KR"
-  },
-  {
-   "id": "a38b7e7df5eee142",
-   "title": "\"'한국판 슈드'로 유명했는데\"…퇴출 위기 내몰린 액티브 ETF",
-   "url": "https://www.hankyung.com/article/2026102309346",
-   "published_at": "2026-10-27T09:15:12+09:00",
-   "summary": "",
-   "tags": [],
-   "metrics": {
-    "cluster": 77,
-    "outlets": 1,
-    "cluster_tags": []
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "한국경제"
-  },
-  {
-   "id": "2f15cbe859f4054d",
-   "title": "한국은행, 3분기 GDP 1% 성장‥정부소비·설비투자 증가 영향 - MBC 뉴스",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9DeE5hUzVBWTdQRkdDYmctMVR5d1U2OGRSOTZMa3JuSERZZlhQVVpSNnNOQ2lLbV80M2paWjlhVHRsdnFub0VQWjV4WS15a3Z4Z01BX2NITnJEM0xvUkR3bGZJT1J3UzFMOFE1bi11RDZxZjFW0gF0QVVfeXFMT2R6SHh5ajRrQkZkT2ZXZWR4TldqdDhObllicTFDSDVGelNDQzFncERCTTBHVVpCRnV0NDlHeF9BMnZRRTVBcUFWcXVOLVhkSU1LYjFnUmM5QnU0cFA1WWxsRU05NTg2NW5ybkt2RGZ6RG05N0w?oc=5",
-   "published_at": "2026-10-27T09:15:50+09:00",
-   "summary": "한국은행, 3분기 GDP 1% 성장‥정부소비·설비투자 증가 영향 MBC 뉴스 올해 3분기 GDP 1.0%↑, 작년동기 대비 3.4%↑ 한겨레 올해 3분기 GDP 1% 성장…반도체 수출 호조 영향 경향신문 3분기 실질 국내총생산, 전년비 3.4% 성장 지디넷코리아 3Q GDP 전기비 1.",
-   "tags": [
-    "경제",
-    "IT",
-    "신기술"
-   ],
-   "metrics": {
-    "cluster": 128,
-    "outlets": 1,
-    "cluster_tags": [
-     "IT",
-     "경제",
-     "신기술"
-    ]
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "구글뉴스 KR"
-  },
-  {
-   "id": "4f10fc06f15b4a0a",
-   "title": "HD현대에너지솔루션, 예상치 밑도는 실적에 급락",
-   "url": "https://www.hankyung.com/article/2026102769386",
-   "published_at": "2026-10-27T09:16:36+09:00",
-   "summary": "",
-   "tags": [],
-   "metrics": {
-    "cluster": 76,
-    "outlets": 1,
-    "cluster_tags": []
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "한국경제"
-  },
-  {
-   "id": "4e819be507e04b14",
-   "title": "한국앤컴퍼니, 15년째 장애인 이동권 지원…배터리 나눔 누적 4000개",
-   "url": "https://www.hankyung.com/article/202610276898g",
-   "published_at": "2026-10-27T09:17:18+09:00",
+   "id": "8ea73ad4dadf5ba5",
+   "title": "\"당첨 즉시 10억원 시세차익\"…'과천 디에트르 퍼스티지' 줍줍",
+   "url": "https://www.hankyung.com/article/2026102895046",
+   "published_at": "2026-10-28T08:47:29+09:00",
    "summary": "",
    "tags": [],
    "metrics": {
@@ -1805,264 +1439,160 @@
    "source_name": "한국경제"
   },
   {
-   "id": "1613d308ed2c0297",
-   "title": "“엄마가 주말에 뭐 하자고 했지?”…한국어 알아듣는 ‘시리 AI’",
-   "url": "https://www.donga.com/news/It/article/all/20261027/134914606/1",
-   "published_at": "2026-10-27T09:18:19+09:00",
-   "summary": "“엄마가 주말에 뭐 하자고 했지?”앞으로는 애플의 인공지능(AI) 음성비서 ‘시리’(Siri)에 이렇게 물으면 폰에 저장된 메시지 내용을 찾아 답을 들을 수 있다. 이메일에서 관련 정보를 확인하고 장보기 목록을 작성하는 것도 가능하다. 단순한 음성 명령 수행을 넘어 사용자의 개인적 맥락",
-   "tags": [
-    "IT",
-    "AI"
-   ],
+   "id": "26eca1bd39d8a8b3",
+   "title": "노후 풍력발전기가 희토류 광산으로…美 재활용 사업 주목",
+   "url": "https://www.hankyung.com/article/202610289462i",
+   "published_at": "2026-10-28T08:47:29+09:00",
+   "summary": "",
+   "tags": [],
    "metrics": {
-    "cluster": 63,
+    "cluster": 76,
     "outlets": 1,
-    "cluster_tags": [
-     "AI",
-     "IT"
-    ]
+    "cluster_tags": []
    },
    "is_new": true,
    "streak_days": 1,
-   "source_name": "동아일보"
+   "source_name": "한국경제"
   },
   {
-   "id": "c17f2ec27f1a00b9",
-   "title": "트럼프, 중간선거 일주일 앞두고 “부정선거 신고자에 13억원 포상”",
-   "url": "https://www.khan.co.kr/article/202610270919001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-   "published_at": "2026-10-27T09:19:00+09:00",
-   "summary": "도널드 트럼프 미국 대통령이 26일(현지시간) 미시시피주 코린스의 한 경기장에서 열린 공화당 소속 신디 하이드스미스 상원의원의 중간선거 유세에 참석하고 있다. 로이터연합뉴스도널드 트럼프 미국 대통령이 11월 중간선거를 앞두고 선거 부정행위 신고자에게 100만달러(약 13억2300만원)의",
-   "tags": [
-    "정치",
-    "국제"
-   ],
+   "id": "11cd1e71b8ee82fa",
+   "title": "\"비만약 유행에 샐러드 불티\"…세븐일레븐 80만개 완판",
+   "url": "https://www.hankyung.com/article/202610289459g",
+   "published_at": "2026-10-28T08:47:43+09:00",
+   "summary": "",
+   "tags": [],
    "metrics": {
-    "cluster": 46,
+    "cluster": 74,
     "outlets": 1,
-    "cluster_tags": [
-     "국제",
-     "정치"
-    ]
+    "cluster_tags": []
    },
    "is_new": true,
    "streak_days": 1,
-   "source_name": "경향신문"
+   "source_name": "한국경제"
   },
   {
-   "id": "a994fafbcfe016eb",
-   "title": "민주당, 오늘 의원총회서 ‘조희대 국정조사’ 추진 여부 결정",
-   "url": "https://www.khan.co.kr/article/202610270920001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-   "published_at": "2026-10-27T09:20:00+09:00",
-   "summary": "조희대 대법원장이 지난 6일 국회에서 열린 법사위 국정감사에서 무거운 표정으로 의원질의를 듣고 있다. 박민규 선임기자더불어민주당이 27일 의원총회를 통해 조희대 대법원장에 대한 국정조사 추진 여부를 결정하겠다고 밝혔다.한병도 민주당 원내대표는 이날 국회에서 열린 원내대책회의에서 “사법부",
+   "id": "49b6d3bd0fc26b38",
+   "title": "SK하이닉스, 3분기 영업익 83조…'꿈의 영업이익률' 달성",
+   "url": "https://www.hankyung.com/article/202610289105i",
+   "published_at": "2026-10-28T08:49:35+09:00",
+   "summary": "",
+   "tags": [],
+   "metrics": {
+    "cluster": 73,
+    "outlets": 1,
+    "cluster_tags": []
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "한국경제"
+  },
+  {
+   "id": "d4c0fc0bcb90d58e",
+   "title": "[속보] 자산운용사 1곳서 해킹 사고…금투업권서 처음",
+   "url": "https://www.hankyung.com/article/2026102895897",
+   "published_at": "2026-10-28T08:51:03+09:00",
+   "summary": "",
    "tags": [
-    "정치",
     "사회"
    ],
    "metrics": {
-    "cluster": 45,
+    "cluster": 72,
     "outlets": 1,
     "cluster_tags": [
-     "사회",
+     "사회"
+    ]
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "한국경제"
+  },
+  {
+   "id": "9b5a7a368c69c224",
+   "title": "현대차그룹 '월드 하이드로젠 엑스포 2026' 참가",
+   "url": "https://www.hankyung.com/article/202610289564g",
+   "published_at": "2026-10-28T08:53:01+09:00",
+   "summary": "",
+   "tags": [
+    "자동차"
+   ],
+   "metrics": {
+    "cluster": 71,
+    "outlets": 1,
+    "cluster_tags": [
+     "자동차"
+    ]
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "한국경제"
+  },
+  {
+   "id": "98684cef50e8343e",
+   "title": "\"다시 레버리지 사야 하나\"…삼전닉스 '풀매도'한 초고수들 셈법은",
+   "url": "https://www.hankyung.com/article/202610289440i",
+   "published_at": "2026-10-28T08:54:58+09:00",
+   "summary": "",
+   "tags": [],
+   "metrics": {
+    "cluster": 70,
+    "outlets": 1,
+    "cluster_tags": []
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "한국경제"
+  },
+  {
+   "id": "b754c85c0b253fd5",
+   "title": "북 해안포 개방…지뢰는 '방어무기'라는 통일장관",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008817997",
+   "published_at": "2026-10-28T08:58:00+09:00",
+   "summary": "북한이 최근 서해안 접경 지역에 우리 쪽을 바라보게 해안포를 내놓고 위협하고 있습니다. 국정감사장에서는 군사분계선 남쪽에서 북한 지뢰가 터진 상황에도 \"지뢰는 방어용 무기\"라고 말한 정동영 통일부 장관에게 비판이 쏟아졌습니다.노동규 기자입니다.",
+   "tags": [
+    "정치"
+   ],
+   "metrics": {
+    "cluster": 103,
+    "outlets": 1,
+    "cluster_tags": [
      "정치"
     ]
    },
    "is_new": true,
    "streak_days": 1,
-   "source_name": "경향신문"
+   "source_name": "SBS"
   },
   {
-   "id": "79bba7b8089ad459",
-   "title": "北, 올해 중국산 주류 수입 2배 늘었다…총 344억원어치 수입",
-   "url": "https://www.donga.com/news/Politics/article/all/20261027/134914635/1",
-   "published_at": "2026-10-27T09:20:56+09:00",
-   "summary": "북한이 올해 중국산 주류 수입을 2배 이상 대폭 늘린 것으로 나타났다. 올해 9월까지 중국산 주류 수입액은 총 344억 원가량으로, 지난해 같은 기간 수입액 약 164억 원을 훌쩍 넘겼다.27일 미국의소리(VOA)가 중국 해관총서의 북중 무역 세부 자료를 분석한 결과, 올해 1~9월 북",
+   "id": "28b26430a05a727a",
+   "title": "이 대통령 “국내경제 더 크게 도움되는 내국인 고용 늘려야” - KBS 뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxOXhGNmEyZnR4MTh6LXpfR3ZDMjFkNEhjWUZMSXZjRlZFZ1FHNFpGUUo4QVZRemN1SlFwR0tESHhtS3UxZUluNEZScWgtUTlCZVgxaVJnbGVUOHc?oc=5",
+   "published_at": "2026-10-28T08:59:00+09:00",
+   "summary": "이 대통령 “국내경제 더 크게 도움되는 내국인 고용 늘려야” KBS 뉴스 李대통령 “외국인노동자, 국가경제 크게 도움 안된다” 문화일보 이 대통령, 외국인 노동자 발언 보도에 반박‥\"발언 왜곡, 정정·사과해야\" MBC 뉴스 李대통령 \"인건비 지원 통해 내국인 고용 늘리는 방안 강구해야\"",
    "tags": [
     "경제",
-    "국제"
+    "정치"
    ],
    "metrics": {
-    "cluster": 62,
+    "cluster": 113,
     "outlets": 1,
     "cluster_tags": [
      "경제",
-     "국제"
+     "정치"
     ]
    },
    "is_new": true,
    "streak_days": 1,
-   "source_name": "동아일보"
+   "source_name": "구글뉴스 KR"
   },
   {
-   "id": "9dee8fb33c7f3a86",
-   "title": "엔씨, 10년째 게임 스타트업 지스타 참가 지원",
-   "url": "https://www.yna.co.kr/view/AKR20261027041500017",
-   "published_at": "2026-10-27T09:21:24+09:00",
-   "summary": "(서울=연합뉴스) 김주환 기자 = 엔씨는 국제게임전시회 지스타(G-STAR)에 국내 게임 스타트업 참가를 10년째 지원한다고 27일 밝혔다.",
+   "id": "f46b0a1a07809058",
+   "title": "이제는 K팝 메인 스트림..플레이브·이세계아이돌·WON, 버추얼 가수 [Oh!쎈 레터]",
+   "url": "https://www.chosun.com/entertainments/music/2026/10/28/G5RDEYJSG44TKOBSGRRWCZLEGI/",
+   "published_at": "2026-10-28T09:00:00+09:00",
+   "summary": "[OSEN=장우영 기자] 지하철 생일 전광판을 장식하고, 자체 콘텐츠로 소통하며, 월드투어로 해외 팬들을 만난다. 버추얼 가수의 활동 방식은 이제 현실의 K-POP 아티스트와 크게 다르지 않다. 화면 속 캐릭터를 응원하는 팬들의 마음 또한 현실의 아티스트를 향한 팬심과 닮았다.그 흐름의",
    "tags": [],
    "metrics": {
-    "cluster": 14,
-    "outlets": 1,
-    "cluster_tags": []
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "연합뉴스"
-  },
-  {
-   "id": "2a7af713f9d95102",
-   "title": "삼성물산 '퓨처스케이프 데모데이'…스타트업 실증성과 공유",
-   "url": "https://www.yna.co.kr/view/AKR20261027042500003",
-   "published_at": "2026-10-27T09:21:43+09:00",
-   "summary": "(서울=연합뉴스) 임기창 기자 = 삼성물산은 지난 26일 서울 강동구 본사에서 오픈이노베이션 프로그램 '2026 퓨처스케이프 데모데이'를 열어 ...",
-   "tags": [],
-   "metrics": {
-    "cluster": 13,
-    "outlets": 1,
-    "cluster_tags": []
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "연합뉴스"
-  },
-  {
-   "id": "5e91ea8791b30c8c",
-   "title": "암 수술 회복중인 교황, 내달 6∼17일 남미 순방 예정대로 소화",
-   "url": "https://www.yna.co.kr/view/AKR20261027042100009",
-   "published_at": "2026-10-27T09:21:57+09:00",
-   "summary": "(서울=연합뉴스) 송진원 기자 = 최근 암 수술 후 회복 중인 레오 14세 교황이 의료진의 소견에 기반해 내달 예정된 남미 순방길에 오른다.",
-   "tags": [],
-   "metrics": {
-    "cluster": 12,
-    "outlets": 1,
-    "cluster_tags": []
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "연합뉴스"
-  },
-  {
-   "id": "a663892a6473b0ad",
-   "title": "인하대, 아연 기반 구조전지 개발…하중 견디고 전기 저장",
-   "url": "https://www.yna.co.kr/view/AKR20261027044800065",
-   "published_at": "2026-10-27T09:22:25+09:00",
-   "summary": "(인천=연합뉴스) 황정환 기자 = 인하대학교는 강태준 기계공학과 교수 연구팀이 미국 스탠퍼드대, 한국전자통신연구원과 공동으로 하중을 견디면서 전...",
-   "tags": [
-    "사회",
-    "국제"
-   ],
-   "metrics": {
-    "cluster": 11,
-    "outlets": 1,
-    "cluster_tags": [
-     "국제",
-     "사회"
-    ]
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "연합뉴스"
-  },
-  {
-   "id": "59c13a1f4d9a9683",
-   "title": "[대전소식] 온통대전 결제, 정보무늬도 가능",
-   "url": "https://www.yna.co.kr/view/AKR20261027044500063",
-   "published_at": "2026-10-27T09:22:39+09:00",
-   "summary": "(대전=연합뉴스) ▲ 온통대전 결제, 정보무늬도 가능 = 대전시는 지역화폐인 온통대전의 결제수단을 기존 카드에서 모바일 정보무늬(QR) 결제까지...",
-   "tags": [],
-   "metrics": {
-    "cluster": 10,
-    "outlets": 1,
-    "cluster_tags": []
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "연합뉴스"
-  },
-  {
-   "id": "54d7f64f3f72570b",
-   "title": "[임기범의 AI 혁신 스토리] AI 해킹 시대, 금융보안의 과제",
-   "url": "https://www.yna.co.kr/view/AKR20261027035000371",
-   "published_at": "2026-10-27T09:22:53+09:00",
-   "summary": "인공지능(AI)이 해킹 도구로 쓰이기 시작한 시대에 국내 금융권이 연쇄 해킹을 당했다. 지난달 30일 접수된 신한은행 침해사고로 시작된 사태는 ...",
-   "tags": [
-    "사회",
-    "IT",
-    "AI"
-   ],
-   "metrics": {
-    "cluster": 9,
-    "outlets": 1,
-    "cluster_tags": [
-     "AI",
-     "IT",
-     "사회"
-    ]
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "연합뉴스"
-  },
-  {
-   "id": "a32a7f6d4903c7ed",
-   "title": "SK이노, 돌봄 종사자 50명 대상 '힐링캠프'…재충전 지원",
-   "url": "https://www.yna.co.kr/view/AKR20261027042200003",
-   "published_at": "2026-10-27T09:23:03+09:00",
-   "summary": "(서울=연합뉴스) 김민지 기자 = SK이노베이션은 지난 26일부터 이틀간 서울 광진구 워커힐 호텔 아카디아에서 독거노인 생활지원사와 사회복지사 ...",
-   "tags": [],
-   "metrics": {
-    "cluster": 8,
-    "outlets": 1,
-    "cluster_tags": []
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "연합뉴스"
-  },
-  {
-   "id": "3536f83ef790f84a",
-   "title": "하이브, 산하 레이블 지원 조직 통합…전문 인력도 보강",
-   "url": "https://www.yna.co.kr/view/AKR20261027043100005",
-   "published_at": "2026-10-27T09:23:12+09:00",
-   "summary": "(서울=연합뉴스) 이태수 기자 = 가요 기획사 하이브는 산하 레이블의 음반·음원 유통, 마케팅, 프로모션 활동을 지원하는 통합 조직인 '글로벌 ...",
-   "tags": [],
-   "metrics": {
-    "cluster": 7,
-    "outlets": 1,
-    "cluster_tags": []
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "연합뉴스"
-  },
-  {
-   "id": "7126c4dfc9032bb0",
-   "title": "“겨울철 전기 의료기기 집에서도 안전하게”…식약처, 사용법 안내",
-   "url": "https://www.chosun.com/economy/science/2026/10/27/GYZTAN3CHAZGKY3GGYZDAMZRG4/",
-   "published_at": "2026-10-27T09:23:33+09:00",
-   "summary": "기온이 급격히 떨어지면서 겨울철 온열기기 사용이 늘어나는 가운데, 정부가 저온화상과 화재 등 안전사고를 예방하기 위해 개인용 의료기기의 올바른 사용법과 주의사항을 안내했다. 식품의약품안전처 소속 식품의약품안전평가원은 가정에서 사용하는 개인용 의료기기의 안전한 사용을 위해 ‘전기를 사용하",
-   "tags": [
-    "사회"
-   ],
-   "metrics": {
-    "cluster": 25,
-    "outlets": 1,
-    "cluster_tags": [
-     "사회"
-    ]
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "조선일보"
-  },
-  {
-   "id": "a77ed4af1f02ea28",
-   "title": "冬の個人用電気医療機器、家庭で安全に…食薬処が使用法を案内",
-   "url": "https://www.chosun.com/jp/economy-jp/2026/10/27/NMX2WEJ4RBBXZFDUJP6CWXHXXI/",
-   "published_at": "2026-10-27T09:23:33+09:00",
-   "summary": "気温が急激に下がり、冬場の温熱機器の使用が増える中、政府は低温やけどや火災などの安全事故を防ぐため、個人用医療機器の正しい使用法と注意事項を案内した。食品医薬品安全処傘下の食品医薬品安全評価院は、家庭で使用する個人用医療機器の安全な使用に向け、「電気を使用する個人用医療機器の使用方法および注意事項ガイドライン」を27日",
-   "tags": [],
-   "metrics": {
-    "cluster": 26,
+    "cluster": 22,
     "outlets": 1,
     "cluster_tags": []
    },
@@ -2071,99 +1601,27 @@
    "source_name": "조선일보"
   },
   {
-   "id": "69948e5a96989020",
-   "title": "골재 쌓아두려 나무 수백그루 무단 벌목한 건설폐기물 업체",
-   "url": "https://www.yna.co.kr/view/AKR20261027041900062",
-   "published_at": "2026-10-27T09:23:34+09:00",
-   "summary": "(춘천=연합뉴스) 박영서 기자 = 골재를 쌓아놓을 공간을 확보하려고 나무 700여그루를 무단으로 베어내 산림을 훼손한 건설폐기물 수집·운반 업체...",
+   "id": "2085d69e84cbfbb0",
+   "title": "[여자, 언니, 선배들] 커리어도 건축도, 무에서 유를 만들다 …박유정 건축사",
+   "url": "https://www.khan.co.kr/article/202610280900001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "published_at": "2026-10-28T09:00:00+09:00",
+   "summary": "여자, 언니, 선배들 ⑮소녀는 언니를 보고 자랍니다. 여기 선배가 된 언니들이 있습니다. 자신의 분야에서 이정표이자 버팀목이 되는 [여자, 언니, 선배들]의 일·커리어 이야기를 플랫이 전달합니다.박유정 한국여성건축가협회 감사가 20일 서울 서초구 한국여성건축가협회 사무실에서 경향신문과 ",
    "tags": [],
    "metrics": {
-    "cluster": 6,
+    "cluster": 47,
     "outlets": 1,
     "cluster_tags": []
    },
    "is_new": true,
    "streak_days": 1,
-   "source_name": "연합뉴스"
+   "source_name": "경향신문"
   },
   {
-   "id": "ec1ebe777cd1b8bd",
-   "title": "[특징주] 반도체주, 美 훈풍에 장초반 급등…삼전·닉스 5∼7%대↑",
-   "url": "https://www.yna.co.kr/view/AKR20261027045000008",
-   "published_at": "2026-10-27T09:23:36+09:00",
-   "summary": "(서울=연합뉴스) 임은진 기자 = 삼성전자[005930]와 SK하이닉스[000660] 등 국내 반도체주가 미국발 훈풍에 27일 장 초반 급등 중...",
-   "tags": [
-    "국제",
-    "IT",
-    "신기술"
-   ],
-   "metrics": {
-    "cluster": 5,
-    "outlets": 1,
-    "cluster_tags": [
-     "IT",
-     "국제",
-     "신기술"
-    ]
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "연합뉴스"
-  },
-  {
-   "id": "66e363a2257abc24",
-   "title": "군산 개사동 패총 내년 발굴 추진…서해안 고대사 재조명",
-   "url": "https://www.yna.co.kr/view/AKR20261027045200055",
-   "published_at": "2026-10-27T09:23:56+09:00",
-   "summary": "(군산=연합뉴스) 김진방 기자 = 전북 군산시와 국립완주문화유산연구소는 서해안 고대 역사와 해상 교류의 중요한 단서가 될 '군산 개사동 패총'에...",
-   "tags": [],
-   "metrics": {
-    "cluster": 4,
-    "outlets": 1,
-    "cluster_tags": []
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "연합뉴스"
-  },
-  {
-   "id": "707ffdc75de6432b",
-   "title": "양구군, 전문 예방진화대 조기 배치…가을철 산불 선제 대응",
-   "url": "https://www.yna.co.kr/view/AKR20261027044100062",
-   "published_at": "2026-10-27T09:24:11+09:00",
-   "summary": "(양구=연합뉴스) 양지웅 기자 = 강원 양구군은 가을철 산불 발생 위험에 선제적으로 대응하고자 산불 전문 예방진화대를 조기 배치했다고 27일 밝...",
-   "tags": [],
-   "metrics": {
-    "cluster": 3,
-    "outlets": 1,
-    "cluster_tags": []
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "연합뉴스"
-  },
-  {
-   "id": "43dab342c0689e64",
-   "title": "대한전선, 독일 380㎸ 전력망 수주…본사 1천150억원 계약",
-   "url": "https://www.yna.co.kr/view/AKR20261027046200003",
-   "published_at": "2026-10-27T09:25:41+09:00",
-   "summary": "(서울=연합뉴스) 강태우 기자 = 대한전선은 네덜란드 법인이 독일에서 380킬로볼트(㎸) 초고압 전력망 프로젝트를 턴키(일괄생산) 방식으로 수주...",
-   "tags": [],
-   "metrics": {
-    "cluster": 2,
-    "outlets": 1,
-    "cluster_tags": []
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "연합뉴스"
-  },
-  {
-   "id": "3cc5f645e4fb5789",
-   "title": "대우건설, 3분기 영업이익 1832억···전년比 223.7%↑",
-   "url": "https://www.donga.com/news/Economy/article/all/20261027/134914676/1",
-   "published_at": "2026-10-27T09:25:57+09:00",
-   "summary": "대우건설이 올해 3분기 매출 1조8424억 원, 영업이익 1832억 원을 기록했다고 27일 밝혔다. 매출은 전년 동기 대비 7.4% 감소했지만 영업이익은 223.7% 증가했다.대우건설이 이날 공시한 연결기준 잠정 실적에 따르면 3분기 사업부문별 매출은 건축사업 1조3001억 원, 토목사",
+   "id": "93f5a0b27f62df56",
+   "title": "최대 1150만원 파격 할인…링컨 노틸러스 하이브리드, 국내 판매량 ‘반등’ 모색",
+   "url": "https://www.donga.com/news/Economy/article/all/20261028/134921756/1",
+   "published_at": "2026-10-28T09:00:00+09:00",
+   "summary": "링컨의 대형 프리미엄 SUV(스포츠유틸리티차량) 노틸러스 하이브리드가 출시가 대비 1000만 원이 넘는 대규모 할인 정책을 펼치며 분위기 반전에 나섰다. 수입차 업계에 따르면 해당 차종은 최대 1150만 원의 가격 인하를 적용한다. 할인율로 환산하면 11.9%에 달하며, 이에 따라 소비",
    "tags": [],
    "metrics": {
     "cluster": 61,
@@ -2175,59 +1633,31 @@
    "source_name": "동아일보"
   },
   {
-   "id": "63cc84f5868714df",
-   "title": "청주시, 공공산후조리원 건립 등 생애주기 돌봄 강화",
-   "url": "https://www.yna.co.kr/view/AKR20261027033800064",
-   "published_at": "2026-10-27T09:27:02+09:00",
-   "summary": "(청주=연합뉴스) 김형우 기자 = 청주시는 125억원을 들여 '청주형 공공산후조리원'을 짓는 등 출산부터 노년까지 돌봄 지원을 강화한다고 26일...",
-   "tags": [],
+   "id": "0eed97e7a7f7ef9d",
+   "title": "증권사도 뚫렸다…대신증권 “해킹에 고객정보 3만건 유출, 2차 피해 없어”",
+   "url": "https://www.khan.co.kr/article/202610280902001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "published_at": "2026-10-28T09:02:00+09:00",
+   "summary": "대신증권 로고.대신증권이 28일 외부 해킹으로 고객 정보 약 3만8000여건이 유출됐다며 재발 방지 대책에 나섰다. 보안사고가 은행, 보험사 등에 이어 증권사까지 전방위로 확산하는 모습이다.대신증권은 이날 보도자료에서 “내부조사 결과 현재까지 총 3만8490명의 정보가 유출된 것으로 파",
+   "tags": [
+    "사회"
+   ],
    "metrics": {
-    "cluster": 1,
+    "cluster": 46,
     "outlets": 1,
-    "cluster_tags": []
+    "cluster_tags": [
+     "사회"
+    ]
    },
    "is_new": true,
    "streak_days": 1,
-   "source_name": "연합뉴스"
+   "source_name": "경향신문"
   },
   {
-   "id": "54b22ee8b5b5d6ff",
-   "title": "스카이댄스, 워너 인수 20일 만에 희망퇴직…\"주5일 출근해야\"",
-   "url": "https://www.yna.co.kr/view/AKR20261027028900075",
-   "published_at": "2026-10-27T09:27:11+09:00",
-   "summary": "(로스앤젤레스=연합뉴스) 김경윤 특파원 = 파라마운트 스카이댄스의 워너브러더스 디스커버리 인수로 탄생한 미디어 공룡 기업 스카이댄스가 합병 20...",
-   "tags": [],
-   "metrics": {
-    "cluster": 0,
-    "outlets": 1,
-    "cluster_tags": []
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "연합뉴스"
-  },
-  {
-   "id": "f9d3896f5857f39b",
-   "title": "'심형탁子' 하루, 데이식스 영케이도 녹였다…무아지경 드럼 연주에 \"하루 잘하는데?\" ('슈돌')",
-   "url": "https://www.chosun.com/entertainments/broadcast/2026/10/27/GI3TKOJWMM3TCYJWGNRGIYLBMQ/",
-   "published_at": "2026-10-27T09:27:11+09:00",
-   "summary": "[스포츠조선 안소윤 기자] 데이식스 영케이가 '슈퍼맨이 돌아왔다'에서 하루의 음악선생님으로 출격한다. 28일 방송되는 KBS2 '슈퍼맨이 돌아왔다'(이하 '슈돌') 641회는 '웰컴 투 더 슈돌' 편으로, 심형탁의 아들 하루가 일일 음악선생님인 데이식스의 영케이와 훈훈한 케미를 폭발시킨",
-   "tags": [],
-   "metrics": {
-    "cluster": 17,
-    "outlets": 1,
-    "cluster_tags": []
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "조선일보"
-  },
-  {
-   "id": "d18c9c6868b0838c",
-   "title": "블랙핑크 지수, 30일 신곡 ‘어딕티드’ 발매…고혹적인 아우라 예고",
-   "url": "https://www.donga.com/news/Entertainment/article/all/20261027/134914714/1",
-   "published_at": "2026-10-27T09:28:01+09:00",
-   "summary": "그룹 블랙핑크 멤버 지수가 오는 30일 신곡 ‘어딕티드’(ADDICTED)를 선보인다.지수의 소속사 블리수(BLISSOO)는 지난 24일부터 26일까지 공식 사회관계망서비스(SNS)에 정규 1집의 두 번째 선공개 싱글 ‘어딕티드’의 로고 영상, 티저 이미지, 티저 영상을 차례로 선보이면",
+   "id": "80c510fdbd3da887",
+   "title": "[속보]대신증권 고객 3만8000명 정보 유출…증권으로 해킹 번져",
+   "url": "https://www.donga.com/news/Economy/article/all/20261028/134922290/1",
+   "published_at": "2026-10-28T09:04:00+09:00",
+   "summary": "대신증권에서 고객 3만8490명의 개인신용정보가 유출됐다.대신증권은 28일 내부조사 결과 현재까지 고객 3만8490명의 정보가 유출된 것으로 파악했다고 밝혔다.이번 유출은 17일 투자일임 비대면 증권계좌 개설 연계서버에서 해커의 비정상적인 접근 징후가 포착되면서 드러났다. 대신증권은 외",
    "tags": [],
    "metrics": {
     "cluster": 60,
@@ -2239,16 +1669,582 @@
    "source_name": "동아일보"
   },
   {
-   "id": "5b5503cd1252328b",
-   "title": "국감 대책 회의에서 발언하는 한병도 원내대표",
-   "url": "https://www.mk.co.kr/news/politics/12186601",
-   "published_at": "2026-10-27T18:12:40+09:00",
-   "summary": "국감 대책 회의에서 발언하는 한병도 원내대표 더불어민주당 한병도 원내대표가 27일 국회에서 열린 국정감사 대책 회의에서 발언하고 있다.2026.10.27.김재훈기자",
+   "id": "82ab62eab853001c",
+   "title": "나주 식당 별채 건물서 불···80대 심정지",
+   "url": "https://www.khan.co.kr/article/202610280911001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "published_at": "2026-10-28T09:11:00+09:00",
+   "summary": "현장으로 출동하는 소방차. 기사와 관계없음. 경향신문 자료사진.28일 오전 5시 50분쯤 전남광주 나주시 남평읍 지석로의 한 식당 별채 건물에서 불이 났다.“별채 건물에서 불이 났고 사람이 숨진 것 같다”는 신고를 받고 출동한 소방 당국은 이날 오전 6시7분쯤 자체 진화된 불을 확인하고",
+   "tags": [],
+   "metrics": {
+    "cluster": 45,
+    "outlets": 1,
+    "cluster_tags": []
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "경향신문"
+  },
+  {
+   "id": "58edb6d4d03ce77a",
+   "title": "“철창에 묶어버린다” 송가인, 분노할만…민폐 취객 공연 난동 영상 ‘형사처벌 가능’",
+   "url": "https://www.chosun.com/entertainments/enter_general/2026/10/28/GYYGEMLCMM2WEYTDMQYTMYLCGU/",
+   "published_at": "2026-10-28T09:11:12+09:00",
+   "summary": "[스포츠조선 백지은 기자] 가수 송가인의 공연에서 만취한 채 난동을 부린 취객 A씨의 영상이 공개됐다. 최근 온라인 커뮤니티와 SNS 등에는 25일 열린 '제11회 강진만 춤추는 갈대축제'에 참석한 송가인의 영상이 공개됐다. 공개된 영상에서 송가인은 비를 맞으면서도 빼어난 가창력과 입담",
+   "tags": [],
+   "metrics": {
+    "cluster": 25,
+    "outlets": 1,
+    "cluster_tags": []
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "조선일보"
+  },
+  {
+   "id": "7267fd35847819ba",
+   "title": "브라질 룰라, ’미국행’ 보우소나루 비판…“수치스러운 일“ - 연합뉴스TV",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CY0p1UFRWSnFqOWpYUlpzNkMzRlFIRElicEs4LVJrSXNOWWNEd21WOGhQeHJCY1c0SlhGLU1rckcyWFlCUjNOX1BBdzU2cVB0bkgtRXNLcUdVaW11VE1rcmdjYjlJYTQ?oc=5",
+   "published_at": "2026-10-28T09:14:00+09:00",
+   "summary": "브라질 룰라, ’미국행’ 보우소나루 비판…“수치스러운 일“ 연합뉴스TV 대선 패배하자 美로 간 보우소나루 장남… 여권 제출 명령도 어겼다 조선일보 '대선 불복' 보우소나루, 미국행…美국무부 \"입국 허용하겠다\"(종합) 뉴스1 브라질 대선 패배 보우소나루, 美로 출국⋯“트럼프 정부 비자 발",
+   "tags": [
+    "국제"
+   ],
+   "metrics": {
+    "cluster": 111,
+    "outlets": 1,
+    "cluster_tags": [
+     "국제"
+    ]
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "구글뉴스 KR"
+  },
+  {
+   "id": "677b2dcf12622af0",
+   "title": "'낙상사고' 박위 CCTV 박제 역풍→'친일 후손' 하영 활동중단..연예계 뒤집은 논란5 [Oh!쎈 이슈]",
+   "url": "https://www.chosun.com/entertainments/broadcast/2026/10/28/MI2TOZJWMQ4WMOJTG44DQYZTGI/",
+   "published_at": "2026-10-28T09:16:00+09:00",
+   "summary": "[OSEN=하수정 기자] 2026년도 이제 두 달 밖에 남지 않은 가운데, 국내 연예계도 많은 사건·사고가 일어났다. 전무후무한 탈세 논란부터 한류 정점에 있던 톱스타의 미성년자 교제 의혹, 그리고 광복절을 앞두고 터진 친일파 의혹 논란까지. '11월 괴담'이 아직 남았지만, 다사다난 ",
+   "tags": [
+    "사회"
+   ],
+   "metrics": {
+    "cluster": 17,
+    "outlets": 1,
+    "cluster_tags": [
+     "사회"
+    ]
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "조선일보"
+  },
+  {
+   "id": "898d158eff013d40",
+   "title": "이 대통령 \"자기만 개혁주체인 양 선동…무책임한 극단주의\"",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008818278",
+   "published_at": "2026-10-28T09:19:00+09:00",
+   "summary": "▲ 이재명 대통령이 27일 청와대에서 열린 국무회의에서 생각에 잠긴 듯한 표정을 짓고 있다.이재명 대통령이 오늘 “진심으로 국가와 국민을 위해 검찰 개혁을 주장하는 분도 있고, 자신의 숨겨진 정치적·사적 목적을 위해 선명성만 내세우거나 과도한 선동적 주장을 함으로써 실질적으로 개혁의 발",
+   "tags": [
+    "정치",
+    "사회"
+   ],
+   "metrics": {
+    "cluster": 98,
+    "outlets": 1,
+    "cluster_tags": [
+     "사회",
+     "정치"
+    ]
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "SBS"
+  },
+  {
+   "id": "b5c1d54e8091a84e",
+   "title": "라캐머라 前사령관 “전작권 전환 후 지휘 체계 최적 아닐 것”",
+   "url": "https://www.chosun.com/international/us/2026/10/28/6AZS5WIUXBAP5C5COBE5FOGY2Q/",
+   "published_at": "2026-10-28T09:19:41+09:00",
+   "summary": "폴 라캐머라 전 주한미군사령관은 27일 전시작전통제권 전환이 이뤄진 후의 연합 지휘 체계와 관련해 “내가 추측하기에는 우리가 합의할 수 있는 수준에서 최적이 아닌(suboptimal) 지휘 체계를 만들 가능성이 높다”며 “전투가 시작될 때도 그 체계는 최적이 아닐 것”이라고 했다. 이어",
+   "tags": [],
+   "metrics": {
+    "cluster": 15,
+    "outlets": 1,
+    "cluster_tags": []
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "조선일보"
+  },
+  {
+   "id": "b29cce36274e0c2b",
+   "title": "[사진]정은채, '빛나는 미소와 하트'",
+   "url": "https://www.chosun.com/entertainments/entertain_photo/2026/10/28/HAYDGOBQGBRTMMDEGYZWIOBXMY/",
+   "published_at": "2026-10-28T09:21:00+09:00",
+   "summary": "[OSEN=최규한 기자] 28일 오전 서울 반포동 신세계백화점 강남점에서 해외 패션 브랜드 팝업 스토어 오픈 행사가 열렸다.이날 행사에는 배우 손석구, 정은채, 미야오 나린이 참석했다.배우 정은채가 포토타임을 하고 있다. 2026.10.28 / dreamer@osen.co.kr",
+   "tags": [],
+   "metrics": {
+    "cluster": 26,
+    "outlets": 1,
+    "cluster_tags": []
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "조선일보"
+  },
+  {
+   "id": "e33d4efff9934c96",
+   "title": "[사진]미야오 나린, '빛나는 등장'",
+   "url": "https://www.chosun.com/entertainments/entertain_photo/2026/10/28/GQYGIN3BHEYDGMDFHE3TKZTBMI/",
+   "published_at": "2026-10-28T09:21:00+09:00",
+   "summary": "[OSEN=최규한 기자] 28일 오전 서울 반포동 신세계백화점 강남점에서 해외 패션 브랜드 팝업 스토어 오픈 행사가 열렸다.이날 행사에는 배우 손석구, 정은채, 미야오 나린이 참석했다.미야오 나린이 포토타임을 하고 있다. 2026.10.28 / dreamer@osen.co.kr",
+   "tags": [],
+   "metrics": {
+    "cluster": 27,
+    "outlets": 1,
+    "cluster_tags": []
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "조선일보"
+  },
+  {
+   "id": "e161f7a8292b6c81",
+   "title": "[사진]미야오 나린, '어디서나 멋지게'",
+   "url": "https://www.chosun.com/entertainments/entertain_photo/2026/10/28/GUZTQYRZMJRWKZBVGI3TKYJWGQ/",
+   "published_at": "2026-10-28T09:21:00+09:00",
+   "summary": "[OSEN=최규한 기자] 28일 오전 서울 반포동 신세계백화점 강남점에서 해외 패션 브랜드 팝업 스토어 오픈 행사가 열렸다.이날 행사에는 배우 손석구, 정은채, 미야오 나린이 참석했다.미야오 나린이 포토타임을 하고 있다. 2026.10.28 / dreamer@osen.co.kr",
+   "tags": [],
+   "metrics": {
+    "cluster": 24,
+    "outlets": 1,
+    "cluster_tags": []
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "조선일보"
+  },
+  {
+   "id": "c8ed2ec2d2d98328",
+   "title": "[사진]미야오 나린, '카리스마 뽐내며'",
+   "url": "https://www.chosun.com/entertainments/entertain_photo/2026/10/28/HE2GINLCMZSDMNZRGA4GCNDDGI/",
+   "published_at": "2026-10-28T09:21:00+09:00",
+   "summary": "[OSEN=최규한 기자] 28일 오전 서울 반포동 신세계백화점 강남점에서 해외 패션 브랜드 팝업 스토어 오픈 행사가 열렸다.이날 행사에는 배우 손석구, 정은채, 미야오 나린이 참석했다.미야오 나린이 포토타임을 하고 있다. 2026.10.28 / dreamer@osen.co.kr",
+   "tags": [],
+   "metrics": {
+    "cluster": 28,
+    "outlets": 1,
+    "cluster_tags": []
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "조선일보"
+  },
+  {
+   "id": "f582fd822d809ba9",
+   "title": "미8군 사령관 “북한, 우크라 전쟁서 현대전 경험 쌓고 있다”",
+   "url": "https://www.khan.co.kr/article/202610280921001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "published_at": "2026-10-28T09:21:00+09:00",
+   "summary": "조지프 힐버트 주한미군 미8군 사령관. 미육군협회(AUSA) 갈무리조지프 힐버트(중장) 주한미군 제8군 사령관이 우크라이나 전쟁에 파병된 북한군이 현대전 경험을 쌓고 있다고 경고했다.27일(현지시간) 미 인터넷매체 악시오스에 따르면 힐버트 사령관은 이달 워싱턴DC에서 기자들과 만나 “우",
+   "tags": [
+    "국제"
+   ],
+   "metrics": {
+    "cluster": 44,
+    "outlets": 1,
+    "cluster_tags": [
+     "국제"
+    ]
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "경향신문"
+  },
+  {
+   "id": "16d4471ebb293413",
+   "title": "[사진]미야오 나린, '아침에도 완벽'",
+   "url": "https://www.chosun.com/entertainments/entertain_photo/2026/10/28/HE3DKOBWMI2GMYTCGJSWGMRWG4/",
+   "published_at": "2026-10-28T09:22:00+09:00",
+   "summary": "[OSEN=최규한 기자] 28일 오전 서울 반포동 신세계백화점 강남점에서 해외 패션 브랜드 팝업 스토어 오픈 행사가 열렸다.이날 행사에는 배우 손석구, 정은채, 미야오 나린이 참석했다.미야오 나린이 포토타임을 하고 있다. 2026.10.28 / dreamer@osen.co.kr",
+   "tags": [],
+   "metrics": {
+    "cluster": 23,
+    "outlets": 1,
+    "cluster_tags": []
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "조선일보"
+  },
+  {
+   "id": "0a9976dbfe78e78e",
+   "title": "[사진]미야오 나린, '눈빛까지 멋지게'",
+   "url": "https://www.chosun.com/entertainments/entertain_photo/2026/10/28/GVRDAODCGEYDCN3EMEYDCYTDMY/",
+   "published_at": "2026-10-28T09:22:00+09:00",
+   "summary": "[OSEN=최규한 기자] 28일 오전 서울 반포동 신세계백화점 강남점에서 해외 패션 브랜드 팝업 스토어 오픈 행사가 열렸다.이날 행사에는 배우 손석구, 정은채, 미야오 나린이 참석했다.미야오 나린이 포토타임을 하고 있다. 2026.10.28 / dreamer@osen.co.kr",
+   "tags": [],
+   "metrics": {
+    "cluster": 24,
+    "outlets": 1,
+    "cluster_tags": []
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "조선일보"
+  },
+  {
+   "id": "f2b67028b4baa50f",
+   "title": "오라클, 클라우드에 구글 TPU 첫 탑재…세레브라스 추가",
+   "url": "https://www.yna.co.kr/view/AKR20261028045300009",
+   "published_at": "2026-10-28T09:22:15+09:00",
+   "summary": "(서울=연합뉴스) 정주호 기자 = 오라클은 27일(현지시간) 자사 클라우드 서비스에 엔비디아의 최신 인공지능(AI) 칩을 확대 배치하고 구글 텐...",
+   "tags": [
+    "IT",
+    "AI"
+   ],
+   "metrics": {
+    "cluster": 14,
+    "outlets": 1,
+    "cluster_tags": [
+     "AI",
+     "IT"
+    ]
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "연합뉴스"
+  },
+  {
+   "id": "f223ba28cbfa8a67",
+   "title": "NH농협은행, 금융소외계층 자립 돕는 'NH미소금융재단' 창립총회",
+   "url": "https://www.yna.co.kr/view/AKR20261028043100002",
+   "published_at": "2026-10-28T09:22:22+09:00",
+   "summary": "(서울=연합뉴스) 채새롬 기자 = NH농협은행은 27일 서울 중구 NH농협은행 본사에서 금융소외계층의 경제적 자립과 서민 생활 안정을 지원하기 ...",
+   "tags": [
+    "경제"
+   ],
+   "metrics": {
+    "cluster": 13,
+    "outlets": 1,
+    "cluster_tags": [
+     "경제"
+    ]
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "연합뉴스"
+  },
+  {
+   "id": "632cce46b8b45527",
+   "title": "현대위아, 차세대 구동·열관리 기술로 유럽 車 시장 공략",
+   "url": "https://www.chosun.com/economy/industry-company/2026/10/28/ME2GEMDBGYYWGMRTGNTGIYJTGU/",
+   "published_at": "2026-10-28T09:22:29+09:00",
+   "summary": "현대위아가 열관리 시스템과 차세대 구동 기술로 유럽 완성차 시장을 공략한다. 현대위아는 27일(현지 시각) 독일 볼프스부르크 알레파크 전시장에서 열린 국제자동차부품전시회 ‘IZB 2026’에서 미래 모빌리티 구동과 열관리 분야의 선행 기술을 선보였다고 28일 밝혔다. IZB는 폭스바겐이",
+   "tags": [
+    "국제",
+    "자동차",
+    "제조"
+   ],
+   "metrics": {
+    "cluster": 20,
+    "outlets": 1,
+    "cluster_tags": [
+     "국제",
+     "자동차",
+     "제조"
+    ]
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "조선일보"
+  },
+  {
+   "id": "50f102066d02c8b7",
+   "title": "現代ウィア、次世代駆動・熱管理技術で欧州車市場攻略",
+   "url": "https://www.chosun.com/jp/economy-jp/2026/10/28/PCLMU65A4FDA7OX5ON2CKI44SI/",
+   "published_at": "2026-10-28T09:22:29+09:00",
+   "summary": "現代ウィアが熱管理システムと次世代駆動技術で欧州完成車市場の攻略に乗り出す。現代ウィアは28日、ドイツ・ウォルフスブルクのアラーパーク展示場で27日（現地時間）に開幕した国際自動車部品展示会「IZB 2026」で、未来モビリティーの駆動・熱管理分野の先行技術を披露したと発表した。IZBはフォルクスワーゲンが主催する大規",
+   "tags": [],
+   "metrics": {
+    "cluster": 21,
+    "outlets": 1,
+    "cluster_tags": []
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "조선일보"
+  },
+  {
+   "id": "077ec126ddff0013",
+   "title": "부산서 만취 상태로 발 헛디뎌 바다에 빠진 60대 구조",
+   "url": "https://www.donga.com/news/Society/article/all/20261028/134922458/1",
+   "published_at": "2026-10-28T09:23:38+09:00",
+   "summary": "27일 오후 6시38분께 부산 중구 자갈치물양장 앞 바다에 60대 남성 A씨가 빠진 것을 행인이 발견해 부산해경에 신고했다.신고를 받은 해경은 남항파출소 연안구조정과 중앙해양특수구조단 등을 현장으로 보내 부두 안벽 부근 해상에 떠 있던 A씨를 구조했다. 구조 당시 A씨의 건강 상태에는 ",
+   "tags": [],
+   "metrics": {
+    "cluster": 59,
+    "outlets": 1,
+    "cluster_tags": []
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "동아일보"
+  },
+  {
+   "id": "776ef179fc2ba847",
+   "title": "[특징주] 매디슨 황 엔비디아 수석이사 방한 소식에 로봇주 장 초반 강세",
+   "url": "https://www.yna.co.kr/view/AKR20261028047700008",
+   "published_at": "2026-10-28T09:25:06+09:00",
+   "summary": "(서울=연합뉴스) 김유아 기자 = 미국 엔비디아의 로보틱스 부문 수석이사가 다음 달 방한한다는 소식에 피지컬 인공지능(AI) 협력 논의 기대감이...",
+   "tags": [
+    "국제",
+    "IT",
+    "AI",
+    "신기술"
+   ],
+   "metrics": {
+    "cluster": 11,
+    "outlets": 1,
+    "cluster_tags": [
+     "AI",
+     "IT",
+     "국제",
+     "신기술"
+    ]
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "연합뉴스"
+  },
+  {
+   "id": "4848af732638503b",
+   "title": "성남도개공, 화천대유로 갈 '신탁수익금 110억' 가압류",
+   "url": "https://www.yna.co.kr/view/AKR20261028048000061",
+   "published_at": "2026-10-28T09:25:27+09:00",
+   "summary": "(성남=연합뉴스) 이우성 기자 = 성남도시개발공사는 '대장동 개발비리' 사건의 민간 사업자인 화천대유자산관리(화천대유) 측에 돌아갈 것으로 예상...",
+   "tags": [],
+   "metrics": {
+    "cluster": 10,
+    "outlets": 1,
+    "cluster_tags": []
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "연합뉴스"
+  },
+  {
+   "id": "1e5629bd5cf6c14d",
+   "title": "삼립, 배우 공명 모델로 호빵 광고 공개…겨울 캠페인 전개",
+   "url": "https://www.yna.co.kr/view/AKR20261028041900030",
+   "published_at": "2026-10-28T09:25:42+09:00",
+   "summary": "(서울=연합뉴스) 한주홍 기자 = 삼립[005610]은 배우 공명을 모델로 한 '삼립호빵' 신규 TV 광고를 공개하고 온오프라인 캠페인을 진행한...",
+   "tags": [],
+   "metrics": {
+    "cluster": 9,
+    "outlets": 1,
+    "cluster_tags": []
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "연합뉴스"
+  },
+  {
+   "id": "9b5ca68a4b4d2187",
+   "title": "[테크스냅] 삼성전자, 리센느 손잡고 갤럭시 Z 폴드8 알린다",
+   "url": "https://www.yna.co.kr/view/AKR20261028045600017",
+   "published_at": "2026-10-28T09:26:16+09:00",
+   "summary": "(서울=연합뉴스) 박형빈 기자 = 삼성전자[005930]가 그룹 리센느와 손잡고 갤럭시 Z 폴드8의 여심 공략에 나선다.",
+   "tags": [
+    "IT"
+   ],
+   "metrics": {
+    "cluster": 8,
+    "outlets": 1,
+    "cluster_tags": [
+     "IT"
+    ]
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "연합뉴스"
+  },
+  {
+   "id": "46ac210e4b338a28",
+   "title": "밀가루 제로, 영광 찰보리와 팥으로 만든 53㎉ 저당 찰보리빵 1개 400원 특가",
+   "url": "https://www.chosun.com/economy/startup_story/2026/10/02/Z4SNWLUS65GORIW6GM7VMDSZ6E/",
+   "published_at": "2026-10-28T09:26:56+09:00",
+   "summary": "조선몰은 국내 제조·유통 기업의 판로를 돕고, 독자 혜택을 위해 정산·교환·반품·AS 걱정이 없는 우수 제품을 단독 최저가로 소개합니다. 본 기사는 광고성 내용을 담고 있습니다. 조선멤버십(이하 조멤) 회원님, 조선몰에서 최대 15% 할인 혜택 받아가세요. 조멤Pick으로 상품 가격의 ",
+   "tags": [],
+   "metrics": {
+    "cluster": 16,
+    "outlets": 1,
+    "cluster_tags": []
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "조선일보"
+  },
+  {
+   "id": "af5a6f586d205611",
+   "title": "bhc, 필리핀 마닐라 공항에 2호점…해외 매장 확대",
+   "url": "https://www.yna.co.kr/view/AKR20261028048700030",
+   "published_at": "2026-10-28T09:27:32+09:00",
+   "summary": "(서울=연합뉴스) 한주홍 기자 = 다이닝브랜즈그룹의 치킨 브랜드 bhc가 필리핀 마닐라 국제공항에 2호점을 열며 현지 사업 확대에 나섰다.",
+   "tags": [],
+   "metrics": {
+    "cluster": 6,
+    "outlets": 1,
+    "cluster_tags": []
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "연합뉴스"
+  },
+  {
+   "id": "432e5b1ba3d23d50",
+   "title": "전남·북 5개 시군, '서해안철도' 국가계획 반영 촉구",
+   "url": "https://www.yna.co.kr/view/AKR20261028043700055",
+   "published_at": "2026-10-28T09:28:11+09:00",
+   "summary": "(군산=연합뉴스) 김진방 기자 = 광주전남·북 서해안권 5개 시·군은 28일 오전 국회의원회관에서 열린 '서해안철도 공동메시지 및 5대 과제 발...",
    "tags": [
     "정치"
    ],
    "metrics": {
-    "cluster": 44,
+    "cluster": 5,
+    "outlets": 1,
+    "cluster_tags": [
+     "정치"
+    ]
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "연합뉴스"
+  },
+  {
+   "id": "18877bd0264f820e",
+   "title": "국립극단후원회 어워즈에 '반야 아재'·'조씨고아, 복수의 씨앗'",
+   "url": "https://www.yna.co.kr/view/AKR20261028046200005",
+   "published_at": "2026-10-28T09:28:14+09:00",
+   "summary": "(서울=연합뉴스) 임순현 기자 = 국립극단은 '제2회 국립극단 후원회 어워즈' 작품상을 연극 '반야 아재'와 '조씨고아, 복수의 씨앗'이 공동 ...",
+   "tags": [],
+   "metrics": {
+    "cluster": 4,
+    "outlets": 1,
+    "cluster_tags": []
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "연합뉴스"
+  },
+  {
+   "id": "55086ce299554017",
+   "title": "토스플레이스·경남은행 손잡고 소상공인 결제 인프라 확대",
+   "url": "https://www.yna.co.kr/view/AKR20261028032900017",
+   "published_at": "2026-10-28T09:28:17+09:00",
+   "summary": "(서울=연합뉴스) 오지은 기자 = 비바리퍼블리카의 결제 단말기 및 포스(POS) 설루션 자회사 토스플레이스는 BNK경남은행과 경남 지역경제 활성...",
+   "tags": [
+    "경제"
+   ],
+   "metrics": {
+    "cluster": 3,
+    "outlets": 1,
+    "cluster_tags": [
+     "경제"
+    ]
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "연합뉴스"
+  },
+  {
+   "id": "8bbd313139cd9157",
+   "title": "충남 고위험군 독감 예방접종률 56.7%…내년 4월까지 무료 접종",
+   "url": "https://www.yna.co.kr/view/AKR20261028050800063",
+   "published_at": "2026-10-28T09:28:20+09:00",
+   "summary": "(홍성=연합뉴스) 정윤덕 기자 = 충남도는 27일 기준 도내 고위험군의 독감 예방접종률이 56.7%로 집계됐다고 28일 밝혔다.",
+   "tags": [],
+   "metrics": {
+    "cluster": 2,
+    "outlets": 1,
+    "cluster_tags": []
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "연합뉴스"
+  },
+  {
+   "id": "4c31afcddd8fdddc",
+   "title": "'과학으로 미래를'…안산사이언스밸리 과학축제 내달 7일 개막",
+   "url": "https://www.yna.co.kr/view/AKR20261028050400061",
+   "published_at": "2026-10-28T09:29:38+09:00",
+   "summary": "(안산=연합뉴스) 최해민 기자 = 경기 안산시는 다음 달 7일부터 8일까지 이틀간 한양대학교 에리카 민주광장에서 '2026 안산사이언스밸리(AS...",
+   "tags": [
+    "사회"
+   ],
+   "metrics": {
+    "cluster": 1,
+    "outlets": 1,
+    "cluster_tags": [
+     "사회"
+    ]
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "연합뉴스"
+  },
+  {
+   "id": "256df90314103f7d",
+   "title": "다이나핏, 스마트폰으로 온도 조절하는 발열 의류 5종 출시",
+   "url": "https://www.yna.co.kr/view/AKR20261028048900030",
+   "published_at": "2026-10-28T09:29:40+09:00",
+   "summary": "(서울=연합뉴스) 구정모 기자 = 스포츠 브랜드 다이나핏은 스마트폰으로 발열 온도를 조절할 수 있는 '스마트 웨어러블 웨어' 5종을 출시한다고 ...",
+   "tags": [
+    "IT"
+   ],
+   "metrics": {
+    "cluster": 0,
+    "outlets": 1,
+    "cluster_tags": [
+     "IT"
+    ]
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "연합뉴스"
+  },
+  {
+   "id": "bf211b801ceaac14",
+   "title": "전처 흉기 살해 60대 공소청 송치…취재진 질문에 ‘묵묵부답’",
+   "url": "https://www.donga.com/news/Society/article/all/20261028/134922521/1",
+   "published_at": "2026-10-28T09:32:11+09:00",
+   "summary": "경찰이 신변 보호 중이던 전처를 찾아가 흉기를 휘두른 60대 남성이 공소청에 넘겨졌다.분당경찰서는 28일 오전 살인 혐의를 받는 A씨를 공소청 성남지청에 송치했다.이날 오전 9시께 분당경찰서 유치장을 나선 A씨는 “혐의 인정하냐”, “범행 언제부터 계획했냐”, “유가족에게 할 말 없냐”",
+   "tags": [
+    "사회"
+   ],
+   "metrics": {
+    "cluster": 58,
+    "outlets": 1,
+    "cluster_tags": [
+     "사회"
+    ]
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "동아일보"
+  },
+  {
+   "id": "7a21fa8f7848822c",
+   "title": "[속보] 선관위특검 투표지 검증단, 올림픽공원 핸드볼경기장 도착",
+   "url": "https://www.mk.co.kr/news/society/12188008",
+   "published_at": "2026-10-28T17:16:03+09:00",
+   "summary": "",
+   "tags": [
+    "정치"
+   ],
+   "metrics": {
+    "cluster": 43,
     "outlets": 1,
     "cluster_tags": [
      "정치"
@@ -2259,35 +2255,19 @@
    "source_name": "매일경제"
   },
   {
-   "id": "d45fe91a1a903996",
-   "title": "MINI코리아, 분당에 글로벌 최초 ‘JCW 개러지’ 열었다",
-   "url": "https://www.mk.co.kr/news/business/12186602",
-   "published_at": "2026-10-27T18:13:41+09:00",
-   "summary": "MINI코리아가 고성능 브랜드 JCW(John Cooper Works) 구매자를 위한 특화 서비스 공간 ‘JCW 개러지’를 세계 최초로 국내에 선보인다. MINI코리아는 공식 딜러..",
-   "tags": [],
-   "metrics": {
-    "cluster": 43,
-    "outlets": 1,
-    "cluster_tags": []
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "매일경제"
-  },
-  {
-   "id": "07a35febf4a2d257",
-   "title": "지금 전월셋값 확 올랐는데 “아직 지옥이 아니다”…내후년이 전세난 피크",
-   "url": "https://www.mk.co.kr/news/realestate/12186603",
-   "published_at": "2026-10-27T18:13:52+09:00",
-   "summary": "서울 24개구 월세 계약 우세 임대차계약서 월세비중 57% 전셋값도 작년 상승률比 4배 정비사업 이주 예정물량 늘며 전세난 2028년까지 이어질듯서울 임대차 시장에서 전세의 월세 ..",
+   "id": "282ada669ec4ea62",
+   "title": "한화오션 목표가 28% 낮췄지만…“해양플랜트·특수선 수주 기회 유효”",
+   "url": "https://www.mk.co.kr/news/stock/12188009",
+   "published_at": "2026-10-28T17:16:34+09:00",
+   "summary": "NH투자증권은 28일 한화오션에 대해 원·달러 환율 하락과 새로 수주하는 선박의 가격 상승 둔화, 군함 등 특수선 사업의 성장 지연으로 예상보다 이익이 줄어들 것이라며 목표주가를 ..",
    "tags": [
-    "부동산"
+    "경제"
    ],
    "metrics": {
     "cluster": 42,
     "outlets": 1,
     "cluster_tags": [
-     "부동산"
+     "경제"
     ]
    },
    "is_new": true,
@@ -2295,11 +2275,11 @@
    "source_name": "매일경제"
   },
   {
-   "id": "1875c8e2c3c01ae4",
-   "title": "“4인 가족 한끼에 80만원”…연말 성수기 앞두고 호텔 뷔페값 일제히 올라",
-   "url": "https://www.mk.co.kr/news/business/12186606",
-   "published_at": "2026-10-27T18:14:36+09:00",
-   "summary": "서울 주요 특급호텔들이 연말 성수기를 맞아 저녁 뷔페 가격을 지난해 보다 1만원 안팎 인상한 20만원대로 책정한 것으로 파악됐다. 비싼 가격에도 불구하고 크리스마스와 주말 등 주요..",
+   "id": "027854d4a5016eaf",
+   "title": "“신한지주, 3분기 실적 아쉽지만 연간 최대 실적 기정사실”…목표가는↓",
+   "url": "https://www.mk.co.kr/news/stock/12188010",
+   "published_at": "2026-10-28T17:16:55+09:00",
+   "summary": "키움증권은 28일 신한지주에 대해 “다소 아쉬운 (3)분기 실적이지만, 연간 (실적) 최대치는 기정사실화”이라며 목표주가를 기존 16만원에서 13만원으로 18.75% 하향 조정했다..",
    "tags": [],
    "metrics": {
     "cluster": 41,
@@ -2311,21 +2291,21 @@
    "source_name": "매일경제"
   },
   {
-   "id": "b5a9ad2e86dac0e9",
-   "title": "[MK 골든크로스 돌파종목 : 노을(376930) & 웹젠(069080)]",
-   "url": "https://www.mk.co.kr/news/stock/12186607",
-   "published_at": "2026-10-27T18:14:37+09:00",
-   "summary": "안녕하세요. 국내 핫 이슈 종목을 분석해드리는 AI 기자 ‘MK시그널’ 입니다. MK시그널이 오늘 분석한 핫 이슈 골든크로스 종목은 노을 & 웹젠 입니다. - 노을(376930)은..",
+   "id": "d632021917dab753",
+   "title": "“16억짜리 일산 부동산 실패”…‘아들 불륜 논란’ 홍서범, 무슨 일이",
+   "url": "https://www.mk.co.kr/news/society/12188012",
+   "published_at": "2026-10-28T17:27:57+09:00",
+   "summary": "방송인 김구라(56)가 가수 홍서범(67)의 과거 부동산 투자와 관련한 손실을 언급했다. 지난 26일 유튜브 채널 ‘그리구라’에는 ‘침대에 누워 듣기 좋은 경제 이야기, 김구라 경..",
    "tags": [
-    "IT",
-    "AI"
+    "경제",
+    "부동산"
    ],
    "metrics": {
     "cluster": 40,
     "outlets": 1,
     "cluster_tags": [
-     "AI",
-     "IT"
+     "경제",
+     "부동산"
     ]
    },
    "is_new": true,
@@ -2333,11 +2313,11 @@
    "source_name": "매일경제"
   },
   {
-   "id": "a3b036e355bf8c0d",
-   "title": "[MK시그널] 유니테스트, HBM 테스트 장비와 페로브스카이트 태양전지, 쌍두마차 기대감에 상승률 14.58%",
-   "url": "https://www.mk.co.kr/news/stock/12186611",
-   "published_at": "2026-10-27T18:17:10+09:00",
-   "summary": "10월 27일 유니테스트(086390)가 상승 중이다. 전 거래일 유니테스트 주가는 종가기준 10,930원 하락으로 마감했다. 현재 11,430원으로 (9시 8분 기준) 전일 종가..",
+   "id": "b6475bed6bc6a376",
+   "title": "음악방송 1위도 했는데…‘계좌 압류, 4억빚’ 생활고 고백한 아이돌",
+   "url": "https://www.mk.co.kr/news/culture/12188013",
+   "published_at": "2026-10-28T17:32:18+09:00",
+   "summary": "프로젝트 그룹 JBJ 출신 가수 켄타가 그룹 해체 이후 극심한 생활고와 4억 원에 달하는 채무를 겪었다고 털어놨다. 최근 유튜브 채널 ‘ICU’에 공개된 ‘켄타의 한국 집 대공개’..",
    "tags": [],
    "metrics": {
     "cluster": 39,
@@ -2349,27 +2329,35 @@
    "source_name": "매일경제"
   },
   {
-   "id": "3f173926348a5a8c",
-   "title": "“새로운 주거 문화”…IPARK현산, 목동의 미래를 선보이는 목동 아이파크 라운지 개관",
-   "url": "https://www.mk.co.kr/news/realestate/12186613",
-   "published_at": "2026-10-27T18:18:24+09:00",
-   "summary": "IPARK현대산업개발이 서울 목동에 브랜드 라운지를 열고 목동 일대 주거개발 사업에 대한 접점을 넓힌다. IPARK현대산업개발이 11월 2일 서울시 구로구 목동남로 6 일대 현준프..",
-   "tags": [],
+   "id": "51e4a0ab7de02908",
+   "title": "[속보] SK하이닉스, 3분기 영업이익 83조원 ‘사상 최대’…시장 전망 웃돌았다",
+   "url": "https://www.mk.co.kr/news/business/12188014",
+   "published_at": "2026-10-28T17:34:28+09:00",
+   "summary": "SK하이닉스가 인공지능(AI) 반도체 수요 급증에 힘입어 올해 3분기 사상 최대 실적을 거뒀다. 분기 매출이 처음으로 100조원을 넘어섰고, 영업이익도 83조원을 돌파했다. 증권가..",
+   "tags": [
+    "IT",
+    "AI",
+    "신기술"
+   ],
    "metrics": {
     "cluster": 38,
     "outlets": 1,
-    "cluster_tags": []
+    "cluster_tags": [
+     "AI",
+     "IT",
+     "신기술"
+    ]
    },
    "is_new": true,
    "streak_days": 1,
    "source_name": "매일경제"
   },
   {
-   "id": "016d004a9b389b3c",
-   "title": "콘티넨탈, 신형 아우디 Q3에 18~20in OE 타이어 공급",
-   "url": "https://www.mk.co.kr/news/business/12186614",
-   "published_at": "2026-10-27T18:18:35+09:00",
-   "summary": "콘티넨탈타이어가 신형 아우디 Q3에 여름용 타이어 ‘에코콘택트6 Q’를 신차용 타이어(OE)로 공급한다. 콘티넨탈타이어는 아우디 소형 스포츠유틸리티차량(SUV) Q3에 에코콘택트6..",
+   "id": "b51d0d4be0e1ecd9",
+   "title": "[속보] SK하이닉스, 주주환원 100조원 추진…배당 30조·자사주 60조",
+   "url": "https://www.mk.co.kr/news/business/12188015",
+   "published_at": "2026-10-28T17:35:59+09:00",
+   "summary": "SK하이닉스가 올해 약 100조원 규모의 주주환원을 추진한다. 현금 배당에 30조원 이상, 자사주 매입·소각에 60조원 이상을 투입할 계획이다. SK하이닉스는 28일 공시를 통해 ..",
    "tags": [],
    "metrics": {
     "cluster": 37,
@@ -2381,19 +2369,21 @@
    "source_name": "매일경제"
   },
   {
-   "id": "cee4d71da5c2af23",
-   "title": "5일간 한국 주식 3.5조원 판 외국인들…“원화가치는 왜 오르지?”",
-   "url": "https://www.mk.co.kr/news/economy/12186617",
-   "published_at": "2026-10-27T18:20:57+09:00",
-   "summary": "해외수출 기업 대금 정산 원화로 바꾸며 환율 낮춰외국인이 국내 주식을 대거 팔았지만 원·달러 환율은 하락세다. 외국인이 주식을 판 돈을 달러로 바꿔 나가면 환율이 오르는 게 일반적..",
+   "id": "b6b086bd695d3bcd",
+   "title": "유가 하락 밀어붙이는 트럼프? 2018년 떠올리는 월가",
+   "url": "https://www.mk.co.kr/news/business/12188018",
+   "published_at": "2026-10-28T17:42:28+09:00",
+   "summary": "불앤베어 플러스미국 백악관이 연이어 유가 하락을 유도하는 액션을 취하고 있습니다. 중간 선거를 앞두고 본격 베팅에 나선 것으로 풀이됩니다. 자세한 내용 영상에 담았습니다. ◆ 유의..",
    "tags": [
-    "경제"
+    "정치",
+    "국제"
    ],
    "metrics": {
     "cluster": 36,
     "outlets": 1,
     "cluster_tags": [
-     "경제"
+     "국제",
+     "정치"
     ]
    },
    "is_new": true,
@@ -2401,14 +2391,34 @@
    "source_name": "매일경제"
   },
   {
-   "id": "54e7ece60da80d85",
-   "title": "“양질의 수주와 내실 경영”…대우건설, 3분기 영업이익 223% 급증",
-   "url": "https://www.mk.co.kr/news/stock/12186622",
-   "published_at": "2026-10-27T18:25:26+09:00",
-   "summary": "대우건설이 올해 3분기 외형 감소에도 수익성을 크게 개선한 것으로 나타났다. 대우건설은 27일 공시를 통해 올해 3분기 경영실적(연결기준, 잠정집계)을 발표했다. 3분기 매출은 1..",
-   "tags": [],
+   "id": "8898c4030cb5e22f",
+   "title": "“집주인 2주째 답장 없어”…‘전세사기 고통’ 고백한 아이돌 멤버",
+   "url": "https://www.mk.co.kr/news/society/12188019",
+   "published_at": "2026-10-28T17:43:15+09:00",
+   "summary": "그룹 리미트리스 출신 가수 성현우가 과거 전세사기로 보증금을 돌려받지 못할 위기에 처했던 사연을 공개했다. 성현우는 지난 26일 자신의 유튜브 채널 ‘WOO(성현우)’에 영상을 게..",
+   "tags": [
+    "부동산"
+   ],
    "metrics": {
     "cluster": 35,
+    "outlets": 1,
+    "cluster_tags": [
+     "부동산"
+    ]
+   },
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "매일경제"
+  },
+  {
+   "id": "5a4f0957204cb297",
+   "title": "“은행 업무 봐야하는데 또 안 되네”…절반이 프로그램 오류, 배상액 보니 ‘맙소사’",
+   "url": "https://www.mk.co.kr/news/economy/12188022",
+   "published_at": "2026-10-28T17:46:05+09:00",
+   "summary": "SC제일·토스·카카오 순 장애 빈번 총 배상액 1인당 평균 1400원 그쳐 카카오뱅크는 1인당 평균 28원 수준급할 때마다 끊기고 막히는 은행 앱 서비스의 고질적 장애 원인이 어이..",
+   "tags": [],
+   "metrics": {
+    "cluster": 34,
     "outlets": 1,
     "cluster_tags": []
    },
@@ -2417,31 +2427,11 @@
    "source_name": "매일경제"
   },
   {
-   "id": "92841311bb4cf5e9",
-   "title": "‘스타트렉’ 체호프 역 월터 케이닉 별세…향년 90세",
-   "url": "https://www.mk.co.kr/news/world/12186623",
-   "published_at": "2026-10-27T18:27:27+09:00",
-   "summary": "SF 시리즈 ‘스타트렉’에서 러시아인 항해사 파벨 체호프를 연기한 미국 배우 월터 케이닉이 별세했다. 향년 90세. 25일(현지시간) 미 연예매체 버라이어티 등에 따르면 케이닉은 ..",
-   "tags": [
-    "국제"
-   ],
-   "metrics": {
-    "cluster": 34,
-    "outlets": 1,
-    "cluster_tags": [
-     "국제"
-    ]
-   },
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "매일경제"
-  },
-  {
-   "id": "77d5e7023adbaa40",
-   "title": "“타이어 4본 구매하면 상품권”…미쉐린, 가을맞이 타이어모어 프로모션",
-   "url": "https://www.mk.co.kr/news/business/12186624",
-   "published_at": "2026-10-27T18:28:07+09:00",
-   "summary": "미쉐린코리아가 타이어·자동차 경정비 서비스 네트워크 ‘타이어모어’에서 다음달 30일까지 미쉐린 타이어 구매자를 대상으로 상품권과 타이어 파손 보상 혜택을 제공한다고 27일 밝혔다...",
+   "id": "a750252f938b93a6",
+   "title": "“셀트리온, 신제품 매출 성장 가속화”…목표가↑",
+   "url": "https://www.mk.co.kr/news/stock/12188023",
+   "published_at": "2026-10-28T17:46:26+09:00",
+   "summary": "대신증권은 28일 셀트리온에 대해 신제품 매출 성장이 가속화되고 있다고 평가했다. 내년 이익 성장 가시성이 높아지고 있다는 판단에 투자의견은 ‘매수’를 유지하고, 목표주가는 기존 ..",
    "tags": [],
    "metrics": {
     "cluster": 33,
@@ -2453,21 +2443,23 @@
    "source_name": "매일경제"
   },
   {
-   "id": "85fb1d08ebc95523",
-   "title": "“AI 꺾이면 132조원 증발”...한은이 던진 ‘최악 시나리오’",
-   "url": "https://www.mk.co.kr/news/stock/12186625",
-   "published_at": "2026-10-27T18:28:48+09:00",
-   "summary": "앤트로픽이 상반기에만 106조 원의 적자를 냈습니다. 상장을 앞둔 AI 대표 기업의 충격적인 성적표 앞에서도, 월가는 “앤트로픽의 상장은 무조건 성공해야만 한다”고 기도하고 있습니..",
+   "id": "09b0821cc4229a0c",
+   "title": "하이닉스, 3분기 영업익 83조 ‘역대 최대’…60조원 추가 주주환원 계획",
+   "url": "https://www.mk.co.kr/news/business/12188024",
+   "published_at": "2026-10-28T17:46:37+09:00",
+   "summary": "매출 104조·영업이익률 80% 달성 HBM4 본격 공급…4분기 주력 제품 올 100조 주주환원, 60조 자사주 소각 2028년 생산능력 50% 이상 장기계약SK하이닉스가 인공지능..",
    "tags": [
     "IT",
-    "AI"
+    "AI",
+    "제조"
    ],
    "metrics": {
     "cluster": 32,
     "outlets": 1,
     "cluster_tags": [
      "AI",
-     "IT"
+     "IT",
+     "제조"
     ]
    },
    "is_new": true,
@@ -2475,40 +2467,32 @@
    "source_name": "매일경제"
   },
   {
-   "id": "3b48168bd3639adc",
-   "title": "‘튀김부스러기 혁신’ 그린다, 재생에너지의 날 기후부 장관표창",
-   "url": "https://www.mk.co.kr/news/it/12186626",
-   "published_at": "2026-10-27T18:29:19+09:00",
-   "summary": "튀김부스러기로 항공유 만들어 글로벌 시장 진출 기반도 마련기후테크 기업 주식회사 그린다가 ‘2026 재생에너지의 날’ 기념식에서 기후에너지환경부 장관표창을 수상했다고 27일 밝혔다..",
-   "tags": [
-    "정치"
-   ],
+   "id": "bc53e569b2cf2f7b",
+   "title": "“3단계 맞춤형 지원”…중부발전, 협력 중기 대상 생애주기 복지 지원사업",
+   "url": "https://www.mk.co.kr/news/business/12188026",
+   "published_at": "2026-10-28T17:49:28+09:00",
+   "summary": "난임 치료·출산 축하·가족 상담 지원 본인·배우자 포함 실질적 혜택 제공 중소기업 일·가정 양립 환경 조성한국중부발전이 협력 중소기업 근로자의 일·가정 양립 환경 조성을 지원하는 ..",
+   "tags": [],
    "metrics": {
     "cluster": 31,
     "outlets": 1,
-    "cluster_tags": [
-     "정치"
-    ]
+    "cluster_tags": []
    },
    "is_new": true,
    "streak_days": 1,
    "source_name": "매일경제"
   },
   {
-   "id": "69800873f7745ccd",
-   "title": "JYP, 日 투자그룹 지분 50% 인수 소식에 10%대 급등",
-   "url": "https://www.mk.co.kr/news/stock/12186628",
-   "published_at": "2026-10-27T18:33:20+09:00",
-   "summary": "JYP엔터테인먼트(JYP)가 일본계 투자그룹이 전체 지분 절반 규모 인수를 추진한다는 소식에 급등하고 있다. 27일 오전 9시 5분 현재 JYP는 전일 대비 3850원(10.69%..",
-   "tags": [
-    "국제"
-   ],
+   "id": "ea588f8cf87d342f",
+   "title": "“과세 인프라 미비·청년 우려”…與, 가상자산 과세 추가 유예 무게",
+   "url": "https://www.mk.co.kr/news/economy/12188027",
+   "published_at": "2026-10-28T17:50:20+09:00",
+   "summary": "“현실적 조건 갖고 판단해야” 정부 “합리적 방안 숙고 중”더불어민주당과 정부가 내년 1월 시행 예정인 가상자산 과세를 추가 유예할지 여부를 놓고 최종 협의에 들어갔다. 과세 인프..",
+   "tags": [],
    "metrics": {
     "cluster": 30,
     "outlets": 1,
-    "cluster_tags": [
-     "국제"
-    ]
+    "cluster_tags": []
    },
    "is_new": true,
    "streak_days": 1,
