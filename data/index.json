@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-28T09:34:47+09:00",
- "date": "2026-10-28",
+ "built_at": "2026-10-29T10:03:10+09:00",
+ "date": "2026-10-29",
  "site": {
   "title": "모닝브리프",
   "locations": [
@@ -55,7 +55,7 @@
    "count": 7,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-28T09:33:19+09:00",
+   "fetched_at": "2026-10-29T10:02:39+09:00",
    "repeat_ratio": 0.857
   },
   "fx": {
@@ -63,7 +63,7 @@
    "count": 3,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-28T09:33:19+09:00",
+   "fetched_at": "2026-10-29T10:02:40+09:00",
    "repeat_ratio": 1.0
   },
   "news": {
@@ -71,7 +71,7 @@
    "count": 135,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-28T09:33:26+09:00",
+   "fetched_at": "2026-10-29T10:02:49+09:00",
    "repeat_ratio": 0.0
   },
   "markets": {
@@ -79,7 +79,7 @@
    "count": 5,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-28T09:33:26+09:00",
+   "fetched_at": "2026-10-29T10:02:49+09:00",
    "repeat_ratio": 1.0
   },
   "crypto": {
@@ -87,45 +87,44 @@
    "count": 10,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-28T09:33:31+09:00",
+   "fetched_at": "2026-10-29T10:02:53+09:00",
    "repeat_ratio": 1.0
   },
   "realestate": {
    "level": "warn",
-   "count": 22,
+   "count": 24,
    "warn": [
-    "LH·온비드 공공데이터 API: 키 없음(DATA_GO_KR_KEY) — 뉴스·바로가기만"
+    "LH·온비드 공공데이터 API: 키 없음(DATA_GO_KR_KEY) — 뉴스·바로가기만",
+    "어제와 동일 21%"
    ],
    "block": [],
-   "fetched_at": "2026-10-28T09:33:35+09:00",
-   "repeat_ratio": 0.182
+   "fetched_at": "2026-10-29T10:02:58+09:00",
+   "repeat_ratio": 0.208
   },
   "it": {
-   "level": "warn",
+   "level": "ok",
    "count": 60,
-   "warn": [
-    "전자신문 실패: URLError"
-   ],
+   "warn": [],
    "block": [],
-   "fetched_at": "2026-10-28T09:34:38+09:00",
+   "fetched_at": "2026-10-29T10:03:01+09:00",
    "repeat_ratio": 0.0
   },
   "auto": {
    "level": "warn",
    "count": 60,
    "warn": [
-    "어제와 동일 73%"
+    "어제와 동일 65%"
    ],
    "block": [],
-   "fetched_at": "2026-10-28T09:34:43+09:00",
-   "repeat_ratio": 0.733
+   "fetched_at": "2026-10-29T10:03:05+09:00",
+   "repeat_ratio": 0.65
   },
   "publicdata": {
    "level": "ok",
    "count": 8,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-28T09:34:44+09:00",
+   "fetched_at": "2026-10-29T10:03:06+09:00",
    "repeat_ratio": 1.0
   },
   "leisure": {
@@ -133,63 +132,63 @@
    "count": 30,
    "warn": [
     "고캠핑 API: 키 없음(DATA_GO_KR_KEY)",
-    "어제와 동일 70%"
+    "어제와 동일 60%"
    ],
    "block": [],
-   "fetched_at": "2026-10-28T09:34:47+09:00",
-   "repeat_ratio": 0.7
+   "fetched_at": "2026-10-29T10:03:10+09:00",
+   "repeat_ratio": 0.6
   }
  },
  "must_know": [
   {
    "module": "news",
    "item_ids": [
-    "e9ee5b841f7d5904"
+    "b346f00e7232c2ea"
    ],
-   "title": "[속보] SK하이닉스, 3분기 영업이익 83조 ‘어닝 서프라이즈’",
-   "url": "https://www.hani.co.kr/arti/economy/marketing/1284506.html",
-   "why": "매체 2곳 · 경제",
+   "title": "[속보] 삼성전자 3분기 반도체 부문 영업익 106.5조",
+   "url": "https://www.yna.co.kr/view/AKR20261029065800003",
+   "why": "매체 2곳 · IT·신기술",
+   "score": 11
+  },
+  {
+   "module": "news",
+   "item_ids": [
+    "babc52b50bde7397"
+   ],
+   "title": "연준, 금리 인상 한달만에 다시 동결…2명 인상 반대표(상보) - 연합인포맥스",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE44cllIbzlTbDlHZlFJMjUxcGJ6X0xFVGFVQ2Z2VGpzX0l0X0lxcV8yZ0o4Tzc2Q0NNdHpoN2dyWkxIc0xaTDA5Q2FDSkNzb1E0RUktWkxLNEZYMV9sdlV0Nmx0d1VEUnFhRjlwX3k3Z3I?oc=5",
+   "why": "매체 1곳 · AI·IT·경제",
+   "score": 10
+  },
+  {
+   "module": "news",
+   "item_ids": [
+    "a5249d8bc20c31f4"
+   ],
+   "title": "[속보] 삼성전자, 3분기 영업익 107.4조…작년 대비 783% 증가",
+   "url": "https://www.hankyung.com/article/202610292145g",
+   "why": "매체 2곳 · IT",
    "score": 9
   },
   {
    "module": "news",
    "item_ids": [
-    "17c38f07c13141aa"
+    "288d52fcf71e4133"
    ],
-   "title": "\"고소득자는 인간이 아닌가\"…주 52시간 예외 두고 '고심'",
-   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008817661",
-   "why": "매체 1곳 · IT·신기술",
-   "score": 8
-  },
-  {
-   "module": "news",
-   "item_ids": [
-    "ed198e926172aece"
-   ],
-   "title": "노을, 자궁경부암 AI 진단 유럽 확대…보스니아 공급 계약",
-   "url": "https://www.hankyung.com/article/202610289566i",
-   "why": "매체 1곳 · AI·IT·국제",
-   "score": 8
-  },
-  {
-   "module": "news",
-   "item_ids": [
-    "f2b67028b4baa50f"
-   ],
-   "title": "오라클, 클라우드에 구글 TPU 첫 탑재…세레브라스 추가",
-   "url": "https://www.yna.co.kr/view/AKR20261028045300009",
+   "title": "서울시 55조7445억원 예산안…삭감된 ‘청년 AI’ 266억원 재편성",
+   "url": "https://www.hani.co.kr/arti/area/capital/1284750.html",
    "why": "매체 1곳 · AI·IT",
    "score": 8
   },
   {
-   "module": "crypto",
+   "module": "news",
    "item_ids": [
-    "f6b18db9a4f56551"
+    "965fd9b878c38dee"
    ],
-   "title": "Zcash (ZEC) ₩1,728,661",
-   "url": "https://www.coingecko.com/en/coins/zcash",
-   "why": "큰 변동 · 24시간 +5.75% · 7일 +3.74% · 시총 10위 · 이슈: 비트 코인 (BTC) ETF, 1.1억 달러 유입...전부 '블랙록'으로",
-   "score": 0
+   "title": "중기수출 업종간 격차…“서비스 웃고, 제조 울상”",
+   "url": "https://www.donga.com/news/Economy/article/all/20261029/134930170/1",
+   "why": "매체 1곳 · 경제·제조",
+   "score": 8
   }
  ],
  "banned_hits": 0

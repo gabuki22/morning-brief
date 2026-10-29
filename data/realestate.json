@@ -1,6 +1,6 @@
 {
  "module": "realestate",
- "fetched_at": "2026-10-28T09:33:35+09:00",
+ "fetched_at": "2026-10-29T10:02:58+09:00",
  "source": {
   "name": "RSS 6곳",
   "url": "https://www.hankyung.com/feed/realestate",
@@ -8,13 +8,74 @@
  },
  "items": [
   {
-   "id": "e3c8223ae3509abf",
-   "title": "농지조사 직격탄에 3분기 농림 지역 거래량 37% 급감",
-   "url": "https://www.chosun.com/economy/realty/realestate_news/2026/10/28/HA4TKMRWG5SGKYJRHBRWCZDGMQ/",
-   "published_at": "2026-10-28T09:27:38+09:00",
-   "summary": "[땅집고]올 3분기 전국 농지 거래가 석 달 만에 3분의 1가량 줄었다. 정부가 올해 5월 시작한 농지 전수조사 여파가 본격적으로 거래 통계에 나타났다는 분석이 나온다. 농지 거래가 끊기면서 전국 토지 거래량도 최근 몇 년 사이 가장 낮은 수준으로 떨어졌다. 국토교통부와 한국부동산원이 ",
+   "id": "25e8c9dd3d7ebd13",
+   "title": "정부, 김포 등 그린벨트 풀어 7만 6700채 규모 신규 공공택지 공급",
+   "url": "https://www.donga.com/news/Economy/article/all/20261029/134930068/1",
+   "published_at": "2026-10-29T10:00:00+09:00",
+   "summary": "정부가 경기 김포시와 하남시, 구리시 등 서울과 인접한 경기 지역의 개발제한구역(그린벨트)를 풀어 7만6700채 규모 신규 공공택지를 2030년 내 착공을 목표로 공급한다. 지난 8·13 부동산대책에서 발표된 10만 채 공공택지 중 구체적인 입지가 발표되지 않았던 택지를 이번에 발표한 ",
    "tags": [
-    "부동산"
+    "부동산",
+    "수도권"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "동아일보 경제"
+  },
+  {
+   "id": "1402c0fa2eb974cc",
+   "title": "서울 ‘국평’ 아파트 매매가 2.5% 하락…전세 보증금은 3.8% 올라",
+   "url": "https://www.donga.com/news/Economy/article/all/20261029/134930188/1",
+   "published_at": "2026-10-29T09:43:50+09:00",
+   "summary": "올해 3분기 서울 아파트 매매가격은 전년 동기 대비 2.5% 하락한 반면 전세 보증금은 3.8% 상승한 것으로 나타났다.29일 부동산 플랫폼 다방이 국토교통부 실거래가를 바탕으로 서울 25개 자치구별 전용면적 84㎡ 아파트 시세를 분석한 결과 이같이 나타났다. 올해 3분기 서울 아파트 ",
+   "tags": [
+    "부동산",
+    "수도권"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "동아일보 경제"
+  },
+  {
+   "id": "31b00753c08a29fd",
+   "title": "현대건설, 디에이치 반포124 견본주택에 '디에이치 하우스' 조성",
+   "url": "https://www.yna.co.kr/view/AKR20261029058300003",
+   "published_at": "2026-10-29T09:42:24+09:00",
+   "summary": "(서울=연합뉴스) 서미숙 기자 = 현대건설은 다음달 일반분양에 들어가는 서울 서초구 '디에이치 반포124'의 견본주택에 자사의 하이엔드 브랜드 ...",
+   "tags": [
+    "부동산",
+    "수도권"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "연합뉴스 경제"
+  },
+  {
+   "id": "d56b7481af9cec47",
+   "title": "부산 3분기 제조업 생산 소폭 증가 추정…부동산 거래 감소",
+   "url": "https://www.yna.co.kr/view/AKR20261029057900051",
+   "published_at": "2026-10-29T09:41:44+09:00",
+   "summary": "(부산=연합뉴스) 오수희 기자 = 부산 3분기 제조업 생산실적이 2분기 실적과 비교해 소폭 증가할 것이란 분석이 나왔다.",
+   "tags": [
+    "부동산",
+    "제조"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "연합뉴스 경제"
+  },
+  {
+   "id": "32dee7563fa30cfd",
+   "title": "\"경매 8번 내놔도 안 팔린다\"...농지 전수조사에 애물단지 된 농지",
+   "url": "https://www.chosun.com/economy/realty/investment_trends/2026/10/29/GEYDQNJXGQ2TSYTBGAZTEYJVMY/",
+   "published_at": "2026-10-29T09:38:30+09:00",
+   "summary": "[땅집고] 정부가 사상 처음으로 전국 농지 전수조사에 나선 뒤 농지 경매시장이 사실상 얼어붙은 것으로 나타났다. 경매로 농지를 산 경우 투기 의심 행위로 정밀조사를 받을 수 있어 수요자들이 입찰을 꺼리는 것으로 해석된다. 매물은 쌓이는데 사려는 사람이 없어 감정가의 절반 이하로 팔리는 ",
+   "tags": [
+    "부동산",
+    "경매"
    ],
    "metrics": {},
    "is_new": true,
@@ -22,11 +83,11 @@
    "source_name": "조선일보 경제"
   },
   {
-   "id": "755eccec62f8155f",
-   "title": "LH, 임대주택에 승강기 호출 리모컨 도입…전동스쿠터 충돌 방지",
-   "url": "https://www.yna.co.kr/view/AKR20261028038500003",
-   "published_at": "2026-10-28T09:08:20+09:00",
-   "summary": "(서울=연합뉴스) 오예진 기자 = 한국토지주택공사(LH)는 전동스쿠터를 이용하는 고령자와 장애인 등을 위해 임대주택에 '승강기 원격호출기술'을 ...",
+   "id": "086333e08e4d9bf3",
+   "title": "LH 사장 \"보상 절차 앞당길 모든 수단·방법 적극 모색\"",
+   "url": "https://www.yna.co.kr/view/AKR20261029050800003",
+   "published_at": "2026-10-29T09:29:00+09:00",
+   "summary": "(서울=연합뉴스) 서미숙 기자 = 한국토지주택공사(LH)는 지난 28일 진주 LH 본사에서 이성훈 사장 주재로 3기 신도시 및 신규 공공택지의 ...",
    "tags": [
     "부동산",
     "수도권",
@@ -38,24 +99,10 @@
    "source_name": "연합뉴스 경제"
   },
   {
-   "id": "4ae983178be07c46",
-   "title": "지방 70개 시·군·구, 작년부터 분양 1가구도 없었다",
-   "url": "https://www.chosun.com/economy/real_estate/2026/10/28/MRRWMNDFMNTDSYRYGQ4GEY3BGM/",
-   "published_at": "2026-10-28T08:57:56+09:00",
-   "summary": "지난해부터 지난 9월까지 21개월 동안 전국 시·군·구 70곳에서 분양이 1가구도 없었던 것으로 나타났다. 시·군·구 163곳 중 113곳은 분양 물량이 500가구를 밑돌았다. 28일 부동산 리서치업체 리얼투데이에 따르면, 지난해 1월부터 올해 9월까지 수도권을 제외한 지방 163개 지",
-   "tags": [
-    "부동산"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "조선일보 경제"
-  },
-  {
-   "id": "55c3da1fc9259dbe",
-   "title": "\"새 아파트 2채 생긴다 좋아했는데\"…갑자기 판 뒤집힌 까닭",
-   "url": "https://www.hankyung.com/article/2026102785591",
-   "published_at": "2026-10-28T07:00:10+09:00",
+   "id": "f72dd795fdca507f",
+   "title": "\"주차 폭만 3m\"…성수4지구 '미래 아파트' 일반에 공개",
+   "url": "https://www.hankyung.com/article/2026102922536",
+   "published_at": "2026-10-29T08:40:36+09:00",
    "summary": "",
    "tags": [
     "부동산"
@@ -66,10 +113,10 @@
    "source_name": "한국경제 부동산"
   },
   {
-   "id": "edb071fa115eff07",
-   "title": "\"10억 집을 2.5억 내고 입주\"…20년간 나눠 사는 '할부 아파트' [주간이집]",
-   "url": "https://www.hankyung.com/article/2026102768896",
-   "published_at": "2026-10-28T06:30:01+09:00",
+   "id": "5e45f0b228ae3629",
+   "title": "\"아파트에 웬 아이스링크\"…'호화 커뮤니티'에 제동 걸리나 [시장톡]",
+   "url": "https://www.hankyung.com/article/2026102808446",
+   "published_at": "2026-10-29T06:30:04+09:00",
    "summary": "",
    "tags": [
     "부동산"
@@ -80,42 +127,11 @@
    "source_name": "한국경제 부동산"
   },
   {
-   "id": "0e63225b0e96ef11",
-   "title": "보이스피싱 피해 90%-청약 화면 터치 수 34% 줄여",
-   "url": "https://www.donga.com/news/Economy/article/all/20261027/134912234/2",
-   "published_at": "2026-10-28T04:30:00+09:00",
-   "summary": "삼성생명은 고객과 이해가 상충하는 사안에 대해 외부 전문가의 의견을 반영해 공정성과 객관성을 확보하기 위해 노력해왔다. 교수, 변호사, 의사 등 각계 전문가로 구성된 ‘소비자권익보호위원회’를 2018년부터 운영하며 전문성과 독립성을 기반으로 현실성 있는 판단을 지원하고 있다. 위원회 심",
-   "tags": [
-    "부동산",
-    "청약"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "동아일보 경제"
-  },
-  {
-   "id": "f23997f789a87fc8",
-   "title": "반포에서 검단까지… 지금 청약통장을 꺼내 볼 곳들",
-   "url": "https://www.chosun.com/economy/real_estate/2026/10/28/PFCRWZL3XNF6NBOAD3UWGXGR3Y/",
-   "published_at": "2026-10-28T03:00:00+09:00",
-   "summary": "이번 주도 서울 아파트값은 89주째 상승 기록을 이어갔습니다. 하락세를 보이던 강남 3구도 보합으로 돌아섰습니다. 오늘은 시세 이야기 대신 청약지를 소개해 드리려 합니다. 대출 문이 좁아진 지금, 분양가 상한제가 적용되는 청약만큼 확실한 내 집 마련 수단도 드뭅니다. 서울의 대어부터 반",
-   "tags": [
-    "부동산",
-    "수도권",
-    "청약"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "조선일보 경제"
-  },
-  {
-   "id": "7ee8299caa9617f7",
-   "title": "월급 받자마자 절반 증발… 열흘 후엔 평균 22% 남아",
-   "url": "https://www.chosun.com/economy/economy_general/2026/10/28/2ZIAKMJZ6JBS7GSBPN7U66ANGA/",
-   "published_at": "2026-10-28T00:51:00+09:00",
-   "summary": "경기도에 사는 직장인 안모(28)씨는 월급을 270만원쯤 받지만 월세와 대출 이자, 관리비, 보험료 등으로 매달 100만원 넘게 나간다. 배달 음식을 끊고 점심은 구내식당에서 해결하지만, 식비와 경조사비 등을 내고 나면 월급은 20만원도 채 남지 않는다. 안씨는 “날마다 줄어드는 통장 ",
+   "id": "10deac7201f3cbec",
+   "title": "당정 “재개발 용적률, 공공 130%-민간 120%로 상향 연내 처리”",
+   "url": "https://www.donga.com/news/Politics/article/all/20261029/134928990/2",
+   "published_at": "2026-10-29T04:30:00+09:00",
+   "summary": "더불어민주당과 정부가 공공 재개발 사업 용적률을 최대한도의 130%까지 상향하는 도시 및 주거환경정비법(도정법) 개정안을 올해 안에 처리하기로 뜻을 모았다. 국토교통위원회 여당 간사인 민주당 복기왕 의원은 28일 서울 여의도 국회에서 열린 당정협의회를 마친 후 기자들과 만나 “(도정법을",
    "tags": [
     "부동산",
     "수도권"
@@ -123,13 +139,13 @@
    "metrics": {},
    "is_new": true,
    "streak_days": 1,
-   "source_name": "조선일보 경제"
+   "source_name": "동아일보 경제"
   },
   {
-   "id": "86d00f3d3073cab7",
-   "title": "서울 아파트 전세 거래, ‘갱신 계약’이 절반…매물 줄어 이사 안 해",
-   "url": "https://www.hani.co.kr/arti/economy/property/1284360.html",
-   "published_at": "2026-10-28",
+   "id": "546cf91059283372",
+   "title": "서울 아파트 매물 석달 새 32% 증가…강남 중심서 전지역 확대",
+   "url": "https://www.hani.co.kr/arti/economy/property/1284571.html",
+   "published_at": "2026-10-29",
    "summary": "",
    "tags": [
     "부동산",
@@ -141,25 +157,10 @@
    "source_name": "한겨레 경제"
   },
   {
-   "id": "91b65013be6977c7",
-   "title": "강북 전셋값마저 6억 넘어…강남보다 상승세 가팔랐다",
-   "url": "https://www.khan.co.kr/article/202610272056025/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
-   "published_at": "2026-10-27T20:56:02+09:00",
-   "summary": "올해 10% 상승, 신규 계약 때 1억 이상 올라…매매가도 12억 돌파토허제로 매물 실종…2~3년 내 5만가구 이주 수요 “더 오를 것”서울 동대문구 제기동 한신아파트 전용 59㎡는 지난 21일 5억5000만원에 전세 계약됐다. 지난 17일 같은 면적 세입자가 3억3500만원에 기존 계",
-   "tags": [
-    "부동산",
-    "수도권"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "경향신문 경제"
-  },
-  {
-   "id": "b22979809ef797b3",
-   "title": "'출퇴근 혁명' 잠실까지 27분 시대 열었더니…집값 '2억 쑥'",
-   "url": "https://www.hankyung.com/article/202610230917i",
-   "published_at": "2026-10-27T17:51:02+09:00",
+   "id": "ceaed022d264a11d",
+   "title": "\"강남 집값, 해운대의 5배…시장특성 맞는 핀셋 정책 필요\"",
+   "url": "https://www.hankyung.com/article/2026102813431",
+   "published_at": "2026-10-28T17:30:27+09:00",
    "summary": "",
    "tags": [
     "부동산"
@@ -170,25 +171,10 @@
    "source_name": "한국경제 부동산"
   },
   {
-   "id": "bee3a1b650d45f7f",
-   "title": "LH, 연내 과천·구리 등서 임대주택 4663가구 공급",
-   "url": "https://www.hankyung.com/article/2026102785611",
-   "published_at": "2026-10-27T17:14:19+09:00",
-   "summary": "",
-   "tags": [
-    "부동산",
-    "청약"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "한국경제 부동산"
-  },
-  {
-   "id": "a7b550d4342cf612",
-   "title": "노른자 땅에 아파트 짓는다…속속 개발되는 홈플러스 부지",
-   "url": "https://www.hankyung.com/article/202610278206i",
-   "published_at": "2026-10-27T16:50:48+09:00",
+   "id": "e1af767211ca516b",
+   "title": "상봉동 '더샵 퍼스트월드' 308실 분양",
+   "url": "https://www.hankyung.com/article/2026102813441",
+   "published_at": "2026-10-28T17:29:40+09:00",
    "summary": "",
    "tags": [
     "부동산"
@@ -199,10 +185,10 @@
    "source_name": "한국경제 부동산"
   },
   {
-   "id": "1d7ef90f1581fae8",
-   "title": "농지투기조사 여파에…3분기 토지거래 13%↓",
-   "url": "https://www.hankyung.com/article/202610278137i",
-   "published_at": "2026-10-27T15:24:15+09:00",
+   "id": "03f3b34243de7c4c",
+   "title": "강남 집값 해운대의 5배…\"전국 4개 유형으로 차등규제해야\"",
+   "url": "https://www.hankyung.com/article/202610280835i",
+   "published_at": "2026-10-28T14:55:35+09:00",
    "summary": "",
    "tags": [
     "부동산"
@@ -213,14 +199,42 @@
    "source_name": "한국경제 부동산"
   },
   {
-   "id": "a69cc7435994e4da",
-   "title": "포스코이앤씨, '더샵 퍼스트월드 서울' 오피스텔 내달 분양",
-   "url": "https://www.hankyung.com/article/202610278012i",
-   "published_at": "2026-10-27T15:18:44+09:00",
+   "id": "1f7855a11466ec5a",
+   "title": "\"여기가 강북 맞아요?\"…부동산 갔다가 '화들짝' 놀란 이유",
+   "url": "https://www.hankyung.com/article/202610265214i",
+   "published_at": "2026-10-28T14:00:03+09:00",
+   "summary": "",
+   "tags": [
+    "부동산"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "한국경제 부동산"
+  },
+  {
+   "id": "fd0e2b499a9b97e9",
+   "title": "'서초 롯데캐슬 아트팰리스' 146가구 다음달 분양…일반공급 60% 추첨",
+   "url": "https://www.hankyung.com/article/202610280368i",
+   "published_at": "2026-10-28T11:37:27+09:00",
+   "summary": "",
+   "tags": [
+    "부동산"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "한국경제 부동산"
+  },
+  {
+   "id": "fcc59f5965555d15",
+   "title": "광주 반도체·전북 소부장 특화단지…호남서 4102가구 새 아파트 분양",
+   "url": "https://www.hankyung.com/article/202610280263i",
+   "published_at": "2026-10-28T11:07:47+09:00",
    "summary": "",
    "tags": [
     "부동산",
-    "수도권"
+    "신기술"
    ],
    "metrics": {},
    "is_new": true,
@@ -228,10 +242,10 @@
    "source_name": "한국경제 부동산"
   },
   {
-   "id": "d452d7970bf8cdf7",
-   "title": "\"강남 작은 집이라도 가자\"…정종철, 일산 70평 아파트 던진 사연",
-   "url": "https://www.hankyung.com/article/202610277941H",
-   "published_at": "2026-10-27T14:58:43+09:00",
+   "id": "871f5c65753f6e71",
+   "title": "지방 10곳 중 7곳, 21개월간 아파트 분양 '500가구 미만'",
+   "url": "https://www.hankyung.com/article/202610289975i",
+   "published_at": "2026-10-28T10:45:27+09:00",
    "summary": "",
    "tags": [
     "부동산"
@@ -242,25 +256,10 @@
    "source_name": "한국경제 부동산"
   },
   {
-   "id": "8a3a49d409576aec",
-   "title": "용인 구성역세권 '중앙하이츠 구성 플랫폼시티' 76가구 일반분양",
-   "url": "https://www.hankyung.com/article/202610277833i",
-   "published_at": "2026-10-27T13:59:42+09:00",
-   "summary": "",
-   "tags": [
-    "부동산",
-    "수도권"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "한국경제 부동산"
-  },
-  {
-   "id": "7fec5c8fa9cd78d5",
-   "title": "\"오피스텔 분양가가 11억이라고?\"…아파트값 뛰자 벌어진 일",
-   "url": "https://www.hankyung.com/article/202610276978i",
-   "published_at": "2026-10-27T09:37:50+09:00",
+   "id": "e5648fcffa71ffb1",
+   "title": "1~2인 가구 65%인데…수도권 소형 오피스텔 공급 비중 32%로 '뚝'",
+   "url": "https://www.hankyung.com/article/202610289696i",
+   "published_at": "2026-10-28T09:15:00+09:00",
    "summary": "",
    "tags": [
     "부동산"
@@ -271,10 +270,38 @@
    "source_name": "한국경제 부동산"
   },
   {
-   "id": "0420803ee16bb9c3",
-   "title": "\"내 전세금부터 지키자\"…등기부에 권리 새긴 도봉 세입자들",
-   "url": "https://www.hankyung.com/article/2026102767506",
-   "published_at": "2026-10-27T08:47:23+09:00",
+   "id": "e45a1b6dfe8213c7",
+   "title": "\"새 아파트 구경도 못했다\"…지방 70곳, 21개월간 분양 '0'",
+   "url": "https://www.hankyung.com/article/2026102894906",
+   "published_at": "2026-10-28T08:37:28+09:00",
+   "summary": "",
+   "tags": [
+    "부동산"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "한국경제 부동산"
+  },
+  {
+   "id": "55c3da1fc9259dbe",
+   "title": "\"새 아파트 2채 생긴다 좋아했는데\"…갑자기 판 뒤집힌 까닭",
+   "url": "https://www.hankyung.com/article/2026102785591",
+   "published_at": "2026-10-28T07:00:10+09:00",
+   "summary": "",
+   "tags": [
+    "부동산"
+   ],
+   "metrics": {},
+   "is_new": false,
+   "streak_days": 2,
+   "source_name": "한국경제 부동산"
+  },
+  {
+   "id": "edb071fa115eff07",
+   "title": "\"10억 집을 2.5억 내고 입주\"…20년간 나눠 사는 '할부 아파트' [주간이집]",
+   "url": "https://www.hankyung.com/article/2026102768896",
+   "published_at": "2026-10-28T06:30:01+09:00",
    "summary": "",
    "tags": [
     "부동산"
@@ -288,7 +315,7 @@
    "id": "6a0834327afccc3b",
    "title": "LH 청약플러스 — 분양·임대 공고",
    "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
-   "published_at": "2026-10-28",
+   "published_at": "2026-10-29",
    "summary": "수도권 공고는 지역 필터로",
    "tags": [
     "바로가기",
@@ -296,14 +323,14 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 40,
+   "streak_days": 41,
    "source_name": "바로가기"
   },
   {
    "id": "25744536b7c84e25",
    "title": "온비드 — 공매 물건",
    "url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateList.do",
-   "published_at": "2026-10-28",
+   "published_at": "2026-10-29",
    "summary": "부동산 공매 검색",
    "tags": [
     "바로가기",
@@ -311,14 +338,14 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 40,
+   "streak_days": 41,
    "source_name": "바로가기"
   },
   {
    "id": "c91f39808692d334",
    "title": "법원경매정보 — 매각기일 공고",
    "url": "https://www.courtauction.go.kr/",
-   "published_at": "2026-10-28",
+   "published_at": "2026-10-29",
    "summary": "관할 법원별 기일 확인",
    "tags": [
     "바로가기",
@@ -326,15 +353,16 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 40,
+   "streak_days": 41,
    "source_name": "바로가기"
   }
  ],
  "status": {
   "ok": true,
-  "count": 22,
+  "count": 24,
   "warn": [
-   "LH·온비드 공공데이터 API: 키 없음(DATA_GO_KR_KEY) — 뉴스·바로가기만"
+   "LH·온비드 공공데이터 API: 키 없음(DATA_GO_KR_KEY) — 뉴스·바로가기만",
+   "어제와 동일 21%"
   ],
   "error": null,
   "level": "warn",
