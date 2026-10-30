@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-29T10:03:10+09:00",
- "date": "2026-10-29",
+ "built_at": "2026-10-30T10:08:21+09:00",
+ "date": "2026-10-30",
  "site": {
   "title": "모닝브리프",
   "locations": [
@@ -55,7 +55,7 @@
    "count": 7,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-29T10:02:39+09:00",
+   "fetched_at": "2026-10-30T10:07:48+09:00",
    "repeat_ratio": 0.857
   },
   "fx": {
@@ -63,7 +63,7 @@
    "count": 3,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-29T10:02:40+09:00",
+   "fetched_at": "2026-10-30T10:07:48+09:00",
    "repeat_ratio": 1.0
   },
   "news": {
@@ -71,7 +71,7 @@
    "count": 135,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-29T10:02:49+09:00",
+   "fetched_at": "2026-10-30T10:07:57+09:00",
    "repeat_ratio": 0.0
   },
   "markets": {
@@ -79,7 +79,7 @@
    "count": 5,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-29T10:02:49+09:00",
+   "fetched_at": "2026-10-30T10:07:57+09:00",
    "repeat_ratio": 1.0
   },
   "crypto": {
@@ -87,44 +87,47 @@
    "count": 10,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-29T10:02:53+09:00",
-   "repeat_ratio": 1.0
+   "fetched_at": "2026-10-30T10:08:05+09:00",
+   "repeat_ratio": 0.9
   },
   "realestate": {
    "level": "warn",
-   "count": 24,
+   "count": 13,
    "warn": [
     "LH·온비드 공공데이터 API: 키 없음(DATA_GO_KR_KEY) — 뉴스·바로가기만",
-    "어제와 동일 21%"
+    "링크 확인 실패 1/3",
+    "어제와 동일 23%"
    ],
    "block": [],
-   "fetched_at": "2026-10-29T10:02:58+09:00",
-   "repeat_ratio": 0.208
+   "fetched_at": "2026-10-30T10:08:10+09:00",
+   "repeat_ratio": 0.231
   },
   "it": {
-   "level": "ok",
+   "level": "warn",
    "count": 60,
-   "warn": [],
+   "warn": [
+    "링크 확인 실패 1/3"
+   ],
    "block": [],
-   "fetched_at": "2026-10-29T10:03:01+09:00",
+   "fetched_at": "2026-10-30T10:08:12+09:00",
    "repeat_ratio": 0.0
   },
   "auto": {
    "level": "warn",
    "count": 60,
    "warn": [
-    "어제와 동일 65%"
+    "어제와 동일 68%"
    ],
    "block": [],
-   "fetched_at": "2026-10-29T10:03:05+09:00",
-   "repeat_ratio": 0.65
+   "fetched_at": "2026-10-30T10:08:16+09:00",
+   "repeat_ratio": 0.683
   },
   "publicdata": {
    "level": "ok",
    "count": 8,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-29T10:03:06+09:00",
+   "fetched_at": "2026-10-30T10:08:19+09:00",
    "repeat_ratio": 1.0
   },
   "leisure": {
@@ -132,63 +135,63 @@
    "count": 30,
    "warn": [
     "고캠핑 API: 키 없음(DATA_GO_KR_KEY)",
-    "어제와 동일 60%"
+    "어제와 동일 63%"
    ],
    "block": [],
-   "fetched_at": "2026-10-29T10:03:10+09:00",
-   "repeat_ratio": 0.6
+   "fetched_at": "2026-10-30T10:08:21+09:00",
+   "repeat_ratio": 0.633
   }
  },
  "must_know": [
   {
    "module": "news",
    "item_ids": [
-    "b346f00e7232c2ea"
+    "20821afd0378d8dd"
    ],
-   "title": "[속보] 삼성전자 3분기 반도체 부문 영업익 106.5조",
-   "url": "https://www.yna.co.kr/view/AKR20261029065800003",
-   "why": "매체 2곳 · IT·신기술",
-   "score": 11
-  },
-  {
-   "module": "news",
-   "item_ids": [
-    "babc52b50bde7397"
-   ],
-   "title": "연준, 금리 인상 한달만에 다시 동결…2명 인상 반대표(상보) - 연합인포맥스",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE44cllIbzlTbDlHZlFJMjUxcGJ6X0xFVGFVQ2Z2VGpzX0l0X0lxcV8yZ0o4Tzc2Q0NNdHpoN2dyWkxIc0xaTDA5Q2FDSkNzb1E0RUktWkxLNEZYMV9sdlV0Nmx0d1VEUnFhRjlwX3k3Z3I?oc=5",
+   "title": "젠슨 황 옆자리까지 파고든 중국 스파이···미 정부는 알고도 ‘침묵’",
+   "url": "https://www.khan.co.kr/article/202610300849001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
    "why": "매체 1곳 · AI·IT·경제",
    "score": 10
   },
   {
    "module": "news",
    "item_ids": [
-    "a5249d8bc20c31f4"
+    "f879f1e189f80220"
    ],
-   "title": "[속보] 삼성전자, 3분기 영업익 107.4조…작년 대비 783% 증가",
-   "url": "https://www.hankyung.com/article/202610292145g",
-   "why": "매체 2곳 · IT",
-   "score": 9
-  },
-  {
-   "module": "news",
-   "item_ids": [
-    "288d52fcf71e4133"
-   ],
-   "title": "서울시 55조7445억원 예산안…삭감된 ‘청년 AI’ 266억원 재편성",
-   "url": "https://www.hani.co.kr/arti/area/capital/1284750.html",
-   "why": "매체 1곳 · AI·IT",
+   "title": "산업생산 15년 6개월 만에 최대 증가…반도체·자동차가 견인",
+   "url": "https://www.khan.co.kr/article/202610300801001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "why": "매체 1곳 · IT·신기술",
    "score": 8
   },
   {
    "module": "news",
    "item_ids": [
-    "965fd9b878c38dee"
+    "c2ae6a98e34bd778"
    ],
-   "title": "중기수출 업종간 격차…“서비스 웃고, 제조 울상”",
-   "url": "https://www.donga.com/news/Economy/article/all/20261029/134930170/1",
-   "why": "매체 1곳 · 경제·제조",
+   "title": "美 빅테크 실적 부진 영향에 코스피 3%대 하락…5,700선 후퇴 - 연합인포맥스",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGMzVoVE5ZRUdlLXlIYzgwNk53NFZxUHRLTVVCQ2wwcW5DbnozOUdOLXRqeU9aTFV2aEdRWklld2JKeWJIcW9pWkdOMmNSQ2FqX0lfVmEtTWVUUklUczMyMXZwWVJVS2xnWks2eEJ3ME0?oc=5",
+   "why": "매체 1곳 · AI·IT·국제",
    "score": 8
+  },
+  {
+   "module": "news",
+   "item_ids": [
+    "f6c9a379043a3f59"
+   ],
+   "title": "정부·민간 손잡고 화합물반도체 국산화…공동법인 설립 추진",
+   "url": "https://www.yna.co.kr/view/AKR20261029177100017",
+   "why": "매체 1곳 · IT·신기술",
+   "score": 8
+  },
+  {
+   "module": "crypto",
+   "item_ids": [
+    "18c91f56d2cb940c"
+   ],
+   "title": "Ethereum (ETH) ₩2,961,354",
+   "url": "https://www.coingecko.com/en/coins/ethereum",
+   "why": "큰 변동 · 24시간 -5.40% · 7일 -7.07% · 시총 2위 · 이슈: 금리 동결 안 통했다...니어(NEAR)·비트 코인 캐시(BCH), 비트",
+   "score": 0
   }
  ],
  "banned_hits": 0
