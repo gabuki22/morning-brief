@@ -1,6 +1,6 @@
 {
  "module": "realestate",
- "fetched_at": "2026-10-30T10:08:10+09:00",
+ "fetched_at": "2026-10-31T09:52:51+09:00",
  "source": {
   "name": "RSS 6곳",
   "url": "https://www.hankyung.com/feed/realestate",
@@ -8,15 +8,30 @@
  },
  "items": [
   {
-   "id": "3e46336e2cb9412a",
-   "title": "'10억 적으려다 100억'…법원경매 입찰표 양식 전면개선",
-   "url": "https://www.yna.co.kr/view/AKR20261030051700004",
-   "published_at": "2026-10-30T09:47:48+09:00",
-   "summary": "(서울=연합뉴스) 이미령 기자 = 법원행정처는 부동산경매 입찰 과정에서 입찰 가격을 잘못 기재해 높은 가격에 낙찰받는 것을 막고자 기일입찰표 양...",
+   "id": "09d771d0f595b904",
+   "title": "계양신도시 카이브 유보라, 11월 2일 특별공급 시작… 블록별 중복청약 가능",
+   "url": "https://www.donga.com/news/Economy/article/all/20261030/134939631/1",
+   "published_at": "2026-10-31T09:00:00+09:00",
+   "summary": "반도건설이 인천 계양신도시 AC3·AC4블록에 공급하는 ‘계양신도시 카이브 유보라’가 오는 11월 2일 특별공급을 시작으로 청약에 들어간다. 청약은 2일 특별공급, 3일 1순위, 4일 2순위 순으로 진행된다. 당첨자 발표일이 AC3블록 11월 10일, AC4블록 11월 11일로 달라 블",
    "tags": [
     "부동산",
     "수도권",
-    "경매"
+    "청약"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "동아일보 경제"
+  },
+  {
+   "id": "31514ce8bf974458",
+   "title": "[부동산캘린더] 내주 고덕강일3단지 등 전국 4천928가구 청약 접수",
+   "url": "https://www.yna.co.kr/view/AKR20261030169300003",
+   "published_at": "2026-10-31T07:01:00+09:00",
+   "summary": "(세종=연합뉴스) 오진송 기자 = 다음 주 전국에서 약 5천가구가 청약 신청을 받는다.",
+   "tags": [
+    "부동산",
+    "청약"
    ],
    "metrics": {},
    "is_new": true,
@@ -24,11 +39,11 @@
    "source_name": "연합뉴스 경제"
   },
   {
-   "id": "06257368d0d427c4",
-   "title": "경기 그린벨트 풀어 7만6700채 공급… 서울은 ‘0’",
-   "url": "https://www.donga.com/news/Economy/article/all/20261030/134936465/2",
-   "published_at": "2026-10-30T04:30:00+09:00",
-   "summary": "경기 김포, 구리, 하남시 등 서울에 인접한 경기 지역에서 7만6700채 규모의 신규 공공택지가 공급된다. 수도권 개발제한구역(그린벨트)을 풀어 주택을 공급함으로써 매매, 전세, 월세 가격이 함께 오르는 현 부동산 시장의 주택 수요를 완화하겠다는 의도로 해석된다. 다만 서울의 신규 택지",
+   "id": "49681a6e94e5815e",
+   "title": "[르포] 4000가구 계획이 1만2000가구로… 진출입로 하나뿐인 미사섬",
+   "url": "https://www.chosun.com/economy/real_estate/2026/10/31/HBSTIYJUHBSGKNBSHFTGCNDFGY/",
+   "published_at": "2026-10-31T06:00:01+09:00",
+   "summary": "30일 오전 경기 하남 미사섬. 섬으로 들어가는 길은 미사경정공원을 가로지르는 대로 하나뿐이었다. 대로를 건너자 물류 창고와 비닐하우스, 컨테이너가 뒤엉킨 풍경이 펼쳐졌다. 개발제한구역(그린벨트)이라는 이름이 무색했다. 정부가 전날 아파트 1만2000가구를 짓겠다고 발표한 곳이다. 넉 ",
    "tags": [
     "부동산",
     "수도권"
@@ -36,14 +51,14 @@
    "metrics": {},
    "is_new": true,
    "streak_days": 1,
-   "source_name": "동아일보 경제"
+   "source_name": "조선일보 경제"
   },
   {
-   "id": "02eb1297bc669dbc",
-   "title": "김포아라-하남미사, 서울 가까워… 광역교통망-공급속도 관건",
-   "url": "https://www.donga.com/news/Economy/article/all/20261030/134936240/2",
-   "published_at": "2026-10-30T04:30:00+09:00",
-   "summary": "이번 신규 공공택지 발표는 서울에 인접한 지역에서 대규모 주택을 공급해 수도권 15억 원 이하 아파트 밀집 지역을 중심으로 이어지고 있는 주택 가격 상승세와 전월세난을 완화하겠다는 정부 의도가 반영된 것으로 보인다. 하지만 이번 발표에는 주택 수요가 높은 서울이 제외된 데다, 기존 택지",
+   "id": "867a7210637e457a",
+   "title": "한쪽은 1명 차이로 제동, 한쪽은 35층 추진… 엇갈린 사근동 재개발",
+   "url": "https://www.chosun.com/economy/real_estate/2026/10/31/HE4DANJXGIZTSYJTGEYWGNDGMY/",
+   "published_at": "2026-10-31T06:00:01+09:00",
+   "summary": "서울 성동구 사근동에서 재개발을 추진하던 두 구역의 희비가 같은 날 엇갈렸다. 사근동 212-1번지 일대는 주민 반대율이 서울시 신속통합기획(신통기획) 재개발 후보지 제외 기준인 25%를 반대자 1명 차이로 넘기면서 사업에 제동이 걸렸다. 반면 사근동 293번지 일대는 최고 35층 아파",
    "tags": [
     "부동산",
     "수도권"
@@ -51,33 +66,236 @@
    "metrics": {},
    "is_new": true,
    "streak_days": 1,
-   "source_name": "동아일보 경제"
+   "source_name": "조선일보 경제"
   },
   {
-   "id": "64e2b252a207bf17",
-   "title": "서울 아파트값 90주 연속 상승… 강남 3구는 낙폭 커져",
-   "url": "https://www.donga.com/news/Economy/article/all/20261030/134936244/2",
-   "published_at": "2026-10-30T04:30:00+09:00",
-   "summary": "서울 아파트값이 전주 대비 0.09% 오르며 90주 연속 상승했다. 강남 3구(강남, 서초, 송파구)는 동반 하락세를 이어갔지만 15억 원 이하 아파트가 밀집한 지역이 상승세를 유지하며 서울 전체는 아파트값이 올랐다. 이른바 ‘반도체 벨트’ 중심으로 집값 오름세가 계속되며 경기 전체의 ",
+   "id": "d0fcbc34bf91d04a",
+   "title": "침체 빠진 지방 부동산… ‘스트레스 DSR 3단계’ 시행 또 유예되나",
+   "url": "https://www.chosun.com/economy/stock-finance/2026/10/31/MI2DSYZWGBSGKNZTGA2TMODCMM/",
+   "published_at": "2026-10-31T06:00:00+09:00",
+   "summary": "지방에서 집을 살 때 받을 수 있는 대출 한도를 줄이는 스트레스 총부채원리금상환비율(DSR·Debt Service Ratio) 3단계 규제가 내년부터 적용될 예정인 가운데, 금융 당국이 시행 시기를 또 미룰지 관심이 쏠리고 있다. 지방 부동산 경기가 살아나지 않은 상황에서 대출 한도까지",
    "tags": [
     "부동산",
-    "수도권",
+    "수도권"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "조선일보 경제"
+  },
+  {
+   "id": "6592bd6d1962ded7",
+   "title": "84점 만점 통장 등장한 '그 아파트', 악성 미분양 단지 됐다고?",
+   "url": "https://www.chosun.com/economy/realty/apartment_sales/2026/10/31/HBQTOMRQGEYTMZRUGU4DEYLBMU/",
+   "published_at": "2026-10-31T06:00:00+09:00",
+   "summary": "[땅집고] 대성건설이 시공한 서울 강동구 고급 주상복합 ‘강동 비오르’가 준공을 마치고도 이른바 ‘악성 미분양’을 이어가고 있다. 최고 22억원에 달하는 펜트하우스는 모두 팔렸지만, 정작 13억~18억원대 일반 가구는 여전히 주인을 찾지 못하고 있다. 고급 마감재와 호텔급 서비스를 앞세",
+   "tags": [
+    "부동산",
+    "수도권"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "조선일보 경제"
+  },
+  {
+   "id": "ea5f4092c927faca",
+   "title": "공단엔 수만명 일하는데…창원·울산·구미 산업도시 단기임대 매물 '바닥'",
+   "url": "https://www.chosun.com/economy/realty/2026/10/31/GVRDIMZXMNSTMYLGMQZGCNJUMI/",
+   "published_at": "2026-10-31T06:00:00+09:00",
+   "summary": "[땅집고] 광주·울산·창원·구미 등 영호남권 산업도시에서 각종 공사나 출장·파견 등 업무 목적으로 몇 주간 머물 숙소를 구하기가 쉽지 않은 것으로 나타났다. 대규모 산업단지 중심으로 기계·자동차·조선·전자·석유화학 등 제조업이 발달해 있지만, 주 단위로 계약할 수 있는 단기임대 주택은 ",
+   "tags": [
+    "부동산",
+    "제조"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "조선일보 경제"
+  },
+  {
+   "id": "eb7fd5788c98bcf0",
+   "title": "\"'호수뷰' 믿고 웃돈 2000만원 줬는데\"…입주하니 '구덩이뷰' 아파트",
+   "url": "https://www.chosun.com/economy/realty/realestate_news/2026/10/31/MQZWGNBUMM2DKYRXMYZTMZTFME/",
+   "published_at": "2026-10-31T06:00:00+09:00",
+   "summary": "[땅집고] “이웃집과 달리 ‘레이크뷰’가 가능한 동호수라고 해서 더 비싸게 분양받았는데, 호수 조성 공사가 갑자기 중단됐대요.” 대한민국 아파트 시장에서 조망권은 아파트 가치를 높이는 핵심 요소 중 하나로 자리잡았다. 서울에선 한강을 끼고 있는 이른바 ‘한강뷰’ 아파트가 대장주로 꼽히는",
+   "tags": [
+    "부동산",
+    "수도권"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "조선일보 경제"
+  },
+  {
+   "id": "35f8325363053c2b",
+   "title": "건설사도 해킹당했다…GS건설 일부 아파트 입주민 개인정보 유출",
+   "url": "https://www.hani.co.kr/arti/economy/economy_general/1285082.html",
+   "published_at": "2026-10-31",
+   "summary": "",
+   "tags": [
+    "부동산"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "한겨레 경제"
+  },
+  {
+   "id": "cc4672c7af6a2b9b",
+   "title": "김동현, 압구정 100억 아파트 샀는데…50억 빌려준 사람 누구? [집코노미-핫!부동산]",
+   "url": "https://www.hankyung.com/article/2026103070927",
+   "published_at": "2026-10-30T21:35:46+09:00",
+   "summary": "",
+   "tags": [
+    "부동산"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "한국경제 부동산"
+  },
+  {
+   "id": "0b6f8a32bd8218d1",
+   "title": "강남 은마 795㎡ 소유권 정태수 상속인에…\"재건축엔 지장 없어\"",
+   "url": "https://www.yna.co.kr/view/AKR20261030179300004",
+   "published_at": "2026-10-30T20:22:28+09:00",
+   "summary": "(서울=연합뉴스) 김동규 기자 = 서울 강남구 은마아파트 단지 내 서울시 명의 토지 일부를 고(故) 정태수 전 한보그룹 회장의 상속인에게 넘기라...",
+   "tags": [
+    "부동산",
+    "수도권"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "연합뉴스 경제"
+  },
+  {
+   "id": "bd0f6999c0bd575d",
+   "title": "3개월 만에 1억 넘게 뛰었다…서울서 주목 받는 아파트",
+   "url": "https://www.hankyung.com/article/2026102941721",
+   "published_at": "2026-10-30T19:48:03+09:00",
+   "summary": "",
+   "tags": [
+    "부동산",
+    "수도권"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "한국경제 부동산"
+  },
+  {
+   "id": "dd258891a3830d25",
+   "title": "서울시, 홍지선에 반박···“용적률 상향은 우리가 제안, 정부가 응답해야”",
+   "url": "https://www.khan.co.kr/article/202610301909001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
+   "published_at": "2026-10-30T19:09:00+09:00",
+   "summary": "서울 강남권 아파트 단지 모습. 문재원 기자서울시가 “민간 정비사업 용적률 상향을 다른 사안과 연계하지 말고 신속히 추진해야 한다”고 정부에 촉구했다.서울시는 30일 “정비사업 용적률 상향은 서울시가 먼저 건의해 온 주택공급 확대 방안”이라며 “서울시의 입장은 이미 전달한 만큼, 정부가",
+   "tags": [
+    "부동산",
+    "수도권"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "경향신문 경제"
+  },
+  {
+   "id": "65cb73812a9a61bc",
+   "title": "GS건설 입주민 개인정보 해킹으로 유출···‘금융권 해킹’ 번져가나",
+   "url": "https://www.khan.co.kr/article/202610301827001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
+   "published_at": "2026-10-30T18:27:00+09:00",
+   "summary": "GS건설이 시공한 일부 아파트에서 입주민 개인정보가 해킹으로 유출된 사실이 확인됐다. 이름과 휴대전화번호뿐만 아니라 주소와 비밀번호, 공동현관 출입 등에 쓰이는 RF카드번호 등도 유출 가능성이 있는 상황이다.GS건설은 30일 입주민 대상으로 배포한 안내문에서 “아파트 커뮤니티 시설 예약",
+   "tags": [
+    "부동산"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "경향신문 경제"
+  },
+  {
+   "id": "98ee67c5df426531",
+   "title": "상계2 재개발 현장 찾은 홍지선 \"서울시 협조하면 연내 추가 택지\"",
+   "url": "https://www.hankyung.com/article/2026103068051",
+   "published_at": "2026-10-30T17:29:30+09:00",
+   "summary": "",
+   "tags": [
+    "부동산",
+    "수도권"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "한국경제 부동산"
+  },
+  {
+   "id": "16fe994bd7a8a00c",
+   "title": "아파트 예약시스템도 뚫렸다…GS건설, 입주민 개인정보 유출",
+   "url": "https://www.hankyung.com/article/2026103067646",
+   "published_at": "2026-10-30T17:20:43+09:00",
+   "summary": "",
+   "tags": [
+    "부동산"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "한국경제 부동산"
+  },
+  {
+   "id": "d5dae8a537be7711",
+   "title": "'행정타운 품은 아파트' 강세…광교 집값 1년 새 40% 올라",
+   "url": "https://www.hankyung.com/article/202610306779i",
+   "published_at": "2026-10-30T17:17:54+09:00",
+   "summary": "",
+   "tags": [
+    "부동산"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "한국경제 부동산"
+  },
+  {
+   "id": "61bd304fdd2d3220",
+   "title": "\"반도체 온 日 구마모토, 임대료 37.5% 뛰었다\"",
+   "url": "https://www.hankyung.com/article/202610306735i",
+   "published_at": "2026-10-30T17:01:43+09:00",
+   "summary": "",
+   "tags": [
+    "부동산",
     "신기술"
    ],
    "metrics": {},
    "is_new": true,
    "streak_days": 1,
+   "source_name": "한국경제 부동산"
+  },
+  {
+   "id": "8aab7c3b18166c10",
+   "title": "MBK 골프존카운티 매각 추진에 골프존홀딩스 반발…법적 대응 검토",
+   "url": "https://www.donga.com/news/Economy/article/all/20261030/134940273/1",
+   "published_at": "2026-10-30T16:55:00+09:00",
+   "summary": "MBK파트너스가 골프존카운티 매각을 추진하는 과정에서 2대 주주인 골프존홀딩스와 갈등을 빚고 있다. 양측은 기업공개(IPO) 추진 당시 합의 내용과 동반매도요구권 행사, 골프장 임대차 계약 조건 등을 두고 서로 다른 입장을 내놓고 있다.MBK파트너스는 지난 27일 리조트·골프장 운영사 ",
+   "tags": [
+    "부동산",
+    "경매"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
    "source_name": "동아일보 경제"
   },
   {
-   "id": "5cd8bc64dd544702",
-   "title": "수도권 그린벨트 풀어 7만6700가구 공급",
-   "url": "https://www.khan.co.kr/article/202610292153005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
-   "published_at": "2026-10-29T21:53:00+09:00",
-   "summary": "8·13 부동산 대책 후속조치3만7000가구 들어설 김포아라지구 국토교통부가 신규 택지 후보지를 발표한 29일 공급 규모가 3만7000가구로 가장 큰 경기 김포시 고촌읍(김포아라) 일대 모습이 보인다. 문재원 기자김포·구리·하남·의정부·고양 서울 5㎞ 내 6곳 신규 택지 선정 2030년",
+   "id": "ce85aa447fa0cf0c",
+   "title": "거제 최대 아파트 단지 ‘힐스테이트 거제시그니처’",
+   "url": "https://www.khan.co.kr/article/202610301607001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
+   "published_at": "2026-10-30T16:07:00+09:00",
+   "summary": "경남 거제시 옥포동 ‘힐스테이트 거제시그니처’ 투시도. 현대엔지니어링 제공현대엔지니어링이 경남 거제시 옥포동에 ‘힐스테이트 거제시그니처’를 분양한다.힐스테이트 거제시그니처는 지하 7층에 지상 최고 36층, 1963가구 규모로 조성된다. 거제시 최대 규모 공동주택 단지다. 전용면적 84~",
    "tags": [
-    "부동산",
-    "수도권"
+    "부동산"
    ],
    "metrics": {},
    "is_new": true,
@@ -95,74 +313,15 @@
     "경매"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "한국경제 부동산"
-  },
-  {
-   "id": "063743dd3ebb78ff",
-   "title": "영등포·부천서 아파트 '보류지' 매각",
-   "url": "https://www.hankyung.com/article/2026102941741",
-   "published_at": "2026-10-29T17:29:45+09:00",
-   "summary": "",
-   "tags": [
-    "부동산",
-    "수도권",
-    "경매"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "한국경제 부동산"
-  },
-  {
-   "id": "f579da88b8ae9b09",
-   "title": "'190억' 신고가에 산 지 6개월 만에…옥주현 아파트 무슨 일",
-   "url": "https://www.hankyung.com/article/202610293897H",
-   "published_at": "2026-10-29T16:17:33+09:00",
-   "summary": "",
-   "tags": [
-    "부동산"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "한국경제 부동산"
-  },
-  {
-   "id": "461f2f8015b7fc41",
-   "title": "서울 집값 상승세 2주째 둔화…강남 3구 '뚝', 강북은 상승",
-   "url": "https://www.hankyung.com/article/202610293473i",
-   "published_at": "2026-10-29T15:37:47+09:00",
-   "summary": "",
-   "tags": [
-    "부동산",
-    "수도권"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "한국경제 부동산"
-  },
-  {
-   "id": "301d625fc6c77a77",
-   "title": "전세 씨 마르자 눈물의 '영끌'…이 동네 6억 아파트 쓸어 담는다",
-   "url": "https://www.hankyung.com/article/2026102930826",
-   "published_at": "2026-10-29T14:00:07+09:00",
-   "summary": "",
-   "tags": [
-    "부동산"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "한국경제 부동산"
   },
   {
    "id": "6a0834327afccc3b",
    "title": "LH 청약플러스 — 분양·임대 공고",
    "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
-   "published_at": "2026-10-30",
+   "published_at": "2026-10-31",
    "summary": "수도권 공고는 지역 필터로",
    "tags": [
     "바로가기",
@@ -170,14 +329,14 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 42,
+   "streak_days": 43,
    "source_name": "바로가기"
   },
   {
    "id": "25744536b7c84e25",
    "title": "온비드 — 공매 물건",
    "url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateList.do",
-   "published_at": "2026-10-30",
+   "published_at": "2026-10-31",
    "summary": "부동산 공매 검색",
    "tags": [
     "바로가기",
@@ -185,14 +344,14 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 42,
+   "streak_days": 43,
    "source_name": "바로가기"
   },
   {
    "id": "c91f39808692d334",
    "title": "법원경매정보 — 매각기일 공고",
    "url": "https://www.courtauction.go.kr/",
-   "published_at": "2026-10-30",
+   "published_at": "2026-10-31",
    "summary": "관할 법원별 기일 확인",
    "tags": [
     "바로가기",
@@ -200,17 +359,15 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 42,
+   "streak_days": 43,
    "source_name": "바로가기"
   }
  ],
  "status": {
   "ok": true,
-  "count": 13,
+  "count": 24,
   "warn": [
-   "LH·온비드 공공데이터 API: 키 없음(DATA_GO_KR_KEY) — 뉴스·바로가기만",
-   "링크 확인 실패 1/3",
-   "어제와 동일 23%"
+   "LH·온비드 공공데이터 API: 키 없음(DATA_GO_KR_KEY) — 뉴스·바로가기만"
   ],
   "error": null,
   "level": "warn",

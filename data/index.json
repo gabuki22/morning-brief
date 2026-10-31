@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-30T10:08:21+09:00",
- "date": "2026-10-30",
+ "built_at": "2026-10-31T09:54:26+09:00",
+ "date": "2026-10-31",
  "site": {
   "title": "모닝브리프",
   "locations": [
@@ -55,7 +55,7 @@
    "count": 7,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-30T10:07:48+09:00",
+   "fetched_at": "2026-10-31T09:52:34+09:00",
    "repeat_ratio": 0.857
   },
   "fx": {
@@ -63,7 +63,7 @@
    "count": 3,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-30T10:07:48+09:00",
+   "fetched_at": "2026-10-31T09:52:34+09:00",
    "repeat_ratio": 1.0
   },
   "news": {
@@ -71,15 +71,15 @@
    "count": 135,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-30T10:07:57+09:00",
-   "repeat_ratio": 0.0
+   "fetched_at": "2026-10-31T09:52:44+09:00",
+   "repeat_ratio": 0.007
   },
   "markets": {
    "level": "ok",
    "count": 5,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-30T10:07:57+09:00",
+   "fetched_at": "2026-10-31T09:52:44+09:00",
    "repeat_ratio": 1.0
   },
   "crypto": {
@@ -87,47 +87,47 @@
    "count": 10,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-30T10:08:05+09:00",
+   "fetched_at": "2026-10-31T09:52:47+09:00",
    "repeat_ratio": 0.9
   },
   "realestate": {
    "level": "warn",
-   "count": 13,
+   "count": 24,
    "warn": [
-    "LH·온비드 공공데이터 API: 키 없음(DATA_GO_KR_KEY) — 뉴스·바로가기만",
-    "링크 확인 실패 1/3",
-    "어제와 동일 23%"
+    "LH·온비드 공공데이터 API: 키 없음(DATA_GO_KR_KEY) — 뉴스·바로가기만"
    ],
    "block": [],
-   "fetched_at": "2026-10-30T10:08:10+09:00",
-   "repeat_ratio": 0.231
+   "fetched_at": "2026-10-31T09:52:51+09:00",
+   "repeat_ratio": 0.167
   },
   "it": {
-   "level": "warn",
+   "level": "ok",
    "count": 60,
-   "warn": [
-    "링크 확인 실패 1/3"
-   ],
+   "warn": [],
    "block": [],
-   "fetched_at": "2026-10-30T10:08:12+09:00",
+   "fetched_at": "2026-10-31T09:52:54+09:00",
    "repeat_ratio": 0.0
   },
   "auto": {
    "level": "warn",
    "count": 60,
    "warn": [
-    "어제와 동일 68%"
+    "어제와 동일 77%"
    ],
    "block": [],
-   "fetched_at": "2026-10-30T10:08:16+09:00",
-   "repeat_ratio": 0.683
+   "fetched_at": "2026-10-31T09:52:57+09:00",
+   "repeat_ratio": 0.767
   },
   "publicdata": {
-   "level": "ok",
-   "count": 8,
-   "warn": [],
+   "level": "warn",
+   "count": 7,
+   "warn": [
+    "World Bank 실패",
+    "Nager.Date (공휴일) 실패",
+    "공휴일 실패: TimeoutError"
+   ],
    "block": [],
-   "fetched_at": "2026-10-30T10:08:19+09:00",
+   "fetched_at": "2026-10-31T09:54:23+09:00",
    "repeat_ratio": 1.0
   },
   "leisure": {
@@ -135,62 +135,62 @@
    "count": 30,
    "warn": [
     "고캠핑 API: 키 없음(DATA_GO_KR_KEY)",
-    "어제와 동일 63%"
+    "어제와 동일 93%"
    ],
    "block": [],
-   "fetched_at": "2026-10-30T10:08:21+09:00",
-   "repeat_ratio": 0.633
+   "fetched_at": "2026-10-31T09:54:26+09:00",
+   "repeat_ratio": 0.933
   }
  },
  "must_know": [
   {
    "module": "news",
    "item_ids": [
-    "20821afd0378d8dd"
+    "927f200f472c05c8"
    ],
-   "title": "젠슨 황 옆자리까지 파고든 중국 스파이···미 정부는 알고도 ‘침묵’",
-   "url": "https://www.khan.co.kr/article/202610300849001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-   "why": "매체 1곳 · AI·IT·경제",
-   "score": 10
-  },
-  {
-   "module": "news",
-   "item_ids": [
-    "f879f1e189f80220"
-   ],
-   "title": "산업생산 15년 6개월 만에 최대 증가…반도체·자동차가 견인",
-   "url": "https://www.khan.co.kr/article/202610300801001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-   "why": "매체 1곳 · IT·신기술",
-   "score": 8
-  },
-  {
-   "module": "news",
-   "item_ids": [
-    "c2ae6a98e34bd778"
-   ],
-   "title": "美 빅테크 실적 부진 영향에 코스피 3%대 하락…5,700선 후퇴 - 연합인포맥스",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGMzVoVE5ZRUdlLXlIYzgwNk53NFZxUHRLTVVCQ2wwcW5DbnozOUdOLXRqeU9aTFV2aEdRWklld2JKeWJIcW9pWkdOMmNSQ2FqX0lfVmEtTWVUUklUczMyMXZwWVJVS2xnWks2eEJ3ME0?oc=5",
+   "title": "“띵동” 택배 집앞까지 사뿐히 배달한 로봇···똑부러진 수행력 비결은 ‘사람 손에 낀 장갑’? [산업이지]",
+   "url": "https://www.khan.co.kr/article/202610310700011/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
    "why": "매체 1곳 · AI·IT·국제",
+   "score": 9
+  },
+  {
+   "module": "news",
+   "item_ids": [
+    "f4b604a1890bc345"
+   ],
+   "title": "오세훈 무죄에 최민희 \"AI 판사 도입하자\"…당장 어려운 이유 3가지 [홍민성의 테토남]",
+   "url": "https://www.hankyung.com/article/202610293975g",
+   "why": "매체 1곳 · AI·IT",
    "score": 8
   },
   {
    "module": "news",
    "item_ids": [
-    "f6c9a379043a3f59"
+    "02f212bcf91599d9"
    ],
-   "title": "정부·민간 손잡고 화합물반도체 국산화…공동법인 설립 추진",
-   "url": "https://www.yna.co.kr/view/AKR20261029177100017",
-   "why": "매체 1곳 · IT·신기술",
-   "score": 8
+   "title": "17개월 딸 혼자 두고 출근한 父 구속…사인 '영양 결핍 추정' - 한국경제",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UU3hkWllvZXFyMDFXTzRKWDRBbkhXYXZpZ3JNRFB6aFdFQWxFeXdFYUJOLWppanF4N2g1eVNVVzVBbTREVk55cTNFSkl4cjc4TE5HQUVFSTEyZw?oc=5",
+   "why": "매체 1곳 · 경제",
+   "score": 6
+  },
+  {
+   "module": "news",
+   "item_ids": [
+    "a41eb3283e4d2cfc"
+   ],
+   "title": "음주운전하다 아파트 주차장서 차량 7대 들이받은 20대",
+   "url": "https://www.donga.com/news/Society/article/all/20261031/134942317/1",
+   "why": "매체 1곳 · 부동산·사회",
+   "score": 6
   },
   {
    "module": "crypto",
    "item_ids": [
-    "18c91f56d2cb940c"
+    "4be1c74bd1e2a3d3"
    ],
-   "title": "Ethereum (ETH) ₩2,961,354",
-   "url": "https://www.coingecko.com/en/coins/ethereum",
-   "why": "큰 변동 · 24시간 -5.40% · 7일 -7.07% · 시총 2위 · 이슈: 금리 동결 안 통했다...니어(NEAR)·비트 코인 캐시(BCH), 비트",
+   "title": "TRON (TRX) ₩432",
+   "url": "https://www.coingecko.com/en/coins/tron",
+   "why": "큰 변동 · 24시간 -9.67% · 7일 -0.22% · 시총 8위 · 이슈: [월드 프리즘] 63억 달러 털린 바이낸스…北 해커와 피 말리는 '8조원",
    "score": 0
   }
  ],
