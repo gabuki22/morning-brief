@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-31T09:54:26+09:00",
- "date": "2026-10-31",
+ "built_at": "2026-11-01T09:12:24+09:00",
+ "date": "2026-11-01",
  "site": {
   "title": "모닝브리프",
   "locations": [
@@ -55,7 +55,7 @@
    "count": 7,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-31T09:52:34+09:00",
+   "fetched_at": "2026-11-01T09:11:43+09:00",
    "repeat_ratio": 0.857
   },
   "fx": {
@@ -63,23 +63,25 @@
    "count": 3,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-31T09:52:34+09:00",
+   "fetched_at": "2026-11-01T09:11:44+09:00",
    "repeat_ratio": 1.0
   },
   "news": {
-   "level": "ok",
-   "count": 135,
-   "warn": [],
+   "level": "warn",
+   "count": 120,
+   "warn": [
+    "구글뉴스 KR 실패: HTTPError"
+   ],
    "block": [],
-   "fetched_at": "2026-10-31T09:52:44+09:00",
-   "repeat_ratio": 0.007
+   "fetched_at": "2026-11-01T09:12:02+09:00",
+   "repeat_ratio": 0.008
   },
   "markets": {
    "level": "ok",
    "count": 5,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-31T09:52:44+09:00",
+   "fetched_at": "2026-11-01T09:12:03+09:00",
    "repeat_ratio": 1.0
   },
   "crypto": {
@@ -87,110 +89,107 @@
    "count": 10,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-31T09:52:47+09:00",
-   "repeat_ratio": 0.9
+   "fetched_at": "2026-11-01T09:12:08+09:00",
+   "repeat_ratio": 1.0
   },
   "realestate": {
    "level": "warn",
-   "count": 24,
+   "count": 26,
    "warn": [
-    "LH·온비드 공공데이터 API: 키 없음(DATA_GO_KR_KEY) — 뉴스·바로가기만"
+    "LH·온비드 공공데이터 API: 키 없음(DATA_GO_KR_KEY) — 뉴스·바로가기만",
+    "어제와 동일 58%"
    ],
    "block": [],
-   "fetched_at": "2026-10-31T09:52:51+09:00",
-   "repeat_ratio": 0.167
+   "fetched_at": "2026-11-01T09:12:13+09:00",
+   "repeat_ratio": 0.577
   },
   "it": {
    "level": "ok",
    "count": 60,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-10-31T09:52:54+09:00",
+   "fetched_at": "2026-11-01T09:12:15+09:00",
    "repeat_ratio": 0.0
   },
   "auto": {
    "level": "warn",
    "count": 60,
    "warn": [
-    "어제와 동일 77%"
+    "어제와 동일 95%"
    ],
    "block": [],
-   "fetched_at": "2026-10-31T09:52:57+09:00",
-   "repeat_ratio": 0.767
+   "fetched_at": "2026-11-01T09:12:19+09:00",
+   "repeat_ratio": 0.95
   },
   "publicdata": {
-   "level": "warn",
-   "count": 7,
-   "warn": [
-    "World Bank 실패",
-    "Nager.Date (공휴일) 실패",
-    "공휴일 실패: TimeoutError"
-   ],
+   "level": "ok",
+   "count": 8,
+   "warn": [],
    "block": [],
-   "fetched_at": "2026-10-31T09:54:23+09:00",
-   "repeat_ratio": 1.0
+   "fetched_at": "2026-11-01T09:12:21+09:00",
+   "repeat_ratio": 0.875
   },
   "leisure": {
    "level": "warn",
    "count": 30,
    "warn": [
     "고캠핑 API: 키 없음(DATA_GO_KR_KEY)",
-    "어제와 동일 93%"
+    "어제와 동일 90%"
    ],
    "block": [],
-   "fetched_at": "2026-10-31T09:54:26+09:00",
-   "repeat_ratio": 0.933
+   "fetched_at": "2026-11-01T09:12:24+09:00",
+   "repeat_ratio": 0.9
   }
  },
  "must_know": [
   {
    "module": "news",
    "item_ids": [
-    "927f200f472c05c8"
+    "578a3a84e6d5901f"
    ],
-   "title": "“띵동” 택배 집앞까지 사뿐히 배달한 로봇···똑부러진 수행력 비결은 ‘사람 손에 낀 장갑’? [산업이지]",
-   "url": "https://www.khan.co.kr/article/202610310700011/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-   "why": "매체 1곳 · AI·IT·국제",
+   "title": "[속보] 반도체 10월 수출 564억달러…2개월 연속 500억달러대",
+   "url": "https://www.yna.co.kr/view/AKR20261101014000003",
+   "why": "매체 1곳 · IT·경제·신기술",
+   "score": 10
+  },
+  {
+   "module": "news",
+   "item_ids": [
+    "790c83325fdc9f66"
+   ],
+   "title": "[속보] 10월 무역수지 425억달러 흑자…2개월 연속 400억달러대",
+   "url": "https://www.yna.co.kr/view/AKR20261101014400003",
+   "why": "매체 2곳 · 경제",
    "score": 9
   },
   {
    "module": "news",
    "item_ids": [
-    "f4b604a1890bc345"
+    "606c7dc757c1aef4"
    ],
-   "title": "오세훈 무죄에 최민희 \"AI 판사 도입하자\"…당장 어려운 이유 3가지 [홍민성의 테토남]",
-   "url": "https://www.hankyung.com/article/202610293975g",
-   "why": "매체 1곳 · AI·IT",
+   "title": "[기고]제조업 AI 경쟁력, '모델 성능' 아닌 '현장 지식'에 달렸다",
+   "url": "https://www.hankyung.com/article/202610306957i",
+   "why": "매체 1곳 · AI·IT·제조",
    "score": 8
   },
   {
    "module": "news",
    "item_ids": [
-    "02f212bcf91599d9"
+    "1f0399fd6010ee7e"
    ],
-   "title": "17개월 딸 혼자 두고 출근한 父 구속…사인 '영양 결핍 추정' - 한국경제",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UU3hkWllvZXFyMDFXTzRKWDRBbkhXYXZpZ3JNRFB6aFdFQWxFeXdFYUJOLWppanF4N2g1eVNVVzVBbTREVk55cTNFSkl4cjc4TE5HQUVFSTEyZw?oc=5",
-   "why": "매체 1곳 · 경제",
-   "score": 6
-  },
-  {
-   "module": "news",
-   "item_ids": [
-    "a41eb3283e4d2cfc"
-   ],
-   "title": "음주운전하다 아파트 주차장서 차량 7대 들이받은 20대",
-   "url": "https://www.donga.com/news/Society/article/all/20261031/134942317/1",
-   "why": "매체 1곳 · 부동산·사회",
-   "score": 6
+   "title": "\"AI 냄새 난다\"…공모전 덮친 초등생 그림 'AI 의혹'에 술렁 [도쿄나우]",
+   "url": "https://www.hankyung.com/article/202611017824i",
+   "why": "매체 1곳 · AI·IT",
+   "score": 8
   },
   {
    "module": "crypto",
    "item_ids": [
     "4be1c74bd1e2a3d3"
    ],
-   "title": "TRON (TRX) ₩432",
+   "title": "TRON (TRX) ₩405",
    "url": "https://www.coingecko.com/en/coins/tron",
-   "why": "큰 변동 · 24시간 -9.67% · 7일 -0.22% · 시총 8위 · 이슈: [월드 프리즘] 63억 달러 털린 바이낸스…北 해커와 피 말리는 '8조원",
+   "why": "큰 변동 · 24시간 -6.85% · 7일 -8.06% · 시총 8위 · 이슈: 바이낸스 64억달러 공격, 트론 디파이로 동결 회피",
    "score": 0
   }
  ],

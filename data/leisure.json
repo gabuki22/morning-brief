@@ -1,6 +1,6 @@
 {
  "module": "leisure",
- "fetched_at": "2026-10-31T09:54:26+09:00",
+ "fetched_at": "2026-11-01T09:12:24+09:00",
  "source": {
   "name": "Naver 뉴스 검색 + 고캠핑",
   "url": "https://www.gocamping.or.kr/",
@@ -8,18 +8,48 @@
  },
  "items": [
   {
+   "id": "8a9e831a7466a66a",
+   "title": "[연재] 아라뱃길 따라 가을이 흐른다",
+   "url": "https://www.incheontoday.com/news/articleView.html?idxno=325698",
+   "published_at": "2026-11-01T08:00:00+09:00",
+   "summary": "한쪽에 오토캠핑장 이 있지만 2022년부터 문을 닫은 채다. 아라뱃길은 굴포천 때문에 생겼다. 1987년 큰물이 져 굴포천 일대에서 사람이 죽고 재산 피해가 컸다. 굴포천 유역은 40%가 한강이 넘칠 때의 물높이보다 낮은...",
+   "tags": [
+    "캠핑",
+    "오토캠핑장"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "Naver 뉴스"
+  },
+  {
    "id": "482295a98f10077e",
    "title": "고캠핑 — 전국 캠핑장 검색",
    "url": "https://www.gocamping.or.kr/",
-   "published_at": "2026-10-31",
+   "published_at": "2026-11-01",
    "summary": "한국관광공사 등록 캠핑장",
    "tags": [
     "바로가기"
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 43,
+   "streak_days": 44,
    "source_name": "바로가기"
+  },
+  {
+   "id": "020b8c40b84a047a",
+   "title": "가스안전공사 강원영동, 캠핑장 가스안전 캠페인…안전수칙 안내",
+   "url": "https://www.energy-news.co.kr/news/articleView.html?idxno=229418",
+   "published_at": "2026-10-31T20:32:00+09:00",
+   "summary": "한국가스안전공사 강원영동지사(지사장 김범식)가 30일 동해시시설관리공단과 함께 가을 캠핑철을 맞아 동해시 망상 제1·2캠핑장과 추암 오토캠핑장 이용객을 대상으로 가스안전 캠페인을 실시했다. 이번 캠페인은 기온이...",
+   "tags": [
+    "캠핑",
+    "오토캠핑장"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "Naver 뉴스"
   },
   {
    "id": "bfa288fb89e5b293",
@@ -32,23 +62,8 @@
     "신규 캠핑장"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "Naver 뉴스"
-  },
-  {
-   "id": "b03eeed0ad48df18",
-   "title": "청주 아파트 청약 극명한 희비…호황 속 불경기 계속",
-   "url": "https://www.nocutnews.co.kr/news/6600062?utm_source=naver&utm_medium=article&utm_campaign=20261030185037",
-   "published_at": "2026-10-30T18:51:00+09:00",
-   "summary": "청주 '신분평' 완판 실패, '가경'은 역대급 성적 '희비' 충북 청주에서 비슷한 시기에 청약을 진행한 신규 ... 코베아 캠핑랜드는 총사업비 538억 원을 투입해 상당구 낭성면 삼산리 일원의 14만㎡의 터에 캠핑장 (166곳)...",
-   "tags": [
-    "캠핑",
-    "신규 캠핑장"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "Naver 뉴스"
   },
   {
@@ -63,7 +78,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 2,
+   "streak_days": 3,
    "source_name": "Naver 뉴스"
   },
   {
@@ -78,7 +93,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 2,
+   "streak_days": 3,
    "source_name": "Naver 뉴스"
   },
   {
@@ -93,7 +108,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 2,
+   "streak_days": 3,
    "source_name": "Naver 뉴스"
   },
   {
@@ -108,7 +123,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 2,
+   "streak_days": 3,
    "source_name": "Naver 뉴스"
   },
   {
@@ -123,7 +138,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 2,
+   "streak_days": 3,
    "source_name": "Naver 뉴스"
   },
   {
@@ -138,7 +153,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 2,
+   "streak_days": 3,
    "source_name": "Naver 뉴스"
   },
   {
@@ -153,7 +168,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 2,
+   "streak_days": 3,
    "source_name": "Naver 뉴스"
   },
   {
@@ -168,37 +183,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 2,
-   "source_name": "Naver 뉴스"
-  },
-  {
-   "id": "18186716773d7b98",
-   "title": "경북교육청, 수련시설 카드결제 도입…“예약하고 48시간 입금 기다리던...",
-   "url": "http://www.inews24.com/view/2020228",
-   "published_at": "2026-10-29T11:40:00+09:00",
-   "summary": "경북교육청이 수련시설과 오토캠핑장 예약 과정에서 이용자들이 겪어온 무통장 입금과 예약 확정 지연 문제를 개선한다. 앞으로는 카드로 결제하는 즉시 예약이 확정되고, 취소와 환불도 자동 처리된다. 경북교육청...",
-   "tags": [
-    "캠핑",
-    "오토캠핑장"
-   ],
-   "metrics": {},
-   "is_new": false,
-   "streak_days": 2,
-   "source_name": "Naver 뉴스"
-  },
-  {
-   "id": "eb4fee31aae6ae0d",
-   "title": "아름다운 자연과 지역 명소의 만남…'영주댐 바로알기 가족캠프' 눈길",
-   "url": "https://news.tf.co.kr/read/national/2382296.htm",
-   "published_at": "2026-10-29T11:11:00+09:00",
-   "summary": "영주호 오토캠핑장 에서의 숙박과 농촌체험은 가족들이 지역에 머물며 여행의 여유를 누릴 수 있도록 했다. 아이들의 호기심을 자극하는 체험도 이어졌다. 전통 부채인 단오선과 수차발전기를 직접 만들어 보며 우리...",
-   "tags": [
-    "캠핑",
-    "오토캠핑장"
-   ],
-   "metrics": {},
-   "is_new": false,
-   "streak_days": 2,
+   "streak_days": 3,
    "source_name": "Naver 뉴스"
   },
   {
@@ -213,7 +198,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 2,
+   "streak_days": 3,
    "source_name": "Naver 뉴스"
   },
   {
@@ -228,7 +213,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 3,
+   "streak_days": 4,
    "source_name": "Naver 뉴스"
   },
   {
@@ -243,7 +228,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 3,
+   "streak_days": 4,
    "source_name": "Naver 뉴스"
   },
   {
@@ -258,7 +243,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 3,
+   "streak_days": 4,
    "source_name": "Naver 뉴스"
   },
   {
@@ -273,7 +258,22 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 3,
+   "streak_days": 4,
+   "source_name": "Naver 뉴스"
+  },
+  {
+   "id": "54cd45d0de0ce44d",
+   "title": "달서구가 깨운 연애세포, 결혼·출산으로 꽃피운다",
+   "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=563627",
+   "published_at": "2026-10-27T21:44:00+09:00",
+   "summary": "발렌타인데이·크리스마스, 캠핑장 , 전통시장 등을 활용한 테마형 데이트를 진행하고 있다. 달서구청 제공... 부서별로 흩어져 있던 결혼·임신·출산·육아·다자녀 정책을 통합적으로 안내하고 지역 특성에 맞는 신규 ...",
+   "tags": [
+    "캠핑",
+    "신규 캠핑장"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
    "source_name": "Naver 뉴스"
   },
   {
@@ -288,7 +288,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 5,
+   "streak_days": 6,
    "source_name": "Naver 뉴스"
   },
   {
@@ -303,7 +303,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 5,
+   "streak_days": 6,
    "source_name": "Naver 뉴스"
   },
   {
@@ -318,7 +318,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 5,
+   "streak_days": 6,
    "source_name": "Naver 뉴스"
   },
   {
@@ -333,7 +333,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 5,
+   "streak_days": 6,
    "source_name": "Naver 뉴스"
   },
   {
@@ -348,7 +348,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 5,
+   "streak_days": 6,
    "source_name": "Naver 뉴스"
   },
   {
@@ -363,7 +363,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 8,
+   "streak_days": 9,
    "source_name": "Naver 뉴스"
   },
   {
@@ -378,7 +378,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 8,
+   "streak_days": 9,
    "source_name": "Naver 뉴스"
   },
   {
@@ -393,7 +393,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 8,
+   "streak_days": 9,
    "source_name": "Naver 뉴스"
   },
   {
@@ -408,7 +408,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 8,
+   "streak_days": 9,
    "source_name": "Naver 뉴스"
   },
   {
@@ -423,7 +423,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 9,
+   "streak_days": 10,
    "source_name": "Naver 뉴스"
   },
   {
@@ -438,7 +438,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 9,
+   "streak_days": 10,
    "source_name": "Naver 뉴스"
   },
   {
@@ -453,7 +453,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 10,
+   "streak_days": 11,
    "source_name": "Naver 뉴스"
   }
  ],
@@ -462,7 +462,7 @@
   "count": 30,
   "warn": [
    "고캠핑 API: 키 없음(DATA_GO_KR_KEY)",
-   "어제와 동일 93%"
+   "어제와 동일 90%"
   ],
   "error": null,
   "level": "warn",
