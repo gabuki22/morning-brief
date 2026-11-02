@@ -1,6 +1,6 @@
 {
- "built_at": "2026-11-01T09:12:24+09:00",
- "date": "2026-11-01",
+ "built_at": "2026-11-02T09:52:25+09:00",
+ "date": "2026-11-02",
  "site": {
   "title": "모닝브리프",
   "locations": [
@@ -55,7 +55,7 @@
    "count": 7,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-11-01T09:11:43+09:00",
+   "fetched_at": "2026-11-02T09:51:54+09:00",
    "repeat_ratio": 0.857
   },
   "fx": {
@@ -63,25 +63,23 @@
    "count": 3,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-11-01T09:11:44+09:00",
+   "fetched_at": "2026-11-02T09:51:55+09:00",
    "repeat_ratio": 1.0
   },
   "news": {
-   "level": "warn",
-   "count": 120,
-   "warn": [
-    "구글뉴스 KR 실패: HTTPError"
-   ],
+   "level": "ok",
+   "count": 135,
+   "warn": [],
    "block": [],
-   "fetched_at": "2026-11-01T09:12:02+09:00",
-   "repeat_ratio": 0.008
+   "fetched_at": "2026-11-02T09:52:07+09:00",
+   "repeat_ratio": 0.0
   },
   "markets": {
    "level": "ok",
    "count": 5,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-11-01T09:12:03+09:00",
+   "fetched_at": "2026-11-02T09:52:07+09:00",
    "repeat_ratio": 1.0
   },
   "crypto": {
@@ -89,108 +87,108 @@
    "count": 10,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-11-01T09:12:08+09:00",
-   "repeat_ratio": 1.0
+   "fetched_at": "2026-11-02T09:52:10+09:00",
+   "repeat_ratio": 0.9
   },
   "realestate": {
    "level": "warn",
-   "count": 26,
+   "count": 30,
    "warn": [
     "LH·온비드 공공데이터 API: 키 없음(DATA_GO_KR_KEY) — 뉴스·바로가기만",
-    "어제와 동일 58%"
+    "어제와 동일 40%"
    ],
    "block": [],
-   "fetched_at": "2026-11-01T09:12:13+09:00",
-   "repeat_ratio": 0.577
+   "fetched_at": "2026-11-02T09:52:14+09:00",
+   "repeat_ratio": 0.4
   },
   "it": {
    "level": "ok",
    "count": 60,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-11-01T09:12:15+09:00",
+   "fetched_at": "2026-11-02T09:52:16+09:00",
    "repeat_ratio": 0.0
   },
   "auto": {
    "level": "warn",
    "count": 60,
    "warn": [
-    "어제와 동일 95%"
+    "어제와 동일 88%"
    ],
    "block": [],
-   "fetched_at": "2026-11-01T09:12:19+09:00",
-   "repeat_ratio": 0.95
+   "fetched_at": "2026-11-02T09:52:20+09:00",
+   "repeat_ratio": 0.883
   },
   "publicdata": {
    "level": "ok",
    "count": 8,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-11-01T09:12:21+09:00",
-   "repeat_ratio": 0.875
+   "fetched_at": "2026-11-02T09:52:22+09:00",
+   "repeat_ratio": 1.0
   },
   "leisure": {
    "level": "warn",
    "count": 30,
    "warn": [
     "고캠핑 API: 키 없음(DATA_GO_KR_KEY)",
-    "어제와 동일 90%"
+    "어제와 동일 67%"
    ],
    "block": [],
-   "fetched_at": "2026-11-01T09:12:24+09:00",
-   "repeat_ratio": 0.9
+   "fetched_at": "2026-11-02T09:52:25+09:00",
+   "repeat_ratio": 0.667
   }
  },
  "must_know": [
   {
    "module": "news",
    "item_ids": [
-    "578a3a84e6d5901f"
+    "a74e89b2668409a3"
    ],
-   "title": "[속보] 반도체 10월 수출 564억달러…2개월 연속 500억달러대",
-   "url": "https://www.yna.co.kr/view/AKR20261101014000003",
-   "why": "매체 1곳 · IT·경제·신기술",
-   "score": 10
-  },
-  {
-   "module": "news",
-   "item_ids": [
-    "790c83325fdc9f66"
-   ],
-   "title": "[속보] 10월 무역수지 425억달러 흑자…2개월 연속 400억달러대",
-   "url": "https://www.yna.co.kr/view/AKR20261101014400003",
-   "why": "매체 2곳 · 경제",
+   "title": "[뷰리핑] 이 대통령 ‘시정연설’, 주목할 점은?",
+   "url": "https://www.hani.co.kr/arti/politics/politics_general/1285275.html",
+   "why": "매체 2곳 · IT·경제·신기술",
    "score": 9
   },
   {
    "module": "news",
    "item_ids": [
-    "606c7dc757c1aef4"
+    "6c334616af7a92c5"
    ],
-   "title": "[기고]제조업 AI 경쟁력, '모델 성능' 아닌 '현장 지식'에 달렸다",
-   "url": "https://www.hankyung.com/article/202610306957i",
-   "why": "매체 1곳 · AI·IT·제조",
+   "title": "“한국 시니어들 역동적, AI 빠르게 수용…일본은 신중하고 섬세”",
+   "url": "https://www.hani.co.kr/arti/economy/it/1285266.html",
+   "why": "매체 1곳 · AI·IT·국제",
    "score": 8
   },
   {
    "module": "news",
    "item_ids": [
-    "1f0399fd6010ee7e"
+    "b56dab063b78463f"
    ],
-   "title": "\"AI 냄새 난다\"…공모전 덮친 초등생 그림 'AI 의혹'에 술렁 [도쿄나우]",
-   "url": "https://www.hankyung.com/article/202611017824i",
+   "title": "“AI 배우는데 학력·경력은 상관없더라”",
+   "url": "https://www.hani.co.kr/arti/economy/it/1285263.html",
    "why": "매체 1곳 · AI·IT",
    "score": 8
   },
   {
-   "module": "crypto",
+   "module": "news",
    "item_ids": [
-    "4be1c74bd1e2a3d3"
+    "cffb6d15e7dee895"
    ],
-   "title": "TRON (TRX) ₩405",
-   "url": "https://www.coingecko.com/en/coins/tron",
-   "why": "큰 변동 · 24시간 -6.85% · 7일 -8.06% · 시총 8위 · 이슈: 바이낸스 64억달러 공격, 트론 디파이로 동결 회피",
-   "score": 0
+   "title": "\"급락하면 반등한다\"…초고수들 시선은 다시 한번 '반도체 상승'으로",
+   "url": "https://www.hankyung.com/article/202611029075i",
+   "why": "매체 1곳 · IT·신기술",
+   "score": 8
+  },
+  {
+   "module": "news",
+   "item_ids": [
+    "f7cbfe13689d25a5"
+   ],
+   "title": "북 해킹조직 훔친 비트코인, 테슬라 보유량 넘어…북 연간 수출액 3배",
+   "url": "https://www.khan.co.kr/article/202611020737001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "why": "매체 1곳 · 경제·국제·자동차",
+   "score": 7
   }
  ],
  "banned_hits": 0

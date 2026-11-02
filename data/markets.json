@@ -1,6 +1,6 @@
 {
  "module": "markets",
- "fetched_at": "2026-11-01T09:12:03+09:00",
+ "fetched_at": "2026-11-02T09:52:07+09:00",
  "source": {
   "name": "Yahoo Finance chart (비공식)",
   "url": "https://finance.yahoo.com/",
@@ -9,27 +9,19 @@
  "items": [
   {
    "id": "6134aafd41262cc2",
-   "title": "코스피 5,730.74",
+   "title": "코스피 5,725.30",
    "url": "https://finance.naver.com/sise/sise_index.naver?code=KOSPI",
-   "published_at": "2026-10-30",
-   "summary": "전일 대비 -3.48% · 1개월 -16.19% (2026-09-30~2026-10-30, 21영업일)",
+   "published_at": "2026-11-02",
+   "summary": "전일 대비 -0.09% · 1개월 -18.25% (2026-10-02~2026-11-02, 20영업일)",
    "tags": [
     "지수",
     "한국"
    ],
    "metrics": {
-    "last": 5730.74,
-    "chg_1d": -3.485,
-    "chg_period": -16.193,
+    "last": 5725.3,
+    "chg_1d": -0.095,
+    "chg_period": -18.254,
     "series": [
-     [
-      "2026-09-30",
-      6838.04
-     ],
-     [
-      "2026-10-01",
-      6971.35
-     ],
      [
       "2026-10-02",
       7003.74
@@ -105,36 +97,32 @@
      [
       "2026-10-30",
       5730.74
+     ],
+     [
+      "2026-11-02",
+      5725.3
      ]
     ]
    },
    "is_new": false,
-   "streak_days": 44,
+   "streak_days": 45,
    "source_name": "Yahoo Finance"
   },
   {
    "id": "b3f66872d62db5f6",
-   "title": "코스닥 724.38",
+   "title": "코스닥 726.46",
    "url": "https://finance.naver.com/sise/sise_index.naver?code=KOSDAQ",
-   "published_at": "2026-10-30",
-   "summary": "전일 대비 -3.83% · 1개월 -15.37% (2026-09-30~2026-10-30, 21영업일)",
+   "published_at": "2026-11-02",
+   "summary": "전일 대비 +0.29% · 1개월 -18.68% (2026-10-02~2026-11-02, 20영업일)",
    "tags": [
     "지수",
     "한국"
    ],
    "metrics": {
-    "last": 724.38,
-    "chg_1d": -3.83,
-    "chg_period": -15.367,
+    "last": 726.46,
+    "chg_1d": 0.287,
+    "chg_period": -18.676,
     "series": [
-     [
-      "2026-09-30",
-      855.91
-     ],
-     [
-      "2026-10-01",
-      894.29
-     ],
      [
       "2026-10-02",
       893.29
@@ -210,11 +198,15 @@
      [
       "2026-10-30",
       724.38
+     ],
+     [
+      "2026-11-02",
+      726.46
      ]
     ]
    },
    "is_new": false,
-   "streak_days": 44,
+   "streak_days": 45,
    "source_name": "Yahoo Finance"
   },
   {
@@ -327,7 +319,7 @@
     ]
    },
    "is_new": false,
-   "streak_days": 44,
+   "streak_days": 45,
    "source_name": "Yahoo Finance"
   },
   {
@@ -440,32 +432,24 @@
     ]
    },
    "is_new": false,
-   "streak_days": 44,
+   "streak_days": 45,
    "source_name": "Yahoo Finance"
   },
   {
    "id": "13f169f08974e3e1",
-   "title": "닛케이 225 63,290.11",
+   "title": "닛케이 225 63,119.97",
    "url": "https://finance.yahoo.com/quote/%5EN225/",
-   "published_at": "2026-10-30",
-   "summary": "전일 대비 -2.12% · 1개월 -5.19% (2026-09-30~2026-10-30, 22영업일)",
+   "published_at": "2026-11-02",
+   "summary": "전일 대비 -0.27% · 1개월 -7.60% (2026-10-02~2026-11-02, 21영업일)",
    "tags": [
     "지수",
     "일본"
    ],
    "metrics": {
-    "last": 63290.11,
-    "chg_1d": -2.118,
-    "chg_period": -5.189,
+    "last": 63119.97,
+    "chg_1d": -0.269,
+    "chg_period": -7.597,
     "series": [
-     [
-      "2026-09-30",
-      66753.72
-     ],
-     [
-      "2026-10-01",
-      68956.72
-     ],
      [
       "2026-10-02",
       68309.46
@@ -545,11 +529,15 @@
      [
       "2026-10-30",
       63290.11
+     ],
+     [
+      "2026-11-02",
+      63119.97
      ]
     ]
    },
    "is_new": false,
-   "streak_days": 44,
+   "streak_days": 45,
    "source_name": "Yahoo Finance"
   }
  ],
