@@ -1,6 +1,6 @@
 {
  "module": "fx",
- "fetched_at": "2026-11-02T09:51:55+09:00",
+ "fetched_at": "2026-11-03T11:56:58+09:00",
  "source": {
   "name": "Frankfurter (ECB 고시)",
   "url": "https://api.frankfurter.dev/v1",
@@ -9,18 +9,18 @@
  "items": [
   {
    "id": "1db8c3e3a9dfd411",
-   "title": "USD/KRW 1,335.27",
+   "title": "USD/KRW 1,342.90",
    "url": "https://www.google.com/finance/quote/USD-KRW",
-   "published_at": "2026-10-30",
-   "summary": "전 영업일 대비 -0.15% · 30일 전 대비 -0.96% (ECB 2026-10-30 고시)",
+   "published_at": "2026-11-02",
+   "summary": "전 영업일 대비 +0.57% · 30일 전 대비 -0.40% (ECB 2026-11-02 고시)",
    "tags": [
     "환율",
     "KRW"
    ],
    "metrics": {
-    "last": 1335.27,
-    "chg_1d": -0.151,
-    "chg_period": -0.965,
+    "last": 1342.9,
+    "chg_1d": 0.571,
+    "chg_period": -0.399,
     "series": [
      [
       "2026-10-02",
@@ -105,26 +105,30 @@
      [
       "2026-10-30",
       1335.27
+     ],
+     [
+      "2026-11-02",
+      1342.9
      ]
     ]
    },
    "is_new": false,
-   "streak_days": 45
+   "streak_days": 46
   },
   {
    "id": "4444e6fab2b3cfce",
-   "title": "USD/JPY 157.25",
+   "title": "USD/JPY 157.90",
    "url": "https://www.google.com/finance/quote/USD-JPY",
-   "published_at": "2026-10-30",
-   "summary": "전 영업일 대비 -0.51% · 30일 전 대비 -0.27% (ECB 2026-10-30 고시)",
+   "published_at": "2026-11-02",
+   "summary": "전 영업일 대비 +0.41% · 30일 전 대비 +0.15% (ECB 2026-11-02 고시)",
    "tags": [
     "환율",
     "JPY"
    ],
    "metrics": {
-    "last": 157.25,
-    "chg_1d": -0.512,
-    "chg_period": -0.266,
+    "last": 157.9,
+    "chg_1d": 0.413,
+    "chg_period": 0.146,
     "series": [
      [
       "2026-10-02",
@@ -209,26 +213,30 @@
      [
       "2026-10-30",
       157.25
+     ],
+     [
+      "2026-11-02",
+      157.9
      ]
     ]
    },
    "is_new": false,
-   "streak_days": 45
+   "streak_days": 46
   },
   {
    "id": "477047c498bfc860",
-   "title": "USD/EUR 0.90",
+   "title": "USD/EUR 0.89",
    "url": "https://www.google.com/finance/quote/USD-EUR",
-   "published_at": "2026-10-30",
-   "summary": "전 영업일 대비 -0.38% · 30일 전 대비 +0.47% (ECB 2026-10-30 고시)",
+   "published_at": "2026-11-02",
+   "summary": "전 영업일 대비 -0.39% · 30일 전 대비 +0.08% (ECB 2026-11-02 고시)",
    "tags": [
     "환율",
     "EUR"
    ],
    "metrics": {
-    "last": 0.89509,
-    "chg_1d": -0.376,
-    "chg_period": 0.474,
+    "last": 0.89158,
+    "chg_1d": -0.392,
+    "chg_period": 0.08,
     "series": [
      [
       "2026-10-02",
@@ -313,11 +321,15 @@
      [
       "2026-10-30",
       0.89509
+     ],
+     [
+      "2026-11-02",
+      0.89158
      ]
     ]
    },
    "is_new": false,
-   "streak_days": 45
+   "streak_days": 46
   }
  ],
  "status": {

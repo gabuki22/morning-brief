@@ -1,6 +1,6 @@
 {
  "module": "it",
- "fetched_at": "2026-11-02T09:52:16+09:00",
+ "fetched_at": "2026-11-03T11:57:18+09:00",
  "source": {
   "name": "RSS 5곳",
   "url": "https://feeds.feedburner.com/zdkorea",
@@ -8,11 +8,117 @@
  },
  "items": [
   {
-   "id": "5afd76abf80b94ef",
-   "title": "OCI그룹, 반도체소재사업본부 신설…임원인사·조직개편",
-   "url": "https://www.yna.co.kr/view/AKR20261102040500003",
-   "published_at": "2026-11-02T09:45:56+09:00",
-   "summary": "(서울=연합뉴스) 강태우 기자 = OCI그룹이 반도체 소재 사업의 경쟁력을 강화하고 인공지능 전환(AX)에 속도를 내기 위한 조직개편을 단행했다...",
+   "id": "bf1884254900dec9",
+   "title": "경남소방, AI 활용 외국어 119 신고 실시간 통역…언어장벽 해소",
+   "url": "https://www.yna.co.kr/view/AKR20261103091200052",
+   "published_at": "2026-11-03T11:40:08+09:00",
+   "summary": "(창원=연합뉴스) 이정훈 기자 = 경남소방본부는 11월부터 인공지능(AI)을 활용해 외국어 119 신고를 실시간으로 통역하는 시스템 운영을 시작...",
+   "tags": [
+    "AI"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "연합뉴스 산업"
+  },
+  {
+   "id": "a86cd8f69e754525",
+   "title": "앵커노드, 대원미디어와 일본 명작 게임 IP 리메이크 개발 계약",
+   "url": "https://zdnet.co.kr/view/?no=20261103112743",
+   "published_at": "2026-11-03T11:30:01+09:00",
+   "summary": "[지디넷코리아]게임 특화 인공지능(AI) 기업 앵커노드가 대원미디어와 손잡고 일본 유명 게임 지식재산권(IP)을 활용한 신작 개발에 나선다.앵커노드(대표 원재호)는 대원미디어와 일본 명작 IP 리메이크 프로젝트 계약을 맺고 게임 개발을 진행하고 있다고 3일 밝혔다. 이번 계약은 양사가 ",
+   "tags": [
+    "AI",
+    "게임"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "지디넷코리아"
+  },
+  {
+   "id": "d9a679dc30e1a14d",
+   "title": "현대제철·농심·현대백화점그룹, 하반기 신입 채용",
+   "url": "https://zdnet.co.kr/view/?no=20261103112450",
+   "published_at": "2026-11-03T11:27:07+09:00",
+   "summary": "[지디넷코리아]현대제철과 농심, 현대백화점그룹 등 주요 기업들이 11월 신입사원 채용에 나선다. 안랩과 패스트파이브는 채용설명회를 열고 구직자들과 직접 소통할 예정이다.3일 채용 플랫폼 진학사 캐치에 따르면 CR그룹, 현대제철, 농심, 현대백화점그룹, 패스트파이브 등이 신입·경력 채용을",
+   "tags": [],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "지디넷코리아"
+  },
+  {
+   "id": "b6027f770065de4b",
+   "title": "코난테크놀로지, 한국국제협력단 인도네시아 연수 AI 동시통역 지원",
+   "url": "https://zdnet.co.kr/view/?no=20261103112556",
+   "published_at": "2026-11-03T11:26:30+09:00",
+   "summary": "[지디넷코리아]코난테크놀로지(대표 김영섬)가 인공지능(AI) 동시통역 솔루션을 국제협력 교육 현장에 공급하며 글로벌 컨퍼런스 시장 공략에 나섰다.코난테크놀로지는 한국국제협력단(KOICA)의 인도네시아 초청연수에 AI 동시통역 솔루션 '링고엑스 컨퍼런스'를 공급했다고 3일 밝혔다.이번 연",
+   "tags": [
+    "AI"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "지디넷코리아"
+  },
+  {
+   "id": "fe61a844079b7bb5",
+   "title": "LG화학, 희귀비만 신약 기술수출 계약 규모 확대 ... 선급금 4700억 추가 확보",
+   "url": "https://www.hankyung.com/article/202611032495i",
+   "published_at": "2026-11-03T11:24:15+09:00",
+   "summary": "",
+   "tags": [],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "한국경제 IT"
+  },
+  {
+   "id": "efbe921e477a0ca7",
+   "title": "테슬라 '로보택시' 국내 첫 상륙…\"판매 아닌 전시만\"",
+   "url": "https://zdnet.co.kr/view/?no=20261103112336",
+   "published_at": "2026-11-03T11:23:36+09:00",
+   "summary": "[지디넷코리아]테슬라가 자율주행 로보택시 전용 차량인 '사이버캡'을 국내서 처음으로 선보인다. 미국에서 실제 승객을 태우는 상용 운행에 돌입한 차량으로, 국내에서는 전시 형태로 공개된다.테슬라코리아는 3일 공식 엑스(X·옛 트위터) 계정을 통해 오는 12일부터 15일까지 나흘간 경기도 ",
+   "tags": [],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "지디넷코리아"
+  },
+  {
+   "id": "7706a6b858a14744",
+   "title": "두핸즈 '품고', 물동량 60% 증가…물류 현장에 피지컬 AI 도입 속도",
+   "url": "https://zdnet.co.kr/view/?no=20261103112145",
+   "published_at": "2026-11-03T11:21:45+09:00",
+   "summary": "[지디넷코리아]풀필먼트 서비스 '품고'를 운영하는 두핸즈가 물류 처리량 증가를 바탕으로 피지컬 인공지능(AI) 기술 개발에 속도를 낸다. 물류 현장에서 축적한 데이터를 로봇 학습에 활용해 반복적인 포장 작업부터 자동화하겠다는 전략이다.두핸즈는 올해 1월부터 9월까지 국내외 누적 물동량이",
+   "tags": [
+    "AI",
+    "신기술"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "지디넷코리아"
+  },
+  {
+   "id": "78d70dd53b14d2f1",
+   "title": "국가유산청, ‘2026 무형유산 국제학술행사’ 개최…국내외 조사체계 비교",
+   "url": "https://zdnet.co.kr/view/?no=20261103110808",
+   "published_at": "2026-11-03T11:20:01+09:00",
+   "summary": "[지디넷코리아]국가유산청이 국내외 무형유산 조사 경험을 공유하고 국가무형유산 정기조사의 발전 방향을 모색한다.국가유산청은 유네스코 아태무형문화유산센터와 전북 전주시 국립무형유산원에서 ‘2026 무형유산 국제학술행사’를 개최한다고 3일 밝혔다.오는 6일 진행되는 이번 행사는 무형유산의 지",
+   "tags": [],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "지디넷코리아"
+  },
+  {
+   "id": "f4fb125f59a8f475",
+   "title": "AI·바이오·로봇기업 100곳 한자리에…서울시 9일 일자리박람회",
+   "url": "https://www.yna.co.kr/view/AKR20261103040500004",
+   "published_at": "2026-11-03T11:15:02+09:00",
+   "summary": "(서울=연합뉴스) 김동규 기자 = 인공지능(AI)·바이오·반도체·로봇 등 미래산업 분야 기업 100여곳이 참여하는 일자리박람회가 오는 9일 동대...",
    "tags": [
     "반도체",
     "AI",
@@ -24,729 +130,53 @@
    "source_name": "연합뉴스 산업"
   },
   {
-   "id": "6426e8e3010b14b8",
-   "title": "[게시판] BC카드, 가전 구독 맞춤 'LG전자 프리빌리지' 출시",
-   "url": "https://www.yna.co.kr/view/AKR20261102044500002",
-   "published_at": "2026-11-02T09:42:50+09:00",
-   "summary": "▲ BC카드가 LG전자[066570] 가전 구독 고객을 위한 'LG전자 프리빌리지' 제휴 카드를 출시했다고 2일 밝혔다. 이번 상품은 BC카드가...",
+   "id": "c56e24557ba98d4e",
+   "title": "경과원 '생성형 AI'로 행정혁신…전 직원 교육에 해커톤 개최",
+   "url": "https://www.yna.co.kr/view/AKR20261103083100061",
+   "published_at": "2026-11-03T11:14:12+09:00",
+   "summary": "(수원=연합뉴스) 최종호 기자 = 경기도경제과학진흥원은 반복적인 행정업무를 줄여 기업상담과 신규사업 기획에 집중하고자 생성형 인공지능(AI) 행...",
+   "tags": [
+    "AI"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "연합뉴스 산업"
+  },
+  {
+   "id": "b51a982400f80b2f",
+   "title": "유라클, 기업 AI 사용·비용 통합 관리…'오르다 API 게이트웨이' 출시",
+   "url": "https://zdnet.co.kr/view/?no=20261103111215",
+   "published_at": "2026-11-03T11:12:35+09:00",
+   "summary": "[지디넷코리아]유라클(대표 조준희, 권태일)이 기업 내부에서 사용하는 인공지능(AI) 모델과 에이전트를 통합 관리하는 플랫폼을 선보이며 기업용 AI 운영 시장 공략에 나선다.여러 AI 서비스를 하나의 접속 지점으로 연결하고 사용자별 접근 권한부터 이용 비용, 실행 승인까지 관리하는 것이",
+   "tags": [
+    "AI"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "지디넷코리아"
+  },
+  {
+   "id": "f4e5ed4dd4bd3dce",
+   "title": "“냉동고가 50도 찜질방 됐다”… 유럽 7개국 마트도 동시다발 해킹 당해",
+   "url": "https://www.etnews.com/20261103000180",
+   "published_at": "2026-11-03T11:10:54+09:00",
+   "summary": "지난달 프랑스에서 마트 냉장고를 노린 사이버 공격이 발생한 가운데, 이번에는 유럽 7개국에서도 비슷한 피해가 다발적으로 발생했다. 일부 매장에서는 냉동고 온도가 50도까지 치솟으면서 보관 중이던 식품을 대량 폐기하는 등 피해가 잇따랐다. 3일(현지시간) 영국 BBC에 따르면 최근 벨기에",
    "tags": [
     "가전"
    ],
    "metrics": {},
    "is_new": true,
    "streak_days": 1,
-   "source_name": "연합뉴스 산업"
-  },
-  {
-   "id": "4a9a069869754d9d",
-   "title": "신한증권, AI조건검색 서비스 '프리미어 AI 파인더' 출시",
-   "url": "https://www.yna.co.kr/view/AKR20261102043200008",
-   "published_at": "2026-11-02T09:42:01+09:00",
-   "summary": "(서울=연합뉴스) 고은지 기자 = 신한투자증권은 이달 중 신한 SOL증권 애플리케이션에서 인공지능(AI) 조건검색 서비스 '신한 프리미어(Pre...",
-   "tags": [
-    "AI"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "연합뉴스 산업"
-  },
-  {
-   "id": "de3143fb832cbbef",
-   "title": "건설연구원, AI 활용 지하공간 유해가스 위험 예측시스템 개발",
-   "url": "https://www.yna.co.kr/view/AKR20261102031800003",
-   "published_at": "2026-11-02T09:29:05+09:00",
-   "summary": "(서울=연합뉴스) 임기창 기자 = 한국건설기술연구원(건설연)은 지하공간 공사 현장에서 유해가스와 산소 농도 등을 실시간 측정하고 인공지능(AI)...",
-   "tags": [
-    "AI"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "연합뉴스 산업"
-  },
-  {
-   "id": "de6b1dd1e61a1e90",
-   "title": "다이슨코리아, UV 얼룩 감지 로봇청소기 등 신제품 2종 출시",
-   "url": "https://www.yna.co.kr/view/AKR20261102035100003",
-   "published_at": "2026-11-02T09:25:37+09:00",
-   "summary": "(서울=연합뉴스) 강태우 기자 = 다이슨코리아는 청소 성능과 사용 편의성을 강화한 로봇청소기와 물청소기 신제품 2종을 국내 출시한다고 2일 밝혔...",
-   "tags": [
-    "가전",
-    "신기술"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "연합뉴스 산업"
-  },
-  {
-   "id": "3d628e0198f9ce21",
-   "title": "'침묵의 암' 췌장암 진단 3년 전부터…전문가가 주목한 내 몸이 보내는 이상신호",
-   "url": "https://www.etnews.com/20261102000033",
-   "published_at": "2026-11-02T09:21:05+09:00",
-   "summary": "췌장암 환자는 진단을 받기 최대 3년 전부터 내장지방과 피하지방이 대조군보다 빠르게 감소하는 경향을 보였다는 연구 결과가 나왔다. 인공지능(AI)으로 기존 컴퓨터단층촬영(CT) 영상을 분석해 체성분 변화를 포착하면 췌장암 조기 발견에 활용할 가능성이 있다는 분석이다. 미국 메이요클리닉 ",
-   "tags": [
-    "AI"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
    "source_name": "전자신문"
   },
   {
-   "id": "0cb90aaa4626be96",
-   "title": "파마리서치, 글로벌 심포지엄 개최…64개국 의료진 750명 참석",
-   "url": "https://www.hankyung.com/article/202611029157i",
-   "published_at": "2026-11-02T08:42:30+09:00",
-   "summary": "",
-   "tags": [],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "한국경제 IT"
-  },
-  {
-   "id": "7b83991325c1e796",
-   "title": "리가켐바이오 HER2 ADC, 엔허투 치료 후 유방암 환자서 ORR 50%",
-   "url": "https://www.hankyung.com/article/202611029126i",
-   "published_at": "2026-11-02T08:39:04+09:00",
-   "summary": "",
-   "tags": [],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "한국경제 IT"
-  },
-  {
-   "id": "92cc0b2838500aa2",
-   "title": "아이엠바이오로직스, GC녹십자와 자가면역 이중항체 개발 MTA 체결",
-   "url": "https://www.hankyung.com/article/202611029078i",
-   "published_at": "2026-11-02T08:20:57+09:00",
-   "summary": "",
-   "tags": [],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "한국경제 IT"
-  },
-  {
-   "id": "8ba74689224d54aa",
-   "title": "큐리언트 모카시클립, 소아 뇌종양 美 연구자 임상 IND 승인",
-   "url": "https://www.hankyung.com/article/202611029061i",
-   "published_at": "2026-11-02T08:16:12+09:00",
-   "summary": "",
-   "tags": [],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "한국경제 IT"
-  },
-  {
-   "id": "3c1621caad16eb4e",
-   "title": "4연속 'G'에 무너진 한화생명, 결국 'L'을 가져갔다 [이주현의 로그인 e스포츠]",
-   "url": "https://www.hankyung.com/article/202611018143i",
-   "published_at": "2026-11-02T08:00:20+09:00",
-   "summary": "",
-   "tags": [],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "한국경제 IT"
-  },
-  {
-   "id": "4f1cc1379b8274ee",
-   "title": "\"너무 맛있어요\" 별점 믿고 배달시켰다가…'섬뜩한 현실' [정지은의 테크킥]",
-   "url": "https://www.hankyung.com/article/202610317182i",
-   "published_at": "2026-11-02T08:00:06+09:00",
-   "summary": "",
-   "tags": [],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "한국경제 IT"
-  },
-  {
-   "id": "d68f91fb9911a32b",
-   "title": "AI 투자 수익성 의구심 확산…월가, 풋옵션·CDS로 위험 헤지",
-   "url": "https://www.etnews.com/20261102000003",
-   "published_at": "2026-11-02T06:51:56+09:00",
-   "summary": "인공지능(AI) 산업에 천문학적인 자금이 유입되면서 월가에서 투자 손실에 대비하려는 움직임이 본격화하고 있다. AI 투자가 기대만큼의 수익으로 이어질지 불확실성이 커지자 주식과 채권은 물론 AI 반도체(GPU) 사용료 하락 위험까지 헤지하려는 수요가 늘고 있다. 월스트리트저널(WSJ)은",
-   "tags": [
-    "반도체",
-    "AI",
-    "신기술"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "전자신문"
-  },
-  {
-   "id": "3604bfbf152b4f6e",
-   "title": "NASA hopes the commercial space industry can help save Hubble",
-   "url": "https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble",
-   "published_at": "2026-11-02T06:09:21+09:00",
-   "summary": "Gravity is a cruel mistress, slowly dragging the famed telescope ever closer to its ultimate demise with every day. Hubble is in no immediate danger of burning ",
-   "tags": [],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "The Verge"
-  },
-  {
-   "id": "5c5502d97d0c2817",
-   "title": "Flock keeps ignoring requests to cancel its contracts",
-   "url": "https://www.theverge.com/tech/1024232/flock-ignoring-cancel-contracts",
-   "published_at": "2026-11-02T04:58:02+09:00",
-   "summary": "While more cities are canceling their contracts with Flock Safety, just as many are discovering how difficult that can be in some instances. Plymouth, Minnesota",
-   "tags": [],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "The Verge"
-  },
-  {
-   "id": "08a98f93893b580a",
-   "title": "Apple’s HomeView could add security camera features",
-   "url": "https://www.theverge.com/tech/1024219/apples-homeview-could-add-security-camera-features",
-   "published_at": "2026-11-02T02:16:07+09:00",
-   "summary": "Reddit user pdfu found hints hidden in the HomeView 27.2 code that Apple could be adding security camera features to its smart home hub. The strings describe a ",
-   "tags": [],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "The Verge"
-  },
-  {
-   "id": "a53a40d9d648ac2a",
-   "title": "A fully playable version of Portal prequel F-Stop leaked",
-   "url": "https://www.theverge.com/games/1024206/playable-portal-prequel-f-stop-leak",
-   "published_at": "2026-11-02T01:19:21+09:00",
-   "summary": "Leakers have pieced together a playable version of the canceled Portal prequel F-Stop. Most of the assets came from the massive 12-terabyte leak that dropped th",
-   "tags": [],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "The Verge"
-  },
-  {
-   "id": "edf792df0c9687cf",
-   "title": "메타메트릭스와 레디, 국내 영어 문해력 협력 확대",
-   "url": "https://zdnet.co.kr/view/?no=20261102001003",
-   "published_at": "2026-11-02T00:10:03+09:00",
-   "summary": "[지디넷코리아] 한국 내 Lexile Express Test 독점 유통사인 레디, 연구에 기반한 도구를 제공해 영어 읽기 능력을 평가하고, 학생별 수준에 적합한 텍스트를 연결하며, 읽기 능력의 향상 모니터링 예정 노스캐롤라이나 더럼 및 한국 서울, 2026년 11월 1일 /PRNewsw",
-   "tags": [
-    "사무기기"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "지디넷코리아"
-  },
-  {
-   "id": "77775005d8b81588",
-   "title": "사상 첫 ‘수출 1조 달러’ 눈앞…9월 이어 10월에도 1100억 달러 넘어",
-   "url": "https://zdnet.co.kr/view/?no=20261101235028",
-   "published_at": "2026-11-01T23:50:28+09:00",
-   "summary": "[지디넷코리아]사상 첫 수출 1조 달러 달성이 초읽기에 들어갔다.산업통상부는 10월 수출이 지난해 같은 달보다 93.7% 증가한 1152억 8000만 달러, 수입은 36% 증가한 727억 8000억 달러, 무역수지는 425억 달러를 기록했다고 1일 밝혔다. 10월까지 누적 수출은 930",
-   "tags": [],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "지디넷코리아"
-  },
-  {
-   "id": "d47dca67557a5eeb",
-   "title": "North Korea linked to massive Binance crypto heist",
-   "url": "https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist",
-   "published_at": "2026-11-01T23:33:11+09:00",
-   "summary": "The FBI says North Korea was behind the massive $6.3 billion crypto heist that hit Binance on October 29th. The FBI labeled the activity \"TraderTraitor\" and sai",
-   "tags": [],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "The Verge"
-  },
-  {
-   "id": "60a1b3160a1561f6",
-   "title": "비아트론, 소부장 으뜸기업 선정...\"120억원 규모 반도체 장비 개발\"",
-   "url": "https://zdnet.co.kr/view/?no=20261101230401",
-   "published_at": "2026-11-01T23:06:55+09:00",
-   "summary": "[지디넷코리아]디스플레이 열처리 장비가 주력인 비아트론이 산업통상부 주관 '소재부품장비 으뜸기업'에 선정됐다고 1일 밝혔다. 비아트론은 국내 종합반도체 기업 등과 120억여원 규모 급속열처리(RTP) 장비를 개발한다. 비아트론은 \"반도체 공정에 필수인 RTP 기술 우수성과 경쟁력을 인정",
-   "tags": [
-    "반도체",
-    "신기술"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "지디넷코리아"
-  },
-  {
-   "id": "9bf5871ddb73de52",
-   "title": "HomePod Mini 2 first look: Three things I love and one disappointment",
-   "url": "https://www.theverge.com/tech/1024108/homepod-mini-2-hands-on-siri-smart-home-mac-speaker",
-   "published_at": "2026-11-01T23:00:00+09:00",
-   "summary": "When I first heard about the new $149 HomePod Mini 2 at Apple's Welcome Home event last month, I was disappointed. It's been six years since Apple launched its ",
-   "tags": [],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "The Verge"
-  },
-  {
-   "id": "144d2253b8d65284",
-   "title": "New Zelda and GTA represent a games industry that no longer exists",
-   "url": "https://www.theverge.com/column/1022402/new-zelda-and-gta-represent-a-games-industry-that-no-longer-exists",
-   "published_at": "2026-11-01T22:00:00+09:00",
-   "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the biggest game releases of the year, follow Andre",
-   "tags": [],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "The Verge"
-  },
-  {
-   "id": "cd3bd1b497c0af25",
-   "title": "Prop 45 in California could be hiding a loophole for data centers",
-   "url": "https://www.theverge.com/policy/1023877/prop-45-california-data-centers-energy",
-   "published_at": "2026-11-01T22:00:00+09:00",
-   "summary": "A high-stakes California ballot measure pitched as a fast track for \"essential\" infrastructure could wind up giving data center developers a loophole to evade p",
-   "tags": [],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "The Verge"
-  },
-  {
-   "id": "dd55b3afdd97b3ec",
-   "title": "\"챗GPT 답변, 민주당에 유리\"…위장 사이트 37곳 발견 '발칵'",
-   "url": "https://www.hankyung.com/article/2026110186557",
-   "published_at": "2026-11-01T19:20:30+09:00",
-   "summary": "",
-   "tags": [
-    "AI"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "한국경제 IT"
-  },
-  {
-   "id": "e95a240028565d2c",
-   "title": "\"이자만 월 1300만원\"…건물주 이해인, 결국 '틱톡' 켠다",
-   "url": "https://www.hankyung.com/article/2026110186267",
-   "published_at": "2026-11-01T18:22:28+09:00",
-   "summary": "",
-   "tags": [],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "한국경제 IT"
-  },
-  {
-   "id": "ed41396f7bc84def",
-   "title": "中 첨단신약 임상 급증에…실험용 원숭이 몸값, 6년새 5배 뛰었다",
-   "url": "https://www.hankyung.com/article/2026110185151",
-   "published_at": "2026-11-01T18:12:58+09:00",
-   "summary": "",
-   "tags": [],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "한국경제 IT"
-  },
-  {
-   "id": "296840693084cf27",
-   "title": "성수동서 맞붙은 네이버-토스…얼굴 결제 팝업 '정면승부'",
-   "url": "https://www.hankyung.com/article/2026110186011",
-   "published_at": "2026-11-01T18:06:37+09:00",
-   "summary": "",
-   "tags": [],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "한국경제 IT"
-  },
-  {
-   "id": "e9ff18f52546e74d",
-   "title": "KT, AI로 데이터센터 이상징후 감시",
-   "url": "https://www.hankyung.com/article/2026110186001",
-   "published_at": "2026-11-01T18:06:24+09:00",
-   "summary": "",
-   "tags": [
-    "AI"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "한국경제 IT"
-  },
-  {
-   "id": "5dc923e4c36e57c8",
-   "title": "정부, AIDC 진입 장벽 낮춘다…하위법령 입법예고 앞두고 기준 완화 가닥",
-   "url": "https://www.etnews.com/20261030000273",
-   "published_at": "2026-11-01T18:00:00+09:00",
-   "summary": "정부가 인공지능 데이터센터(AIDC) 인정 기준을 당초 논의된 시행령 초안보다 대폭 완화하는 방향으로 조정하는 것으로 확인됐다. 업계 의견을 반영해 AIDC 인정 범위를 넓히고, 기존 데이터센터의 일부를 AI용으로 전환하는 경우에도 AIDC로 인정받을 수 있도록 지원하려는 취지로 풀이된",
-   "tags": [
-    "AI"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "전자신문"
-  },
-  {
-   "id": "42273c0cfe10242c",
-   "title": "\"전립선암 신약, 美 임상서 성과…내년 글로벌 기술수출\"",
-   "url": "https://www.hankyung.com/article/2026110184711",
-   "published_at": "2026-11-01T17:53:08+09:00",
-   "summary": "",
-   "tags": [],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "한국경제 IT"
-  },
-  {
-   "id": "6ba6d64502d2c302",
-   "title": "'AI 핵심 인프라' 해저케이블…美 75개·日 43개 운영, 韓은 8개뿐",
-   "url": "https://www.hankyung.com/article/2026110185111",
-   "published_at": "2026-11-01T17:50:09+09:00",
-   "summary": "",
-   "tags": [
-    "AI"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "한국경제 IT"
-  },
-  {
-   "id": "94e0d805cf686812",
-   "title": "메타·구글·아마존도 바닷길 쟁탈전",
-   "url": "https://www.hankyung.com/article/2026110185121",
-   "published_at": "2026-11-01T17:48:40+09:00",
-   "summary": "",
-   "tags": [],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "한국경제 IT"
-  },
-  {
-   "id": "a44ae3fbd46a053e",
-   "title": "빅테크 회사채 폭락·신용등급 하락…AI 순환투자, 뿌리 흔들리나",
-   "url": "https://www.hankyung.com/article/2026110185671",
-   "published_at": "2026-11-01T17:43:34+09:00",
-   "summary": "",
-   "tags": [
-    "AI"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "한국경제 IT"
-  },
-  {
-   "id": "32b51ab2cae03ef3",
-   "title": "\"돈이 마르기 시작했다\"…AI 열풍에 닥친 '초대형 위기'",
-   "url": "https://www.hankyung.com/article/2026110185951",
-   "published_at": "2026-11-01T17:41:49+09:00",
-   "summary": "",
-   "tags": [
-    "AI"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "한국경제 IT"
-  },
-  {
-   "id": "2387df51c8d54d37",
-   "title": "[단독] \"현대차에선 처음 있는 일\"…티맵 '24년 독주' 깨지나",
-   "url": "https://www.hankyung.com/article/2026110185611",
-   "published_at": "2026-11-01T17:37:19+09:00",
-   "summary": "",
-   "tags": [],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "한국경제 IT"
-  },
-  {
-   "id": "a0278c4fd8fbd639",
-   "title": "[단독] 네이버·카카오 내비, 현대차 속으로",
-   "url": "https://www.hankyung.com/article/2026110185901",
-   "published_at": "2026-11-01T17:36:17+09:00",
-   "summary": "",
-   "tags": [],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "한국경제 IT"
-  },
-  {
-   "id": "3e2018630366d98a",
-   "title": "AI 시대 개인정보 미래는…\"수집·제공 체계 '처리'로 묶자\"",
-   "url": "https://zdnet.co.kr/view/?no=20261101160224",
-   "published_at": "2026-11-01T17:08:46+09:00",
-   "summary": "[지디넷코리아]인공지능(AI) 시대에 개인정보 활용 동의 중심 체계라는 한계를 극복하기 위해서는 법적 근거와 보호조치를 손질해야 한다는 의견이 쏟아졌다. 수집, 제공을 따로 규율하는 체계를 하나로 통합하고, 이용자의 거부권을 바탕으로 '정당한 이익'을 폭넓게 인정하자는 이야기다. 정당한",
-   "tags": [
-    "AI"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "지디넷코리아"
-  },
-  {
-   "id": "ad24598957fd43e5",
-   "title": "삼성전자, 삼성D서 CSOT 지분 전량 인수...1.27조원",
-   "url": "https://zdnet.co.kr/view/?no=20261101164800",
-   "published_at": "2026-11-01T17:07:20+09:00",
-   "summary": "[지디넷코리아]삼성전자 TV(VD)사업부가 삼성디스플레이로부터 중국 CSOT 지분(10.16%)을 전량 인수했다. 삼성전자는 지난달 30일 삼성디스플레이가 보유 중인 CSOT 지분 10.16%를 1조 2718억원에 매입한다고 밝혔다. 취득 목적은 \"전략적 협업관계 강화\"다. 거래일자는 ",
-   "tags": [
-    "가전"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "지디넷코리아"
-  },
-  {
-   "id": "908d95382058db69",
-   "title": "\"군 복무 마쳤더니 해고\" 발칵…예비군 내친 구글에 소송",
-   "url": "https://www.hankyung.com/article/2026110184287",
-   "published_at": "2026-11-01T17:00:19+09:00",
-   "summary": "",
-   "tags": [],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "한국경제 IT"
-  },
-  {
-   "id": "a59cb508f8f46159",
-   "title": "국방으로 넓어지는 로봇 시장…주파수·실증·표준화 등 과제",
-   "url": "https://www.etnews.com/20261030000211",
-   "published_at": "2026-11-01T17:00:00+09:00",
-   "summary": "로봇 산업이 제조·물류를 넘어 국방 분야로 확대되면서 국내 기업에 새로운 시장이 열리고 있다. 군의 로봇 도입이 본격화하는 가운데 기술 표준화와 현장 실증, 중소기업의 공급망 진입이 주요 과제로 떠올랐다. 1일 업계에 따르면 국방 분야에서는 무인지상차량(UGV)과 무인수상정 등에 AI ",
-   "tags": [
-    "AI",
-    "신기술"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "전자신문"
-  },
-  {
-   "id": "93c2ad64cccd9170",
-   "title": "삼성 TV 라인업, 내년 '울트라·플러스·베이직' 3단계 개편…복잡한 기술명 떼고 구독서비스 강화",
-   "url": "https://www.etnews.com/20261030000262",
-   "published_at": "2026-11-01T16:30:00+09:00",
-   "summary": "삼성전자가 내년 프리미엄 TV 라인업을 '울트라·플러스·베이직' 3단계 구조로 전면 개편한다. 마이크로 RGB, OLED, 네오QLED, 미니LED 등 기존의 복잡한 하드웨어 기술명을 전면에 내세우던 방식에서 벗어나 제품 체급과 가치를 직관적으로 나타내는 분류법을 도입한다. 내년 이후 ",
-   "tags": [
-    "가전",
-    "신기술"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "전자신문"
-  },
-  {
-   "id": "df847164113b7d70",
-   "title": "日 APL 찾은 이재용, AI승부처 '첨단 패키징' 챙겼다…소부장 협력 논의",
-   "url": "https://www.etnews.com/20261101000090",
-   "published_at": "2026-11-01T16:10:41+09:00",
-   "summary": "이재용 삼성전자 회장이 일본 요코하마 첨단 반도체 패키징 연구거점을 직접 찾았다. AI 반도체 경쟁 승부처로 떠오른 첨단 패키징 기술 확보 상황을 챙기고, 일본 소재·부품·장비(소부장) 생태계와 협력 확대를 모색하기 위한 행보다. 삼성전자는 이 회장이 1일 요코하마 '어드밴스트 패키지 ",
-   "tags": [
-    "가전",
-    "반도체",
-    "AI",
-    "신기술"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "전자신문"
-  },
-  {
-   "id": "be86378b1ddcd8a3",
-   "title": "이재용, 日서 AI 반도체 승부처 점검…첨단 패키징 협력 강화",
-   "url": "https://zdnet.co.kr/view/?no=20261101160859",
-   "published_at": "2026-11-01T16:08:59+09:00",
-   "summary": "[지디넷코리아]이재용 삼성전자 회장이 일본 첨단 패키징 연구거점을 찾아 인공지능(AI) 반도체 경쟁력 확보를 위한 소재·공정 기술 개발과 현지 기업 협력 현황을 점검했다.삼성전자는 이 회장이 1일 일본 요코하마에 있는 '어드밴스트 패키지랩(APL)'을 방문했다고 밝혔다. 지난 9월 8일",
-   "tags": [
-    "가전",
-    "반도체",
-    "AI",
-    "신기술"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "지디넷코리아"
-  },
-  {
-   "id": "7c78dc0cd49c792e",
-   "title": "네이버 행사장 앞 토스 군단 떴다…성수동 달군 '얼굴 결제전쟁' [정지은의 테크킥]",
-   "url": "https://www.hankyung.com/article/202611017923i",
-   "published_at": "2026-11-01T16:00:06+09:00",
-   "summary": "",
-   "tags": [],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "한국경제 IT"
-  },
-  {
-   "id": "13f22f045eda5b35",
-   "title": "금융 연계 시스템 취약점 점검 자동화…관리 공백 줄여야",
-   "url": "https://www.etnews.com/20261101000061",
-   "published_at": "2026-11-01T16:00:00+09:00",
-   "summary": "〈편집자주〉 사이버 침해사고가 산업 전반으로 확산하면서 기존 보안체계의 한계가 드러나고 있다. 인공지능(AI)이 해킹에 활용되면서 산업별 보안 체계 강화가 시급해졌다. 전자신문은 '보안긴급진단' 기획 시리즈를 통해 금융·제조·정보기술(IT)·공공 등 4개 분야의 보안 실태와 구조적 취약",
-   "tags": [
-    "AI"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "전자신문"
-  },
-  {
-   "id": "38a4365462d641d3",
-   "title": "마음AI, 로봇에 '미래 예측' 더해 성공률 경신…연내 인간 수준 도전",
-   "url": "https://www.etnews.com/20261030000249",
-   "published_at": "2026-11-01T16:00:00+09:00",
-   "summary": "마음AI가 자사 로봇파운데이션 모델에 미래 상황을 예측하는 '월드모델'을 결합해 작업 수행 성능을 높였다. 연말까지 로봇 작업에서 사람 수준의 성능을 확보하고 산업 현장 적용도 본격화한다는 계획이다. 마음AI는 로보틱스 연구팀 WoRV가 개발한 새 로봇 파운데이션 모델 'PonderPo",
-   "tags": [
-    "AI",
-    "신기술"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "전자신문"
-  },
-  {
-   "id": "78cce2dd63ca26fe",
-   "title": "21일 걸리던 업무, 8일로…HD현대로보틱스·팔란티어 '피지컬AI' 고도화",
-   "url": "https://zdnet.co.kr/view/?no=20261101155847",
-   "published_at": "2026-11-01T15:58:47+09:00",
-   "summary": "[지디넷코리아]HD현대로보틱스가 팔란티어와 인공지능(AI) 에이전트를 활용해 현장 문제 해결에 걸리는 시간을 줄이고 로봇 프로그래밍 업무 개선에 나선다.HD현대로보틱스는 최근 미국 뉴욕에서 열린 팔란티어 '소버리니티 부트캠프'에서 피지컬 AI 적용 전략과 양사 협력 성과를 소개했다고 1",
-   "tags": [
-    "AI",
-    "신기술"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "지디넷코리아"
-  },
-  {
-   "id": "3abd6f303b5e43b1",
-   "title": "[부음] 오태석 우주항공청장 모친상",
-   "url": "https://zdnet.co.kr/view/?no=20261101155456",
-   "published_at": "2026-11-01T15:54:56+09:00",
-   "summary": "[지디넷코리아]▲이영례씨 별세, 오기오씨 아내상, 오태석(우주항공청장)·상석(세무사)·은정씨 모친상, 조경남·김은화씨 시모상, 고경석씨 장모상=1일 순창장례식장, 발인 3일 오전 8시 40분,(063)653-6644",
-   "tags": [],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "지디넷코리아"
-  },
-  {
-   "id": "dcfdc40d0269a212",
-   "title": "IQM, 54개 큐비트로 단일 얽힘 상태 구현…연산 시연도",
-   "url": "https://zdnet.co.kr/view/?no=20261101144522",
-   "published_at": "2026-11-01T15:42:57+09:00",
-   "summary": "[지디넷코리아]초전도 양자 컴퓨터 전문 기업 IQM 퀀텀 컴퓨터스(IQM, 나스닥: IQMX)가 54개 큐비트 전체를 하나의 얽힘 상태로 만들어, 동작시키는 시연에 성공했다고 1일 밝혔다.검증 시연은 클라우드로 연결된 'IQM 에메랄드' 시스템에서 이루어졌다.김영심 IQM 한국지사장은 ",
-   "tags": [],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "지디넷코리아"
-  },
-  {
-   "id": "43c516ce2e1c16f2",
-   "title": "'아이폰 듀오' 악재에도 주가는 달랐다… 애플, 엔비디아 제치고 시총 세계 1위 탈환",
-   "url": "https://www.etnews.com/20261101000098",
-   "published_at": "2026-11-01T15:36:41+09:00",
-   "summary": "애플이 엔비디아를 제치고 세계 시가총액 1위 기업 자리를 되찾았다. 인공지능(AI) 투자에 막대한 자금을 쏟아붓는 빅테크 기업들의 수익성에 대한 우려가 커지면서, 상대적으로 AI 투자 지출을 억제해 온 애플이 투자자들의 주목을 받은 것으로 풀이된다. 지난달 31일(현지시간) 블룸버그통신",
-   "tags": [
-    "휴대폰",
-    "반도체",
-    "AI"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "전자신문"
-  },
-  {
-   "id": "7001e3d58bb505ec",
-   "title": "김병필 교수 \"AI비서에 '서비스 예약' 요청, 개인정보 전송 동의 아냐\"",
-   "url": "https://zdnet.co.kr/view/?no=20261101152620",
-   "published_at": "2026-11-01T15:36:33+09:00",
-   "summary": "[지디넷코리아]김병필 한국과학기술원(KAIST) 기술경영학부 교수가 1일 \"인공지능(AI) 비서가 개인정보를 외부에 넘길 때 '예약해줘'라는 요청만으로는 동의한 것으로 볼 수는 없다\"고 말했다.김 교수는 이날 서울 서대문구 연세대 백양누리에서 열린 '제3회 모두의 토론회' 발제에서 이런",
-   "tags": [
-    "AI"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "지디넷코리아"
-  },
-  {
-   "id": "bc25d1b75bc10318",
-   "title": "\"공간·사람·자본 연결 도심 공실 스마트팜 매장 전환\"",
-   "url": "https://zdnet.co.kr/view/?no=20261101153035",
-   "published_at": "2026-11-01T15:30:35+09:00",
-   "summary": "[지디넷코리아]AI 보안·인증 플랫폼 기업 라온시큐어(대표 이순형, 이정아)가 주관한 ‘2026 블록체인&AI 해커톤’이 지난달 성황리에 막을 내렸다. 이 행사는 올해가 두번째로 글로벌디지털혁신네트워크(GDIN)가 공동 주관하고, 한국디지털인증협회가 주최, 행정안전부가 후원했다.모바일 ",
-   "tags": [
-    "AI"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "지디넷코리아"
-  },
-  {
-   "id": "b3f9141d832619ab",
-   "title": "\"내 주식 어쩌나\" 주주들 비명…빅테크들, 주주환원 '실종'",
-   "url": "https://www.hankyung.com/article/2026110183507",
-   "published_at": "2026-11-01T15:22:35+09:00",
-   "summary": "",
-   "tags": [],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "한국경제 IT"
-  },
-  {
-   "id": "dffc81c21615b9d5",
-   "title": "김도승 교수 \"개인정보 보호, 정보주체 동의에만 의존 안 돼\"",
-   "url": "https://zdnet.co.kr/view/?no=20261101145858",
-   "published_at": "2026-11-01T15:07:43+09:00",
-   "summary": "[지디넷코리아]김도승 전북대 법학전문대학원 교수가 1일 \"인공지능(AI) 시대 개인정보 보호를 정보주체의 동의에만 맡겨서는 안 된다\"라면서 \"동의를 잘 받으라고만 하는 건 국가나 사회의 책임 있는 행동이 아니다\"라고 밝혔다. 김 교수는 이날 서울 서대문구 연세대 백양누리에서 열린 '제3",
-   "tags": [
-    "AI"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "지디넷코리아"
-  },
-  {
-   "id": "935d15847ff34cee",
-   "title": "[ZD e게임] 익숙한 한국 도심이 전장으로…'콜 오브 듀티' 신작 해보니",
-   "url": "https://zdnet.co.kr/view/?no=20261101143744",
-   "published_at": "2026-11-01T15:06:02+09:00",
-   "summary": "[지디넷코리아]한국에서 다시 전쟁이 벌어진다면 어떤 모습일까. '콜 오브 듀티: 모던 워페어 4'는 북한의 남침으로 한반도에 전쟁이 발발한다는 설정을 바탕으로, 한국을 비롯해 미국과 프랑스, 인도 등 여러 지역을 오가는 이야기를 그린다. 익숙한 도시가 전쟁으로 무너지는 모습을 사실적으로",
+   "id": "ce9b792042127934",
+   "title": "웹젠, ‘뮤 테오스’ BI 공개…내년 상반기 출시 목표",
+   "url": "https://zdnet.co.kr/view/?no=20261103110043",
+   "published_at": "2026-11-03T11:10:01+09:00",
+   "summary": "[지디넷코리아]웹젠이 뮤(MU) IP 신작 ‘뮤 테오스’의 BI를 공개하고 ‘지스타2026’에서 시네마틱 티저 영상을 선보인다.웹젠은 ‘뮤 테오스’를 2027년 상반기 출시 목표로 개발 중이라고 3일 밝혔다. 최근 IBT(사내 테스트)를 진행했으며, 게임 완성도를 보완한 뒤 본격적인 서",
    "tags": [
     "게임"
    ],
@@ -756,13 +186,398 @@
    "source_name": "지디넷코리아"
   },
   {
-   "id": "cbea692920c61820",
-   "title": "한국은행, 직원 PC 장악·정보유출 가정한 모의해킹…AI 업무망 시험대",
-   "url": "https://www.etnews.com/20261030000198",
-   "published_at": "2026-11-01T15:00:00+09:00",
-   "summary": "금융권에서 해킹과 개인정보 유출 사고가 잇따르는 가운데 한국은행이 외부 해커의 직원 PC 장악부터 내부시스템 침투, 정보유출까지 가정한 모의해킹에 나선다. 인공지능(AI) 활용을 위해 망 분리 방식을 개선한 업무환경이 실제 사이버 공격에도 견딜 수 있는지 검증하기 위해서다. 금융권의 망",
+   "id": "dd4a413c98cfbe06",
+   "title": "모빌테크, 'GISC 2026'서 국가지식재산위원장 표창",
+   "url": "https://zdnet.co.kr/view/?no=20261103105006",
+   "published_at": "2026-11-03T11:04:22+09:00",
+   "summary": "[지디넷코리아]피지컬 인공지능(AI) 공간지능 인프라 기업 모빌테크는 '글로벌 정보통신기술(ICT) 표준 컨퍼런스(GISC) 2026'에서 국가지식재산위원회 위원장 표창을 받았다고 3일 밝혔다.모빌테크는 센서 캘리브레이션과 디지털트윈 기술 등을 중심으로 특허 권리망을 구축했다. 센서 캘",
    "tags": [
-    "사무기기",
+    "AI"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "지디넷코리아"
+  },
+  {
+   "id": "4546163a515f09fc",
+   "title": "'89일 대기' 아이폰 듀오 대란…\"지금 주문하면 1월 배송\"",
+   "url": "https://zdnet.co.kr/view/?no=20261103104434",
+   "published_at": "2026-11-03T11:04:13+09:00",
+   "summary": "[지디넷코리아]\"지금 주문하면 내년 1월 경에나 받을 수 있다.\"존 터너스 애플 최고경영자(CEO)가 2일(현지시간) 로이터통신과 인터뷰에서 아이폰 듀오 수요를 제대로 따라가지 못하고 있다고 밝혔다. 그는 또 \"언제 수요를 충족할 수 있을지 구체적인 일정도 정해지지 않았다\"고 덧붙였다.",
+   "tags": [
+    "휴대폰"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "지디넷코리아"
+  },
+  {
+   "id": "bcfa199bda1abf82",
+   "title": "항만업무에도 AI 활용…인천항만공사, AI 가이드라인 마련",
+   "url": "https://www.yna.co.kr/view/AKR20261103081700065",
+   "published_at": "2026-11-03T11:03:22+09:00",
+   "summary": "(인천=연합뉴스) 최은지 기자 = 인천항만공사(IPA)는 항만 업무에 걸맞은 자체 인공지능(AI) 가이드라인을 마련했다고 3일 밝혔다.",
+   "tags": [
+    "AI"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "연합뉴스 산업"
+  },
+  {
+   "id": "83535fcbf1b4196c",
+   "title": "아이비스, LG전자와 AI 기반 차세대 SDV 플랫폼 개발 착수",
+   "url": "https://zdnet.co.kr/view/?no=20261103110155",
+   "published_at": "2026-11-03T11:02:14+09:00",
+   "summary": "[지디넷코리아]아이비스(대표 남기모)가 LG전자와 함께 인공지능(AI) 기반 소프트웨어 중심 차량(SDV) 플랫폼 개발에 나선다.아이비스는 산업통상부의 자동차산업기술개발 사업 가운데 '오픈소스 기반 AI-SDV 통합 플랫폼 및 클라우드 가상 검증환경' 과제에 공동연구개발기관으로 참여한다",
+   "tags": [
+    "가전",
+    "AI"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "지디넷코리아"
+  },
+  {
+   "id": "81363e2ff90bacb2",
+   "title": "한화이센셜, 유리기판 사업 '고삐'…인력채용·핵심 공정 개발 나서",
+   "url": "https://zdnet.co.kr/view/?no=20261103092709",
+   "published_at": "2026-11-03T11:02:03+09:00",
+   "summary": "[지디넷코리아]한화그룹 내 정밀소재·부품기업 한화이센셜이 유리 코어 기판(이하 유리기판)을 회사의 차세대 성장동력으로 낙점했다. 최근 유리기판의 핵심 공정 개발을 총괄할 인력 채용에 나선 것으로 3일 파악됐다.유리기판은 반도체 기판에 주로 쓰이던 유기 소재를 유리로 대체해 전력 효율성 ",
+   "tags": [
+    "반도체",
+    "신기술"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "지디넷코리아"
+  },
+  {
+   "id": "8dfa38652bb51cfc",
+   "title": "메가존클라우드, KAIST '카이로스 37' 산업 현장 적용 나선다",
+   "url": "https://zdnet.co.kr/view/?no=20261103110113",
+   "published_at": "2026-11-03T11:01:54+09:00",
+   "summary": "[지디넷코리아]메가존클라우드가 한국과학기술원(KAIST)과 손잡고 피지컬 인공지능(AI) 기술 산업 현장 확산과 글로벌 시장 진출에 나선다. 제조 환경에 맞춘 기술 표준화와 공동 사업모델 개발을 추진하고 연구·실증 단계에 머물던 기술을 실제 사업화로 연결한다는 목표다.메가존클라우드는 K",
+   "tags": [
+    "AI"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "지디넷코리아"
+  },
+  {
+   "id": "bc8cd15654cf2096",
+   "title": "[AI 고속도로] GPU 투자 부담 커지자 네오클라우드 회의론 확산…韓 기업도 시험대",
+   "url": "https://zdnet.co.kr/view/?no=20261103103314",
+   "published_at": "2026-11-03T11:01:54+09:00",
+   "summary": "[지디넷코리아]인공지능(AI) 인프라 투자 열풍을 타고 급성장한 네오클라우드 산업을 둘러싸고 회의론이 확산하고 있다. 고성능 그래픽처리장치(GPU) 확보와 데이터센터 구축에 막대한 자금이 투입되고 있지만, 투자 규모에 걸맞은 수익을 창출할 수 있을지 의문이 커지는 모습이다. 국내에서도 ",
+   "tags": [
+    "AI"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "지디넷코리아"
+  },
+  {
+   "id": "d7ad79610e9c532d",
+   "title": "게임대상 표심 잡기 나선 게임사들…대국민 투표 참여 독려",
+   "url": "https://zdnet.co.kr/view/?no=20261103105848",
+   "published_at": "2026-11-03T11:01:10+09:00",
+   "summary": "[지디넷코리아]'2026 대한민국 게임대상' 시상식을 앞두고 주요 게임사가 대국민 투표 참여 독려에 나섰다. 본상과 인기게임상 수상작 선정에 대국민 투표 결과가 직접 반영되는 만큼, 자사 게임 후보 선정 소식을 알리고 이용자 표심을 모으려는 행보다.이번 온라인 투표는 게임대상 향방을 가",
+   "tags": [
+    "게임"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "지디넷코리아"
+  },
+  {
+   "id": "dfbcb0aedbae8bb8",
+   "title": "키글, 오리지널 IP '코코비' 누적 매출 200억원 기록",
+   "url": "https://zdnet.co.kr/view/?no=20261103105653",
+   "published_at": "2026-11-03T11:00:55+09:00",
+   "summary": "[지디넷코리아]키글은 자사 오리지널 IP 코코비를 활용한 자체 사업화 매출이 누적 200억원을 기록했다고 3일 밝혔다.키글은 수출 비중이 전체 90% 이상으로 대부분 매출은 해외에서 발생했다고 설명했다. 수출 주요 국가는 미국, 브라질, 멕시코, 일본, 인도네시아 등이다.키글은 코코비를",
+   "tags": [],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "지디넷코리아"
+  },
+  {
+   "id": "76b8c506414b66fe",
+   "title": "부천시, 돔구장 유치 속도…상동엔 AI 콤팩트시티 추진",
+   "url": "https://www.yna.co.kr/view/AKR20261103043300065",
+   "published_at": "2026-11-03T11:00:07+09:00",
+   "summary": "(부천=연합뉴스) 강종구 기자 = 경기도 부천시가 부천종합운동장 일원에 돔구장 유치를 추진하고 상동 옛 영상문화단지에는 인공지능(AI)·콘텐츠 ...",
+   "tags": [
+    "AI"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "연합뉴스 산업"
+  },
+  {
+   "id": "8b00f6ef4469a26d",
+   "title": "엔씨 '리니지M', 한국광고학회 '2026 올해의 브랜드상' 수상",
+   "url": "https://zdnet.co.kr/view/?no=20261103105427",
+   "published_at": "2026-11-03T10:54:27+09:00",
+   "summary": "[지디넷코리아]엔씨 '리니지M'이 이용자의 추억을 담은 브랜드 캠페인으로 한국광고학회 '2026 올해의 브랜드상'을 받았다.엔씨는 부산 파라다이스 호텔에서 열린 한국광고학회 가을철 정기학술대회에서 이 상을 수상했다고 3일 밝혔다. 지난달 30일 진행된 시상식에는 이지구 엔씨 리니지 IP",
+   "tags": [],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "지디넷코리아"
+  },
+  {
+   "id": "057776299820f8f5",
+   "title": "나무AX, 한국산업기술시험원에 AI 개발 솔루션 공급…공공시장 공략",
+   "url": "https://zdnet.co.kr/view/?no=20261103105408",
+   "published_at": "2026-11-03T10:54:22+09:00",
+   "summary": "[지디넷코리아]나무AX가 한국산업기술시험원(KTL)의 인공지능(AI) 개발환경 구축 사업에 자체 소프트웨어(SW)를 공급하며 공공 AI 인프라 시장 공략에 나섰다. 그래픽처리장치(GPU) 자원 관리와 AI 모델 운영 기술을 바탕으로 공공 연구기관 AI 개발 효율을 높인다는 목표다.나무A",
+   "tags": [
+    "AI"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "지디넷코리아"
+  },
+  {
+   "id": "7fb7a1477d440edf",
+   "title": "티빙, 아시아 프로야구 챔피언십 전 경기 독점 생중계",
+   "url": "https://zdnet.co.kr/view/?no=20261103105325",
+   "published_at": "2026-11-03T10:53:25+09:00",
+   "summary": "[지디넷코리아]티빙이 오는 12일부터 15일까지 일본 도쿄돔에서 열리는 '2026 아시아 프로야구 챔피언십(APBC)' 전 경기를 디지털 독점 생중계한다. 한국과 일본, 대만, 호주 4개국의 젊은 야구 선수들이 맞붙는 대회다.가장 관심을 모으는 경기는 13일 오후 7시 열리는 한일전이다",
+   "tags": [],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "지디넷코리아"
+  },
+  {
+   "id": "3ccf0029dea11b2e",
+   "title": "데이원컴퍼니, 기업 AX 지원 '데이원 AX' 출범…'AI 네이티브' 지향",
+   "url": "https://zdnet.co.kr/view/?no=20261103102104",
+   "published_at": "2026-11-03T10:50:20+09:00",
+   "summary": "[지디넷코리아]데이원컴퍼니는 산하 독립 조직인 '데이원 AI 디플로이먼트 컴퍼니'를 통해 인공지능(AI) 기술 구축과 기업교육 역량을 결합한 기업 AI 전환(AX) 통합 서비스 브랜드 '데이원 AX'를 마련했다고 3일 밝혔다.새 브랜드의 운영을 위해 데이원컴퍼니는 약 140명의 전문 인",
+   "tags": [
+    "AI"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "지디넷코리아"
+  },
+  {
+   "id": "298d96b67a1c7917",
+   "title": "비비드, AI 영상 공모전 접수...리센느·럭키짱 캐릭터 쓴다",
+   "url": "https://zdnet.co.kr/view/?no=20261103104544",
+   "published_at": "2026-11-03T10:49:09+09:00",
+   "summary": "[지디넷코리아]AI 영상 제작 플랫폼 비비드는 AI 영상 공모전 리플레이(RE:PLAY) 접수를 진행한다고 3일 밝혔다.공모전은 원작 캐릭터와 이야기를 창작자 시선으로 다시 풀어내는 것으로, AI 영상 제작에 관심 있는 사람이면 누구나 참여할 수 있다. 접수는 오는 12월13일까지다.비",
+   "tags": [
+    "AI"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "지디넷코리아"
+  },
+  {
+   "id": "8ab65c4615fd8e97",
+   "title": "답변 넘어 업무 실행까지…베스핀글로벌, 기업용 AI 에이전트 '헬프나우 컴퓨터' 공개",
+   "url": "https://zdnet.co.kr/view/?no=20261103104737",
+   "published_at": "2026-11-03T10:48:02+09:00",
+   "summary": "[지디넷코리아]베스핀글로벌이 단순 질의응답을 넘어 기업 업무를 직접 수행하는 인공지능(AI) 에이전트를 선보였다. 문서 작성과 데이터 분석부터 사내 시스템 조작까지 자동화하고 기업 환경에 맞춘 보안·실행 통제 기능을 제공해 업무 현장 AI 활용을 확대한다는 목표다.베스핀글로벌은 실행형 ",
+   "tags": [
+    "AI"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "지디넷코리아"
+  },
+  {
+   "id": "a9fa0aa6277527b5",
+   "title": "보이스피싱 방지·연구행정 부담 완화 공무원 4명 특별 포상",
+   "url": "https://zdnet.co.kr/view/?no=20261103104540",
+   "published_at": "2026-11-03T10:45:40+09:00",
+   "summary": "[지디넷코리아]과학기술정보통신부는 3일 특별성과 포상 대상자 4명에 대한 시상식을 개최했다.특별성과 포상은 탁월한 성과를 창출한 공무원을 선정, 공직사회 도전과 혁신을 장려하기 위해 시행 중이다. 수상자에게 과기정통부 부총리 표창과 함께 포항금으로 주공적자 1000만원, 부공적자 350",
+   "tags": [],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "지디넷코리아"
+  },
+  {
+   "id": "90dea69385b16470",
+   "title": "삼성, 17인치 폴더블 태블릿 내놓나…\"접으면 8인치\"",
+   "url": "https://zdnet.co.kr/view/?no=20261103095147",
+   "published_at": "2026-11-03T10:44:20+09:00",
+   "summary": "[지디넷코리아]삼성전자가 화면을 펼치면 17인치에 달하는 초대형 폴더블 태블릿을 개발 중이라는 소식이 나왔다고 IT매체 폰아레나가 2일(현지시간) 보도했다.IT 팁스터 @kro_roe는 엑스(X)를 통해 “현재 17인치 폴더블 태블릿이 개발되고 있다”며 “접었을 때는 8인치 태블릿 크기",
+   "tags": [
+    "휴대폰",
+    "가전",
+    "사무기기"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "지디넷코리아"
+  },
+  {
+   "id": "19c08569073d7f20",
+   "title": "LG엔솔, 3분기 매출 역대 최대…ESS·전기차 물량 증가",
+   "url": "https://zdnet.co.kr/view/?no=20261103101720",
+   "published_at": "2026-11-03T10:42:58+09:00",
+   "summary": "[지디넷코리아]LG에너지솔루션이 에너지저장장치(ESS), 전기차(EV) 등 배터리 수요 증가에 힘입어 역대 최대 분기 매출을 달성했다.LG에너지솔루션은 3일 오전 실적설명회를 열고 올해 3분기 매출 9조 6434억원, 영업이익 7560억원을 달성했다고 밝혔다.매출은 전년 동기 대비 59",
+   "tags": [],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "지디넷코리아"
+  },
+  {
+   "id": "4436f725ec2772fa",
+   "title": "수능 한 달 앞두고 \"선생님 구해요\"…강남·목동 제친 동네",
+   "url": "https://www.hankyung.com/article/202611032247i",
+   "published_at": "2026-11-03T10:36:34+09:00",
+   "summary": "",
+   "tags": [],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "한국경제 IT"
+  },
+  {
+   "id": "b4555b037ef2d85a",
+   "title": "SOOP·컴투스홀딩스, 스트리머 IP 활용 게임 개발한다",
+   "url": "https://www.hankyung.com/article/202611032227i",
+   "published_at": "2026-11-03T10:08:20+09:00",
+   "summary": "",
+   "tags": [
+    "게임"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "한국경제 IT"
+  },
+  {
+   "id": "c4f5bdbf3bed29f2",
+   "title": "“삼성바이오로직스, 외형 성장에도 수익성 부담…5공장 수주가 관건”",
+   "url": "https://www.hankyung.com/article/202611020535i",
+   "published_at": "2026-11-03T10:00:12+09:00",
+   "summary": "",
+   "tags": [],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "한국경제 IT"
+  },
+  {
+   "id": "507a7830f7796bef",
+   "title": "애플, 분기 매출 154조원 역대 최대…가격인상 효과",
+   "url": "https://www.etnews.com/20261103000049",
+   "published_at": "2026-11-03T09:33:27+09:00",
+   "summary": "애플이 메모리 반도체 가격 급등에도 분기 기준 역대 최대 매출을 기록했다. 아이폰과 맥 판매가 늘어난데다 제품 가격 인상으로 메모리 원가 상승분을 상쇄했다. 애플은 2일(현지시간) 2026회계연도 4분기(7~9월) 매출이 1144억7700만달러(약 154조원)로 전년 동기대비 12% 증",
+   "tags": [
+    "휴대폰",
+    "반도체",
+    "신기술"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "전자신문"
+  },
+  {
+   "id": "548e9ad75757b807",
+   "title": "“에이프릴바이오, 2027년 임상 모멘텀 본격화…새 기술수출도 기대”",
+   "url": "https://www.hankyung.com/article/202611032027i",
+   "published_at": "2026-11-03T09:32:19+09:00",
+   "summary": "",
+   "tags": [],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "한국경제 IT"
+  },
+  {
+   "id": "bffac8c4b3f89339",
+   "title": "삼성바이오, 4300억원짜리 계약 또 따냈다",
+   "url": "https://www.hankyung.com/article/202611031981i",
+   "published_at": "2026-11-03T09:26:45+09:00",
+   "summary": "",
+   "tags": [],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "한국경제 IT"
+  },
+  {
+   "id": "a0ce8665dc968680",
+   "title": "[Bio News Up-To-Date] 국내에서 일어난 바이오산업 관련 소식 업데이트",
+   "url": "https://www.hankyung.com/article/202610306182i",
+   "published_at": "2026-11-03T09:04:16+09:00",
+   "summary": "",
+   "tags": [],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "한국경제 IT"
+  },
+  {
+   "id": "c46c8f70ab1535fe",
+   "title": "[Monthly Figures] 숫자로 보는 제약·바이오산업 주요 이슈와 트렌드",
+   "url": "https://www.hankyung.com/article/202610306173i",
+   "published_at": "2026-11-03T09:02:22+09:00",
+   "summary": "",
+   "tags": [],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "한국경제 IT"
+  },
+  {
+   "id": "5950199f2461534d",
+   "title": "[Editor's Letter]치매 신약 키우는 토양",
+   "url": "https://www.hankyung.com/article/202610306088i",
+   "published_at": "2026-11-03T09:01:05+09:00",
+   "summary": "",
+   "tags": [],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "한국경제 IT"
+  },
+  {
+   "id": "575ff0d61ba43bac",
+   "title": "석 달 새 두 배 급등…'해킹 공포'에 뜬 지니언스, 더 오를까",
+   "url": "https://www.hankyung.com/article/202611029692i",
+   "published_at": "2026-11-03T09:00:12+09:00",
+   "summary": "",
+   "tags": [],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "한국경제 IT"
+  },
+  {
+   "id": "4f4dc29921200dbb",
+   "title": "AI 투자에 돈 쏟는 빅테크…구글·메타, 수십조원 채권 발행 추진",
+   "url": "https://www.etnews.com/20261103000012",
+   "published_at": "2026-11-03T08:51:58+09:00",
+   "summary": "글로벌 빅테크 기업들이 인공지능(AI) 인프라 투자 재원 확보를 위해 대규모 채권 발행에 나섰다. 구글 모회사 알파벳이 60억유로(약 9조원) 규모 채권 발행을 추진하고, 메타도 최소 200억달러(약 26조9000억원) 조달을 검토한다. AI 투자 수익성에 대한 시장 우려가 커지고 있지",
+   "tags": [
     "AI"
    ],
    "metrics": {},
@@ -771,46 +586,216 @@
    "source_name": "전자신문"
   },
   {
-   "id": "8edea6c28eb8f664",
-   "title": "\"모바일 신분증으로 본인·보호자·사회복지사 권한 및 동의·위임 검증\"",
-   "url": "https://zdnet.co.kr/view/?no=20261101144548",
-   "published_at": "2026-11-01T14:45:48+09:00",
-   "summary": "[지디넷코리아]AI 보안·인증 플랫폼 기업 라온시큐어(대표 이순형, 이정아)가 주관한 ‘2026 블록체인&AI 해커톤’이 지난달 성황리에 막을 내렸다. 이 행사는 올해가 두번째로 글로벌디지털혁신네트워크(GDIN)가 공동 주관하고, 한국디지털인증협회가 주최, 행정안전부가 후원했다.모바일 ",
-   "tags": [
-    "AI"
-   ],
+   "id": "4473bbccb4bb9871",
+   "title": "갤럭스, 신용보증기금 '프리아이콘' 선정 … 최대 70억원 보증 지원 확보",
+   "url": "https://www.hankyung.com/article/202611031823i",
+   "published_at": "2026-11-03T08:48:59+09:00",
+   "summary": "",
+   "tags": [],
    "metrics": {},
    "is_new": true,
    "streak_days": 1,
-   "source_name": "지디넷코리아"
+   "source_name": "한국경제 IT"
   },
   {
-   "id": "3a1f3833b9f073b1",
-   "title": "\"한 번 설정으로 AI 학습 거부\"…오픈AI·구글·MS·앤트로픽 동참",
-   "url": "https://zdnet.co.kr/view/?no=20261101134510",
-   "published_at": "2026-11-01T14:44:35+09:00",
-   "summary": "[지디넷코리아]앞으로 웹사이트 운영자가 설정 한번 만으로 주요 인공지능(AI) 기업에 콘텐츠 학습 거부 의사를 전달할 수 있게 된다.그동안 AI 기업마다 별도의 크롤러 차단 규칙을 설정해야 했지만 앞으로는 공통 규칙을 적용해 여러 기업에 한꺼번에 학습 거부 의사를 표시할 수 있다.1일 ",
-   "tags": [
-    "AI"
-   ],
+   "id": "800172f9a49e292c",
+   "title": "GC녹십자 \"국민성장펀드 자금조달 승인 … 미국향 20% SCIG 개발 속도\"",
+   "url": "https://www.hankyung.com/article/202611031805i",
+   "published_at": "2026-11-03T08:45:47+09:00",
+   "summary": "",
+   "tags": [],
    "metrics": {},
    "is_new": true,
    "streak_days": 1,
-   "source_name": "지디넷코리아"
+   "source_name": "한국경제 IT"
   },
   {
-   "id": "36d1bbc4ff79b7f5",
-   "title": "이해민 청와대 AI수석 \"개인정보 안전·신뢰가 혁신 기반\"",
-   "url": "https://zdnet.co.kr/view/?no=20261101142653",
-   "published_at": "2026-11-01T14:32:57+09:00",
-   "summary": "[지디넷코리아]이해민 청와대 AI미래기획수석이 1일 \"(개인정보 분야) 안전과 신뢰는 혁신의 속도를 늦추는 장벽이 아니라 혁신이 더 멀리 나갈 수 있도록 하는 기반\"이라고 말했다.이 수석은 행정안전부와 개인정보보호위원회가 이날 서울 서대문구 연세대 백양누리에서 개최한 제3회 '모두의 토",
+   "id": "9f02e7ed678e56b9",
+   "title": "대웅제약, 발리서 글로벌 KOL 서밋 개최… 나보타의 미래 강조",
+   "url": "https://www.hankyung.com/article/202611031787i",
+   "published_at": "2026-11-03T08:43:02+09:00",
+   "summary": "",
+   "tags": [],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "한국경제 IT"
+  },
+  {
+   "id": "2f5691e61a0bc28f",
+   "title": "스카이랩스 \"보령과 우주의학 시장 진출 ... AI 의료 데이터 플랫폼 우주로 확장\"",
+   "url": "https://www.hankyung.com/article/202611031709i",
+   "published_at": "2026-11-03T08:38:34+09:00",
+   "summary": "",
    "tags": [
     "AI"
    ],
    "metrics": {},
    "is_new": true,
    "streak_days": 1,
-   "source_name": "지디넷코리아"
+   "source_name": "한국경제 IT"
+  },
+  {
+   "id": "c9ea762c2e1de59b",
+   "title": "아리바이오 \"글로벌 3상 발표 앞둔 AR1001 일본 특허 확보\"",
+   "url": "https://www.hankyung.com/article/202611031699i",
+   "published_at": "2026-11-03T08:24:49+09:00",
+   "summary": "",
+   "tags": [],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "한국경제 IT"
+  },
+  {
+   "id": "5f1ef62b0fec9e3c",
+   "title": "젬백스, 신경퇴행성 뇌질환 권위자 이재홍 박사 CMO 영입",
+   "url": "https://www.hankyung.com/article/202611031660i",
+   "published_at": "2026-11-03T08:09:39+09:00",
+   "summary": "",
+   "tags": [],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "한국경제 IT"
+  },
+  {
+   "id": "993b8afb7224edef",
+   "title": "애플 \"메모리값 전례 없는 수준\"…호실적에도 시간외 4% 급락",
+   "url": "https://www.hankyung.com/article/202611031658i",
+   "published_at": "2026-11-03T08:07:19+09:00",
+   "summary": "",
+   "tags": [],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "한국경제 IT"
+  },
+  {
+   "id": "e2a2fb1dcb6907e9",
+   "title": "Apple is ‘not able to predict’ when it’ll have enough iPhone Duos to go around",
+   "url": "https://www.theverge.com/tech/1024915/apple-iphone-duo-supply-chain-constraints",
+   "published_at": "2026-11-03T07:56:11+09:00",
+   "summary": "Apple CEO John Ternus doesn't have a timeline for when iPhone Duo supply constraints could lift. During an interview with Reuters, Ternus said the company is \"w",
+   "tags": [
+    "휴대폰"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "The Verge"
+  },
+  {
+   "id": "9b87cfc2f608b44a",
+   "title": "애플 3분기 매출 11.7% 증가…메모리난에 영업이익률은 하락",
+   "url": "https://www.hankyung.com/article/202611031566i",
+   "published_at": "2026-11-03T07:19:19+09:00",
+   "summary": "",
+   "tags": [],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "한국경제 IT"
+  },
+  {
+   "id": "b1dffed829693822",
+   "title": "Apple set an iPhone sales record even without a new standard iPhone",
+   "url": "https://www.theverge.com/tech/1024748/apple-q4-2026-iphone-sales-earnings",
+   "published_at": "2026-11-03T07:02:36+09:00",
+   "summary": "Apple had a record-breaking quarter for iPhone sales - despite not releasing a standard model during its latest refresh. In its fourth-quarter earnings report r",
+   "tags": [
+    "휴대폰"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "The Verge"
+  },
+  {
+   "id": "b47c840554612ad2",
+   "title": "Meta will end Quest 2 OS updates in 2027",
+   "url": "https://www.theverge.com/tech/1024835/meta-vr-quest-2-pro-os-end-updates",
+   "published_at": "2026-11-03T06:04:20+09:00",
+   "summary": "Meta is planning to release the last OS update for its Quest 2 and Quest Pro VR headsets by March 2027, the company announced today. The last OS update for thos",
+   "tags": [],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "The Verge"
+  },
+  {
+   "id": "032fff4b0b59bf3a",
+   "title": "주름은 피부과, 턱선은 집에서, 기기는 중고·렌탈로…부쩍 관심 늘어난 '피부 관리' [키워드랩]",
+   "url": "https://www.hankyung.com/article/202611020332g",
+   "published_at": "2026-11-03T06:00:46+09:00",
+   "summary": "",
+   "tags": [],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "한국경제 IT"
+  },
+  {
+   "id": "2c2cc89648ad022c",
+   "title": "전기톱 들고 나무 자르는 '철도 로봇'",
+   "url": "https://www.etnews.com/20261102000411",
+   "published_at": "2026-11-03T06:00:00+09:00",
+   "summary": "전기톱을 든 인간형 로봇이 일본 철도 유지보수 현장에 투입되고 있습니다. 일본 철도회사 JR동일본은 최근 나가노현 고우미선 노베야마역 인근에서 인간형 로봇 'ZIZAI ZX-3'을 이용해 선로 주변 나뭇가지를 제거하는 작업을 공개했습니다. 로봇은 한쪽 팔의 집게로 나뭇가지를 잡고 다른 ",
+   "tags": [
+    "신기술"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "전자신문"
+  },
+  {
+   "id": "6e1e33600ad399d8",
+   "title": "One of Google’s Android partners turned 1.3 million set-top boxes into a botnet",
+   "url": "https://www.theverge.com/1024807/google-botnet-android-tv-shut-down",
+   "published_at": "2026-11-03T05:37:49+09:00",
+   "summary": "Google says one of its Android manufacturing partners secretly built a backdoor in 1.3 million devices and turned them into a botnet. The company says it has no",
+   "tags": [],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "The Verge"
+  },
+  {
+   "id": "3d15f21ee05aa6b0",
+   "title": "BMW is taking on Tesla’s FSD with urban driver assist starting in 2027",
+   "url": "https://www.theverge.com/transportation/1024616/bmw-level-2-city-driver-assist-2027",
+   "published_at": "2026-11-03T05:03:52+09:00",
+   "summary": "BMW says that it will expand its navigation-guided, partially automated driving capabilities into urban environments starting in 2027, launching first in German",
+   "tags": [],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "The Verge"
+  },
+  {
+   "id": "3b566659fe8ffb5d",
+   "title": "The Apple Watch Ultra 4 is $100 off, matching its best price to date",
+   "url": "https://www.theverge.com/gadgets/1024416/apple-watch-ultra-4-ugreen-finetrack-2-bluetooth-tracker-deal-sale",
+   "published_at": "2026-11-03T04:24:09+09:00",
+   "summary": "The Apple Watch Ultra 4 is the company’s most capable smartwatch. Whether you intend to put its many tracking features to the test, or you simply want the longe",
+   "tags": [],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "The Verge"
+  },
+  {
+   "id": "8501e7fca78342af",
+   "title": "Ford promises not to sell your driving habits to data brokers",
+   "url": "https://www.theverge.com/transportation/1024386/ford-customer-driving-data-privacy-promise-data-brokers",
+   "published_at": "2026-11-03T04:05:46+09:00",
+   "summary": "Ford vowed to never sell customer driving data to third-party data brokers as part of a new privacy promise aimed at setting the automaker apart from competitor",
+   "tags": [],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "The Verge"
   }
  ],
  "status": {
