@@ -1,6 +1,6 @@
 {
- "built_at": "2026-11-03T11:57:27+09:00",
- "date": "2026-11-03",
+ "built_at": "2026-11-04T10:29:03+09:00",
+ "date": "2026-11-04",
  "site": {
   "title": "모닝브리프",
   "locations": [
@@ -55,7 +55,7 @@
    "count": 7,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-11-03T11:56:58+09:00",
+   "fetched_at": "2026-11-04T10:28:29+09:00",
    "repeat_ratio": 0.857
   },
   "fx": {
@@ -63,7 +63,7 @@
    "count": 3,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-11-03T11:56:58+09:00",
+   "fetched_at": "2026-11-04T10:28:29+09:00",
    "repeat_ratio": 1.0
   },
   "news": {
@@ -71,7 +71,7 @@
    "count": 135,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-11-03T11:57:07+09:00",
+   "fetched_at": "2026-11-04T10:28:40+09:00",
    "repeat_ratio": 0.0
   },
   "markets": {
@@ -79,7 +79,7 @@
    "count": 5,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-11-03T11:57:08+09:00",
+   "fetched_at": "2026-11-04T10:28:40+09:00",
    "repeat_ratio": 1.0
   },
   "crypto": {
@@ -87,106 +87,107 @@
    "count": 10,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-11-03T11:57:11+09:00",
-   "repeat_ratio": 1.0
+   "fetched_at": "2026-11-04T10:28:44+09:00",
+   "repeat_ratio": 0.9
   },
   "realestate": {
    "level": "warn",
-   "count": 21,
+   "count": 25,
    "warn": [
     "LH·온비드 공공데이터 API: 키 없음(DATA_GO_KR_KEY) — 뉴스·바로가기만"
    ],
    "block": [],
-   "fetched_at": "2026-11-03T11:57:16+09:00",
-   "repeat_ratio": 0.19
+   "fetched_at": "2026-11-04T10:28:48+09:00",
+   "repeat_ratio": 0.12
   },
   "it": {
    "level": "ok",
    "count": 60,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-11-03T11:57:18+09:00",
+   "fetched_at": "2026-11-04T10:28:51+09:00",
    "repeat_ratio": 0.0
   },
   "auto": {
    "level": "warn",
    "count": 60,
    "warn": [
-    "어제와 동일 52%"
+    "어제와 동일 62%"
    ],
    "block": [],
-   "fetched_at": "2026-11-03T11:57:22+09:00",
-   "repeat_ratio": 0.517
+   "fetched_at": "2026-11-04T10:28:55+09:00",
+   "repeat_ratio": 0.617
   },
   "publicdata": {
    "level": "ok",
    "count": 8,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-11-03T11:57:25+09:00",
+   "fetched_at": "2026-11-04T10:28:56+09:00",
    "repeat_ratio": 1.0
   },
   "leisure": {
    "level": "warn",
    "count": 30,
    "warn": [
-    "고캠핑 API: 키 없음(DATA_GO_KR_KEY)"
+    "고캠핑 API: 키 없음(DATA_GO_KR_KEY)",
+    "어제와 동일 70%"
    ],
    "block": [],
-   "fetched_at": "2026-11-03T11:57:27+09:00",
-   "repeat_ratio": 0.2
+   "fetched_at": "2026-11-04T10:29:03+09:00",
+   "repeat_ratio": 0.7
   }
  },
  "must_know": [
   {
    "module": "news",
    "item_ids": [
-    "45f4cecbc3fcbf8c"
+    "8cfdbadb485c8086"
    ],
-   "title": "반도체·배터리 일자리 들어선다…대기업 배후 주거지 분양 잇따라",
-   "url": "https://www.hankyung.com/article/202611032325i",
-   "why": "매체 1곳 · IT·부동산·신기술",
+   "title": "[속보] 합참 “북, 동해상으로 미상 발사체 발사”",
+   "url": "https://www.hani.co.kr/arti/politics/defense/1285675.html",
+   "why": "매체 4곳",
+   "score": 13
+  },
+  {
+   "module": "news",
+   "item_ids": [
+    "fc414546bb3c0469"
+   ],
+   "title": "[속보] 김민석 “가상자산 소득 과세 유예, 정부에 공식 제안”",
+   "url": "https://www.hani.co.kr/arti/politics/politics_general/1285684.html",
+   "why": "매체 3곳",
    "score": 10
   },
   {
    "module": "news",
    "item_ids": [
-    "b93952a3fd6995cb"
+    "257d37a07ab96223"
    ],
-   "title": "경기도경제과학진흥원 직원 ‘93%’가 AI 쓴다…반복업무 줄이고 기업지원에 ‘올인’",
-   "url": "https://www.mk.co.kr/news/society/12194587",
-   "why": "매체 1곳 · AI·IT·경제",
+   "title": "앤스로픽 “5조원 수혈”… 빅테크 자금줄 된 일본",
+   "url": "https://www.chosun.com/economy/tech_it/2026/11/04/R5X4Z66B25FXVK5XQFUQFG3XSM/",
+   "why": "매체 1곳 · AI·IT·국제",
    "score": 10
   },
   {
    "module": "news",
    "item_ids": [
-    "b6cf04cd7cacbf22"
+    "907814300dcc6aa1"
    ],
-   "title": "삼전닉스 주가 하락… 매수 기회로 삼는 초고수 [주식 초고수는 지금]",
-   "url": "https://www.mk.co.kr/news/stock/12194565",
-   "why": "매체 1곳 · IT·신기술·자동차",
+   "title": "“차량 기술→로봇 적용”…아우모비오코리아, 스타트업 협업 성과 공유",
+   "url": "https://www.mk.co.kr/news/business/12196100",
+   "why": "매체 1곳 · AI·IT·신기술",
    "score": 9
   },
   {
    "module": "news",
    "item_ids": [
-    "5d1cd3ace73c0eea"
+    "076be7f3e348ca38"
    ],
-   "title": "“아이팟에 총까지 쐈는데”…메모리값 폭등에 애플도 이익률 하락",
-   "url": "https://www.donga.com/news/Inter/article/all/20261103/134956015/2",
-   "why": "매체 1곳 · AI·IT·신기술",
+   "title": "텅스텐은 왜 질화티타늄 위에서 고르게 자랄까···반도체 공정 비밀 풀었다",
+   "url": "https://www.khan.co.kr/article/202611041005001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "why": "매체 1곳 · IT·신기술",
    "score": 8
-  },
-  {
-   "module": "crypto",
-   "item_ids": [
-    "57aa32c31d992222"
-   ],
-   "title": "Hyperliquid (HYPE) ₩111,662",
-   "url": "https://www.coingecko.com/en/coins/hyperliquid",
-   "why": "큰 변동 · 24시간 -5.22% · 7일 +6.90% · 시총 10위 · 이슈: 비트 코인 (BTC), 7만 8,000달러 탈환 시동...이번 주 거시 ",
-   "score": 0
   }
  ],
  "banned_hits": 0
