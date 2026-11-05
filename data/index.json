@@ -1,6 +1,6 @@
 {
- "built_at": "2026-11-04T10:29:03+09:00",
- "date": "2026-11-04",
+ "built_at": "2026-11-05T10:30:34+09:00",
+ "date": "2026-11-05",
  "site": {
   "title": "모닝브리프",
   "locations": [
@@ -55,7 +55,7 @@
    "count": 7,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-11-04T10:28:29+09:00",
+   "fetched_at": "2026-11-05T10:29:55+09:00",
    "repeat_ratio": 0.857
   },
   "fx": {
@@ -63,7 +63,7 @@
    "count": 3,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-11-04T10:28:29+09:00",
+   "fetched_at": "2026-11-05T10:29:56+09:00",
    "repeat_ratio": 1.0
   },
   "news": {
@@ -71,7 +71,7 @@
    "count": 135,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-11-04T10:28:40+09:00",
+   "fetched_at": "2026-11-05T10:30:03+09:00",
    "repeat_ratio": 0.0
   },
   "markets": {
@@ -79,7 +79,7 @@
    "count": 5,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-11-04T10:28:40+09:00",
+   "fetched_at": "2026-11-05T10:30:03+09:00",
    "repeat_ratio": 1.0
   },
   "crypto": {
@@ -87,43 +87,43 @@
    "count": 10,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-11-04T10:28:44+09:00",
-   "repeat_ratio": 0.9
+   "fetched_at": "2026-11-05T10:30:19+09:00",
+   "repeat_ratio": 1.0
   },
   "realestate": {
    "level": "warn",
-   "count": 25,
+   "count": 27,
    "warn": [
     "LH·온비드 공공데이터 API: 키 없음(DATA_GO_KR_KEY) — 뉴스·바로가기만"
    ],
    "block": [],
-   "fetched_at": "2026-11-04T10:28:48+09:00",
-   "repeat_ratio": 0.12
+   "fetched_at": "2026-11-05T10:30:23+09:00",
+   "repeat_ratio": 0.111
   },
   "it": {
    "level": "ok",
    "count": 60,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-11-04T10:28:51+09:00",
+   "fetched_at": "2026-11-05T10:30:26+09:00",
    "repeat_ratio": 0.0
   },
   "auto": {
    "level": "warn",
    "count": 60,
    "warn": [
-    "어제와 동일 62%"
+    "어제와 동일 72%"
    ],
    "block": [],
-   "fetched_at": "2026-11-04T10:28:55+09:00",
-   "repeat_ratio": 0.617
+   "fetched_at": "2026-11-05T10:30:29+09:00",
+   "repeat_ratio": 0.717
   },
   "publicdata": {
    "level": "ok",
    "count": 8,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-11-04T10:28:56+09:00",
+   "fetched_at": "2026-11-05T10:30:32+09:00",
    "repeat_ratio": 1.0
   },
   "leisure": {
@@ -131,63 +131,63 @@
    "count": 30,
    "warn": [
     "고캠핑 API: 키 없음(DATA_GO_KR_KEY)",
-    "어제와 동일 70%"
+    "어제와 동일 60%"
    ],
    "block": [],
-   "fetched_at": "2026-11-04T10:29:03+09:00",
-   "repeat_ratio": 0.7
+   "fetched_at": "2026-11-05T10:30:34+09:00",
+   "repeat_ratio": 0.6
   }
  },
  "must_know": [
   {
    "module": "news",
    "item_ids": [
-    "8cfdbadb485c8086"
+    "59c7b58d99a25831"
    ],
-   "title": "[속보] 합참 “북, 동해상으로 미상 발사체 발사”",
-   "url": "https://www.hani.co.kr/arti/politics/defense/1285675.html",
-   "why": "매체 4곳",
-   "score": 13
-  },
-  {
-   "module": "news",
-   "item_ids": [
-    "fc414546bb3c0469"
-   ],
-   "title": "[속보] 김민석 “가상자산 소득 과세 유예, 정부에 공식 제안”",
-   "url": "https://www.hani.co.kr/arti/politics/politics_general/1285684.html",
-   "why": "매체 3곳",
+   "title": "월간 경상흑자 600억달러 사상 첫 돌파…반도체 수출 260% ‘껑충’",
+   "url": "https://www.khan.co.kr/article/202611050818001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "why": "매체 1곳 · IT·경제·신기술",
    "score": 10
   },
   {
    "module": "news",
    "item_ids": [
-    "257d37a07ab96223"
+    "f82dd53c6a99446f"
    ],
-   "title": "앤스로픽 “5조원 수혈”… 빅테크 자금줄 된 일본",
-   "url": "https://www.chosun.com/economy/tech_it/2026/11/04/R5X4Z66B25FXVK5XQFUQFG3XSM/",
-   "why": "매체 1곳 · AI·IT·국제",
-   "score": 10
-  },
-  {
-   "module": "news",
-   "item_ids": [
-    "907814300dcc6aa1"
-   ],
-   "title": "“차량 기술→로봇 적용”…아우모비오코리아, 스타트업 협업 성과 공유",
-   "url": "https://www.mk.co.kr/news/business/12196100",
-   "why": "매체 1곳 · AI·IT·신기술",
-   "score": 9
-  },
-  {
-   "module": "news",
-   "item_ids": [
-    "076be7f3e348ca38"
-   ],
-   "title": "텅스텐은 왜 질화티타늄 위에서 고르게 자랄까···반도체 공정 비밀 풀었다",
-   "url": "https://www.khan.co.kr/article/202611041005001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-   "why": "매체 1곳 · IT·신기술",
+   "title": "커지는 AI 해킹 위협…금융권 580여개사 보안 전수점검",
+   "url": "https://www.hani.co.kr/arti/economy/finance/1285868.html",
+   "why": "매체 1곳 · AI·IT",
    "score": 8
+  },
+  {
+   "module": "news",
+   "item_ids": [
+    "04ae7b8e37b9347a"
+   ],
+   "title": "사족 보행 로봇과 인간이 함께 춤을… 도구 넘어 창작 파트너 된 AI",
+   "url": "https://www.chosun.com/culture-life/culture_general/2026/11/05/UXSXIGOEDJCH7OBXXDV2OUPVWI/",
+   "why": "매체 1곳 · AI·IT·신기술",
+   "score": 8
+  },
+  {
+   "module": "news",
+   "item_ids": [
+    "3805d1724e9f8e9a"
+   ],
+   "title": "얼어붙은 중국 IPO 시장...하반기 신청 줄고 심사중단은 늘어",
+   "url": "https://www.mk.co.kr/news/world/12198106",
+   "why": "매체 1곳 · IT·국제·신기술",
+   "score": 8
+  },
+  {
+   "module": "crypto",
+   "item_ids": [
+    "18c91f56d2cb940c"
+   ],
+   "title": "Ethereum (ETH) ₩3,236,890",
+   "url": "https://www.coingecko.com/en/coins/ethereum",
+   "why": "큰 변동 · 24시간 +6.59% · 7일 +2.62% · 시총 2위 · 이슈: 거래소·지갑, 둘 다 불안...유명 분석가 \"비트 코인 (BTC)·솔라나",
+   "score": 0
   }
  ],
  "banned_hits": 0
