@@ -1,6 +1,6 @@
 {
  "module": "weather",
- "fetched_at": "2026-11-05T10:29:55+09:00",
+ "fetched_at": "2026-11-06T10:37:49+09:00",
  "source": {
   "name": "Open-Meteo",
   "url": "https://open-meteo.com/",
@@ -8,110 +8,90 @@
  },
  "items": [
   {
-   "id": "54fbf1e16c01b941",
-   "title": "11/05 이슬비 10~15°",
+   "id": "157f18642287fef5",
+   "title": "11/06 이슬비 4~14°",
    "url": "https://open-meteo.com/en/docs?latitude=37.32&longitude=126.82&daily=temperature_2m_max%2Ctemperature_2m_min%2Cprecipitation_probability_max%2Cweather_code&timezone=Asia%2FSeoul&forecast_days=7",
-   "published_at": "2026-11-05",
-   "summary": "강수확률 70% · PM2.5 최대 37 · PM10 최대 46 ㎍/㎥",
+   "published_at": "2026-11-06",
+   "summary": "강수확률 100% · PM2.5 최대 32 · PM10 최대 55 ㎍/㎥",
    "tags": [
     "날씨",
     "집"
    ],
    "metrics": {
-    "tmax": 15.4,
-    "tmin": 9.5,
-    "pop": 70,
-    "code": 53,
+    "tmax": 14.3,
+    "tmin": 4.2,
+    "pop": 100,
+    "code": 51,
     "label": "이슬비",
     "series": [
      [
-      "2026-11-05",
-      15.4
-     ],
-     [
       "2026-11-06",
-      14.1
+      14.3
      ],
      [
       "2026-11-07",
-      6.9
+      6.8
      ],
      [
       "2026-11-08",
-      5.0
+      5.4
      ],
      [
       "2026-11-09",
-      8.0
+      10.0
      ],
      [
       "2026-11-10",
-      10.5
+      10.0
      ],
      [
       "2026-11-11",
-      12.7
+      14.4
+     ],
+     [
+      "2026-11-12",
+      14.5
      ]
     ],
     "series2": [
      [
-      "2026-11-05",
-      9.5
-     ],
-     [
       "2026-11-06",
-      4.0
+      4.2
      ],
      [
       "2026-11-07",
-      0.4
+      -0.9
      ],
      [
       "2026-11-08",
-      0.5
+      1.0
      ],
      [
       "2026-11-09",
-      0.1
+      1.1
      ],
      [
       "2026-11-10",
-      -2.4
+      -1.4
      ],
      [
       "2026-11-11",
-      -1.6
+      4.6
+     ],
+     [
+      "2026-11-12",
+      3.4
      ]
     ],
-    "pm25_max": 36.9,
-    "pm10_max": 45.5
+    "pm25_max": 31.7,
+    "pm10_max": 54.6
    },
    "is_new": false,
    "streak_days": 7
   },
   {
-   "id": "157f18642287fef5",
-   "title": "11/06 맑음 4~14°",
-   "url": "https://open-meteo.com/en/docs?latitude=37.32&longitude=126.82&daily=temperature_2m_max%2Ctemperature_2m_min%2Cprecipitation_probability_max%2Cweather_code&timezone=Asia%2FSeoul&forecast_days=7",
-   "published_at": "2026-11-06",
-   "summary": "강수확률 86%",
-   "tags": [
-    "날씨",
-    "집"
-   ],
-   "metrics": {
-    "tmax": 14.1,
-    "tmin": 4.0,
-    "pop": 86,
-    "code": 0,
-    "label": "맑음"
-   },
-   "is_new": false,
-   "streak_days": 6
-  },
-  {
    "id": "dcd7fa78a6d90d8d",
-   "title": "11/07 흐림 0~7°",
+   "title": "11/07 대체로 맑음 -1~7°",
    "url": "https://open-meteo.com/en/docs?latitude=37.32&longitude=126.82&daily=temperature_2m_max%2Ctemperature_2m_min%2Cprecipitation_probability_max%2Cweather_code&timezone=Asia%2FSeoul&forecast_days=7",
    "published_at": "2026-11-07",
    "summary": "강수확률 0%",
@@ -120,38 +100,38 @@
     "집"
    ],
    "metrics": {
-    "tmax": 6.9,
-    "tmin": 0.4,
+    "tmax": 6.8,
+    "tmin": -0.9,
     "pop": 0,
-    "code": 3,
-    "label": "흐림"
+    "code": 1,
+    "label": "대체로 맑음"
    },
    "is_new": false,
-   "streak_days": 5
+   "streak_days": 6
   },
   {
    "id": "8fd0b50cdd1c79aa",
-   "title": "11/08 이슬비 0~5°",
+   "title": "11/08 이슬비 1~5°",
    "url": "https://open-meteo.com/en/docs?latitude=37.32&longitude=126.82&daily=temperature_2m_max%2Ctemperature_2m_min%2Cprecipitation_probability_max%2Cweather_code&timezone=Asia%2FSeoul&forecast_days=7",
    "published_at": "2026-11-08",
-   "summary": "강수확률 31%",
+   "summary": "강수확률 53%",
    "tags": [
     "날씨",
     "집"
    ],
    "metrics": {
-    "tmax": 5.0,
-    "tmin": 0.5,
-    "pop": 31,
-    "code": 53,
+    "tmax": 5.4,
+    "tmin": 1.0,
+    "pop": 53,
+    "code": 51,
     "label": "이슬비"
    },
    "is_new": false,
-   "streak_days": 4
+   "streak_days": 5
   },
   {
    "id": "2875b5a566edf86c",
-   "title": "11/09 이슬비 0~8°",
+   "title": "11/09 이슬비 1~10°",
    "url": "https://open-meteo.com/en/docs?latitude=37.32&longitude=126.82&daily=temperature_2m_max%2Ctemperature_2m_min%2Cprecipitation_probability_max%2Cweather_code&timezone=Asia%2FSeoul&forecast_days=7",
    "published_at": "2026-11-09",
    "summary": "강수확률 33%",
@@ -160,18 +140,18 @@
     "집"
    ],
    "metrics": {
-    "tmax": 8.0,
-    "tmin": 0.1,
+    "tmax": 10.0,
+    "tmin": 1.1,
     "pop": 33,
     "code": 51,
     "label": "이슬비"
    },
    "is_new": false,
-   "streak_days": 3
+   "streak_days": 4
   },
   {
    "id": "cbcf9835b96efb81",
-   "title": "11/10 맑음 -2~10°",
+   "title": "11/10 구름 조금 -1~10°",
    "url": "https://open-meteo.com/en/docs?latitude=37.32&longitude=126.82&daily=temperature_2m_max%2Ctemperature_2m_min%2Cprecipitation_probability_max%2Cweather_code&timezone=Asia%2FSeoul&forecast_days=7",
    "published_at": "2026-11-10",
    "summary": "강수확률 2%",
@@ -180,18 +160,18 @@
     "집"
    ],
    "metrics": {
-    "tmax": 10.5,
-    "tmin": -2.4,
+    "tmax": 10.0,
+    "tmin": -1.4,
     "pop": 2,
-    "code": 0,
-    "label": "맑음"
+    "code": 2,
+    "label": "구름 조금"
    },
    "is_new": false,
-   "streak_days": 2
+   "streak_days": 3
   },
   {
    "id": "2e15dbe1d4857fb3",
-   "title": "11/11 대체로 맑음 -2~13°",
+   "title": "11/11 흐림 5~14°",
    "url": "https://open-meteo.com/en/docs?latitude=37.32&longitude=126.82&daily=temperature_2m_max%2Ctemperature_2m_min%2Cprecipitation_probability_max%2Cweather_code&timezone=Asia%2FSeoul&forecast_days=7",
    "published_at": "2026-11-11",
    "summary": "강수확률 0%",
@@ -200,8 +180,28 @@
     "집"
    ],
    "metrics": {
-    "tmax": 12.7,
-    "tmin": -1.6,
+    "tmax": 14.4,
+    "tmin": 4.6,
+    "pop": 0,
+    "code": 3,
+    "label": "흐림"
+   },
+   "is_new": false,
+   "streak_days": 2
+  },
+  {
+   "id": "f78b195c0dab4710",
+   "title": "11/12 대체로 맑음 3~14°",
+   "url": "https://open-meteo.com/en/docs?latitude=37.32&longitude=126.82&daily=temperature_2m_max%2Ctemperature_2m_min%2Cprecipitation_probability_max%2Cweather_code&timezone=Asia%2FSeoul&forecast_days=7",
+   "published_at": "2026-11-12",
+   "summary": "강수확률 0%",
+   "tags": [
+    "날씨",
+    "집"
+   ],
+   "metrics": {
+    "tmax": 14.5,
+    "tmin": 3.4,
     "pop": 0,
     "code": 1,
     "label": "대체로 맑음"

@@ -1,6 +1,6 @@
 {
  "module": "fx",
- "fetched_at": "2026-11-05T10:29:56+09:00",
+ "fetched_at": "2026-11-06T10:37:49+09:00",
  "source": {
   "name": "Frankfurter (ECB 고시)",
   "url": "https://api.frankfurter.dev/v1",
@@ -9,23 +9,19 @@
  "items": [
   {
    "id": "1db8c3e3a9dfd411",
-   "title": "USD/KRW 1,338.58",
+   "title": "USD/KRW 1,344.69",
    "url": "https://www.google.com/finance/quote/USD-KRW",
-   "published_at": "2026-11-04",
-   "summary": "전 영업일 대비 -0.45% · 30일 전 대비 -0.01% (ECB 2026-11-04 고시)",
+   "published_at": "2026-11-05",
+   "summary": "전 영업일 대비 +0.46% · 30일 전 대비 +0.45% (ECB 2026-11-05 고시)",
    "tags": [
     "환율",
     "KRW"
    ],
    "metrics": {
-    "last": 1338.58,
-    "chg_1d": -0.447,
-    "chg_period": -0.015,
+    "last": 1344.69,
+    "chg_1d": 0.456,
+    "chg_period": 0.448,
     "series": [
-     [
-      "2026-10-06",
-      1338.78
-     ],
      [
       "2026-10-07",
       1338.69
@@ -109,31 +105,31 @@
      [
       "2026-11-04",
       1338.58
+     ],
+     [
+      "2026-11-05",
+      1344.69
      ]
     ]
    },
    "is_new": false,
-   "streak_days": 48
+   "streak_days": 49
   },
   {
    "id": "4444e6fab2b3cfce",
-   "title": "USD/JPY 158.25",
+   "title": "USD/JPY 158.46",
    "url": "https://www.google.com/finance/quote/USD-JPY",
-   "published_at": "2026-11-04",
-   "summary": "전 영업일 대비 -0.03% · 30일 전 대비 +0.10% (ECB 2026-11-04 고시)",
+   "published_at": "2026-11-05",
+   "summary": "전 영업일 대비 +0.13% · 30일 전 대비 +0.15% (ECB 2026-11-05 고시)",
    "tags": [
     "환율",
     "JPY"
    ],
    "metrics": {
-    "last": 158.25,
-    "chg_1d": -0.025,
-    "chg_period": 0.101,
+    "last": 158.46,
+    "chg_1d": 0.133,
+    "chg_period": 0.145,
     "series": [
-     [
-      "2026-10-06",
-      158.09
-     ],
      [
       "2026-10-07",
       158.23
@@ -217,31 +213,31 @@
      [
       "2026-11-04",
       158.25
+     ],
+     [
+      "2026-11-05",
+      158.46
      ]
     ]
    },
    "is_new": false,
-   "streak_days": 48
+   "streak_days": 49
   },
   {
    "id": "477047c498bfc860",
    "title": "USD/EUR 0.89",
    "url": "https://www.google.com/finance/quote/USD-EUR",
-   "published_at": "2026-11-04",
-   "summary": "전 영업일 대비 -0.78% · 30일 전 대비 +0.02% (ECB 2026-11-04 고시)",
+   "published_at": "2026-11-05",
+   "summary": "전 영업일 대비 +0.38% · 30일 전 대비 -0.42% (ECB 2026-11-05 고시)",
    "tags": [
     "환율",
     "EUR"
    ],
    "metrics": {
-    "last": 0.88755,
-    "chg_1d": -0.78,
-    "chg_period": 0.018,
+    "last": 0.89095,
+    "chg_1d": 0.383,
+    "chg_period": -0.418,
     "series": [
-     [
-      "2026-10-06",
-      0.88739
-     ],
      [
       "2026-10-07",
       0.89469
@@ -325,11 +321,15 @@
      [
       "2026-11-04",
       0.88755
+     ],
+     [
+      "2026-11-05",
+      0.89095
      ]
     ]
    },
    "is_new": false,
-   "streak_days": 48
+   "streak_days": 49
   }
  ],
  "status": {
