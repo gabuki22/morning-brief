@@ -1,6 +1,6 @@
 {
  "module": "leisure",
- "fetched_at": "2026-11-06T10:38:15+09:00",
+ "fetched_at": "2026-11-07T09:58:57+09:00",
  "source": {
   "name": "Naver 뉴스 검색 + 고캠핑",
   "url": "https://www.gocamping.or.kr/",
@@ -8,11 +8,130 @@
  },
  "items": [
   {
-   "id": "aa42cf22bd14b73b",
-   "title": "울산시, 배남공원·대왕암공원 생태 복원…국비 8억 9000만원 투입",
-   "url": "https://www.news1.kr/local/ulsan/6345098",
-   "published_at": "2026-11-06T09:09:00+09:00",
-   "summary": "이 사업으로 대왕암공원 오토캠핑장 인근 해안 총 7000㎡에 갯봄맞이꽃을 심었다. 또 사람들의 발길로 꽃이 훼손되지 않도록 보호 울타리를 둘렀다. 해안가를 찾는 시민의 안전을 위해 안전 울타리 약 400m도 설치했다....",
+   "id": "482295a98f10077e",
+   "title": "고캠핑 — 전국 캠핑장 검색",
+   "url": "https://www.gocamping.or.kr/",
+   "published_at": "2026-11-07",
+   "summary": "한국관광공사 등록 캠핑장",
+   "tags": [
+    "바로가기"
+   ],
+   "metrics": {},
+   "is_new": false,
+   "streak_days": 50,
+   "source_name": "바로가기"
+  },
+  {
+   "id": "682182709190d3a2",
+   "title": "[모멘트] 여름엔 녹조, 가을엔 물개구리밥",
+   "url": "https://www.yna.co.kr/view/PYH20261106139500013?input=1196m",
+   "published_at": "2026-11-06T17:00:00+09:00",
+   "summary": "6일 대구 달성군 구지 오토캠핑장 인근 낙동강에 물개구리밥이 발생해 있다. 2026.11.6 [THE MOMENT OF YONHAPNEWS]",
+   "tags": [
+    "캠핑",
+    "오토캠핑장"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "Naver 뉴스"
+  },
+  {
+   "id": "d3ccf3e674901f3e",
+   "title": "가을, 낙동강에 가득한 물개구리밥",
+   "url": "https://www.yna.co.kr/view/PYH20261106086200053?input=1196m",
+   "published_at": "2026-11-06T13:33:00+09:00",
+   "summary": "6일 대구 달성군 구지 오토캠핑장 인근 낙동강에 물개구리밥이 발생해 있다. 2026.11.6",
+   "tags": [
+    "캠핑",
+    "오토캠핑장"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "Naver 뉴스"
+  },
+  {
+   "id": "7fc257fb47fdb3ef",
+   "title": "가을, 낙동강에 가득한 물개구리밥",
+   "url": "https://www.yna.co.kr/view/PYH20261106086100053?input=1196m",
+   "published_at": "2026-11-06T13:32:00+09:00",
+   "summary": "6일 대구 달성군 구지 오토캠핑장 인근 낙동강에 물개구리밥이 발생해 있다. 2026.11.6",
+   "tags": [
+    "캠핑",
+    "오토캠핑장"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "Naver 뉴스"
+  },
+  {
+   "id": "a6c69ebc42f66399",
+   "title": "여름엔 녹조, 가을엔 물개구리밥",
+   "url": "https://www.yna.co.kr/view/PYH20261106085500053?input=1196m",
+   "published_at": "2026-11-06T13:31:00+09:00",
+   "summary": "6일 대구 달성군 구지 오토캠핑장 인근 낙동강에 물개구리밥이 발생해 있다. 2026.11.6",
+   "tags": [
+    "캠핑",
+    "오토캠핑장"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "Naver 뉴스"
+  },
+  {
+   "id": "5f3a681f079bcf0a",
+   "title": "낙동강에 가득한 물개구리밥",
+   "url": "https://www.yna.co.kr/view/PYH20261106086000053?input=1196m",
+   "published_at": "2026-11-06T13:31:00+09:00",
+   "summary": "6일 대구 달성군 구지 오토캠핑장 인근 낙동강에 물개구리밥이 발생해 있다. 2026.11.6",
+   "tags": [
+    "캠핑",
+    "오토캠핑장"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "Naver 뉴스"
+  },
+  {
+   "id": "b8fda22a864df44b",
+   "title": "낙동강에 가득한 물개구리밥",
+   "url": "https://www.yna.co.kr/view/PYH20261106085700053?input=1196m",
+   "published_at": "2026-11-06T13:31:00+09:00",
+   "summary": "6일 대구 달성군 구지 오토캠핑장 인근 낙동강에 물개구리밥이 발생해 있다. 2026.11.6",
+   "tags": [
+    "캠핑",
+    "오토캠핑장"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "Naver 뉴스"
+  },
+  {
+   "id": "dde8f01d84dcade6",
+   "title": "여름엔 녹조, 가을엔 물개구리밥",
+   "url": "https://www.yna.co.kr/view/PYH20261106085400053?input=1196m",
+   "published_at": "2026-11-06T13:31:00+09:00",
+   "summary": "6일 대구 달성군 구지 오토캠핑장 인근 낙동강에 물개구리밥이 발생해 있다. 2026.11.6",
+   "tags": [
+    "캠핑",
+    "오토캠핑장"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "Naver 뉴스"
+  },
+  {
+   "id": "1c8b0937c79d0b86",
+   "title": "낙동강에 가득한 물개구리밥",
+   "url": "https://www.yna.co.kr/view/PYH20261106085600053?input=1196m",
+   "published_at": "2026-11-06T13:31:00+09:00",
+   "summary": "6일 대구 달성군 구지 오토캠핑장 인근 낙동강에 물개구리밥이 발생해 있다. 2026.11.6",
    "tags": [
     "캠핑",
     "오토캠핑장"
@@ -33,8 +152,8 @@
     "캠핑장 개장"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "Naver 뉴스"
   },
   {
@@ -48,127 +167,8 @@
     "신규 캠핑장"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "Naver 뉴스"
-  },
-  {
-   "id": "f161a5638e783284",
-   "title": "경남도의회, 행정사무감사 현장 점검…지역 현안 사업 실효성 집중 검증",
-   "url": "https://www.kukinews.com/article/view/kuk202611060004",
-   "published_at": "2026-11-06T01:42:00+09:00",
-   "summary": "동갈화항 오토캠핑장 의 올해 이용실적이 25건에 그친 점을 지적하며 시설 개선과 운영 활성화를 주문했고, 농어촌기본소득은 지역화폐 매출 등 객관적인 성과자료를 확보하고 위장전입 등 부정수급 방지 대책을 마련해야...",
-   "tags": [
-    "캠핑",
-    "오토캠핑장"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "Naver 뉴스"
-  },
-  {
-   "id": "482295a98f10077e",
-   "title": "고캠핑 — 전국 캠핑장 검색",
-   "url": "https://www.gocamping.or.kr/",
-   "published_at": "2026-11-06",
-   "summary": "한국관광공사 등록 캠핑장",
-   "tags": [
-    "바로가기"
-   ],
-   "metrics": {},
    "is_new": false,
-   "streak_days": 49,
-   "source_name": "바로가기"
-  },
-  {
-   "id": "b6a1bab3909ab4aa",
-   "title": "어촌뉴딜 시설 활용·농어촌기본소득 점검",
-   "url": "https://www.ulsanpress.net/news/articleView.html?idxno=586257",
-   "published_at": "2026-11-05T21:42:00+09:00",
-   "summary": "임왕건 의원은 6면 규모의 오토캠핑장 이 올해 이용실적 25건에 그치는 등 운영이 저조하다며 관광 수요를 반영한 시설 개선과 운영 활성화 대책을 주문했다. 김수봉 의원은 주민소득 변화 등 정량화된 자료를 바탕으로...",
-   "tags": [
-    "캠핑",
-    "오토캠핑장"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "Naver 뉴스"
-  },
-  {
-   "id": "721844a6c3501a48",
-   "title": "\"전 군민 기본소득에 농정예산 잠식\"",
-   "url": "https://www.newsgn.com/news/articleView.html?idxno=583795",
-   "published_at": "2026-11-05T15:32:00+09:00",
-   "summary": "임왕건 의원은 동갈화항 어촌뉴딜300 오토캠핑장 의 올해 이용 실적이 25건에 불과한 실태를 지적하며 운영 개선을 촉구했고, 민경우·백승흥 의원은 식당 등으로 타 용도 사용 중인 어구·부표 보관창고의 실태를 짚으며...",
-   "tags": [
-    "캠핑",
-    "오토캠핑장"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "Naver 뉴스"
-  },
-  {
-   "id": "ea364eac1b2846b6",
-   "title": "' 캠핑장 '에서 '쉼터'로 바뀐 대구 남구 '앞산숲속책쉼터', 1년째 이용률...",
-   "url": "https://www.idaegu.com/news/articleView.html?idxno=666767",
-   "published_at": "2026-11-05T15:30:00+09:00",
-   "summary": "북구 '금호강 오토캠핑장 ' 역시 매월 50% 이상의 이용률을 유지한 가운데 10월에는 89%(2천156명)를 기록했으며, 수성구 '진밭골야영장' 또한 10월 이용률이 68%(2천177명)로 나타났다. 타 지자체 시설에 비해 앞산숲속책쉼터의...",
-   "tags": [
-    "캠핑",
-    "오토캠핑장"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "Naver 뉴스"
-  },
-  {
-   "id": "fae09efae50f7c10",
-   "title": "경남도의회 농해양수산위원회, 행정사무감사 농·어업 정책 현장 확인",
-   "url": "https://www.newsgn.com/news/articleView.html?idxno=583681",
-   "published_at": "2026-11-05T14:36:00+09:00",
-   "summary": "이 자리에서 임왕건 의원은 \"동갈화항 오토캠핑장 은 캠핑면이 6면에 불과한 소규모 시설인 데다, 최근 캠핑 수요와 이용객의 선호를 충분히 반영하지 못해 올해 이용실적이 25건에 그치는 등 운영이 매우 저조한 실정\"이라며...",
-   "tags": [
-    "캠핑",
-    "오토캠핑장"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "Naver 뉴스"
-  },
-  {
-   "id": "e3d8bf9ff314cca1",
-   "title": "가을 풍경 가득한 의령, 자연과 역사의 흔적을 찾아 떠나는 가볼 만한 ...",
-   "url": "https://www.joongangenews.com/news/articleView.html?idxno=559549",
-   "published_at": "2026-11-05T12:30:00+09:00",
-   "summary": "유곡면 당동리에 위치한 유농 오토캠핑장 은 유곡천을 중심으로 조성된 농촌체험랜드의 핵심 시설이다. 이곳은 약 30여 동의 캠핑 사이트를 갖추고 있으며, 각 사이트 옆에 차량 주차가 가능하다. 캠핑장 주변으로는...",
-   "tags": [
-    "캠핑",
-    "오토캠핑장"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "Naver 뉴스"
-  },
-  {
-   "id": "988974d3afdab5c5",
-   "title": "경남도의회 농해양수산위원회, 행정사무감사 농·어업 정책 현장 확인",
-   "url": "https://www.viva100.com/article/20261105500519",
-   "published_at": "2026-11-05T12:14:00+09:00",
-   "summary": "임왕건 의원은 “동갈화항 오토캠핑장 은 캠핑면이 6면에 불과해 운영이 저조하다”며 “관광 수요에 맞춘 시설 개선과 운영 활성화 방안을 마련해야 한다”고 촉구했다. 또한 김수봉 의원은 “사업의 효과성을 파악하기...",
-   "tags": [
-    "캠핑",
-    "오토캠핑장"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "streak_days": 2,
    "source_name": "Naver 뉴스"
   },
   {
@@ -182,8 +182,8 @@
     "신규 캠핑장"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "Naver 뉴스"
   },
   {
@@ -198,7 +198,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 2,
+   "streak_days": 3,
    "source_name": "Naver 뉴스"
   },
   {
@@ -213,7 +213,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 2,
+   "streak_days": 3,
    "source_name": "Naver 뉴스"
   },
   {
@@ -228,7 +228,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 2,
+   "streak_days": 3,
    "source_name": "Naver 뉴스"
   },
   {
@@ -243,7 +243,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 2,
+   "streak_days": 3,
    "source_name": "Naver 뉴스"
   },
   {
@@ -258,7 +258,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 2,
+   "streak_days": 3,
    "source_name": "Naver 뉴스"
   },
   {
@@ -273,7 +273,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 2,
+   "streak_days": 3,
    "source_name": "Naver 뉴스"
   },
   {
@@ -288,7 +288,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 2,
+   "streak_days": 3,
    "source_name": "Naver 뉴스"
   },
   {
@@ -303,7 +303,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 3,
+   "streak_days": 4,
    "source_name": "Naver 뉴스"
   },
   {
@@ -318,7 +318,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 4,
+   "streak_days": 5,
    "source_name": "Naver 뉴스"
   },
   {
@@ -333,7 +333,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 4,
+   "streak_days": 5,
    "source_name": "Naver 뉴스"
   },
   {
@@ -348,7 +348,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 4,
+   "streak_days": 5,
    "source_name": "Naver 뉴스"
   },
   {
@@ -363,7 +363,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 4,
+   "streak_days": 5,
    "source_name": "Naver 뉴스"
   },
   {
@@ -378,7 +378,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 4,
+   "streak_days": 5,
    "source_name": "Naver 뉴스"
   },
   {
@@ -393,7 +393,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 4,
+   "streak_days": 5,
    "source_name": "Naver 뉴스"
   },
   {
@@ -408,7 +408,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 4,
+   "streak_days": 5,
    "source_name": "Naver 뉴스"
   },
   {
@@ -423,7 +423,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 4,
+   "streak_days": 5,
    "source_name": "Naver 뉴스"
   },
   {
@@ -438,7 +438,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 4,
+   "streak_days": 5,
    "source_name": "Naver 뉴스"
   },
   {
@@ -453,7 +453,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 4,
+   "streak_days": 5,
    "source_name": "Naver 뉴스"
   }
  ],
@@ -462,8 +462,7 @@
   "count": 30,
   "warn": [
    "고캠핑 API: 키 없음(DATA_GO_KR_KEY)",
-   "링크 확인 실패 1/3",
-   "어제와 동일 63%"
+   "어제와 동일 73%"
   ],
   "error": null,
   "level": "warn",
