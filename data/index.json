@@ -1,6 +1,6 @@
 {
- "built_at": "2026-11-07T09:58:57+09:00",
- "date": "2026-11-07",
+ "built_at": "2026-11-08T09:48:08+09:00",
+ "date": "2026-11-08",
  "site": {
   "title": "모닝브리프",
   "locations": [
@@ -55,7 +55,7 @@
    "count": 7,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-11-07T09:58:24+09:00",
+   "fetched_at": "2026-11-08T09:45:47+09:00",
    "repeat_ratio": 0.857
   },
   "fx": {
@@ -63,25 +63,25 @@
    "count": 3,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-11-07T09:58:24+09:00",
+   "fetched_at": "2026-11-08T09:45:48+09:00",
    "repeat_ratio": 1.0
   },
   "news": {
    "level": "warn",
-   "count": 135,
+   "count": 120,
    "warn": [
-    "링크 확인 실패 1/3"
+    "동아일보 실패: TimeoutError"
    ],
    "block": [],
-   "fetched_at": "2026-11-07T09:58:36+09:00",
-   "repeat_ratio": 0.0
+   "fetched_at": "2026-11-08T09:46:48+09:00",
+   "repeat_ratio": 0.025
   },
   "markets": {
    "level": "ok",
    "count": 5,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-11-07T09:58:37+09:00",
+   "fetched_at": "2026-11-08T09:46:49+09:00",
    "repeat_ratio": 1.0
   },
   "crypto": {
@@ -89,44 +89,47 @@
    "count": 10,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-11-07T09:58:40+09:00",
+   "fetched_at": "2026-11-08T09:46:53+09:00",
    "repeat_ratio": 1.0
   },
   "realestate": {
    "level": "warn",
-   "count": 29,
+   "count": 24,
    "warn": [
+    "동아일보 경제 실패: TimeoutError",
     "LH·온비드 공공데이터 API: 키 없음(DATA_GO_KR_KEY) — 뉴스·바로가기만",
+    "어제와 동일 67%"
+   ],
+   "block": [],
+   "fetched_at": "2026-11-08T09:47:59+09:00",
+   "repeat_ratio": 0.667
+  },
+  "it": {
+   "level": "warn",
+   "count": 60,
+   "warn": [
     "어제와 동일 28%"
    ],
    "block": [],
-   "fetched_at": "2026-11-07T09:58:46+09:00",
-   "repeat_ratio": 0.276
-  },
-  "it": {
-   "level": "ok",
-   "count": 60,
-   "warn": [],
-   "block": [],
-   "fetched_at": "2026-11-07T09:58:49+09:00",
-   "repeat_ratio": 0.0
+   "fetched_at": "2026-11-08T09:48:01+09:00",
+   "repeat_ratio": 0.283
   },
   "auto": {
    "level": "warn",
    "count": 60,
    "warn": [
-    "어제와 동일 72%"
+    "어제와 동일 93%"
    ],
    "block": [],
-   "fetched_at": "2026-11-07T09:58:52+09:00",
-   "repeat_ratio": 0.717
+   "fetched_at": "2026-11-08T09:48:05+09:00",
+   "repeat_ratio": 0.933
   },
   "publicdata": {
    "level": "ok",
    "count": 8,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-11-07T09:58:54+09:00",
+   "fetched_at": "2026-11-08T09:48:06+09:00",
    "repeat_ratio": 1.0
   },
   "leisure": {
@@ -134,63 +137,63 @@
    "count": 30,
    "warn": [
     "고캠핑 API: 키 없음(DATA_GO_KR_KEY)",
-    "어제와 동일 73%"
+    "어제와 동일 97%"
    ],
    "block": [],
-   "fetched_at": "2026-11-07T09:58:57+09:00",
-   "repeat_ratio": 0.733
+   "fetched_at": "2026-11-08T09:48:08+09:00",
+   "repeat_ratio": 0.967
   }
  },
  "must_know": [
   {
    "module": "news",
    "item_ids": [
-    "16263d5b9e7a501d"
+    "4b7b9dc3f8a3726b"
    ],
-   "title": "미래에셋증권도 해킹…고객·임직원 3만9천명 정보 유출",
-   "url": "https://www.hani.co.kr/arti/society/society_general/1286223.html",
-   "why": "매체 3곳 · 사회",
-   "score": 10
-  },
-  {
-   "module": "news",
-   "item_ids": [
-    "6df492e7f6d74dca"
-   ],
-   "title": "AI 규제 공포에 뉴욕 증시 폭락…트럼프 “멍청한 민주당 탓” - KBS 뉴스",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9taFM1RTN4Z1BZUXdoa3dxS1NtTVdRM2VqOEZDVmRzUjlQVGNneUZSX2Mxa1lyWE80ZUZVNHBDdDJ3ZWNpOFFKQ2hHMzVJMFFrT2Zhb3JadmtEWHhaVExpc01SSWFfdw?oc=5",
-   "why": "매체 1곳 · AI·IT·국제",
+   "title": "[AI 위클리] 말투로 보이스피싱 잡고 공부하라 전화까지…AI의 진화",
+   "url": "https://www.yna.co.kr/view/AKR20261107024400017",
+   "why": "매체 1곳 · AI·IT",
    "score": 8
   },
   {
    "module": "news",
    "item_ids": [
-    "074034745eb5f850"
+    "cc43477b7caac099"
    ],
-   "title": "AI 속도조절론은 중국의 계략?…젠슨 황과 트럼프의 ‘동상이몽’",
-   "url": "https://www.hani.co.kr/arti/economy/economy_general/1286215.html",
-   "why": "매체 1곳 · AI·IT·국제",
+   "title": "チャットGPT韓国アプリ利用者1876万人、過去最多…クロードも15倍急増",
+   "url": "https://www.chosun.com/jp/economy-jp/2026/11/08/SC3ZH64GXJHJVCIPF36CNGKYBU/",
+   "why": "매체 1곳 · AI·IT",
    "score": 8
   },
   {
    "module": "news",
    "item_ids": [
-    "8caf36867bbc93be"
+    "f7a380d187b73af4"
    ],
-   "title": "\"말 걸었더니 짜증\"…최우식, '승무원 갑질' 의혹에 \"법적 조치\"",
-   "url": "https://www.hankyung.com/article/2026110719147",
-   "why": "매체 2곳",
+   "title": "트럼프, 격투기 UFC 회장에 백악관 대변인 제안…“좌파 막아야”",
+   "url": "https://www.hani.co.kr/arti/international/america/1286251.html",
+   "why": "매체 2곳 · 국제",
    "score": 7
   },
   {
    "module": "news",
    "item_ids": [
-    "400d671ebbe6e4eb"
+    "b02c5cda1d40ad11"
    ],
-   "title": "年 50만대 판다더니 고작 2만대…테슬라, 사이버트럭 생산 축소",
-   "url": "https://www.donga.com/news/Inter/article/all/20261107/134983119/2",
+   "title": "수소차의 미래, 보조금·현대차 없이 설 수 있나?",
+   "url": "https://www.khan.co.kr/article/202611080800011/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
    "why": "매체 1곳 · 국제·신기술·자동차",
    "score": 7
+  },
+  {
+   "module": "crypto",
+   "item_ids": [
+    "f6b18db9a4f56551"
+   ],
+   "title": "Zcash (ZEC) ₩1,707,894",
+   "url": "https://www.coingecko.com/en/coins/zcash",
+   "why": "큰 변동 · 24시간 -5.88% · 7일 +0.82% · 시총 10위 · 이슈: 한땐 잘나갔는데…유망 알트 코인 100개 5년 투자 성적표",
+   "score": 0
   }
  ],
  "banned_hits": 0
