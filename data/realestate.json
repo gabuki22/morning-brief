@@ -1,18 +1,18 @@
 {
  "module": "realestate",
- "fetched_at": "2026-11-08T09:47:59+09:00",
+ "fetched_at": "2026-11-09T09:59:52+09:00",
  "source": {
-  "name": "RSS 5곳",
+  "name": "RSS 6곳",
   "url": "https://www.hankyung.com/feed/realestate",
   "kind": "rss"
  },
  "items": [
   {
-   "id": "9600767d81a92c25",
-   "title": "경기 아파트값 상승률 8주째 서울 상회…주도지역 서울→경기",
-   "url": "https://www.yna.co.kr/view/AKR20261108006100003",
-   "published_at": "2026-11-08T08:47:05+09:00",
-   "summary": "(서울=연합뉴스) 임기창 기자 = 서울 아파트 매매가격 상승세가 강남권 약세 영향으로 둔화를 이어가는 동안 경기지역이 남부권 중심으로 강세를 지...",
+   "id": "cb15cbee07b5c17b",
+   "title": "\"7억으로 양천구에 새아파트 마련 수요 몰려\"..신월시영 1.2조 재건축 대우건설 수주 유력",
+   "url": "https://www.chosun.com/economy/realty/redevelop/2026/11/09/GA3WENBSMY3DIZTDGQZTCOJRMQ/",
+   "published_at": "2026-11-09T09:56:44+09:00",
+   "summary": "[땅집고] 1조2000억원대 공사비가 걸린 서울 양천구 신월시영아파트 재건축사업에서 대우건설이 사실상 단독 수주에 나서면서 수의계약 전환 가능성이 커지고 있다. 재건축사업이 속도를 낼 것이란 기대감에 신혼부부 등 실수요자의 매수 문의가 이어지는 가운데, 일부 평형은 반년여 만에 집값이 ",
    "tags": [
     "부동산",
     "수도권"
@@ -20,13 +20,59 @@
    "metrics": {},
    "is_new": true,
    "streak_days": 1,
-   "source_name": "연합뉴스 경제"
+   "source_name": "조선일보 경제"
   },
   {
-   "id": "13080e6dc492d664",
-   "title": "이종석, 43억 주고 산 한남동 빌라 11년 만에…'200억' 초대박 [집코노미-핫!부동산]",
-   "url": "https://www.hankyung.com/article/2026110826307",
-   "published_at": "2026-11-08T08:38:38+09:00",
+   "id": "aa46ae8901b7fd89",
+   "title": "현대건설, ‘힐스테이트 회룡역파크뷰’ 공공지원 민간임대 909가구 공급",
+   "url": "https://www.chosun.com/economy/real_estate/2026/11/09/HE4DCNJQG5STANJWGZTGMNLEGE/",
+   "published_at": "2026-11-09T09:43:00+09:00",
+   "summary": "현대건설이 경기 의정부시 호원동 ‘힐스테이트 회룡역파크뷰’에서 공공지원 민간임대주택 909가구를 공급한다. 현대건설은 지난 5일 힐스테이트 회룡역파크뷰 공공지원 민간임대 입주자 모집공고를 냈다고 9일 밝혔다. 힐스테이트 회룡역파크뷰는 지하 3층~지상 33층, 12개동, 전용면적 39~8",
+   "tags": [
+    "부동산",
+    "수도권"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "조선일보 경제"
+  },
+  {
+   "id": "e7a1790472155604",
+   "title": "금호건설, ‘시흥 거모 아테라’ 분양… 공공분양 480가구",
+   "url": "https://www.chosun.com/economy/real_estate/2026/11/09/HAYWCMZTGA4TGMJYMMZGMYLEGU/",
+   "published_at": "2026-11-09T09:24:39+09:00",
+   "summary": "금호건설이 경기 시흥 거모공공주택지구에 들어서는 민간참여 신혼희망타운 ‘시흥 거모 아테라’ 분양에 나섰다. 금호건설은 지난 6일 시흥 거모지구 A6블록에 들어서는 시흥 거모 아테라의 견본주택을 열고 분양 일정을 시작했다고 9일 밝혔다. 단지는 지하 2층~지상 25층, 10개동, 전용면적",
+   "tags": [
+    "부동산",
+    "수도권",
+    "청약"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "조선일보 경제"
+  },
+  {
+   "id": "a487bed307bb40b8",
+   "title": "GS건설, 목동12단지 재건축 11일 ‘리플리제 자이’ 홍보관 개관…기후대응 특화설계 제안",
+   "url": "https://www.donga.com/news/Economy/article/all/20261106/134979440/1",
+   "published_at": "2026-11-09T09:00:00+09:00",
+   "summary": "GS건설이 서울 양천구 목동12단지 재건축사업에 기후변화 대응을 고려한 특화설계와 주거상품을 제안하고 오는 11일 ‘리플리제 자이’ 홍보관을 개관한다고 6일 밝혔다.목동 신시가지 재건축사업은 총 14개 단지에서 추진되고 있다. 앞서 목동6단지는 DL이앤씨, 10단지는 현대건설이 각각 시",
+   "tags": [
+    "부동산",
+    "수도권"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "동아일보 경제"
+  },
+  {
+   "id": "42050f84ae24a504",
+   "title": "목동에 첫 '래미안' 들어선다…13단지 2조4000억원 재건축",
+   "url": "https://www.hankyung.com/article/2026110938706",
+   "published_at": "2026-11-09T08:48:08+09:00",
    "summary": "",
    "tags": [
     "부동산"
@@ -37,43 +83,83 @@
    "source_name": "한국경제 부동산"
   },
   {
-   "id": "4186047cb898cf01",
-   "title": "농지 전수조사 이후 농지 경매 낙찰률·낙찰가율 동반 하락",
-   "url": "https://www.yna.co.kr/view/AKR20261107051300030",
-   "published_at": "2026-11-08T08:28:21+09:00",
-   "summary": "(서울=연합뉴스) 홍국기 기자 = 지난달 전국 농지 법원 경매의 낙찰률과 낙찰가율이 나란히 역대 최저 수준으로 떨어진 것으로 나타났다.",
+   "id": "0b159a5f514cea01",
+   "title": "\"분당 대신 여기 샀다\"…아파트 거래량 108% 폭증한 동네",
+   "url": "https://www.hankyung.com/article/2026110938436",
+   "published_at": "2026-11-09T08:41:13+09:00",
+   "summary": "",
    "tags": [
-    "부동산",
-    "수도권",
-    "경매"
+    "부동산"
    ],
    "metrics": {},
    "is_new": true,
    "streak_days": 1,
-   "source_name": "연합뉴스 경제"
+   "source_name": "한국경제 부동산"
   },
   {
-   "id": "4ed3b791f1b10fb3",
-   "title": "'LH 불참 비상' 반도체 배후도시 조성에 광주도시공사 참여",
-   "url": "https://www.yna.co.kr/view/AKR20261106054700054",
-   "published_at": "2026-11-08T08:10:00+09:00",
-   "summary": "(전남광주=연합뉴스) 박철홍 기자 = 호남권 반도체 클러스터의 배후도시로 조성할 광주 상무지구 도심융합특구 사업에 한국토지주택공사(LH)가 참여...",
+   "id": "90cdd35bcfb35ba6",
+   "title": "\"전세요? 요즘 누가 해요\"…월세 비중 85% 찍은 동네 어디 [시장톡]",
+   "url": "https://www.hankyung.com/article/2026110608116",
+   "published_at": "2026-11-09T06:30:01+09:00",
+   "summary": "",
+   "tags": [
+    "부동산"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "한국경제 부동산"
+  },
+  {
+   "id": "9cea690abb9ab880",
+   "title": "정부 “용산공원 주택공급, 장교숙소 등 우선 검토”",
+   "url": "https://www.donga.com/news/Economy/article/all/20261109/134988236/2",
+   "published_at": "2026-11-09T04:30:00+09:00",
+   "summary": "정부가 서울 용산공원 내 주택 공급을 위해 옛 방위사업청과 군인아파트, 장교숙소 5단지 등 3곳을 우선 검토 대상으로 추린 것으로 확인됐다. 이미 개발돼 있어 녹지 훼손 우려가 적은 공원 외곽부터 공급 가능성을 살펴보겠다는 취지다. 다만 이를 위해서는 법 개정이 필요하고 서울시 등 지방",
    "tags": [
     "부동산",
-    "청약",
+    "수도권"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "동아일보 경제"
+  },
+  {
+   "id": "e2f5375ae512b97e",
+   "title": "수도권 아파트값 상승률 10위권에 비규제 3곳…‘반도체 벨트’ 인근 확산",
+   "url": "https://www.hani.co.kr/arti/economy/property/1286295.html",
+   "published_at": "2026-11-09",
+   "summary": "",
+   "tags": [
+    "부동산",
     "신기술"
    ],
    "metrics": {},
    "is_new": true,
    "streak_days": 1,
-   "source_name": "연합뉴스 경제"
+   "source_name": "한겨레 경제"
   },
   {
-   "id": "5e5577ef446066fa",
-   "title": "\"'미미삼'이냐, '상계주공'이냐\" 노원 재건축 대장은?…추가 분담금 보니",
-   "url": "https://www.chosun.com/economy/realty/2026/11/08/GNRGEODBHFSGGYTGGYYDOYZSHA/",
-   "published_at": "2026-11-08T06:00:00+09:00",
-   "summary": "[땅집고] 서울 노원구에서 대규모 재건축 사업이 잇따라 추진되고 있지만 수억 원대 추가 분담금이 걸림돌로 떠오르고 있다. 일반분양 물량이 1700가구에 달하는 월계동 ‘미미삼’(미성·미륭·삼호3차)에서는 기존 전용 50㎡ 소유자가 84㎡를 받으려면 약 4억2000만원을 내야 하는 것으로",
+   "id": "d84d79793da94e21",
+   "title": "노후 항만 재개발 해법 찾는다…율촌, 총사업비 정산 제도 개선 세미나",
+   "url": "https://www.hankyung.com/article/202611083450i",
+   "published_at": "2026-11-08T21:55:27+09:00",
+   "summary": "",
+   "tags": [
+    "부동산"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "한국경제 부동산"
+  },
+  {
+   "id": "9b75630399ae3b13",
+   "title": "‘주택공급’ 두고 정부·서울시 ‘주도권 경쟁’ 매몰",
+   "url": "https://www.khan.co.kr/article/202611082025005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
+   "published_at": "2026-11-08T20:25:00+09:00",
+   "summary": "속도전 내세우는 정부, 재개발 90% 맡는 민간 견제 발언 ‘모순’시는 이주 수요 많다는 이유 들어 도심공공주택사업 절차 연기실제 착공 실적은 모두 부진…“독자 모델보다 협력 필요” 지적서울 주택공급을 둘러싸고 정부와 서울시가 각각 공공재개발과 민간재개발을 앞세우며 주도권 다툼을 벌이고",
    "tags": [
     "부동산",
     "수도권"
@@ -81,30 +167,28 @@
    "metrics": {},
    "is_new": true,
    "streak_days": 1,
-   "source_name": "조선일보 경제"
+   "source_name": "경향신문 경제"
   },
   {
-   "id": "a256912eb989128d",
-   "title": "200억 펜디·800억 펜트하우스의 눈물…첫 삽도 못뜨고 공매행",
-   "url": "https://www.chosun.com/economy/realty/investment_trends/2026/11/08/GI3TCNRQMM4DCZJSHBQTGOJUGY/",
-   "published_at": "2026-11-08T06:00:00+09:00",
-   "summary": "[땅집고] “펜디 인테리어에 분양가 200억원!”, “한강이 보이는 800억원 펜트하우스!” 과거 부동산 호황기를 노리고 초고가 분양을 계획했던 서울 강남권 하이엔드 주택 사업지들이 줄줄이 공매 시장으로 밀려났다. 부지 매입 단계에서 실행한 브릿지론이 본PF로 전환하는데 실패하면서 첫 ",
+   "id": "6b5e60b52111f2fc",
+   "title": "재건축했더니 \"7억 내세요\"…5조3000억 청구서 날아든다",
+   "url": "https://www.hankyung.com/article/2026110833101",
+   "published_at": "2026-11-08T17:50:55+09:00",
+   "summary": "",
    "tags": [
-    "부동산",
-    "수도권",
-    "경매"
+    "부동산"
    ],
    "metrics": {},
    "is_new": true,
    "streak_days": 1,
-   "source_name": "조선일보 경제"
+   "source_name": "한국경제 부동산"
   },
   {
-   "id": "5f96800bd9064cb2",
-   "title": "'광화문 코앞' 달동네서 5300가구 재개발…18년째 이주도 못해, 왜?",
-   "url": "https://www.chosun.com/economy/realty/2026/11/08/HA4DKNLDMU4TGMJYMQ3TGMRXGY/",
-   "published_at": "2026-11-08T06:00:00+09:00",
-   "summary": "[땅집고] 서울 서대문구 북아현3구역 재개발 사업이 또다시 난관에 부딪혔다. 조합 내부 갈등과 사업 추진을 둘러싼 논란으로 조합장과 임원진이 해임된 데 이어, 법원이 선임한 임시조합장마저 임기를 한 달가량 앞두고 사임하면서다. 18년 가까이 사업이 지연된 가운데 새 조합장 선출마저 불투",
+   "id": "20d839e79222aa36",
+   "title": "공공도 민간도 재개발 더딘데···‘주도권 다툼’에 매몰된 정부·서울시",
+   "url": "https://www.khan.co.kr/article/202611081747001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
+   "published_at": "2026-11-08T17:47:00+09:00",
+   "summary": "서울 남산에서 강북 재개발 지역과 강남 아파트 단지. 김정근 기자서울 주택공급을 둘러싸고 정부와 서울시가 각각 공공재개발과 민간재개발을 앞세우며 주도권 다툼을 벌이고 있다. 두 방식 모두 사업 추진이 더딘데, 공동의 해법보다는 공공 혹은 민간 방식의 우수성을 강조하는데 치중하는 모습이다",
    "tags": [
     "부동산",
     "수도권"
@@ -112,37 +196,64 @@
    "metrics": {},
    "is_new": true,
    "streak_days": 1,
-   "source_name": "조선일보 경제"
+   "source_name": "경향신문 경제"
   },
   {
-   "id": "dce18c4786b00c14",
-   "title": "JTBC 스튜디오 공매가, 대출 원금 밑으로 떨어져... 하나·경남銀, 회수 ‘빨간불’",
-   "url": "https://www.chosun.com/economy/stock-finance/2026/11/08/GRSTIZRTMM2WENJRGU3DGMRWGI/",
-   "published_at": "2026-11-08T06:00:00+09:00",
-   "summary": "이 기사는 2026년 11월 5일 14시 03분 조선비즈 머니무브(MM) 사이트에 표출됐습니다. JTBC 일산 스튜디오의 공매 가격이 대출 원금을 밑돌면서 대주단인 하나은행과 경남은행의 자금 회수에 비상이 걸렸다. 공매가 잇따라 유찰됨에 따라 다음 입찰에서는 최저 가격이 600억원 초반",
+   "id": "77c169b09dc1b86b",
+   "title": "용인 기흥 집값 0.6% '껑충'…내달리는 경기 남부",
+   "url": "https://www.hankyung.com/article/2026110832321",
+   "published_at": "2026-11-08T17:39:03+09:00",
+   "summary": "",
    "tags": [
     "부동산",
-    "경매"
+    "수도권"
    ],
    "metrics": {},
    "is_new": true,
    "streak_days": 1,
-   "source_name": "조선일보 경제"
+   "source_name": "한국경제 부동산"
   },
   {
-   "id": "a1b19d34f2a643ad",
-   "title": "이 대통령이 ‘놀라울 정도로 떨어진다’는 강남3구···원베일리 71억→57억",
-   "url": "https://www.khan.co.kr/article/202611070700021/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
-   "published_at": "2026-11-07T07:00:02+09:00",
-   "summary": "서울 아파트 전경. 이준헌 기자서울 강남3구(서초·강남·송파)에서 직전 거래보다 5% 이상 싼값에 팔린 아파트가 일주일 새 16건 나왔다. 초고가 신축과 재건축 단지는 물론 중소형 아파트에서도 하락 거래가 이어졌다.함영진 우리은행 부동산리서치랩장은 지난달 29일부터 이달 4일까지 국토교",
+   "id": "77482bca3b161ef8",
+   "title": "대구도 1억…미분양 허덕이는 지방까지 '날벼락'",
+   "url": "https://www.hankyung.com/article/2026110832111",
+   "published_at": "2026-11-08T17:30:02+09:00",
+   "summary": "",
    "tags": [
-    "부동산",
-    "수도권"
+    "부동산"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "한국경제 부동산"
+  },
+  {
+   "id": "769ef00a2bffd675",
+   "title": "김동현 100억에 산 압구정 아파트…21일 후 '88억' 찍혔다 [이송렬의 부동산한입]",
+   "url": "https://www.hankyung.com/article/2026110586266",
+   "published_at": "2026-11-08T16:00:02+09:00",
+   "summary": "",
+   "tags": [
+    "부동산"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "한국경제 부동산"
+  },
+  {
+   "id": "13080e6dc492d664",
+   "title": "이종석, 43억에 한남동 빌라 샀는데…11년 만에 '잭팟' [집코노미-핫!부동산]",
+   "url": "https://www.hankyung.com/article/2026110826307",
+   "published_at": "2026-11-08T08:38:38+09:00",
+   "summary": "",
+   "tags": [
+    "부동산"
    ],
    "metrics": {},
    "is_new": false,
    "streak_days": 2,
-   "source_name": "경향신문 경제"
+   "source_name": "한국경제 부동산"
   },
   {
    "id": "1849c758140af412",
@@ -155,7 +266,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 2,
+   "streak_days": 3,
    "source_name": "한국경제 부동산"
   },
   {
@@ -169,154 +280,6 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 2,
-   "source_name": "한국경제 부동산"
-  },
-  {
-   "id": "1c00524b30e0a7b8",
-   "title": "강남에 분양가 40억 아파트 등장…'30가구 룰' 뭐길래",
-   "url": "https://www.hankyung.com/article/2026110614291",
-   "published_at": "2026-11-06T17:20:25+09:00",
-   "summary": "",
-   "tags": [
-    "부동산"
-   ],
-   "metrics": {},
-   "is_new": false,
-   "streak_days": 2,
-   "source_name": "한국경제 부동산"
-  },
-  {
-   "id": "cdbe9e6505f01024",
-   "title": "여의도 '목화아파트' 재건축 통합심의 통과, 416가구로",
-   "url": "https://www.hankyung.com/article/202611060326i",
-   "published_at": "2026-11-06T15:36:50+09:00",
-   "summary": "",
-   "tags": [
-    "부동산"
-   ],
-   "metrics": {},
-   "is_new": false,
-   "streak_days": 2,
-   "source_name": "한국경제 부동산"
-  },
-  {
-   "id": "e26101183012c3bc",
-   "title": "국토부, ‘대출한도 축소’ 허위 게시글에 “사실 아냐, 수사의뢰”",
-   "url": "https://www.khan.co.kr/article/202611061519001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
-   "published_at": "2026-11-06T15:19:00+09:00",
-   "summary": "서울 남산 간이전망대에서 바라 본 강남 일대의 아파트 단지. 서성일 선임기자이달 중순 주택담보대출 한도를 줄이는 추가 부동산 대책이 나온다는 허위 게시글이 온라인에 퍼지자 정부가 사실이 아니라며 수사를 의뢰하기로 했다.국토교통부는 6일 “현재 인터넷 상에 유포되고 있는 부동산 대책 관련",
-   "tags": [
-    "부동산",
-    "수도권"
-   ],
-   "metrics": {},
-   "is_new": false,
-   "streak_days": 2,
-   "source_name": "경향신문 경제"
-  },
-  {
-   "id": "762a8dc6f3d720c2",
-   "title": "이성훈 LH 사장, 경기남부본부 찾아 '라운드테이블'…직원에 커피차 격려",
-   "url": "https://www.hankyung.com/article/202611060936i",
-   "published_at": "2026-11-06T14:24:57+09:00",
-   "summary": "",
-   "tags": [
-    "부동산",
-    "수도권",
-    "청약"
-   ],
-   "metrics": {},
-   "is_new": false,
-   "streak_days": 2,
-   "source_name": "한국경제 부동산"
-  },
-  {
-   "id": "3445b26d58da2190",
-   "title": "\"대출 막히고 규제?\"…또 퍼진 부동산 지라시에 정부 \"사실 아냐\"",
-   "url": "https://www.hankyung.com/article/2026110608437",
-   "published_at": "2026-11-06T14:02:59+09:00",
-   "summary": "",
-   "tags": [
-    "부동산"
-   ],
-   "metrics": {},
-   "is_new": false,
-   "streak_days": 2,
-   "source_name": "한국경제 부동산"
-  },
-  {
-   "id": "23738dc6486afc0e",
-   "title": "계룡건설, '엘리프 시흥 더프라임' 338가구 분양",
-   "url": "https://www.hankyung.com/article/202611060707i",
-   "published_at": "2026-11-06T13:45:22+09:00",
-   "summary": "",
-   "tags": [
-    "부동산",
-    "수도권"
-   ],
-   "metrics": {},
-   "is_new": false,
-   "streak_days": 2,
-   "source_name": "한국경제 부동산"
-  },
-  {
-   "id": "87d09eb6f04c4304",
-   "title": "반포 래미안원베일리 14억 '뚝'…집값 흔들린 단지들 특징은",
-   "url": "https://www.hankyung.com/article/2026110699296",
-   "published_at": "2026-11-06T09:41:35+09:00",
-   "summary": "",
-   "tags": [
-    "부동산"
-   ],
-   "metrics": {},
-   "is_new": false,
-   "streak_days": 3,
-   "source_name": "한국경제 부동산"
-  },
-  {
-   "id": "11a2352618cb52a7",
-   "title": "\"서울 아파트가 3억대\" 우르르…'월 51만원' 반전 있었다",
-   "url": "https://www.hankyung.com/article/2026110698277",
-   "published_at": "2026-11-06T08:38:06+09:00",
-   "summary": "",
-   "tags": [
-    "부동산",
-    "수도권"
-   ],
-   "metrics": {},
-   "is_new": false,
-   "streak_days": 3,
-   "source_name": "한국경제 부동산"
-  },
-  {
-   "id": "51383137ffdcddac",
-   "title": "10월 경매 12년來 '최다'…서울 중저가 아파트 쏠려",
-   "url": "https://www.hankyung.com/article/2026110589771",
-   "published_at": "2026-11-05T18:05:18+09:00",
-   "summary": "",
-   "tags": [
-    "부동산",
-    "수도권",
-    "경매"
-   ],
-   "metrics": {},
-   "is_new": false,
-   "streak_days": 3,
-   "source_name": "한국경제 부동산"
-  },
-  {
-   "id": "e347764ea8b464d7",
-   "title": "서울 집값 3주째 둔화…상승폭, 7개월來 최저",
-   "url": "https://www.hankyung.com/article/2026110589821",
-   "published_at": "2026-11-05T18:05:07+09:00",
-   "summary": "",
-   "tags": [
-    "부동산",
-    "수도권"
-   ],
-   "metrics": {},
-   "is_new": false,
    "streak_days": 3,
    "source_name": "한국경제 부동산"
   },
@@ -324,7 +287,7 @@
    "id": "6a0834327afccc3b",
    "title": "LH 청약플러스 — 분양·임대 공고",
    "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
-   "published_at": "2026-11-08",
+   "published_at": "2026-11-09",
    "summary": "수도권 공고는 지역 필터로",
    "tags": [
     "바로가기",
@@ -332,14 +295,14 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 51,
+   "streak_days": 52,
    "source_name": "바로가기"
   },
   {
    "id": "25744536b7c84e25",
    "title": "온비드 — 공매 물건",
    "url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateList.do",
-   "published_at": "2026-11-08",
+   "published_at": "2026-11-09",
    "summary": "부동산 공매 검색",
    "tags": [
     "바로가기",
@@ -347,14 +310,14 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 51,
+   "streak_days": 52,
    "source_name": "바로가기"
   },
   {
    "id": "c91f39808692d334",
    "title": "법원경매정보 — 매각기일 공고",
    "url": "https://www.courtauction.go.kr/",
-   "published_at": "2026-11-08",
+   "published_at": "2026-11-09",
    "summary": "관할 법원별 기일 확인",
    "tags": [
     "바로가기",
@@ -362,17 +325,16 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 51,
+   "streak_days": 52,
    "source_name": "바로가기"
   }
  ],
  "status": {
   "ok": true,
-  "count": 24,
+  "count": 22,
   "warn": [
-   "동아일보 경제 실패: TimeoutError",
    "LH·온비드 공공데이터 API: 키 없음(DATA_GO_KR_KEY) — 뉴스·바로가기만",
-   "어제와 동일 67%"
+   "어제와 동일 27%"
   ],
   "error": null,
   "level": "warn",
