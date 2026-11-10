@@ -1,6 +1,6 @@
 {
- "built_at": "2026-11-09T10:00:03+09:00",
- "date": "2026-11-09",
+ "built_at": "2026-11-10T12:39:04+09:00",
+ "date": "2026-11-10",
  "site": {
   "title": "모닝브리프",
   "locations": [
@@ -55,7 +55,7 @@
    "count": 7,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-11-09T09:59:34+09:00",
+   "fetched_at": "2026-11-10T12:38:36+09:00",
    "repeat_ratio": 0.857
   },
   "fx": {
@@ -63,7 +63,7 @@
    "count": 3,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-11-09T09:59:34+09:00",
+   "fetched_at": "2026-11-10T12:38:36+09:00",
    "repeat_ratio": 1.0
   },
   "news": {
@@ -71,15 +71,15 @@
    "count": 135,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-11-09T09:59:44+09:00",
-   "repeat_ratio": 0.0
+   "fetched_at": "2026-11-10T12:38:46+09:00",
+   "repeat_ratio": 0.007
   },
   "markets": {
    "level": "ok",
    "count": 5,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-11-09T09:59:44+09:00",
+   "fetched_at": "2026-11-10T12:38:46+09:00",
    "repeat_ratio": 1.0
   },
   "crypto": {
@@ -87,44 +87,43 @@
    "count": 10,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-11-09T09:59:48+09:00",
+   "fetched_at": "2026-11-10T12:38:50+09:00",
    "repeat_ratio": 1.0
   },
   "realestate": {
    "level": "warn",
-   "count": 22,
+   "count": 31,
    "warn": [
-    "LH·온비드 공공데이터 API: 키 없음(DATA_GO_KR_KEY) — 뉴스·바로가기만",
-    "어제와 동일 27%"
+    "LH·온비드 공공데이터 API: 키 없음(DATA_GO_KR_KEY) — 뉴스·바로가기만"
    ],
    "block": [],
-   "fetched_at": "2026-11-09T09:59:52+09:00",
-   "repeat_ratio": 0.273
+   "fetched_at": "2026-11-10T12:38:55+09:00",
+   "repeat_ratio": 0.097
   },
   "it": {
    "level": "ok",
    "count": 60,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-11-09T09:59:54+09:00",
+   "fetched_at": "2026-11-10T12:38:58+09:00",
    "repeat_ratio": 0.0
   },
   "auto": {
    "level": "warn",
    "count": 60,
    "warn": [
-    "어제와 동일 93%"
+    "어제와 동일 68%"
    ],
    "block": [],
-   "fetched_at": "2026-11-09T09:59:58+09:00",
-   "repeat_ratio": 0.933
+   "fetched_at": "2026-11-10T12:39:00+09:00",
+   "repeat_ratio": 0.683
   },
   "publicdata": {
    "level": "ok",
    "count": 8,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-11-09T10:00:00+09:00",
+   "fetched_at": "2026-11-10T12:39:02+09:00",
    "repeat_ratio": 1.0
   },
   "leisure": {
@@ -132,63 +131,63 @@
    "count": 30,
    "warn": [
     "고캠핑 API: 키 없음(DATA_GO_KR_KEY)",
-    "어제와 동일 77%"
+    "어제와 동일 33%"
    ],
    "block": [],
-   "fetched_at": "2026-11-09T10:00:03+09:00",
-   "repeat_ratio": 0.767
+   "fetched_at": "2026-11-10T12:39:04+09:00",
+   "repeat_ratio": 0.333
   }
  },
  "must_know": [
   {
    "module": "news",
    "item_ids": [
-    "0282aaac85412330"
+    "8791539716860373"
    ],
-   "title": "구름이 바위가 될 때 사유는 시작된다…AI 시대, 예술이 필요한 이유",
-   "url": "https://www.hani.co.kr/arti/economy/economy_general/1286376.html",
+   "title": "NHN, 3분기 영업익 113% 급증에 상한가...'AI 클라우드 수익 창출 단계 진입'",
+   "url": "https://www.hankyung.com/article/202611107172i",
    "why": "매체 1곳 · AI·IT",
    "score": 8
   },
   {
    "module": "news",
    "item_ids": [
-    "e85f608b86436c16"
+    "d39c4341f02050df"
    ],
-   "title": "AI가 부하 직원 대체하자…관리자 연봉 기준도 흔들",
-   "url": "https://www.hankyung.com/article/202611093795i",
+   "title": "구글이 AI 칩 직접 만들어도…AMD는 CPU를 판다 [오기자의 미주ㅊㅊ]",
+   "url": "https://www.hankyung.com/article/202611107120i",
    "why": "매체 1곳 · AI·IT",
    "score": 8
   },
   {
    "module": "news",
    "item_ids": [
-    "10ba58098c3fae79"
+    "46c5f770796df2f5"
    ],
-   "title": "머스크의 초대형 반도체 공장 ‘테라팹’, 진심이었다... 일본 장비업체에 대량 발주 전달",
-   "url": "https://www.chosun.com/international/international_general/2026/11/09/RWTRD44ZQ5GZFKGXIO3LMVY4YI/",
-   "why": "매체 1곳 · IT·국제·신기술",
-   "score": 8
+   "title": "3분기 수출액 60%, 10개 기업이 벌어…무역집중도 역대 최대",
+   "url": "https://www.hani.co.kr/arti/economy/economy_general/1286581.html",
+   "why": "매체 1곳 · 경제",
+   "score": 6
   },
   {
    "module": "news",
    "item_ids": [
-    "9898612e44e872a9"
+    "c8fd4abd67edfec2"
    ],
-   "title": "美 반도체 반등에도 코스피 ‘흔들’…장중 다시 5000선 밑으로",
-   "url": "https://www.mk.co.kr/news/stock/12202067",
-   "why": "매체 1곳 · IT·국제·신기술",
-   "score": 8
+   "title": "\"지치지 마!\" 남대문 스카프 아저씨…이번엔 고등학교에 떴다 - 한국경제",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5OZF84UTllVGVzNkk1RU9acG1PRi1qc19VQXNkejZ6YXFkTDhWOEIycV8xRUdFVGNEZ0I0M1NMRGtiU2NIXzcwclFJcEFpTnZrY1huejVwSkZfQQ?oc=5",
+   "why": "매체 1곳 · 경제·사회",
+   "score": 6
   },
   {
-   "module": "news",
+   "module": "crypto",
    "item_ids": [
-    "3b554b1c7a9a4a94"
+    "f6b18db9a4f56551"
    ],
-   "title": "젠슨 황, ‘중국 스파이 의혹’ 여성과 불륜 시인…엔비디아 조사 착수",
-   "url": "https://www.hani.co.kr/arti/international/america/1286367.html",
-   "why": "매체 2곳 · 국제",
-   "score": 7
+   "title": "Zcash (ZEC) ₩1,542,680",
+   "url": "https://www.coingecko.com/en/coins/zcash",
+   "why": "큰 변동 · 24시간 -7.59% · 7일 +1.39% · 시총 10위 · 이슈: 비트 코인 (BTC), 7만 4,000달러 일시 붕괴... 코인 시장 2",
+   "score": 0
   }
  ],
  "banned_hits": 0
