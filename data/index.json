@@ -1,6 +1,6 @@
 {
- "built_at": "2026-11-10T12:39:04+09:00",
- "date": "2026-11-10",
+ "built_at": "2026-11-11T10:20:36+09:00",
+ "date": "2026-11-11",
  "site": {
   "title": "모닝브리프",
   "locations": [
@@ -55,7 +55,7 @@
    "count": 7,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-11-10T12:38:36+09:00",
+   "fetched_at": "2026-11-11T10:18:00+09:00",
    "repeat_ratio": 0.857
   },
   "fx": {
@@ -63,23 +63,25 @@
    "count": 3,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-11-10T12:38:36+09:00",
+   "fetched_at": "2026-11-11T10:18:01+09:00",
    "repeat_ratio": 1.0
   },
   "news": {
-   "level": "ok",
-   "count": 135,
-   "warn": [],
+   "level": "warn",
+   "count": 120,
+   "warn": [
+    "동아일보 실패: URLError"
+   ],
    "block": [],
-   "fetched_at": "2026-11-10T12:38:46+09:00",
-   "repeat_ratio": 0.007
+   "fetched_at": "2026-11-11T10:19:10+09:00",
+   "repeat_ratio": 0.0
   },
   "markets": {
    "level": "ok",
    "count": 5,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-11-10T12:38:46+09:00",
+   "fetched_at": "2026-11-11T10:19:11+09:00",
    "repeat_ratio": 1.0
   },
   "crypto": {
@@ -87,43 +89,44 @@
    "count": 10,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-11-10T12:38:50+09:00",
+   "fetched_at": "2026-11-11T10:19:17+09:00",
    "repeat_ratio": 1.0
   },
   "realestate": {
    "level": "warn",
-   "count": 31,
+   "count": 27,
    "warn": [
+    "동아일보 경제 실패: URLError",
     "LH·온비드 공공데이터 API: 키 없음(DATA_GO_KR_KEY) — 뉴스·바로가기만"
    ],
    "block": [],
-   "fetched_at": "2026-11-10T12:38:55+09:00",
-   "repeat_ratio": 0.097
+   "fetched_at": "2026-11-11T10:20:22+09:00",
+   "repeat_ratio": 0.148
   },
   "it": {
    "level": "ok",
    "count": 60,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-11-10T12:38:58+09:00",
+   "fetched_at": "2026-11-11T10:20:25+09:00",
    "repeat_ratio": 0.0
   },
   "auto": {
    "level": "warn",
    "count": 60,
    "warn": [
-    "어제와 동일 68%"
+    "어제와 동일 72%"
    ],
    "block": [],
-   "fetched_at": "2026-11-10T12:39:00+09:00",
-   "repeat_ratio": 0.683
+   "fetched_at": "2026-11-11T10:20:30+09:00",
+   "repeat_ratio": 0.717
   },
   "publicdata": {
    "level": "ok",
    "count": 8,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-11-10T12:39:02+09:00",
+   "fetched_at": "2026-11-11T10:20:32+09:00",
    "repeat_ratio": 1.0
   },
   "leisure": {
@@ -131,62 +134,62 @@
    "count": 30,
    "warn": [
     "고캠핑 API: 키 없음(DATA_GO_KR_KEY)",
-    "어제와 동일 33%"
+    "어제와 동일 70%"
    ],
    "block": [],
-   "fetched_at": "2026-11-10T12:39:04+09:00",
-   "repeat_ratio": 0.333
+   "fetched_at": "2026-11-11T10:20:36+09:00",
+   "repeat_ratio": 0.7
   }
  },
  "must_know": [
   {
    "module": "news",
    "item_ids": [
-    "8791539716860373"
+    "db59e43a9a8704be"
    ],
-   "title": "NHN, 3분기 영업익 113% 급증에 상한가...'AI 클라우드 수익 창출 단계 진입'",
-   "url": "https://www.hankyung.com/article/202611107172i",
+   "title": "“국고는 풍년, 지자체는 고사”… 중앙 vs 지방, 커지는 미래기금 갈등",
+   "url": "https://www.chosun.com/economy/economy_general/2026/11/11/6OOPCBM2H5HUFI4HFKAU2QFS6U/",
+   "why": "매체 1곳 · IT·부동산·신기술",
+   "score": 10
+  },
+  {
+   "module": "news",
+   "item_ids": [
+    "a8820c869f1db0f5"
+   ],
+   "title": "“떨어진 주가 배상하라” 집단소송 당한 젠슨 황",
+   "url": "https://www.chosun.com/economy/money/2026/11/11/W6FPIU3SUVH4BEDFUB5REZF5JQ/",
+   "why": "매체 1곳 · AI·IT·경제",
+   "score": 10
+  },
+  {
+   "module": "news",
+   "item_ids": [
+    "7bea422b94cb9da9"
+   ],
+   "title": "AI시대, ‘사람 중심 영양 돌봄’ 더욱 중요해진다 [건강한겨레]",
+   "url": "https://www.hani.co.kr/arti/hanihealth/healthlife/1286738.html",
    "why": "매체 1곳 · AI·IT",
    "score": 8
   },
   {
    "module": "news",
    "item_ids": [
-    "d39c4341f02050df"
+    "db5e3b9d29d05d99"
    ],
-   "title": "구글이 AI 칩 직접 만들어도…AMD는 CPU를 판다 [오기자의 미주ㅊㅊ]",
-   "url": "https://www.hankyung.com/article/202611107120i",
-   "why": "매체 1곳 · AI·IT",
-   "score": 8
-  },
-  {
-   "module": "news",
-   "item_ids": [
-    "46c5f770796df2f5"
-   ],
-   "title": "3분기 수출액 60%, 10개 기업이 벌어…무역집중도 역대 최대",
-   "url": "https://www.hani.co.kr/arti/economy/economy_general/1286581.html",
-   "why": "매체 1곳 · 경제",
-   "score": 6
-  },
-  {
-   "module": "news",
-   "item_ids": [
-    "c8fd4abd67edfec2"
-   ],
-   "title": "\"지치지 마!\" 남대문 스카프 아저씨…이번엔 고등학교에 떴다 - 한국경제",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5OZF84UTllVGVzNkk1RU9acG1PRi1qc19VQXNkejZ6YXFkTDhWOEIycV8xRUdFVGNEZ0I0M1NMRGtiU2NIXzcwclFJcEFpTnZrY1huejVwSkZfQQ?oc=5",
-   "why": "매체 1곳 · 경제·사회",
-   "score": 6
+   "title": "서울 성북구서 10대 여성 살해한 50대 남성 긴급체포",
+   "url": "https://www.hani.co.kr/arti/society/society_general/1286741.html",
+   "why": "매체 2곳 · 사회",
+   "score": 7
   },
   {
    "module": "crypto",
    "item_ids": [
-    "f6b18db9a4f56551"
+    "a73d767e1f056bc6"
    ],
-   "title": "Zcash (ZEC) ₩1,542,680",
-   "url": "https://www.coingecko.com/en/coins/zcash",
-   "why": "큰 변동 · 24시간 -7.59% · 7일 +1.39% · 시총 10위 · 이슈: 비트 코인 (BTC), 7만 4,000달러 일시 붕괴... 코인 시장 2",
+   "title": "XRP (XRP) ₩1,405",
+   "url": "https://www.coingecko.com/en/coins/ripple",
+   "why": "큰 변동 · 24시간 -5.30% · 7일 -17.60% · 시총 6위 · 이슈: [원자재 시황] 미 고물가에 금· 코인 ·증시 동반하락",
    "score": 0
   }
  ],
