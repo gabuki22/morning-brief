@@ -1,6 +1,6 @@
 {
- "built_at": "2026-11-12T11:18:40+09:00",
- "date": "2026-11-12",
+ "built_at": "2026-11-13T10:59:09+09:00",
+ "date": "2026-11-13",
  "site": {
   "title": "모닝브리프",
   "locations": [
@@ -51,27 +51,32 @@
  },
  "modules": {
   "weather": {
-   "level": "ok",
-   "count": 7,
+   "level": "block",
+   "count": 0,
    "warn": [],
-   "block": [],
-   "fetched_at": "2026-11-12T11:17:54+09:00",
-   "repeat_ratio": 0.857
+   "block": [
+    "수집 실패: URLError: <urlopen error _ssl.c:994: The handshake operation timed out>",
+    "항목 0건"
+   ],
+   "fetched_at": "2026-11-13T10:57:17+09:00",
+   "repeat_ratio": 0.0
   },
   "fx": {
    "level": "ok",
    "count": 3,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-11-12T11:17:54+09:00",
+   "fetched_at": "2026-11-13T10:57:18+09:00",
    "repeat_ratio": 1.0
   },
   "news": {
-   "level": "ok",
-   "count": 135,
-   "warn": [],
+   "level": "warn",
+   "count": 120,
+   "warn": [
+    "동아일보 실패: RemoteDisconnected"
+   ],
    "block": [],
-   "fetched_at": "2026-11-12T11:18:08+09:00",
+   "fetched_at": "2026-11-13T10:58:14+09:00",
    "repeat_ratio": 0.0
   },
   "markets": {
@@ -79,7 +84,7 @@
    "count": 5,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-11-12T11:18:08+09:00",
+   "fetched_at": "2026-11-13T10:58:14+09:00",
    "repeat_ratio": 1.0
   },
   "crypto": {
@@ -87,45 +92,44 @@
    "count": 10,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-11-12T11:18:12+09:00",
-   "repeat_ratio": 0.9
+   "fetched_at": "2026-11-13T10:58:17+09:00",
+   "repeat_ratio": 1.0
   },
   "realestate": {
    "level": "warn",
-   "count": 30,
+   "count": 24,
    "warn": [
+    "동아일보 경제 실패: RemoteDisconnected",
     "LH·온비드 공공데이터 API: 키 없음(DATA_GO_KR_KEY) — 뉴스·바로가기만"
    ],
    "block": [],
-   "fetched_at": "2026-11-12T11:18:16+09:00",
-   "repeat_ratio": 0.167
+   "fetched_at": "2026-11-13T10:59:00+09:00",
+   "repeat_ratio": 0.125
   },
   "it": {
    "level": "ok",
    "count": 60,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-11-12T11:18:19+09:00",
+   "fetched_at": "2026-11-13T10:59:02+09:00",
    "repeat_ratio": 0.0
   },
   "auto": {
    "level": "warn",
    "count": 60,
    "warn": [
-    "어제와 동일 63%"
+    "어제와 동일 70%"
    ],
    "block": [],
-   "fetched_at": "2026-11-12T11:18:23+09:00",
-   "repeat_ratio": 0.633
+   "fetched_at": "2026-11-13T10:59:06+09:00",
+   "repeat_ratio": 0.7
   },
   "publicdata": {
-   "level": "warn",
+   "level": "ok",
    "count": 8,
-   "warn": [
-    "World Bank 실패"
-   ],
+   "warn": [],
    "block": [],
-   "fetched_at": "2026-11-12T11:18:37+09:00",
+   "fetched_at": "2026-11-13T10:59:07+09:00",
    "repeat_ratio": 1.0
   },
   "leisure": {
@@ -133,63 +137,63 @@
    "count": 30,
    "warn": [
     "고캠핑 API: 키 없음(DATA_GO_KR_KEY)",
-    "어제와 동일 70%"
+    "어제와 동일 63%"
    ],
    "block": [],
-   "fetched_at": "2026-11-12T11:18:40+09:00",
-   "repeat_ratio": 0.7
+   "fetched_at": "2026-11-13T10:59:09+09:00",
+   "repeat_ratio": 0.633
   }
  },
  "must_know": [
   {
    "module": "news",
    "item_ids": [
-    "886ce1c7f7f6bd5f"
+    "4938e744037fb7f7"
    ],
-   "title": "\"미래기금부터 떼고\"…'재정난 우려' 한목소리",
-   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008841703",
-   "why": "매체 1곳 · IT·신기술",
-   "score": 8
-  },
-  {
-   "module": "news",
-   "item_ids": [
-    "880eb40c70908a8f"
-   ],
-   "title": "젠슨 황 해임 위기에 K반도체도 긴장…삼성·SK하이닉스에 악재일까",
-   "url": "https://www.hankyung.com/article/202611122331i",
-   "why": "매체 1곳 · IT·신기술",
-   "score": 8
-  },
-  {
-   "module": "news",
-   "item_ids": [
-    "5b49453f6b98ca17"
-   ],
-   "title": "메타, 천문학적 AI투자 속 인프라 수장 사임…후임엔 AWS 출신",
-   "url": "https://www.donga.com/news/Economy/article/all/20261112/135012654/1",
+   "title": "“너도 AI 안경?” 의심에 리트 만점자 “수능 국어 생중계 풀이”",
+   "url": "https://www.hani.co.kr/arti/society/society_general/1287171.html",
    "why": "매체 1곳 · AI·IT",
    "score": 8
   },
   {
    "module": "news",
    "item_ids": [
-    "54cc59b44dee05ab"
+    "858fa823ed4e96ce"
    ],
-   "title": "반도체 후공정 SK그룹 아이에스시, 인천 송도에 신공장",
-   "url": "https://www.mk.co.kr/news/business/12206128",
-   "why": "매체 1곳 · AI·IT·신기술",
+   "title": "‘AI 안경 의혹’ 세무사 수석합격자 1차 채점 판독…“특이사항 발견 못 해”",
+   "url": "https://www.hani.co.kr/arti/society/labor/1287162.html",
+   "why": "매체 1곳 · AI·IT",
    "score": 8
   },
   {
    "module": "news",
    "item_ids": [
-    "7a256542577cfe01"
+    "1f3335870606b246"
    ],
-   "title": "“열람·발급 무료화 해야”…부동산 등기부 수수료 인상에 공인중개사 반발",
-   "url": "https://www.mk.co.kr/news/realestate/12206190",
-   "why": "매체 1곳 · 경제·부동산",
+   "title": "“삼성전자, 美 데이터센터 냉각기업 모딘 인수 협상”… 시총 7조5000억원",
+   "url": "https://www.chosun.com/economy/tech_it/2026/11/13/G4ZTSNJRG43GGZJQGUZTEYLCGY/",
+   "why": "매체 1곳 · IT·국제·제조",
    "score": 8
+  },
+  {
+   "module": "news",
+   "item_ids": [
+    "189eb138e6a5f05a"
+   ],
+   "title": "서울 강북·경기 남부 아파트 값 강세 이어가",
+   "url": "https://www.chosun.com/economy/real_estate/2026/11/13/RP3YB4PSNFD23HWJXKUVIHXEXE/",
+   "why": "매체 1곳 · 부동산",
+   "score": 6
+  },
+  {
+   "module": "crypto",
+   "item_ids": [
+    "f468bf6a4153c2a9"
+   ],
+   "title": "Figure Heloc (FIGR_HELOC) ₩1,333",
+   "url": "https://www.coingecko.com/en/coins/figure-heloc",
+   "why": "큰 변동 · 24시간 -6.33% · 7일 -3.06% · 시총 9위 · 이슈: 미 주택자산 대출 230억달러 증가…2005년 이후 최대 분기 증가폭",
+   "score": 0
   }
  ],
  "banned_hits": 0
