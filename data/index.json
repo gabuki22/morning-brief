@@ -1,6 +1,6 @@
 {
- "built_at": "2026-11-13T10:59:09+09:00",
- "date": "2026-11-13",
+ "built_at": "2026-11-14T10:29:50+09:00",
+ "date": "2026-11-14",
  "site": {
   "title": "모닝브리프",
   "locations": [
@@ -51,14 +51,11 @@
  },
  "modules": {
   "weather": {
-   "level": "block",
-   "count": 0,
+   "level": "ok",
+   "count": 7,
    "warn": [],
-   "block": [
-    "수집 실패: URLError: <urlopen error _ssl.c:994: The handshake operation timed out>",
-    "항목 0건"
-   ],
-   "fetched_at": "2026-11-13T10:57:17+09:00",
+   "block": [],
+   "fetched_at": "2026-11-14T10:29:21+09:00",
    "repeat_ratio": 0.0
   },
   "fx": {
@@ -66,17 +63,15 @@
    "count": 3,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-11-13T10:57:18+09:00",
+   "fetched_at": "2026-11-14T10:29:21+09:00",
    "repeat_ratio": 1.0
   },
   "news": {
-   "level": "warn",
-   "count": 120,
-   "warn": [
-    "동아일보 실패: RemoteDisconnected"
-   ],
+   "level": "ok",
+   "count": 135,
+   "warn": [],
    "block": [],
-   "fetched_at": "2026-11-13T10:58:14+09:00",
+   "fetched_at": "2026-11-14T10:29:30+09:00",
    "repeat_ratio": 0.0
   },
   "markets": {
@@ -84,7 +79,7 @@
    "count": 5,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-11-13T10:58:14+09:00",
+   "fetched_at": "2026-11-14T10:29:31+09:00",
    "repeat_ratio": 1.0
   },
   "crypto": {
@@ -92,44 +87,44 @@
    "count": 10,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-11-13T10:58:17+09:00",
+   "fetched_at": "2026-11-14T10:29:34+09:00",
    "repeat_ratio": 1.0
   },
   "realestate": {
    "level": "warn",
-   "count": 24,
+   "count": 21,
    "warn": [
-    "동아일보 경제 실패: RemoteDisconnected",
-    "LH·온비드 공공데이터 API: 키 없음(DATA_GO_KR_KEY) — 뉴스·바로가기만"
+    "LH·온비드 공공데이터 API: 키 없음(DATA_GO_KR_KEY) — 뉴스·바로가기만",
+    "어제와 동일 52%"
    ],
    "block": [],
-   "fetched_at": "2026-11-13T10:59:00+09:00",
-   "repeat_ratio": 0.125
+   "fetched_at": "2026-11-14T10:29:38+09:00",
+   "repeat_ratio": 0.524
   },
   "it": {
    "level": "ok",
    "count": 60,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-11-13T10:59:02+09:00",
+   "fetched_at": "2026-11-14T10:29:41+09:00",
    "repeat_ratio": 0.0
   },
   "auto": {
    "level": "warn",
    "count": 60,
    "warn": [
-    "어제와 동일 70%"
+    "어제와 동일 72%"
    ],
    "block": [],
-   "fetched_at": "2026-11-13T10:59:06+09:00",
-   "repeat_ratio": 0.7
+   "fetched_at": "2026-11-14T10:29:45+09:00",
+   "repeat_ratio": 0.717
   },
   "publicdata": {
    "level": "ok",
    "count": 8,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-11-13T10:59:07+09:00",
+   "fetched_at": "2026-11-14T10:29:47+09:00",
    "repeat_ratio": 1.0
   },
   "leisure": {
@@ -137,63 +132,63 @@
    "count": 30,
    "warn": [
     "고캠핑 API: 키 없음(DATA_GO_KR_KEY)",
-    "어제와 동일 63%"
+    "어제와 동일 77%"
    ],
    "block": [],
-   "fetched_at": "2026-11-13T10:59:09+09:00",
-   "repeat_ratio": 0.633
+   "fetched_at": "2026-11-14T10:29:50+09:00",
+   "repeat_ratio": 0.767
   }
  },
  "must_know": [
   {
    "module": "news",
    "item_ids": [
-    "4938e744037fb7f7"
+    "ea54f3e77226e8c1"
    ],
-   "title": "“너도 AI 안경?” 의심에 리트 만점자 “수능 국어 생중계 풀이”",
-   "url": "https://www.hani.co.kr/arti/society/society_general/1287171.html",
+   "title": "대만 매체 \"젠슨 황 불륜녀, 中국가안전부 반도체팀 소속\" - 연합뉴스TV",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5JTlU1R1VKckk3MWxQNlVhUlZrRURGNTVQamctRVU3bTFiWGk3cHdKdjF3RUFMbXBIcUhZWmlFVFRTWFZDU3J3R0pDb1dXcTBHUFV4elFESkRvVFdqWXRBbTJkRm1Xbzg?oc=5",
+   "why": "매체 1곳 · IT·경제·신기술",
+   "score": 10
+  },
+  {
+   "module": "news",
+   "item_ids": [
+    "b87ad4741e053cb6"
+   ],
+   "title": "\"스마트안경 못 잡은거 아니야?\" 다른 자격시험까지 번진 불신 - 조선일보",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRG5OSVRiQUM0blhHQzdDS25XVjh3UFAxTng4dGJmNm84V2k0TThORUVzQlA1VklaU3JKbFZoeTRNcmJEeGFWMzRHN2MtbHBHVXFsODZRV3VJRjVEengwdTNQbkRGQUdBTkQ1anNOWVd1QTgwRkRRM1IzTXVpME11bWJHUGs3d2tlUXJsZmMtMnU?oc=5",
+   "why": "매체 1곳 · AI·IT·경제",
+   "score": 10
+  },
+  {
+   "module": "news",
+   "item_ids": [
+    "de384082d91368f5"
+   ],
+   "title": "“미·중·러 정상, 19일 3자 회담 추진”…북한 문제 논의 주목",
+   "url": "https://www.donga.com/news/Inter/article/all/20261114/135023918/1",
+   "why": "매체 2곳 · 경제·국제",
+   "score": 9
+  },
+  {
+   "module": "news",
+   "item_ids": [
+    "be5ee8a403a34cee"
+   ],
+   "title": "흔들리는 ‘AI 중앙은행’…젠슨 황 스캔들, 기존 CEO 리스크와 결이 다르다",
+   "url": "https://www.hani.co.kr/arti/economy/finance/1287310.html",
    "why": "매체 1곳 · AI·IT",
    "score": 8
   },
   {
    "module": "news",
    "item_ids": [
-    "858fa823ed4e96ce"
+    "874547b26dd85075"
    ],
-   "title": "‘AI 안경 의혹’ 세무사 수석합격자 1차 채점 판독…“특이사항 발견 못 해”",
-   "url": "https://www.hani.co.kr/arti/society/labor/1287162.html",
-   "why": "매체 1곳 · AI·IT",
-   "score": 8
-  },
-  {
-   "module": "news",
-   "item_ids": [
-    "1f3335870606b246"
-   ],
-   "title": "“삼성전자, 美 데이터센터 냉각기업 모딘 인수 협상”… 시총 7조5000억원",
-   "url": "https://www.chosun.com/economy/tech_it/2026/11/13/G4ZTSNJRG43GGZJQGUZTEYLCGY/",
-   "why": "매체 1곳 · IT·국제·제조",
-   "score": 8
-  },
-  {
-   "module": "news",
-   "item_ids": [
-    "189eb138e6a5f05a"
-   ],
-   "title": "서울 강북·경기 남부 아파트 값 강세 이어가",
-   "url": "https://www.chosun.com/economy/real_estate/2026/11/13/RP3YB4PSNFD23HWJXKUVIHXEXE/",
-   "why": "매체 1곳 · 부동산",
-   "score": 6
-  },
-  {
-   "module": "crypto",
-   "item_ids": [
-    "f468bf6a4153c2a9"
-   ],
-   "title": "Figure Heloc (FIGR_HELOC) ₩1,333",
-   "url": "https://www.coingecko.com/en/coins/figure-heloc",
-   "why": "큰 변동 · 24시간 -6.33% · 7일 -3.06% · 시총 9위 · 이슈: 미 주택자산 대출 230억달러 증가…2005년 이후 최대 분기 증가폭",
-   "score": 0
+   "title": "'발달장애 아들 학대 치사' 혐의 40대 모친 오늘 영장심사",
+   "url": "https://www.yna.co.kr/view/AKR20261114022700063",
+   "why": "매체 2곳",
+   "score": 7
   }
  ],
  "banned_hits": 0

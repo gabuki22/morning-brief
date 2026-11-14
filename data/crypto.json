@@ -1,6 +1,6 @@
 {
  "module": "crypto",
- "fetched_at": "2026-11-13T10:58:17+09:00",
+ "fetched_at": "2026-11-14T10:29:34+09:00",
  "source": {
   "name": "CoinGecko + Upbit + Bithumb + Binance",
   "url": "https://www.coingecko.com/ko",
@@ -8,54 +8,20 @@
  },
  "items": [
   {
-   "id": "f468bf6a4153c2a9",
-   "title": "Figure Heloc (FIGR_HELOC) ₩1,333",
-   "url": "https://www.coingecko.com/en/coins/figure-heloc",
-   "published_at": "2026-11-13",
-   "summary": "24시간 -6.33% · 7일 -3.06% · 시총 9위 · 이슈: 미 주택자산 대출 230억달러 증가…2005년 이후 최대 분기 증가폭",
-   "tags": [
-    "코인",
-    "큰 변동"
-   ],
-   "metrics": {
-    "last": 1332.84,
-    "chg_1d": -6.33,
-    "chg_7d": -3.06,
-    "market_cap_rank": 9,
-    "news": [
-     {
-      "title": "미 주택자산 대출 230억달러 증가…2005년 이후 최대 분기 증가폭",
-      "url": "https://www.tokenpost.kr/news/economy/436153"
-     },
-     {
-      "title": "어떤 코인 이 살아남는가",
-      "url": "https://www.edaily.co.kr/News/Read?newsId=01095526645579792&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article"
-     }
-    ]
-   },
-   "is_new": false,
-   "streak_days": 44,
-   "source_name": "CoinGecko"
-  },
-  {
    "id": "e8a3d105df1c968b",
-   "title": "Bitcoin (BTC) ₩94,320,424",
+   "title": "Bitcoin (BTC) ₩91,224,568",
    "url": "https://www.coingecko.com/en/coins/bitcoin",
-   "published_at": "2026-11-13",
-   "summary": "24시간 -3.95% · 7일 -6.53% · 시총 1위 · 빗썸 ₩95,869,000",
+   "published_at": "2026-11-14",
+   "summary": "24시간 -3.70% · 7일 -9.89% · 시총 1위 · 빗썸 ₩93,071,000",
    "tags": [
     "코인"
    ],
    "metrics": {
-    "last": 94320424,
-    "chg_1d": -3.95,
-    "chg_7d": -6.53,
+    "last": 91224568,
+    "chg_1d": -3.7,
+    "chg_7d": -9.89,
     "market_cap_rank": 1,
     "series": [
-     [
-      "2026-10-15",
-      110883000.0
-     ],
      [
       "2026-10-16",
       110276000.0
@@ -170,35 +136,35 @@
      ],
      [
       "2026-11-13",
-      95782000.0
+      93226000.0
+     ],
+     [
+      "2026-11-14",
+      93148000.0
      ]
     ],
-    "bithumb_krw": 95869000.0,
+    "bithumb_krw": 93071000.0,
     "news": []
    },
    "is_new": false,
-   "streak_days": 44,
+   "streak_days": 45,
    "source_name": "CoinGecko"
   },
   {
    "id": "18c91f56d2cb940c",
-   "title": "Ethereum (ETH) ₩2,674,080",
+   "title": "Ethereum (ETH) ₩2,577,340",
    "url": "https://www.coingecko.com/en/coins/ethereum",
-   "published_at": "2026-11-13",
-   "summary": "24시간 -2.09% · 7일 -10.11% · 시총 2위",
+   "published_at": "2026-11-14",
+   "summary": "24시간 -3.97% · 7일 -13.66% · 시총 2위",
    "tags": [
     "코인"
    ],
    "metrics": {
-    "last": 2674080,
-    "chg_1d": -2.09,
-    "chg_7d": -10.11,
+    "last": 2577340,
+    "chg_1d": -3.97,
+    "chg_7d": -13.66,
     "market_cap_rank": 2,
     "series": [
-     [
-      "2026-10-15",
-      3297000.0
-     ],
      [
       "2026-10-16",
       3277000.0
@@ -313,94 +279,94 @@
      ],
      [
       "2026-11-13",
-      2716000.0
+      2631000.0
+     ],
+     [
+      "2026-11-14",
+      2632000.0
      ]
     ],
     "news": []
    },
    "is_new": false,
-   "streak_days": 44,
+   "streak_days": 45,
    "source_name": "CoinGecko"
   },
   {
    "id": "d543144fb48fe97c",
-   "title": "Tether (USDT) ₩1,330",
+   "title": "Tether (USDT) ₩1,334",
    "url": "https://www.coingecko.com/en/coins/tether",
-   "published_at": "2026-11-13",
-   "summary": "24시간 -0.22% · 7일 +0.00% · 시총 3위",
+   "published_at": "2026-11-14",
+   "summary": "24시간 +0.25% · 7일 +0.00% · 시총 3위",
    "tags": [
     "코인"
    ],
    "metrics": {
-    "last": 1330.13,
-    "chg_1d": -0.22,
+    "last": 1334.16,
+    "chg_1d": 0.25,
     "chg_7d": 0.0,
     "market_cap_rank": 3,
     "news": []
    },
    "is_new": false,
-   "streak_days": 44,
+   "streak_days": 45,
    "source_name": "CoinGecko"
   },
   {
    "id": "651e4d5f72f77bc5",
-   "title": "BNB (BNB) ₩869,225",
+   "title": "BNB (BNB) ₩842,799",
    "url": "https://www.coingecko.com/en/coins/binancecoin",
-   "published_at": "2026-11-13",
-   "summary": "24시간 -3.83% · 7일 -4.79% · 시총 4위",
+   "published_at": "2026-11-14",
+   "summary": "24시간 -3.47% · 7일 -9.01% · 시총 4위",
    "tags": [
     "코인"
    ],
    "metrics": {
-    "last": 869225,
-    "chg_1d": -3.83,
-    "chg_7d": -4.79,
+    "last": 842799,
+    "chg_1d": -3.47,
+    "chg_7d": -9.01,
     "market_cap_rank": 4,
     "news": []
    },
    "is_new": false,
-   "streak_days": 44,
+   "streak_days": 45,
    "source_name": "CoinGecko"
   },
   {
    "id": "874db4135e3e22c0",
-   "title": "USDC (USDC) ₩1,331",
+   "title": "USDC (USDC) ₩1,335",
    "url": "https://www.coingecko.com/en/coins/usd-coin",
-   "published_at": "2026-11-13",
-   "summary": "24시간 -0.22% · 7일 -0.00% · 시총 5위",
+   "published_at": "2026-11-14",
+   "summary": "24시간 +0.25% · 7일 -0.02% · 시총 5위",
    "tags": [
     "코인"
    ],
    "metrics": {
-    "last": 1330.73,
-    "chg_1d": -0.22,
-    "chg_7d": -0.0,
+    "last": 1334.66,
+    "chg_1d": 0.25,
+    "chg_7d": -0.02,
     "market_cap_rank": 5,
     "news": []
    },
    "is_new": false,
-   "streak_days": 44,
+   "streak_days": 45,
    "source_name": "CoinGecko"
   },
   {
    "id": "a73d767e1f056bc6",
-   "title": "XRP (XRP) ₩1,371",
+   "title": "XRP (XRP) ₩1,346",
    "url": "https://www.coingecko.com/en/coins/ripple",
-   "published_at": "2026-11-13",
-   "summary": "24시간 -1.88% · 7일 -14.25% · 시총 6위",
+   "published_at": "2026-11-14",
+   "summary": "24시간 -2.17% · 7일 -14.37% · 시총 6위",
    "tags": [
     "코인"
    ],
    "metrics": {
-    "last": 1371.44,
-    "chg_1d": -1.88,
-    "chg_7d": -14.25,
+    "last": 1345.71,
+    "chg_1d": -2.17,
+    "chg_7d": -14.37,
     "market_cap_rank": 6,
     "series": [
-     [
-      "2026-10-15",
-      1802.0
-     ],
      [
       "2026-10-16",
       1773.0
@@ -515,34 +481,34 @@
      ],
      [
       "2026-11-13",
-      1394.0
+      1379.0
+     ],
+     [
+      "2026-11-14",
+      1373.0
      ]
     ],
     "news": []
    },
    "is_new": false,
-   "streak_days": 44,
+   "streak_days": 45,
    "source_name": "CoinGecko"
   },
   {
    "id": "573eb6ed2f47508a",
-   "title": "Solana (SOL) ₩108,137",
+   "title": "Solana (SOL) ₩103,294",
    "url": "https://www.coingecko.com/en/coins/solana",
-   "published_at": "2026-11-13",
-   "summary": "24시간 -2.30% · 7일 -8.68% · 시총 7위",
+   "published_at": "2026-11-14",
+   "summary": "24시간 -4.92% · 7일 -13.75% · 시총 7위",
    "tags": [
     "코인"
    ],
    "metrics": {
-    "last": 108137,
-    "chg_1d": -2.3,
-    "chg_7d": -8.68,
+    "last": 103294,
+    "chg_1d": -4.92,
+    "chg_7d": -13.75,
     "market_cap_rank": 7,
     "series": [
-     [
-      "2026-10-15",
-      142200.0
-     ],
      [
       "2026-10-16",
       141200.0
@@ -657,53 +623,77 @@
      ],
      [
       "2026-11-13",
-      110000.0
+      106700.0
+     ],
+     [
+      "2026-11-14",
+      105500.0
      ]
     ],
     "news": []
    },
    "is_new": false,
-   "streak_days": 44,
+   "streak_days": 45,
    "source_name": "CoinGecko"
   },
   {
    "id": "4be1c74bd1e2a3d3",
-   "title": "TRON (TRX) ₩420",
+   "title": "TRON (TRX) ₩416",
    "url": "https://www.coingecko.com/en/coins/tron",
-   "published_at": "2026-11-13",
-   "summary": "24시간 -0.72% · 7일 -0.86% · 시총 8위",
+   "published_at": "2026-11-14",
+   "summary": "24시간 -0.85% · 7일 -1.90% · 시총 8위",
    "tags": [
     "코인"
    ],
    "metrics": {
-    "last": 419.59,
-    "chg_1d": -0.72,
-    "chg_7d": -0.86,
+    "last": 416.43,
+    "chg_1d": -0.85,
+    "chg_7d": -1.9,
     "market_cap_rank": 8,
     "news": []
    },
    "is_new": false,
-   "streak_days": 44,
+   "streak_days": 45,
    "source_name": "CoinGecko"
   },
   {
-   "id": "57aa32c31d992222",
-   "title": "Hyperliquid (HYPE) ₩96,730",
-   "url": "https://www.coingecko.com/en/coins/hyperliquid",
-   "published_at": "2026-11-13",
-   "summary": "24시간 +1.10% · 7일 -4.65% · 시총 10위",
+   "id": "f468bf6a4153c2a9",
+   "title": "Figure Heloc (FIGR_HELOC) ₩1,397",
+   "url": "https://www.coingecko.com/en/coins/figure-heloc",
+   "published_at": "2026-11-14",
+   "summary": "24시간 +4.80% · 7일 +0.94% · 시총 9위",
    "tags": [
     "코인"
    ],
    "metrics": {
-    "last": 96730,
-    "chg_1d": 1.1,
-    "chg_7d": -4.65,
+    "last": 1397.47,
+    "chg_1d": 4.8,
+    "chg_7d": 0.94,
+    "market_cap_rank": 9,
+    "news": []
+   },
+   "is_new": false,
+   "streak_days": 45,
+   "source_name": "CoinGecko"
+  },
+  {
+   "id": "57aa32c31d992222",
+   "title": "Hyperliquid (HYPE) ₩95,331",
+   "url": "https://www.coingecko.com/en/coins/hyperliquid",
+   "published_at": "2026-11-14",
+   "summary": "24시간 -2.05% · 7일 -8.70% · 시총 10위",
+   "tags": [
+    "코인"
+   ],
+   "metrics": {
+    "last": 95331,
+    "chg_1d": -2.05,
+    "chg_7d": -8.7,
     "market_cap_rank": 10,
     "news": []
    },
    "is_new": false,
-   "streak_days": 2,
+   "streak_days": 3,
    "source_name": "CoinGecko"
   }
  ],
