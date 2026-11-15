@@ -1,12 +1,41 @@
 {
  "module": "leisure",
- "fetched_at": "2026-11-14T10:29:50+09:00",
+ "fetched_at": "2026-11-15T10:09:36+09:00",
  "source": {
   "name": "Naver 뉴스 검색 + 고캠핑",
   "url": "https://www.gocamping.or.kr/",
   "kind": "api"
  },
  "items": [
+  {
+   "id": "482295a98f10077e",
+   "title": "고캠핑 — 전국 캠핑장 검색",
+   "url": "https://www.gocamping.or.kr/",
+   "published_at": "2026-11-15",
+   "summary": "한국관광공사 등록 캠핑장",
+   "tags": [
+    "바로가기"
+   ],
+   "metrics": {},
+   "is_new": false,
+   "streak_days": 58,
+   "source_name": "바로가기"
+  },
+  {
+   "id": "ba7ddb6fad863f0a",
+   "title": "박운서 연천군의회 부의장 \"한탄강 변, 한국 대표 차박 명소로\"",
+   "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5083284",
+   "published_at": "2026-11-14T23:18:00+09:00",
+   "summary": "연천군시설관리공단이 운영, 관리하는 캐러밴(이동식 주택), 캐빈하우스(오두막집), 오토캠핑장 (자동차 야영지) 등 '숙박 시설'과 인조잔디구장, 풋살구장, 농구장 등 '체육 시설'을 갖췄다. 전곡리유적과 선사체험마을...",
+   "tags": [
+    "캠핑",
+    "오토캠핑장"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "Naver 뉴스"
+  },
   {
    "id": "51885faabc005397",
    "title": "[오늘의 주요일정]충북(11월14일 토요일)",
@@ -18,23 +47,9 @@
     "오토캠핑장"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "Naver 뉴스"
-  },
-  {
-   "id": "482295a98f10077e",
-   "title": "고캠핑 — 전국 캠핑장 검색",
-   "url": "https://www.gocamping.or.kr/",
-   "published_at": "2026-11-14",
-   "summary": "한국관광공사 등록 캠핑장",
-   "tags": [
-    "바로가기"
-   ],
-   "metrics": {},
    "is_new": false,
-   "streak_days": 57,
-   "source_name": "바로가기"
+   "streak_days": 2,
+   "source_name": "Naver 뉴스"
   },
   {
    "id": "78d8bd40735d84f0",
@@ -47,8 +62,8 @@
     "캠핑장 개장"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "Naver 뉴스"
   },
   {
@@ -62,8 +77,8 @@
     "캠핑장 개장"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "Naver 뉴스"
   },
   {
@@ -77,8 +92,8 @@
     "캠핑장 개장"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "Naver 뉴스"
   },
   {
@@ -92,8 +107,8 @@
     "캠핑장 개장"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "Naver 뉴스"
   },
   {
@@ -107,8 +122,8 @@
     "캠핑장 개장"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "Naver 뉴스"
   },
   {
@@ -122,8 +137,8 @@
     "캠핑장 개장"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "Naver 뉴스"
   },
   {
@@ -138,7 +153,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 2,
+   "streak_days": 3,
    "source_name": "Naver 뉴스"
   },
   {
@@ -153,7 +168,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 2,
+   "streak_days": 3,
    "source_name": "Naver 뉴스"
   },
   {
@@ -168,7 +183,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 2,
+   "streak_days": 3,
    "source_name": "Naver 뉴스"
   },
   {
@@ -183,7 +198,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 2,
+   "streak_days": 3,
    "source_name": "Naver 뉴스"
   },
   {
@@ -198,7 +213,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 2,
+   "streak_days": 3,
    "source_name": "Naver 뉴스"
   },
   {
@@ -213,22 +228,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 2,
-   "source_name": "Naver 뉴스"
-  },
-  {
-   "id": "8375a00a16e4ab00",
-   "title": "고성공룡엑스포 41일간 일정 마무리…유료 관람객 19만명·매출 51억원",
-   "url": "http://www.breaknews.com/1250530",
-   "published_at": "2026-11-12T15:00:00+09:00",
-   "summary": "오토캠핑장 과 펜션 예약도 같은 날 재개된다. *아래는 위 기사를 '구글 번역'으로 번역한 영문 기사의 [전문]입니다. '구글번역'은 이해도 높이기를 위해 노력하고...",
-   "tags": [
-    "캠핑",
-    "오토캠핑장"
-   ],
-   "metrics": {},
-   "is_new": false,
-   "streak_days": 2,
+   "streak_days": 3,
    "source_name": "Naver 뉴스"
   },
   {
@@ -243,7 +243,22 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 2,
+   "streak_days": 3,
+   "source_name": "Naver 뉴스"
+  },
+  {
+   "id": "8375a00a16e4ab00",
+   "title": "고성공룡엑스포 41일간 일정 마무리…유료 관람객 19만명·매출 51억원",
+   "url": "http://www.breaknews.com/1250530",
+   "published_at": "2026-11-12T15:00:00+09:00",
+   "summary": "오토캠핑장 과 펜션 예약도 같은 날 재개된다. *아래는 위 기사를 '구글 번역'으로 번역한 영문 기사의 [전문]입니다. '구글번역'은 이해도 높이기를 위해 노력하고...",
+   "tags": [
+    "캠핑",
+    "오토캠핑장"
+   ],
+   "metrics": {},
+   "is_new": false,
+   "streak_days": 3,
    "source_name": "Naver 뉴스"
   },
   {
@@ -258,7 +273,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 2,
+   "streak_days": 3,
    "source_name": "Naver 뉴스"
   },
   {
@@ -273,7 +288,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 2,
+   "streak_days": 3,
    "source_name": "Naver 뉴스"
   },
   {
@@ -288,7 +303,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 2,
+   "streak_days": 3,
    "source_name": "Naver 뉴스"
   },
   {
@@ -303,7 +318,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 3,
+   "streak_days": 4,
    "source_name": "Naver 뉴스"
   },
   {
@@ -318,7 +333,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 4,
+   "streak_days": 5,
    "source_name": "Naver 뉴스"
   },
   {
@@ -333,7 +348,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 4,
+   "streak_days": 5,
    "source_name": "Naver 뉴스"
   },
   {
@@ -348,7 +363,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 4,
+   "streak_days": 5,
    "source_name": "Naver 뉴스"
   },
   {
@@ -363,7 +378,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 4,
+   "streak_days": 5,
    "source_name": "Naver 뉴스"
   },
   {
@@ -378,7 +393,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 5,
+   "streak_days": 6,
    "source_name": "Naver 뉴스"
   },
   {
@@ -393,7 +408,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 5,
+   "streak_days": 6,
    "source_name": "Naver 뉴스"
   },
   {
@@ -408,7 +423,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 5,
+   "streak_days": 6,
    "source_name": "Naver 뉴스"
   },
   {
@@ -423,7 +438,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 5,
+   "streak_days": 6,
    "source_name": "Naver 뉴스"
   },
   {
@@ -438,22 +453,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 5,
-   "source_name": "Naver 뉴스"
-  },
-  {
-   "id": "f8bbeab0e803bbf4",
-   "title": "매일유업, '매일 셀렉스배 제31회 한국시니어 오픈 골프대회'서 셀렉스 ...",
-   "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502467",
-   "published_at": "2026-11-09T16:18:00+09:00",
-   "summary": "지난 3일부터 4일간 전북 고창CC에서 열린 '매일 셀렉스배 제31회 한국시니어 오픈 골프선수권대회'에서 한... 상하농원은 목장과 먹거리 공방, 레스토랑을 비롯해 파머스빌리지 호텔과 글램핑 시설, 수목원 등을 운영하고...",
-   "tags": [
-    "캠핑",
-    "글램핑 오픈"
-   ],
-   "metrics": {},
-   "is_new": false,
-   "streak_days": 5,
+   "streak_days": 6,
    "source_name": "Naver 뉴스"
   }
  ],
@@ -462,7 +462,7 @@
   "count": 30,
   "warn": [
    "고캠핑 API: 키 없음(DATA_GO_KR_KEY)",
-   "어제와 동일 77%"
+   "어제와 동일 97%"
   ],
   "error": null,
   "level": "warn",

@@ -1,6 +1,6 @@
 {
- "built_at": "2026-11-14T10:29:50+09:00",
- "date": "2026-11-14",
+ "built_at": "2026-11-15T10:09:36+09:00",
+ "date": "2026-11-15",
  "site": {
   "title": "모닝브리프",
   "locations": [
@@ -51,11 +51,14 @@
  },
  "modules": {
   "weather": {
-   "level": "ok",
-   "count": 7,
+   "level": "block",
+   "count": 0,
    "warn": [],
-   "block": [],
-   "fetched_at": "2026-11-14T10:29:21+09:00",
+   "block": [
+    "수집 실패: URLError: <urlopen error _ssl.c:994: The handshake operation timed out>",
+    "항목 0건"
+   ],
+   "fetched_at": "2026-11-15T10:07:02+09:00",
    "repeat_ratio": 0.0
   },
   "fx": {
@@ -63,23 +66,25 @@
    "count": 3,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-11-14T10:29:21+09:00",
+   "fetched_at": "2026-11-15T10:07:03+09:00",
    "repeat_ratio": 1.0
   },
   "news": {
-   "level": "ok",
-   "count": 135,
-   "warn": [],
+   "level": "warn",
+   "count": 120,
+   "warn": [
+    "동아일보 실패: URLError"
+   ],
    "block": [],
-   "fetched_at": "2026-11-14T10:29:30+09:00",
-   "repeat_ratio": 0.0
+   "fetched_at": "2026-11-15T10:08:00+09:00",
+   "repeat_ratio": 0.092
   },
   "markets": {
    "level": "ok",
    "count": 5,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-11-14T10:29:31+09:00",
+   "fetched_at": "2026-11-15T10:08:00+09:00",
    "repeat_ratio": 1.0
   },
   "crypto": {
@@ -87,44 +92,47 @@
    "count": 10,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-11-14T10:29:34+09:00",
+   "fetched_at": "2026-11-15T10:08:06+09:00",
    "repeat_ratio": 1.0
   },
   "realestate": {
    "level": "warn",
-   "count": 21,
+   "count": 20,
    "warn": [
+    "동아일보 경제 실패: RemoteDisconnected",
     "LH·온비드 공공데이터 API: 키 없음(DATA_GO_KR_KEY) — 뉴스·바로가기만",
-    "어제와 동일 52%"
+    "어제와 동일 65%"
    ],
    "block": [],
-   "fetched_at": "2026-11-14T10:29:38+09:00",
-   "repeat_ratio": 0.524
+   "fetched_at": "2026-11-15T10:09:15+09:00",
+   "repeat_ratio": 0.65
   },
   "it": {
    "level": "ok",
    "count": 60,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-11-14T10:29:41+09:00",
-   "repeat_ratio": 0.0
+   "fetched_at": "2026-11-15T10:09:17+09:00",
+   "repeat_ratio": 0.117
   },
   "auto": {
    "level": "warn",
    "count": 60,
    "warn": [
-    "어제와 동일 72%"
+    "어제와 동일 98%"
    ],
    "block": [],
-   "fetched_at": "2026-11-14T10:29:45+09:00",
-   "repeat_ratio": 0.717
+   "fetched_at": "2026-11-15T10:09:20+09:00",
+   "repeat_ratio": 0.983
   },
   "publicdata": {
-   "level": "ok",
+   "level": "warn",
    "count": 8,
-   "warn": [],
+   "warn": [
+    "World Bank 실패"
+   ],
    "block": [],
-   "fetched_at": "2026-11-14T10:29:47+09:00",
+   "fetched_at": "2026-11-15T10:09:34+09:00",
    "repeat_ratio": 1.0
   },
   "leisure": {
@@ -132,63 +140,63 @@
    "count": 30,
    "warn": [
     "고캠핑 API: 키 없음(DATA_GO_KR_KEY)",
-    "어제와 동일 77%"
+    "어제와 동일 97%"
    ],
    "block": [],
-   "fetched_at": "2026-11-14T10:29:50+09:00",
-   "repeat_ratio": 0.767
+   "fetched_at": "2026-11-15T10:09:36+09:00",
+   "repeat_ratio": 0.967
   }
  },
  "must_know": [
   {
    "module": "news",
    "item_ids": [
-    "ea54f3e77226e8c1"
+    "10aa0eb6d89c03ce"
    ],
-   "title": "대만 매체 \"젠슨 황 불륜녀, 中국가안전부 반도체팀 소속\" - 연합뉴스TV",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5JTlU1R1VKckk3MWxQNlVhUlZrRURGNTVQamctRVU3bTFiWGk3cHdKdjF3RUFMbXBIcUhZWmlFVFRTWFZDU3J3R0pDb1dXcTBHUFV4elFESkRvVFdqWXRBbTJkRm1Xbzg?oc=5",
-   "why": "매체 1곳 · IT·경제·신기술",
+   "title": "‘중국차 침공’으로 바뀌는 유럽 항만 지도…북해 항만 포화에 지중해도 북적",
+   "url": "https://www.chosun.com/economy/industry-company/2026/11/15/DHNZP4OZ6ZA6ZJWIBA5SX5M5LE/",
+   "why": "매체 1곳 · 경제·국제·부동산",
    "score": 10
   },
   {
    "module": "news",
    "item_ids": [
-    "b87ad4741e053cb6"
+    "c05315f45ce57334"
    ],
-   "title": "\"스마트안경 못 잡은거 아니야?\" 다른 자격시험까지 번진 불신 - 조선일보",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRG5OSVRiQUM0blhHQzdDS25XVjh3UFAxTng4dGJmNm84V2k0TThORUVzQlA1VklaU3JKbFZoeTRNcmJEeGFWMzRHN2MtbHBHVXFsODZRV3VJRjVEengwdTNQbkRGQUdBTkQ1anNOWVd1QTgwRkRRM1IzTXVpME11bWJHUGs3d2tlUXJsZmMtMnU?oc=5",
-   "why": "매체 1곳 · AI·IT·경제",
-   "score": 10
-  },
-  {
-   "module": "news",
-   "item_ids": [
-    "de384082d91368f5"
-   ],
-   "title": "“미·중·러 정상, 19일 3자 회담 추진”…북한 문제 논의 주목",
-   "url": "https://www.donga.com/news/Inter/article/all/20261114/135023918/1",
-   "why": "매체 2곳 · 경제·국제",
+   "title": "“죽고 싶다” 아파트에 불 지른 40대 구속···1명 사망·13명 부상",
+   "url": "https://www.khan.co.kr/article/202611150926001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "why": "매체 2곳 · 부동산·사회",
    "score": 9
   },
   {
    "module": "news",
    "item_ids": [
-    "be5ee8a403a34cee"
+    "5f8ff1e1d65b760d"
    ],
-   "title": "흔들리는 ‘AI 중앙은행’…젠슨 황 스캔들, 기존 CEO 리스크와 결이 다르다",
-   "url": "https://www.hani.co.kr/arti/economy/finance/1287310.html",
+   "title": "망가진 얼굴 보며 ‘깔깔깔’…‘맞춤 제작’ AI 캐리커처의 마법",
+   "url": "https://www.hani.co.kr/arti/specialsection/esc_section/1287351.html",
    "why": "매체 1곳 · AI·IT",
    "score": 8
   },
   {
    "module": "news",
    "item_ids": [
-    "874547b26dd85075"
+    "5ffd1715c293f0d1"
    ],
-   "title": "'발달장애 아들 학대 치사' 혐의 40대 모친 오늘 영장심사",
-   "url": "https://www.yna.co.kr/view/AKR20261114022700063",
-   "why": "매체 2곳",
-   "score": 7
+   "title": "엔비디아 투자자, 젠슨황 복귀 요구 서한‥온라인 청원도 11만 명 참여 - MBC 뉴스",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hbFhrcHRjZXFIc240elFTT3VZdW8tMExQT1h0ZzJRcEw4R1hGT1YyMWxid2NWTWF0RWZ1d1JLSWROSFpjOWpSNUZMaC1LcGlqQTB4cGRJZGp5Q0JsUWd6S25FZnc1WlNhQm1CbE8zbWZRODJT0gF0QVVfeXFMUFBtaVZxb0dHQ3U3bTJCS0N3Nm1LLTY5S0piNS01YlZKdDJzVWVvc2dFZXZPZXY3TFdzZC1pMHlnNzl3TzlVMUJTYmxIRWtPTzRlaWRTdTBpcGFhZzNKZ1V0SkpzcWo4U0RzYlJqX3dzNWIzbEE?oc=5",
+   "why": "매체 1곳 · AI·IT",
+   "score": 8
+  },
+  {
+   "module": "crypto",
+   "item_ids": [
+    "e8a3d105df1c968b"
+   ],
+   "title": "Bitcoin (BTC) ₩84,142,261",
+   "url": "https://www.coingecko.com/en/coins/bitcoin",
+   "why": "큰 변동 · 24시간 -7.73% · 7일 -16.27% · 시총 1위 · 빗썸 ₩87,302,000 · 이슈: 비트 코인 14일 6만3602달러…6만2600달러 청산 구간 접근",
+   "score": 0
   }
  ],
  "banned_hits": 0

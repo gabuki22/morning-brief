@@ -1,6 +1,6 @@
 {
  "module": "fx",
- "fetched_at": "2026-11-14T10:29:21+09:00",
+ "fetched_at": "2026-11-15T10:07:03+09:00",
  "source": {
   "name": "Frankfurter (ECB 고시)",
   "url": "https://api.frankfurter.dev/v1",
@@ -12,7 +12,7 @@
    "title": "USD/KRW 1,337.13",
    "url": "https://www.google.com/finance/quote/USD-KRW",
    "published_at": "2026-11-13",
-   "summary": "전 영업일 대비 +0.23% · 30일 전 대비 -0.65% (ECB 2026-11-13 고시)",
+   "summary": "전 영업일 대비 +0.23% · 30일 전 대비 +0.38% (ECB 2026-11-13 고시)",
    "tags": [
     "환율",
     "KRW"
@@ -20,12 +20,8 @@
    "metrics": {
     "last": 1337.13,
     "chg_1d": 0.227,
-    "chg_period": -0.652,
+    "chg_period": 0.378,
     "series": [
-     [
-      "2026-10-15",
-      1345.9
-     ],
      [
       "2026-10-16",
       1332.1
@@ -113,14 +109,14 @@
     ]
    },
    "is_new": false,
-   "streak_days": 57
+   "streak_days": 58
   },
   {
    "id": "4444e6fab2b3cfce",
    "title": "USD/JPY 160.00",
    "url": "https://www.google.com/finance/quote/USD-JPY",
    "published_at": "2026-11-13",
-   "summary": "전 영업일 대비 +0.19% · 30일 전 대비 +1.28% (ECB 2026-11-13 고시)",
+   "summary": "전 영업일 대비 +0.19% · 30일 전 대비 +1.25% (ECB 2026-11-13 고시)",
    "tags": [
     "환율",
     "JPY"
@@ -128,12 +124,8 @@
    "metrics": {
     "last": 160.0,
     "chg_1d": 0.188,
-    "chg_period": 1.279,
+    "chg_period": 1.253,
     "series": [
-     [
-      "2026-10-15",
-      157.98
-     ],
      [
       "2026-10-16",
       158.02
@@ -221,14 +213,14 @@
     ]
    },
    "is_new": false,
-   "streak_days": 57
+   "streak_days": 58
   },
   {
    "id": "477047c498bfc860",
    "title": "USD/EUR 0.90",
    "url": "https://www.google.com/finance/quote/USD-EUR",
    "published_at": "2026-11-13",
-   "summary": "전 영업일 대비 +0.26% · 30일 전 대비 +1.41% (ECB 2026-11-13 고시)",
+   "summary": "전 영업일 대비 +0.26% · 30일 전 대비 +1.82% (ECB 2026-11-13 고시)",
    "tags": [
     "환율",
     "EUR"
@@ -236,12 +228,8 @@
    "metrics": {
     "last": 0.90481,
     "chg_1d": 0.262,
-    "chg_period": 1.411,
+    "chg_period": 1.818,
     "series": [
-     [
-      "2026-10-15",
-      0.89222
-     ],
      [
       "2026-10-16",
       0.88865
@@ -329,7 +317,7 @@
     ]
    },
    "is_new": false,
-   "streak_days": 57
+   "streak_days": 58
   }
  ],
  "status": {
