@@ -1,6 +1,6 @@
 {
  "module": "crypto",
- "fetched_at": "2026-11-15T10:08:06+09:00",
+ "fetched_at": "2026-11-16T10:08:02+09:00",
  "source": {
   "name": "CoinGecko + Upbit + Bithumb + Binance",
   "url": "https://www.coingecko.com/ko",
@@ -8,25 +8,50 @@
  },
  "items": [
   {
-   "id": "e8a3d105df1c968b",
-   "title": "Bitcoin (BTC) ₩84,142,261",
-   "url": "https://www.coingecko.com/en/coins/bitcoin",
-   "published_at": "2026-11-15",
-   "summary": "24시간 -7.73% · 7일 -16.27% · 시총 1위 · 빗썸 ₩87,302,000 · 이슈: 비트 코인 14일 6만3602달러…6만2600달러 청산 구간 접근",
+   "id": "57aa32c31d992222",
+   "title": "Hyperliquid (HYPE) ₩88,929",
+   "url": "https://www.coingecko.com/en/coins/hyperliquid",
+   "published_at": "2026-11-16",
+   "summary": "24시간 +5.15% · 7일 -10.29% · 시총 10위 · 이슈: 비트 코인 (BTC) 숏 311.871개 줄인 하이퍼리퀴드 주소",
    "tags": [
     "코인",
     "큰 변동"
    ],
    "metrics": {
-    "last": 84142261,
-    "chg_1d": -7.73,
-    "chg_7d": -16.27,
+    "last": 88929,
+    "chg_1d": 5.15,
+    "chg_7d": -10.29,
+    "market_cap_rank": 10,
+    "news": [
+     {
+      "title": "비트 코인 (BTC) 숏 311.871개 줄인 하이퍼리퀴드 주소",
+      "url": "https://www.tokenpost.kr/news/cryptocurrency/438761"
+     },
+     {
+      "title": "비트 코인 (BTC), 주말 사이 6만 2,000달러까지 추락... 코인 시장 3,000억 달...",
+      "url": "http://coinreaders.com/270457"
+     }
+    ]
+   },
+   "is_new": false,
+   "streak_days": 5,
+   "source_name": "CoinGecko"
+  },
+  {
+   "id": "e8a3d105df1c968b",
+   "title": "Bitcoin (BTC) ₩86,347,007",
+   "url": "https://www.coingecko.com/en/coins/bitcoin",
+   "published_at": "2026-11-16",
+   "summary": "24시간 +2.77% · 7일 -13.16% · 시총 1위 · 빗썸 ₩89,319,000",
+   "tags": [
+    "코인"
+   ],
+   "metrics": {
+    "last": 86347007,
+    "chg_1d": 2.77,
+    "chg_7d": -13.16,
     "market_cap_rank": 1,
     "series": [
-     [
-      "2026-10-17",
-      110137000.0
-     ],
      [
       "2026-10-18",
       110525000.0
@@ -141,45 +166,35 @@
      ],
      [
       "2026-11-15",
-      87359000.0
+      89949000.0
+     ],
+     [
+      "2026-11-16",
+      89277000.0
      ]
     ],
-    "bithumb_krw": 87302000.0,
-    "news": [
-     {
-      "title": "비트 코인 14일 6만3602달러…6만2600달러 청산 구간 접근",
-      "url": "https://www.tokenpost.kr/news/cryptocurrency/438499"
-     },
-     {
-      "title": "핫월렛 탈취는 구버전 취약점…코브라, AI에 자기수탁 우려",
-      "url": "https://www.tokenpost.kr/news/blockchain/438439"
-     }
-    ]
+    "bithumb_krw": 89319000.0,
+    "news": []
    },
    "is_new": false,
-   "streak_days": 46,
+   "streak_days": 47,
    "source_name": "CoinGecko"
   },
   {
    "id": "18c91f56d2cb940c",
-   "title": "Ethereum (ETH) ₩2,314,183",
+   "title": "Ethereum (ETH) ₩2,412,163",
    "url": "https://www.coingecko.com/en/coins/ethereum",
-   "published_at": "2026-11-15",
-   "summary": "24시간 -10.27% · 7일 -22.17% · 시총 2위 · 이슈: 리플(XRP) 보유자들, 지지부진한 가격에 분노...\"비현실적 전망이 문",
+   "published_at": "2026-11-16",
+   "summary": "24시간 +4.46% · 7일 -14.60% · 시총 2위",
    "tags": [
-    "코인",
-    "큰 변동"
+    "코인"
    ],
    "metrics": {
-    "last": 2314183,
-    "chg_1d": -10.27,
-    "chg_7d": -22.17,
+    "last": 2412163,
+    "chg_1d": 4.46,
+    "chg_7d": -14.6,
     "market_cap_rank": 2,
     "series": [
-     [
-      "2026-10-17",
-      3249000.0
-     ],
      [
       "2026-10-18",
       3248000.0
@@ -294,74 +309,94 @@
      ],
      [
       "2026-11-15",
-      2397000.0
+      2526000.0
+     ],
+     [
+      "2026-11-16",
+      2494000.0
      ]
     ],
-    "news": [
-     {
-      "title": "리플(XRP) 보유자들, 지지부진한 가격에 분노...\"비현실적 전망이 문제\"",
-      "url": "http://coinreaders.com/270205"
-     },
-     {
-      "title": "[모닝 뉴스브리핑] 채굴자발 비트 코인 2077개 유입 外",
-      "url": "https://www.tokenpost.kr/news/briefing/438072"
-     }
-    ]
+    "news": []
    },
    "is_new": false,
-   "streak_days": 46,
+   "streak_days": 47,
+   "source_name": "CoinGecko"
+  },
+  {
+   "id": "d543144fb48fe97c",
+   "title": "Tether (USDT) ₩1,333",
+   "url": "https://www.coingecko.com/en/coins/tether",
+   "published_at": "2026-11-16",
+   "summary": "24시간 -0.12% · 7일 +0.06% · 시총 3위",
+   "tags": [
+    "코인"
+   ],
+   "metrics": {
+    "last": 1333.04,
+    "chg_1d": -0.12,
+    "chg_7d": 0.06,
+    "market_cap_rank": 3,
+    "news": []
+   },
+   "is_new": false,
+   "streak_days": 47,
    "source_name": "CoinGecko"
   },
   {
    "id": "651e4d5f72f77bc5",
-   "title": "BNB (BNB) ₩766,394",
+   "title": "BNB (BNB) ₩790,692",
    "url": "https://www.coingecko.com/en/coins/binancecoin",
-   "published_at": "2026-11-15",
-   "summary": "24시간 -9.03% · 7일 -17.11% · 시총 4위 · 이슈: 바이낸스 코인 ( BNB ) 600달러 회복할까…시장 전반 약세에 7%대",
+   "published_at": "2026-11-16",
+   "summary": "24시간 +3.32% · 7일 -13.13% · 시총 4위",
    "tags": [
-    "코인",
-    "큰 변동"
+    "코인"
    ],
    "metrics": {
-    "last": 766394,
-    "chg_1d": -9.03,
-    "chg_7d": -17.11,
+    "last": 790692,
+    "chg_1d": 3.32,
+    "chg_7d": -13.13,
     "market_cap_rank": 4,
-    "news": [
-     {
-      "title": "바이낸스 코인 ( BNB ) 600달러 회복할까…시장 전반 약세에 7%대 급락",
-      "url": "http://coinreaders.com/270361"
-     },
-     {
-      "title": "[DEX 리포트] 하루 거래량 100억 달러...급등 1위는 '오쏘고널'",
-      "url": "https://www.tokenpost.kr/news/cryptocurrency/438477"
-     }
-    ]
+    "news": []
    },
    "is_new": false,
-   "streak_days": 46,
+   "streak_days": 47,
+   "source_name": "CoinGecko"
+  },
+  {
+   "id": "874db4135e3e22c0",
+   "title": "USDC (USDC) ₩1,333",
+   "url": "https://www.coingecko.com/en/coins/usd-coin",
+   "published_at": "2026-11-16",
+   "summary": "24시간 -0.13% · 7일 +0.03% · 시총 5위",
+   "tags": [
+    "코인"
+   ],
+   "metrics": {
+    "last": 1333.13,
+    "chg_1d": -0.13,
+    "chg_7d": 0.03,
+    "market_cap_rank": 5,
+    "news": []
+   },
+   "is_new": false,
+   "streak_days": 47,
    "source_name": "CoinGecko"
   },
   {
    "id": "a73d767e1f056bc6",
-   "title": "XRP (XRP) ₩1,227",
+   "title": "XRP (XRP) ₩1,281",
    "url": "https://www.coingecko.com/en/coins/ripple",
-   "published_at": "2026-11-15",
-   "summary": "24시간 -8.98% · 7일 -20.69% · 시총 6위 · 이슈: 엔비디아·앤트로픽, 결자해지 주목 [이정훈의 코인 위클리뷰]",
+   "published_at": "2026-11-16",
+   "summary": "24시간 +4.70% · 7일 -13.37% · 시총 6위",
    "tags": [
-    "코인",
-    "큰 변동"
+    "코인"
    ],
    "metrics": {
-    "last": 1226.64,
-    "chg_1d": -8.98,
-    "chg_7d": -20.69,
+    "last": 1280.94,
+    "chg_1d": 4.7,
+    "chg_7d": -13.37,
     "market_cap_rank": 6,
     "series": [
-     [
-      "2026-10-17",
-      1750.0
-     ],
      [
       "2026-10-18",
       1759.0
@@ -476,44 +511,34 @@
      ],
      [
       "2026-11-15",
-      1268.0
+      1341.0
+     ],
+     [
+      "2026-11-16",
+      1323.0
      ]
     ],
-    "news": [
-     {
-      "title": "엔비디아·앤트로픽, 결자해지 주목 [이정훈의 코인 위클리뷰]",
-      "url": "https://www.edaily.co.kr/News/Read?newsId=01298886645646048&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article"
-     },
-     {
-      "title": "XRP 1.40달러 상회 확률 6~9%…월말 종가와 다른 계약",
-      "url": "https://www.tokenpost.kr/news/cryptocurrency/438489"
-     }
-    ]
+    "news": []
    },
    "is_new": false,
-   "streak_days": 46,
+   "streak_days": 47,
    "source_name": "CoinGecko"
   },
   {
    "id": "573eb6ed2f47508a",
-   "title": "Solana (SOL) ₩92,518",
+   "title": "Solana (SOL) ₩95,577",
    "url": "https://www.coingecko.com/en/coins/solana",
-   "published_at": "2026-11-15",
-   "summary": "24시간 -10.68% · 7일 -22.55% · 시총 7위 · 이슈: 리플(XRP) 보유자들, 지지부진한 가격에 분노...\"비현실적 전망이 문",
+   "published_at": "2026-11-16",
+   "summary": "24시간 +3.65% · 7일 -16.83% · 시총 7위",
    "tags": [
-    "코인",
-    "큰 변동"
+    "코인"
    ],
    "metrics": {
-    "last": 92518,
-    "chg_1d": -10.68,
-    "chg_7d": -22.55,
+    "last": 95577,
+    "chg_1d": 3.65,
+    "chg_7d": -16.83,
     "market_cap_rank": 7,
     "series": [
-     [
-      "2026-10-17",
-      139800.0
-     ],
      [
       "2026-10-18",
       140200.0
@@ -628,132 +653,57 @@
      ],
      [
       "2026-11-15",
-      95650.0
+      100200.0
+     ],
+     [
+      "2026-11-16",
+      98850.0
      ]
     ],
-    "news": [
-     {
-      "title": "리플(XRP) 보유자들, 지지부진한 가격에 분노...\"비현실적 전망이 문제\"",
-      "url": "http://coinreaders.com/270205"
-     },
-     {
-      "title": "[모닝 뉴스브리핑] 채굴자발 비트 코인 2077개 유입 外",
-      "url": "https://www.tokenpost.kr/news/briefing/438072"
-     }
-    ]
-   },
-   "is_new": false,
-   "streak_days": 46,
-   "source_name": "CoinGecko"
-  },
-  {
-   "id": "57aa32c31d992222",
-   "title": "Hyperliquid (HYPE) ₩84,711",
-   "url": "https://www.coingecko.com/en/coins/hyperliquid",
-   "published_at": "2026-11-15",
-   "summary": "24시간 -11.33% · 7일 -18.14% · 시총 10위 · 이슈: BTC·ETH 숏 1억4308만5300달러, 하이퍼리퀴드서 포착됐다",
-   "tags": [
-    "코인",
-    "큰 변동"
-   ],
-   "metrics": {
-    "last": 84711,
-    "chg_1d": -11.33,
-    "chg_7d": -18.14,
-    "market_cap_rank": 10,
-    "news": [
-     {
-      "title": "BTC·ETH 숏 1억4308만5300달러, 하이퍼리퀴드서 포착됐다",
-      "url": "https://www.tokenpost.kr/news/cryptocurrency/438242"
-     },
-     {
-      "title": "하이퍼리퀴드 30일 매출 6868만달러, 단순 연환산 8억2416만달러",
-      "url": "https://www.tokenpost.kr/news/cryptocurrency/437977"
-     }
-    ]
-   },
-   "is_new": false,
-   "streak_days": 4,
-   "source_name": "CoinGecko"
-  },
-  {
-   "id": "d543144fb48fe97c",
-   "title": "Tether (USDT) ₩1,335",
-   "url": "https://www.coingecko.com/en/coins/tether",
-   "published_at": "2026-11-15",
-   "summary": "24시간 +0.04% · 7일 +0.08% · 시총 3위",
-   "tags": [
-    "코인"
-   ],
-   "metrics": {
-    "last": 1334.62,
-    "chg_1d": 0.04,
-    "chg_7d": 0.08,
-    "market_cap_rank": 3,
     "news": []
    },
    "is_new": false,
-   "streak_days": 46,
-   "source_name": "CoinGecko"
-  },
-  {
-   "id": "874db4135e3e22c0",
-   "title": "USDC (USDC) ₩1,335",
-   "url": "https://www.coingecko.com/en/coins/usd-coin",
-   "published_at": "2026-11-15",
-   "summary": "24시간 +0.02% · 7일 +0.03% · 시총 5위",
-   "tags": [
-    "코인"
-   ],
-   "metrics": {
-    "last": 1334.93,
-    "chg_1d": 0.02,
-    "chg_7d": 0.03,
-    "market_cap_rank": 5,
-    "news": []
-   },
-   "is_new": false,
-   "streak_days": 46,
+   "streak_days": 47,
    "source_name": "CoinGecko"
   },
   {
    "id": "4be1c74bd1e2a3d3",
-   "title": "TRON (TRX) ₩409",
+   "title": "TRON (TRX) ₩404",
    "url": "https://www.coingecko.com/en/coins/tron",
-   "published_at": "2026-11-15",
-   "summary": "24시간 -1.73% · 7일 -4.08% · 시총 8위",
+   "published_at": "2026-11-16",
+   "summary": "24시간 -1.25% · 7일 -4.99% · 시총 8위",
    "tags": [
     "코인"
    ],
    "metrics": {
-    "last": 409.32,
-    "chg_1d": -1.73,
-    "chg_7d": -4.08,
+    "last": 404.14,
+    "chg_1d": -1.25,
+    "chg_7d": -4.99,
     "market_cap_rank": 8,
     "news": []
    },
    "is_new": false,
-   "streak_days": 46,
+   "streak_days": 47,
    "source_name": "CoinGecko"
   },
   {
    "id": "f468bf6a4153c2a9",
-   "title": "Figure Heloc (FIGR_HELOC) ₩1,360",
+   "title": "Figure Heloc (FIGR_HELOC) ₩1,409",
    "url": "https://www.coingecko.com/en/coins/figure-heloc",
-   "published_at": "2026-11-15",
-   "summary": "24시간 -2.82% · 7일 -0.48% · 시총 9위",
+   "published_at": "2026-11-16",
+   "summary": "24시간 +3.63% · 7일 -0.83% · 시총 9위",
    "tags": [
     "코인"
    ],
    "metrics": {
-    "last": 1359.77,
-    "chg_1d": -2.82,
-    "chg_7d": -0.48,
+    "last": 1409.15,
+    "chg_1d": 3.63,
+    "chg_7d": -0.83,
     "market_cap_rank": 9,
     "news": []
    },
    "is_new": false,
-   "streak_days": 46,
+   "streak_days": 47,
    "source_name": "CoinGecko"
   }
  ],

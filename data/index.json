@@ -1,6 +1,6 @@
 {
- "built_at": "2026-11-15T10:09:36+09:00",
- "date": "2026-11-15",
+ "built_at": "2026-11-16T10:08:14+09:00",
+ "date": "2026-11-16",
  "site": {
   "title": "모닝브리프",
   "locations": [
@@ -51,14 +51,11 @@
  },
  "modules": {
   "weather": {
-   "level": "block",
-   "count": 0,
+   "level": "ok",
+   "count": 7,
    "warn": [],
-   "block": [
-    "수집 실패: URLError: <urlopen error _ssl.c:994: The handshake operation timed out>",
-    "항목 0건"
-   ],
-   "fetched_at": "2026-11-15T10:07:02+09:00",
+   "block": [],
+   "fetched_at": "2026-11-16T10:07:47+09:00",
    "repeat_ratio": 0.0
   },
   "fx": {
@@ -66,25 +63,23 @@
    "count": 3,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-11-15T10:07:03+09:00",
+   "fetched_at": "2026-11-16T10:07:48+09:00",
    "repeat_ratio": 1.0
   },
   "news": {
-   "level": "warn",
-   "count": 120,
-   "warn": [
-    "동아일보 실패: URLError"
-   ],
+   "level": "ok",
+   "count": 135,
+   "warn": [],
    "block": [],
-   "fetched_at": "2026-11-15T10:08:00+09:00",
-   "repeat_ratio": 0.092
+   "fetched_at": "2026-11-16T10:07:58+09:00",
+   "repeat_ratio": 0.0
   },
   "markets": {
    "level": "ok",
    "count": 5,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-11-15T10:08:00+09:00",
+   "fetched_at": "2026-11-16T10:07:58+09:00",
    "repeat_ratio": 1.0
   },
   "crypto": {
@@ -92,47 +87,44 @@
    "count": 10,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-11-15T10:08:06+09:00",
+   "fetched_at": "2026-11-16T10:08:02+09:00",
    "repeat_ratio": 1.0
   },
   "realestate": {
    "level": "warn",
-   "count": 20,
+   "count": 26,
    "warn": [
-    "동아일보 경제 실패: RemoteDisconnected",
     "LH·온비드 공공데이터 API: 키 없음(DATA_GO_KR_KEY) — 뉴스·바로가기만",
-    "어제와 동일 65%"
+    "어제와 동일 31%"
    ],
    "block": [],
-   "fetched_at": "2026-11-15T10:09:15+09:00",
-   "repeat_ratio": 0.65
+   "fetched_at": "2026-11-16T10:08:05+09:00",
+   "repeat_ratio": 0.308
   },
   "it": {
    "level": "ok",
    "count": 60,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-11-15T10:09:17+09:00",
-   "repeat_ratio": 0.117
+   "fetched_at": "2026-11-16T10:08:08+09:00",
+   "repeat_ratio": 0.0
   },
   "auto": {
    "level": "warn",
    "count": 60,
    "warn": [
-    "어제와 동일 98%"
+    "어제와 동일 93%"
    ],
    "block": [],
-   "fetched_at": "2026-11-15T10:09:20+09:00",
-   "repeat_ratio": 0.983
+   "fetched_at": "2026-11-16T10:08:11+09:00",
+   "repeat_ratio": 0.933
   },
   "publicdata": {
-   "level": "warn",
+   "level": "ok",
    "count": 8,
-   "warn": [
-    "World Bank 실패"
-   ],
+   "warn": [],
    "block": [],
-   "fetched_at": "2026-11-15T10:09:34+09:00",
+   "fetched_at": "2026-11-16T10:08:12+09:00",
    "repeat_ratio": 1.0
   },
   "leisure": {
@@ -140,62 +132,62 @@
    "count": 30,
    "warn": [
     "고캠핑 API: 키 없음(DATA_GO_KR_KEY)",
-    "어제와 동일 97%"
+    "어제와 동일 53%"
    ],
    "block": [],
-   "fetched_at": "2026-11-15T10:09:36+09:00",
-   "repeat_ratio": 0.967
+   "fetched_at": "2026-11-16T10:08:14+09:00",
+   "repeat_ratio": 0.533
   }
  },
  "must_know": [
   {
    "module": "news",
    "item_ids": [
-    "10aa0eb6d89c03ce"
+    "f922306e3b23f3fd"
    ],
-   "title": "‘중국차 침공’으로 바뀌는 유럽 항만 지도…북해 항만 포화에 지중해도 북적",
-   "url": "https://www.chosun.com/economy/industry-company/2026/11/15/DHNZP4OZ6ZA6ZJWIBA5SX5M5LE/",
-   "why": "매체 1곳 · 경제·국제·부동산",
+   "title": "이 대통령 지지율 36.4%…국민의힘 43%·민주당 34.6%[리얼미터]",
+   "url": "https://www.khan.co.kr/article/202611160837001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "why": "매체 4곳 · 경제·정치",
+   "score": 11
+  },
+  {
+   "module": "news",
+   "item_ids": [
+    "dc9559fdad1886e2"
+   ],
+   "title": "둑 터진 대중 반도체 규제… 美, 수출 우회로 틀어막는다",
+   "url": "https://www.chosun.com/economy/tech_it/2026/11/14/OZNXECDW4BCVBK7ZCOFGUWZ42I/",
+   "why": "매체 1곳 · IT·경제·국제",
    "score": 10
   },
   {
    "module": "news",
    "item_ids": [
-    "c05315f45ce57334"
+    "836e876957fc65af"
    ],
-   "title": "“죽고 싶다” 아파트에 불 지른 40대 구속···1명 사망·13명 부상",
-   "url": "https://www.khan.co.kr/article/202611150926001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-   "why": "매체 2곳 · 부동산·사회",
-   "score": 9
+   "title": "“트럼프, 시진핑에 ‘젠슨 황 사태’ 거론 안할듯” - 동아일보",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Db2REeUpJdGNaZEQ3UTEyZ29ydUI0VlpJVDdNcVJBSXZPS1h0ZW9fb0J0UWxMb2NXVkZ5aXZZU3huc192UmdDNUNGWlYwMEpXY1k3MWRzUC1XWHRpUThseW5vcEo5TjdTdVpGclJWZjBYbTDSAWZBVV95cUxONzdqbklScHhpcDkyUzR5OHY1cmRVU2pCZElLVTREeW1OTGVTWmR4UkR0QTVBVTZKdDdrZHd5SHAzMXVIVmRIVW1MbFRTa1hCUnBiZmZCb0l4cWNWUkVLem1jZkkxMXc?oc=5",
+   "why": "매체 1곳 · IT·경제·국제",
+   "score": 10
   },
   {
    "module": "news",
    "item_ids": [
-    "5f8ff1e1d65b760d"
+    "af4c9bb130535d40"
    ],
-   "title": "망가진 얼굴 보며 ‘깔깔깔’…‘맞춤 제작’ AI 캐리커처의 마법",
-   "url": "https://www.hani.co.kr/arti/specialsection/esc_section/1287351.html",
-   "why": "매체 1곳 · AI·IT",
-   "score": 8
-  },
-  {
-   "module": "news",
-   "item_ids": [
-    "5ffd1715c293f0d1"
-   ],
-   "title": "엔비디아 투자자, 젠슨황 복귀 요구 서한‥온라인 청원도 11만 명 참여 - MBC 뉴스",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hbFhrcHRjZXFIc240elFTT3VZdW8tMExQT1h0ZzJRcEw4R1hGT1YyMWxid2NWTWF0RWZ1d1JLSWROSFpjOWpSNUZMaC1LcGlqQTB4cGRJZGp5Q0JsUWd6S25FZnc1WlNhQm1CbE8zbWZRODJT0gF0QVVfeXFMUFBtaVZxb0dHQ3U3bTJCS0N3Nm1LLTY5S0piNS01YlZKdDJzVWVvc2dFZXZPZXY3TFdzZC1pMHlnNzl3TzlVMUJTYmxIRWtPTzRlaWRTdTBpcGFhZzNKZ1V0SkpzcWo4U0RzYlJqX3dzNWIzbEE?oc=5",
+   "title": "[팔면봉] 민주당 “조만간 수뇌부 만남 성사될 것”, 조국혁신당 “합당 1㎜도 진전 없어”. 외",
+   "url": "https://www.chosun.com/opinion/palmyeonbong/2026/11/14/SENGSGEKPVBTDII74JTNQHJN6Y/",
    "why": "매체 1곳 · AI·IT",
    "score": 8
   },
   {
    "module": "crypto",
    "item_ids": [
-    "e8a3d105df1c968b"
+    "57aa32c31d992222"
    ],
-   "title": "Bitcoin (BTC) ₩84,142,261",
-   "url": "https://www.coingecko.com/en/coins/bitcoin",
-   "why": "큰 변동 · 24시간 -7.73% · 7일 -16.27% · 시총 1위 · 빗썸 ₩87,302,000 · 이슈: 비트 코인 14일 6만3602달러…6만2600달러 청산 구간 접근",
+   "title": "Hyperliquid (HYPE) ₩88,929",
+   "url": "https://www.coingecko.com/en/coins/hyperliquid",
+   "why": "큰 변동 · 24시간 +5.15% · 7일 -10.29% · 시총 10위 · 이슈: 비트 코인 (BTC) 숏 311.871개 줄인 하이퍼리퀴드 주소",
    "score": 0
   }
  ],
