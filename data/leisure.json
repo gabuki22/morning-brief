@@ -1,12 +1,86 @@
 {
  "module": "leisure",
- "fetched_at": "2026-11-17T12:59:37+09:00",
+ "fetched_at": "2026-11-18T11:58:14+09:00",
  "source": {
   "name": "Naver 뉴스 검색 + 고캠핑",
   "url": "https://www.gocamping.or.kr/",
   "kind": "api"
  },
  "items": [
+  {
+   "id": "7041dec166ea3489",
+   "title": "에이블리·지그재그·롯데온...11월 유통가 역대급 블랙프라이데이 돌입",
+   "url": "https://www.techm.kr/news/articleView.html?idxno=157477",
+   "published_at": "2026-11-18T11:08:00+09:00",
+   "summary": "/사진=지그재그 제공 지그재그는 신규 이벤트와 혜택 코너를 신설했습니다. 매일 자정 총 2억원 규모의... 스노우피크와 몽벨을 비롯해 노르디스크 등 인기 브랜드의 겨울 의류와 캠핑 장 비를 한자리에 모아 고객들의 쇼핑...",
+   "tags": [
+    "캠핑",
+    "신규 캠핑장"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "Naver 뉴스"
+  },
+  {
+   "id": "f6f030f56bdb5008",
+   "title": "[AI 라이프] 우버이츠·집라인, 휴스턴서 드론 배달 시작… 주문 10분 내...",
+   "url": "http://coinreaders.com/271150",
+   "published_at": "2026-11-18T08:12:00+09:00",
+   "summary": "국내에서도 섬 지역과 공원, 캠핑장 , 골프장을 중심으로 지자체와 물류 기업의 드론 배송 실증이 이어지고... AI)는 드론 배달 주문의 80% 이상이 기존 주문을 대체하지 않은 신규 수요라고 분석했다. 우버와 집라인은...",
+   "tags": [
+    "캠핑",
+    "신규 캠핑장"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "Naver 뉴스"
+  },
+  {
+   "id": "482295a98f10077e",
+   "title": "고캠핑 — 전국 캠핑장 검색",
+   "url": "https://www.gocamping.or.kr/",
+   "published_at": "2026-11-18",
+   "summary": "한국관광공사 등록 캠핑장",
+   "tags": [
+    "바로가기"
+   ],
+   "metrics": {},
+   "is_new": false,
+   "streak_days": 61,
+   "source_name": "바로가기"
+  },
+  {
+   "id": "5dc5533d12be28cb",
+   "title": "울산 대왕암공원 17년 만에 토지 보상 마무리…조성계획 새 국면",
+   "url": "https://www.iusm.co.kr/news/articleView.html?idxno=1070672",
+   "published_at": "2026-11-17T18:46:00+09:00",
+   "summary": "현재까지 조성이 완료된 주요 시설은 종합주차장과 타워주차장, 오토캠핑장 , 슬도아트(옛 소리체험관), 공원 일대를 연결하는 수변 산책로 등이다. 진입로 개설과 송림지구 정비도 마무리됐다. 반면 기존 계획에 포함됐던...",
+   "tags": [
+    "캠핑",
+    "오토캠핑장"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "Naver 뉴스"
+  },
+  {
+   "id": "22c541774bd6aee6",
+   "title": "높은 위탁 사용료 금강호 캠핑장 , 사업자 ‘외면’",
+   "url": "https://www.jjan.kr/article/20261117500077",
+   "published_at": "2026-11-17T13:12:00+09:00",
+   "summary": "이곳 캠핑장 은 개장 때부터 지난 3월까지 군산스테이주식회사가 위탁 운영을 맡아왔다. 그러나 기존 위탁계약 종료 이후에는 새 위탁자 선정에 난항을 겪으면서 수 개월 째 정상 운영에 차질을 빚고 있는 상황이다....",
+   "tags": [
+    "캠핑",
+    "캠핑장 개장"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "Naver 뉴스"
+  },
   {
    "id": "790b958b311d4001",
    "title": "강북구, 내년 예산안 1조785억 원 편성...본예산 첫 1조 원 돌파",
@@ -18,8 +92,8 @@
     "신규 캠핑장"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "Naver 뉴스"
   },
   {
@@ -33,8 +107,8 @@
     "신규 캠핑장"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "Naver 뉴스"
   },
   {
@@ -48,8 +122,8 @@
     "신규 캠핑장"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "Naver 뉴스"
   },
   {
@@ -63,13 +137,13 @@
     "글램핑 오픈"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "Naver 뉴스"
   },
   {
    "id": "ba9203a0863a4ba1",
-   "title": "250억 들여 짓고 8년째 문 닫았다…울주군 해안 ‘유령 객실’ 정체",
+   "title": "세금 250억 쏟았는데 8년째 텅…울주군 해안 ‘유령 객실’ 정체 [영상]",
    "url": "https://www.joongang.co.kr/article/25479345",
    "published_at": "2026-11-17T11:25:00+09:00",
    "summary": "연면적 2525㎡ 규모의 지상 3층 본관과 뒤편 부지에 별도로 오토캠핑장 16면, 일반 캠핑장 50면 등을 갖췄다. 센터 본관에는 강의실과 세미나실·숙박시설을 갖췄다. 숙박시설은 2층에 온돌방 형태로 4인실 7개와 6인실 1개...",
@@ -78,8 +152,8 @@
     "오토캠핑장"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "Naver 뉴스"
   },
   {
@@ -93,8 +167,8 @@
     "오토캠핑장"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "Naver 뉴스"
   },
   {
@@ -108,8 +182,8 @@
     "신규 캠핑장"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "Naver 뉴스"
   },
   {
@@ -123,8 +197,8 @@
     "오토캠핑장"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "Naver 뉴스"
   },
   {
@@ -138,8 +212,8 @@
     "오토캠핑장"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "Naver 뉴스"
   },
   {
@@ -153,8 +227,8 @@
     "오토캠핑장"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "Naver 뉴스"
   },
   {
@@ -168,8 +242,8 @@
     "오토캠핑장"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "Naver 뉴스"
   },
   {
@@ -183,23 +257,9 @@
     "오토캠핑장"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "Naver 뉴스"
-  },
-  {
-   "id": "482295a98f10077e",
-   "title": "고캠핑 — 전국 캠핑장 검색",
-   "url": "https://www.gocamping.or.kr/",
-   "published_at": "2026-11-17",
-   "summary": "한국관광공사 등록 캠핑장",
-   "tags": [
-    "바로가기"
-   ],
-   "metrics": {},
    "is_new": false,
-   "streak_days": 60,
-   "source_name": "바로가기"
+   "streak_days": 2,
+   "source_name": "Naver 뉴스"
   },
   {
    "id": "7aa6d1936ebca3c8",
@@ -212,8 +272,8 @@
     "캠핑장 개장"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "Naver 뉴스"
   },
   {
@@ -227,8 +287,8 @@
     "캠핑장 개장"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "Naver 뉴스"
   },
   {
@@ -242,8 +302,8 @@
     "캠핑장 개장"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "Naver 뉴스"
   },
   {
@@ -257,23 +317,8 @@
     "글램핑 오픈"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "Naver 뉴스"
-  },
-  {
-   "id": "917dc927518b3c48",
-   "title": "구미 금오산, 관광 지도 새로 그린다...'금오산 하늘다리' 개통",
-   "url": "https://www.kbsm.net/news/view.php?idx=541905",
-   "published_at": "2026-11-16T13:36:00+09:00",
-   "summary": "현재 무료로 연중 운영 중인 금오산야영장은 2027년부터 총사업비 105억 원을 투입해 2028년까지 총 104면(오토캠핑 71면, 일반캠핑 33면) 규모의 ‘ 오토캠핑장 ’으로 새롭게 조성될 예정이다.교통 편의시설도 지속적으로...",
-   "tags": [
-    "캠핑",
-    "오토캠핑장"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "Naver 뉴스"
   },
   {
@@ -287,8 +332,8 @@
     "글램핑 오픈"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "Naver 뉴스"
   },
   {
@@ -303,7 +348,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 2,
+   "streak_days": 3,
    "source_name": "Naver 뉴스"
   },
   {
@@ -318,7 +363,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 2,
+   "streak_days": 3,
    "source_name": "Naver 뉴스"
   },
   {
@@ -333,7 +378,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 2,
+   "streak_days": 3,
    "source_name": "Naver 뉴스"
   },
   {
@@ -348,7 +393,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 2,
+   "streak_days": 3,
    "source_name": "Naver 뉴스"
   },
   {
@@ -363,22 +408,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 2,
-   "source_name": "Naver 뉴스"
-  },
-  {
-   "id": "78d8bd40735d84f0",
-   "title": "영암군, 월출산 품은 '영암 숲속 웰니스 체험시설' 개장",
-   "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=94140",
-   "published_at": "2026-11-13T17:06:00+09:00",
-   "summary": "이번 개장 으로 월출산 기찬묏길과 국민여가 캠핑장 을 찾는 방문객들은 산책과 캠핑에 더해 숲속 레포츠까지 한곳에서 즐길 수 있게 됐다. 특히 어린이와 부모가 함께 이용할 수 있는 체험 콘텐츠가 마련되면서 가족 단위...",
-   "tags": [
-    "캠핑",
-    "캠핑장 개장"
-   ],
-   "metrics": {},
-   "is_new": false,
-   "streak_days": 4,
+   "streak_days": 3,
    "source_name": "Naver 뉴스"
   },
   {
@@ -393,7 +423,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 5,
+   "streak_days": 6,
    "source_name": "Naver 뉴스"
   },
   {
@@ -408,7 +438,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 5,
+   "streak_days": 6,
    "source_name": "Naver 뉴스"
   },
   {
@@ -423,37 +453,7 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 5,
-   "source_name": "Naver 뉴스"
-  },
-  {
-   "id": "f9264f95faf79c4e",
-   "title": "벨기에 캠핑용품 시장, 가치 소비와 순환경제 서비스에 주목",
-   "url": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=180&CONTENTS_NO=1&bbsGbn=243&bbsSn=243&pNttSn=245113",
-   "published_at": "2026-11-12T12:10:00+09:00",
-   "summary": "캠핑시설 숙박일수와 캠핑카·카라반 신규 등록 증가는 이러한 흐름을 보여준다. 벨기에 통계청 Statbel에 따르면, 2025년 캠핑장 ·캠핑카·카라반 시설의 총 숙박일수는 약 374만 박으로 전년 대비 10.5% 증가했다....",
-   "tags": [
-    "캠핑",
-    "신규 캠핑장"
-   ],
-   "metrics": {},
-   "is_new": false,
-   "streak_days": 5,
-   "source_name": "Naver 뉴스"
-  },
-  {
-   "id": "aac105cbca59231d",
-   "title": "경남·북 4개 지자체 ‘가야산 초광역 관광벨트’ 1조원대 승부수",
-   "url": "https://www.seoul.co.kr/news/plan/2026/11/11/20261111021002?wlog_tag3=naver",
-   "published_at": "2026-11-11T05:04:00+09:00",
-   "summary": "또한 대가야라이브리움이 신규 조성되고 대가야문화놀이단 등 연중 콘텐츠가 운영된다. 스테이... 합천 대장경테마파크 일원을 체험형 전시콘텐츠 제작 및 설치, 대장경 테마정원 조성, 오토 캠핑장 시설 개선 등의...",
-   "tags": [
-    "캠핑",
-    "신규 캠핑장"
-   ],
-   "metrics": {},
-   "is_new": false,
-   "streak_days": 7,
+   "streak_days": 6,
    "source_name": "Naver 뉴스"
   }
  ],
@@ -462,7 +462,7 @@
   "count": 30,
   "warn": [
    "고캠핑 API: 키 없음(DATA_GO_KR_KEY)",
-   "어제와 동일 40%"
+   "어제와 동일 87%"
   ],
   "error": null,
   "level": "warn",

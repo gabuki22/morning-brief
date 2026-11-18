@@ -1,6 +1,6 @@
 {
- "built_at": "2026-11-17T12:59:38+09:00",
- "date": "2026-11-17",
+ "built_at": "2026-11-18T11:58:14+09:00",
+ "date": "2026-11-18",
  "site": {
   "title": "모닝브리프",
   "locations": [
@@ -55,7 +55,7 @@
    "count": 7,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-11-17T12:58:51+09:00",
+   "fetched_at": "2026-11-18T11:57:30+09:00",
    "repeat_ratio": 0.857
   },
   "fx": {
@@ -63,7 +63,7 @@
    "count": 3,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-11-17T12:58:52+09:00",
+   "fetched_at": "2026-11-18T11:57:30+09:00",
    "repeat_ratio": 1.0
   },
   "news": {
@@ -71,7 +71,7 @@
    "count": 135,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-11-17T12:59:04+09:00",
+   "fetched_at": "2026-11-18T11:57:41+09:00",
    "repeat_ratio": 0.0
   },
   "markets": {
@@ -79,7 +79,7 @@
    "count": 5,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-11-17T12:59:05+09:00",
+   "fetched_at": "2026-11-18T11:57:42+09:00",
    "repeat_ratio": 1.0
   },
   "crypto": {
@@ -87,36 +87,36 @@
    "count": 10,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-11-17T12:59:10+09:00",
+   "fetched_at": "2026-11-18T11:57:45+09:00",
    "repeat_ratio": 1.0
   },
   "realestate": {
    "level": "warn",
-   "count": 32,
+   "count": 28,
    "warn": [
     "LH·온비드 공공데이터 API: 키 없음(DATA_GO_KR_KEY) — 뉴스·바로가기만"
    ],
    "block": [],
-   "fetched_at": "2026-11-17T12:59:16+09:00",
-   "repeat_ratio": 0.094
+   "fetched_at": "2026-11-18T11:57:50+09:00",
+   "repeat_ratio": 0.107
   },
   "it": {
    "level": "ok",
    "count": 60,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-11-17T12:59:18+09:00",
+   "fetched_at": "2026-11-18T11:57:52+09:00",
    "repeat_ratio": 0.0
   },
   "auto": {
    "level": "warn",
    "count": 60,
    "warn": [
-    "어제와 동일 60%"
+    "어제와 동일 73%"
    ],
    "block": [],
-   "fetched_at": "2026-11-17T12:59:22+09:00",
-   "repeat_ratio": 0.6
+   "fetched_at": "2026-11-18T11:57:56+09:00",
+   "repeat_ratio": 0.733
   },
   "publicdata": {
    "level": "warn",
@@ -125,7 +125,7 @@
     "World Bank 실패"
    ],
    "block": [],
-   "fetched_at": "2026-11-17T12:59:35+09:00",
+   "fetched_at": "2026-11-18T11:58:11+09:00",
    "repeat_ratio": 1.0
   },
   "leisure": {
@@ -133,63 +133,63 @@
    "count": 30,
    "warn": [
     "고캠핑 API: 키 없음(DATA_GO_KR_KEY)",
-    "어제와 동일 40%"
+    "어제와 동일 87%"
    ],
    "block": [],
-   "fetched_at": "2026-11-17T12:59:37+09:00",
-   "repeat_ratio": 0.4
+   "fetched_at": "2026-11-18T11:58:14+09:00",
+   "repeat_ratio": 0.867
   }
  },
  "must_know": [
   {
    "module": "news",
    "item_ids": [
-    "64cf6c08f2db021e"
+    "3d212c70b1fb72d9"
    ],
-   "title": "중국 연계 AI 해킹단, 한국 외교·정책 조직도 뚫었다",
-   "url": "https://www.mk.co.kr/news/politics/12211032",
-   "why": "매체 1곳 · AI·IT·국제",
-   "score": 10
+   "title": "[속보]조태용 전 국정원장 ‘계엄 위증·정치관여’ 2년6개월 실형 확정",
+   "url": "https://www.khan.co.kr/article/202611181112001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "why": "매체 4곳 · 정치",
+   "score": 9
   },
   {
    "module": "news",
    "item_ids": [
-    "d3486d8738969f68"
+    "f842f09921e9940d"
    ],
-   "title": "“1500만원만 있으면 의대·SKY 합격”…대치맘 AI 부정행위 브로커 고용설 확산",
-   "url": "https://www.mk.co.kr/news/society/12211048",
-   "why": "매체 1곳 · AI·IT·경제",
-   "score": 10
+   "title": "현대차 아틀라스, 자동차 밖 첫 시험대는 ‘美 반도체 공장’",
+   "url": "https://www.chosun.com/economy/industry-company/2026/11/18/7YJBDJ6QHBFQNDNYVABG4UR5WA/",
+   "why": "매체 1곳 · IT·국제·신기술",
+   "score": 9
   },
   {
    "module": "news",
    "item_ids": [
-    "259023525fed43c0"
+    "624af1d512721cb7"
    ],
-   "title": "\"반도체 흔들리자 18조 몰렸다\"…단기자금 피난처",
-   "url": "https://www.hankyung.com/article/202611171574i",
-   "why": "매체 1곳 · IT·신기술",
+   "title": "당정 “수능 응시 대학생 ‘AI 커닝’ 적발 시 대학 퇴학 등 입법 추진”",
+   "url": "https://www.hani.co.kr/arti/politics/assembly/1287889.html",
+   "why": "매체 1곳 · AI·IT",
    "score": 8
   },
   {
    "module": "news",
    "item_ids": [
-    "406b08e73bb28a80"
+    "b09e320671566935"
    ],
-   "title": "[속보] '조작기소 특검법' 공포안 국무회의 통과…韓 총리 주재",
-   "url": "https://www.hankyung.com/article/2026111716067",
-   "why": "매체 3곳 · 사회·정치",
-   "score": 6
+   "title": "중국 텔레그램서 ‘AI 커닝 장비’ 거래 활개…구독자 2만 넘기도",
+   "url": "https://www.hani.co.kr/arti/economy/it/1287881.html",
+   "why": "매체 1곳 · AI·IT·국제",
+   "score": 8
   },
   {
-   "module": "crypto",
+   "module": "news",
    "item_ids": [
-    "57aa32c31d992222"
+    "84f02067e290f56d"
    ],
-   "title": "Hyperliquid (HYPE) ₩94,037",
-   "url": "https://www.coingecko.com/en/coins/hyperliquid",
-   "why": "큰 변동 · 24시간 +5.73% · 7일 -7.86% · 시총 10위 · 이슈: 리플(XRP) 1달러 탈환하면 1.20달러까지 급등하나…숏 스퀴즈 가능성",
-   "score": 0
+   "title": "“실적은 사상 최대인데”…젠슨 황 떠난 엔비디아, 美 SEC 조사까지",
+   "url": "https://www.donga.com/news/Inter/article/all/20261118/135044868/2",
+   "why": "매체 1곳 · IT·국제·신기술",
+   "score": 8
   }
  ],
  "banned_hits": 0
