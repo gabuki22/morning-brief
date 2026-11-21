@@ -1,6 +1,6 @@
 {
  "module": "realestate",
- "fetched_at": "2026-11-20T11:24:14+09:00",
+ "fetched_at": "2026-11-21T11:29:11+09:00",
  "source": {
   "name": "RSS 6곳",
   "url": "https://www.hankyung.com/feed/realestate",
@@ -8,11 +8,25 @@
  },
  "items": [
   {
-   "id": "aad71cdfd6eef146",
-   "title": "HUG, 하나자산신탁과 전월세 안심신탁 양해각서…850가구 접수",
-   "url": "https://www.yna.co.kr/view/AKR20261120060500003",
-   "published_at": "2026-11-20T10:44:47+09:00",
-   "summary": "(서울=연합뉴스) 오예진 기자 = 주택도시보증공사(HUG)는 하나자산신탁과 전월세 안심신탁 활성화를 위한 업무협약을 체결했다고 20일 밝혔다.",
+   "id": "5c75d9ac41bba2c8",
+   "title": "“팔짱 낀 채 보고 있어요”… 팔 이유 많은데 살 사람 없는 강남 부동산",
+   "url": "https://www.donga.com/news/Economy/article/all/20261121/135064473/1",
+   "published_at": "2026-11-21T08:25:00+09:00",
+   "summary": "“이젠 급매가 나와도 지켜보자는 분위기죠. 장기간 집을 보유한 고령 소유자의 경우 지금까지 시세차익과 앞으로 낼 보유세를 고려하면 매도가 낫다고 판단해 가격을 낮춰서라도 팔려고 해요. 반대로 매입자는 가격이 계속 떨어지니까 일단 팔짱을 끼고 있습니다. 올해 초 65억 원에 거래되던 30",
+   "tags": [
+    "부동산"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "동아일보 경제"
+  },
+  {
+   "id": "adac62138d9f1d24",
+   "title": "[부동산캘린더] 내주 서울 경희궁 에피트 등 전국서 6천295가구 분양",
+   "url": "https://www.yna.co.kr/view/AKR20261120124100003",
+   "published_at": "2026-11-21T06:00:03+09:00",
+   "summary": "(세종=연합뉴스) 오진송 기자 = 다음 주 전국 15곳에서 총 6천295가구가 공급된다.",
    "tags": [
     "부동산",
     "수도권"
@@ -23,11 +37,25 @@
    "source_name": "연합뉴스 경제"
   },
   {
-   "id": "a696adba7e967551",
-   "title": "목동 5·12·14단지, 1만1863가구로 재건축… 통합심의 통과",
-   "url": "https://www.chosun.com/economy/real_estate/2026/11/20/HEYGEOBRGQ2GKYJQMM2GIZRQMY/",
-   "published_at": "2026-11-20T10:29:58+09:00",
-   "summary": "서울 양천구 목동 5·12·14단지 등 아파트 3곳이 1만1863가구로 재건축된다. 서울시는 19일 제23차 정비사업 통합심의위원회를 열고 목동 5·12·14단지 아파트 재건축사업 건축·경관·교육·교통·재해·환경·공원 7개 분야 통합심의안을 각각 조건부 의결했다고 20일 밝혔다. 이에 ",
+   "id": "ef3f1dcd276c2394",
+   "title": "\"콘도 사면 그린피 반값\" 퍼블릭 골프장의 '꼼수 회원권'",
+   "url": "https://www.chosun.com/economy/realty/2026/11/21/GE3GINZZGIZTCYJWGAZDMYRVMM/",
+   "published_at": "2026-11-21T06:00:00+09:00",
+   "summary": "[땅집고] 회원 모집이 원칙적으로 금지된 비회원제 골프장들이 콘도와 빌라 분양권, 금전소비대차 계약 등을 앞세워 사실상 회원제 영업을 하고 있다. 숙박시설이나 자금 대여 계약에 그린피 할인과 이용 우선권 등 골프장 회원권에 준하는 혜택을 붙이는 방식이다. 대중형 골프장으로 지정돼 세금 ",
+   "tags": [
+    "부동산"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "조선일보 경제"
+  },
+  {
+   "id": "382096515b524fc6",
+   "title": "'부르는 게 값' 동대문 이문뉴타운…입주권 웃돈만 13억 된 이유",
+   "url": "https://www.chosun.com/economy/realty/realestate_news/2026/11/21/MM4TMMDBGBRDKODCGA3GCZRQME/",
+   "published_at": "2026-11-21T06:00:00+09:00",
+   "summary": "[땅집고] “전용 84㎡ 아파트 입주권을 받을 수 있는 조합원 매물의 프리미엄(웃돈)이 이제 10억원을 넘어섰습니다. 실제 매수하려면 투자금이 20억원에 육박합니다.” 19일 서울 동대문구 이문4구역 인근에서 만난 전숙자 부동산플러스 외대점 대표는 최근 입주권 거래 상황을 묻자 이렇게 ",
    "tags": [
     "부동산",
     "수도권"
@@ -38,26 +66,11 @@
    "source_name": "조선일보 경제"
   },
   {
-   "id": "339df3c8d870a36c",
-   "title": "목동 5·12·14단지 재건축 통합심의 통과…1.1만가구 탈바꿈",
-   "url": "https://www.donga.com/news/Economy/article/all/20261120/135059019/1",
-   "published_at": "2026-11-20T10:22:54+09:00",
-   "summary": "서울 양천구 목동 5·12·14단지 등 아파트 3곳이 정비사업을 거쳐 1만 1863가구 규모의 주거 단지로 탈바꿈한다.서울시는 19일 제23차 정비사업 통합심의위원회를 열고 목동 5·12·14단지 아파트 재건축사업 건축·경관·교육·교통·재해·환경·공원 7개 분야 통합심의안을 각각 조건부",
-   "tags": [
-    "부동산",
-    "수도권"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "동아일보 경제"
-  },
-  {
-   "id": "b2a6be298f6bfcee",
-   "title": "구미 파크원 데시앙, 20일 견본주택 개관…1,355가구 분양",
-   "url": "https://www.donga.com/news/Economy/article/all/20261120/135058760/1",
-   "published_at": "2026-11-20T10:10:00+09:00",
-   "summary": "경북 구미시 고아읍에 들어서는 ‘구미 파크원 데시앙’이 20일 견본주택을 열고 분양에 들어갔다. 단지는 지하 3층~지상 40층, 10개 동, 전용면적 84~110㎡ 총 1,355가구로 구성된다. 견본주택은 구미시 고아읍 원호리 일원에 있다. 입주는 2030년 2월 예정이다. 단지는 민간",
+   "id": "540fa5cc2bd9fed6",
+   "title": "내년 부동산 공시가 현실화율 69%로 동결",
+   "url": "https://www.donga.com/news/Economy/article/all/20261120/135063731/2",
+   "published_at": "2026-11-21T01:40:00+09:00",
+   "summary": "내년 부동산 공시가격은 시세 변동만 반영해 오르거나 내리게 된다. 국토교통부는 20일 중앙부동산가격공시위원회를 열고 2027년도 시세 대비 공시가격 비율(현실화율)을 2026년과 같게 유지하는 공시가 운영 방안을 의결했다고 밝혔다. 이번 결정으로 공동주택 공시가 현실화율은 69%로 확정",
    "tags": [
     "부동산"
    ],
@@ -65,6 +78,136 @@
    "is_new": true,
    "streak_days": 1,
    "source_name": "동아일보 경제"
+  },
+  {
+   "id": "f8603c5a77309a59",
+   "title": "단지 안에 아이스링크-풀빌라… “차별화 전략” vs “비용만 높여”",
+   "url": "https://www.donga.com/news/Economy/article/all/20261120/135062964/2",
+   "published_at": "2026-11-21T01:40:00+09:00",
+   "summary": "⟪아이스링크장 품은 아파트 커뮤니티최근 아파트 단지에 아이스링크장, 볼링장 등 대규모 시설을 조성하려는 움직임이 늘고 있다. 커뮤니티 시설을 고급화해 아파트 가치를 높이기 위한 시도라는 시각도 있지만 공사비를 높이는 원인이라는 지적도 나온다.⟫실내 아이스링크장, 국제 규격에 해당하는 수",
+   "tags": [
+    "부동산"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "동아일보 경제"
+  },
+  {
+   "id": "7ab1769d1f83b8a1",
+   "title": "“보편형 공공임대 입주 기준 전면 폐지”…기본주택 실현되나?",
+   "url": "https://www.hani.co.kr/arti/economy/economy_general/1288398.html",
+   "published_at": "2026-11-21",
+   "summary": "",
+   "tags": [
+    "부동산",
+    "청약"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "한겨레 경제"
+  },
+  {
+   "id": "d584b29d69828940",
+   "title": "새 아파트 말고, ‘헌집’ 에너지 효율 높이는 방법 없을까",
+   "url": "https://www.hani.co.kr/arti/economy/economy_general/1288379.html",
+   "published_at": "2026-11-21",
+   "summary": "",
+   "tags": [
+    "부동산"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "한겨레 경제"
+  },
+  {
+   "id": "2e8a584269fe5650",
+   "title": "국토부, 주택공시가 현실화율 ‘동결’…묶여도 집값 오른 곳 보유세는 오를 듯",
+   "url": "https://www.khan.co.kr/article/202611202007001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
+   "published_at": "2026-11-20T20:07:00+09:00",
+   "summary": "서울 한강변 아파트. 경향신문 자료사진내년 공동주택 공시가격의 시세반영률(현실화율)이 올해와 동일한 69.0%로 동결됐다. 현실화율 인상에 따른 추가적인 세 부담은 없는 셈이지만, 집값이 오른 지역은 공시가격과 보유세가 오를 전망이다.국토교통부는 20일 중앙부동산가격공시위원회를 열고 이",
+   "tags": [
+    "부동산",
+    "수도권"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "경향신문 경제"
+  },
+  {
+   "id": "714b125404ace8b4",
+   "title": "공시가격 현실화율 69% 동결…\"집값 오른 곳, 보유세 늘 수도\"",
+   "url": "https://www.hankyung.com/article/2026112008757",
+   "published_at": "2026-11-20T19:56:09+09:00",
+   "summary": "",
+   "tags": [
+    "부동산"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "한국경제 부동산"
+  },
+  {
+   "id": "7643b426db0ff851",
+   "title": "서울 집값 급등에…공시가 현실화 '원점'으로",
+   "url": "https://www.hankyung.com/article/2026112006401",
+   "published_at": "2026-11-20T17:44:53+09:00",
+   "summary": "",
+   "tags": [
+    "부동산",
+    "수도권"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "한국경제 부동산"
+  },
+  {
+   "id": "189ebae3bc767151",
+   "title": "19만 가구 '보편형 공공임대', 소득·자산 안 따지고 입주 검토",
+   "url": "https://www.hankyung.com/article/2026112006411",
+   "published_at": "2026-11-20T17:24:41+09:00",
+   "summary": "",
+   "tags": [
+    "부동산",
+    "청약"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "한국경제 부동산"
+  },
+  {
+   "id": "8d0d5177b8752ad7",
+   "title": "형곡동 10년 만의 새 아파트…'형곡 센트럴 아테라' 1순위 8.7 대 1",
+   "url": "https://www.hankyung.com/article/202611200114i",
+   "published_at": "2026-11-20T14:36:58+09:00",
+   "summary": "",
+   "tags": [
+    "부동산"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "한국경제 부동산"
+  },
+  {
+   "id": "8d387d5d6e11ca7c",
+   "title": "목동 5·12·14단지 재건축 통합심의 통과…최고 49층·1만1863가구 조성",
+   "url": "https://www.hankyung.com/article/202611209634i",
+   "published_at": "2026-11-20T11:11:20+09:00",
+   "summary": "",
+   "tags": [
+    "부동산"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "한국경제 부동산"
   },
   {
    "id": "c175a1c9752e4288",
@@ -76,8 +219,8 @@
     "부동산"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "한국경제 부동산"
   },
   {
@@ -92,8 +235,8 @@
     "청약"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "한국경제 부동산"
   },
   {
@@ -106,8 +249,8 @@
     "부동산"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "한국경제 부동산"
   },
   {
@@ -120,99 +263,9 @@
     "부동산"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "한국경제 부동산"
-  },
-  {
-   "id": "1ff565bae49d7279",
-   "title": "서울 월세 168만원, 경기 120만원… 인천도 100만원 넘겨",
-   "url": "https://www.chosun.com/economy/real_estate/2026/11/20/FL5NOZW2XZAPHMT5D5W6ACDF2I/",
-   "published_at": "2026-11-20T00:32:00+09:00",
-   "summary": "서울·경기·인천의 아파트 평균 월세가 모두 100만원을 넘어섰다. 서울은 170만원을 눈앞에 뒀고, 경기도는 120만원 선에 바짝 다가섰다.",
-   "tags": [
-    "부동산",
-    "수도권"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "조선일보 경제"
-  },
-  {
-   "id": "7c7d1055f20b6f25",
-   "title": "외국인 ‘토허제’ 1년… 서울 매수자 25% 줄고 부산은 46% 늘어",
-   "url": "https://www.chosun.com/economy/real_estate/2026/11/20/NABRGIGIYNGTBK5UQPL6TXLK6M/",
-   "published_at": "2026-11-20T00:32:00+09:00",
-   "summary": "외국인 주택 거래에 허가를 받도록 한 외국인 토지거래허가제(토허제)가 시행된 지 1년여 만에 외국인 부동산 수요가 지방으로 분산되고 있다. 서울·경기 지역 외국인 매수자는 20% 넘게 줄었지만, 비수도권 외국인 부동산 소유자는 수도권보다 빠르게 늘었다. 실거주 의무가 붙은 수도권 대신 ",
-   "tags": [
-    "부동산",
-    "수도권"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "조선일보 경제"
-  },
-  {
-   "id": "9a8e4a8f0fa484b5",
-   "title": "서울 7개구 아파트값 하락세로…강남3구 이어 한강벨트도 약세",
-   "url": "https://www.hani.co.kr/arti/economy/property/1288152.html",
-   "published_at": "2026-11-20",
-   "summary": "",
-   "tags": [
-    "부동산",
-    "수도권"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "한겨레 경제"
-  },
-  {
-   "id": "ff24c183f2cf0944",
-   "title": "‘한강벨트’ 용산·동작도 집값 하락",
-   "url": "https://www.khan.co.kr/article/202611192049035/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
-   "published_at": "2026-11-19T20:49:03+09:00",
-   "summary": "서울 아파트값 상승폭 보합 수준 “강남 3구와 가격차 줄어 관망세” 성북·중랑 ‘중저가’ 상승세 여전서울 아파트값 상승폭이 보합 수준까지 줄었다. 강남 3구(강남·서초·송파구)에서 시작된 하락세가 용산·동작구 등 한강벨트로 번지는 양상이다.한국부동산원이 19일 발표한 11월 셋째 주(지",
-   "tags": [
-    "부동산",
-    "수도권"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "경향신문 경제"
-  },
-  {
-   "id": "ea37dabee4632364",
-   "title": "반포현대 재초환 부담금 연내 부과 확정",
-   "url": "https://www.khan.co.kr/article/202611192049015/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
-   "published_at": "2026-11-19T20:49:01+09:00",
-   "summary": "국토부 “기한 연장 불가” 판단가격 조정·거래 위축 등 전망정부가 재건축 초과이익 환수제(재초환)에 따른 부담금 부과기한을 법 개정에 따라 연장할 수 없다고 판단했다. 이로써 서울 서초구가 반포현대(현 반포 센트레빌 아스테리움) 재건축조합에 올해 말까지 납부하라고 부과한 초과이익 부담금",
-   "tags": [
-    "부동산",
-    "수도권"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "경향신문 경제"
-  },
-  {
-   "id": "a8128b319909543c",
-   "title": "중산층 ‘보편형 공공임대’ 또 예산 증액…“주거복지 역행” 비판",
-   "url": "https://www.khan.co.kr/article/202611192048005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
-   "published_at": "2026-11-19T20:48:00+09:00",
-   "summary": "국회서 9000억 늘려, 속도전 앞세워 공공임대 물량 일부도 전환‘입주 대기’ 9만 저소득층 외면…‘임대유형 통합’ 기존 취지 부정중산층·청년을 겨냥한 ‘보편형 공공임대주택’ 관련 예산이 국회 심사 과정에서 9000억원 가까이 또 늘어났다. 저소득층 대상의 임대주택 입주 대기자가 수만명",
-   "tags": [
-    "부동산",
-    "청약"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "경향신문 경제"
   },
   {
    "id": "ff463ae3061350c0",
@@ -224,8 +277,8 @@
     "부동산"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "한국경제 부동산"
   },
   {
@@ -238,8 +291,8 @@
     "부동산"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "한국경제 부동산"
   },
   {
@@ -253,105 +306,15 @@
     "청약"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "한국경제 부동산"
-  },
-  {
-   "id": "2db1a781b8731016",
-   "title": "\"여기도 집값 꺾였다\"…강남 넘어 확산하는 '하락 공포'",
-   "url": "https://www.hankyung.com/article/2026111982811",
-   "published_at": "2026-11-19T17:51:28+09:00",
-   "summary": "",
-   "tags": [
-    "부동산"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "한국경제 부동산"
-  },
-  {
-   "id": "60e9ce381b64d0f5",
-   "title": "아파트 경매 양극화…'15억 이하'로 몰린다",
-   "url": "https://www.hankyung.com/article/2026111982501",
-   "published_at": "2026-11-19T17:41:51+09:00",
-   "summary": "",
-   "tags": [
-    "부동산",
-    "경매"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "한국경제 부동산"
-  },
-  {
-   "id": "937d8c1d4a29badc",
-   "title": "서울 빌라촌 없애고 아파트로…GTX 호재까지 터졌다 '들썩'",
-   "url": "https://www.hankyung.com/article/202611172472i",
-   "published_at": "2026-11-19T17:27:02+09:00",
-   "summary": "",
-   "tags": [
-    "부동산",
-    "수도권"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "한국경제 부동산"
-  },
-  {
-   "id": "c8521138e068d251",
-   "title": "공공재개발, 주민이 브랜드 고르고 민간이 짓는다…LH, 4개 구역 주민대표와 간담회",
-   "url": "https://www.hankyung.com/article/202611197749i",
-   "published_at": "2026-11-19T15:55:17+09:00",
-   "summary": "",
-   "tags": [
-    "부동산",
-    "청약"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "한국경제 부동산"
-  },
-  {
-   "id": "2ec463ad9ede9e6d",
-   "title": "서울 도심복합 8곳 1만9000가구로 늘린다…LH, 서울시와 협의 재개",
-   "url": "https://www.hankyung.com/article/202611197737i",
-   "published_at": "2026-11-19T15:52:13+09:00",
-   "summary": "",
-   "tags": [
-    "부동산",
-    "수도권",
-    "청약"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "한국경제 부동산"
-  },
-  {
-   "id": "681b5b704737b7ab",
-   "title": "LH, 발주부터 착공까지 130일서 63일로 줄인다",
-   "url": "https://www.hankyung.com/article/202611197346i",
-   "published_at": "2026-11-19T14:13:24+09:00",
-   "summary": "",
-   "tags": [
-    "부동산",
-    "청약"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "한국경제 부동산"
   },
   {
    "id": "6a0834327afccc3b",
    "title": "LH 청약플러스 — 분양·임대 공고",
    "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
-   "published_at": "2026-11-20",
+   "published_at": "2026-11-21",
    "summary": "수도권 공고는 지역 필터로",
    "tags": [
     "바로가기",
@@ -359,14 +322,14 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 63,
+   "streak_days": 64,
    "source_name": "바로가기"
   },
   {
    "id": "25744536b7c84e25",
    "title": "온비드 — 공매 물건",
    "url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateList.do",
-   "published_at": "2026-11-20",
+   "published_at": "2026-11-21",
    "summary": "부동산 공매 검색",
    "tags": [
     "바로가기",
@@ -374,14 +337,14 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 63,
+   "streak_days": 64,
    "source_name": "바로가기"
   },
   {
    "id": "c91f39808692d334",
    "title": "법원경매정보 — 매각기일 공고",
    "url": "https://www.courtauction.go.kr/",
-   "published_at": "2026-11-20",
+   "published_at": "2026-11-21",
    "summary": "관할 법원별 기일 확인",
    "tags": [
     "바로가기",
@@ -389,15 +352,16 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 63,
+   "streak_days": 64,
    "source_name": "바로가기"
   }
  ],
  "status": {
   "ok": true,
-  "count": 26,
+  "count": 24,
   "warn": [
-   "LH·온비드 공공데이터 API: 키 없음(DATA_GO_KR_KEY) — 뉴스·바로가기만"
+   "LH·온비드 공공데이터 API: 키 없음(DATA_GO_KR_KEY) — 뉴스·바로가기만",
+   "어제와 동일 42%"
   ],
   "error": null,
   "level": "warn",
