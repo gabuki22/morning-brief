@@ -1,6 +1,6 @@
 {
- "built_at": "2026-11-21T11:29:22+09:00",
- "date": "2026-11-21",
+ "built_at": "2026-11-22T10:25:18+09:00",
+ "date": "2026-11-22",
  "site": {
   "title": "모닝브리프",
   "locations": [
@@ -55,7 +55,7 @@
    "count": 7,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-11-21T11:28:49+09:00",
+   "fetched_at": "2026-11-22T10:24:48+09:00",
    "repeat_ratio": 0.857
   },
   "fx": {
@@ -63,7 +63,7 @@
    "count": 3,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-11-21T11:28:49+09:00",
+   "fetched_at": "2026-11-22T10:24:48+09:00",
    "repeat_ratio": 1.0
   },
   "news": {
@@ -71,15 +71,15 @@
    "count": 135,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-11-21T11:29:00+09:00",
-   "repeat_ratio": 0.0
+   "fetched_at": "2026-11-22T10:24:58+09:00",
+   "repeat_ratio": 0.015
   },
   "markets": {
    "level": "ok",
    "count": 5,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-11-21T11:29:01+09:00",
+   "fetched_at": "2026-11-22T10:24:58+09:00",
    "repeat_ratio": 1.0
   },
   "crypto": {
@@ -87,44 +87,44 @@
    "count": 10,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-11-21T11:29:06+09:00",
+   "fetched_at": "2026-11-22T10:25:01+09:00",
    "repeat_ratio": 1.0
   },
   "realestate": {
    "level": "warn",
-   "count": 24,
+   "count": 30,
    "warn": [
     "LH·온비드 공공데이터 API: 키 없음(DATA_GO_KR_KEY) — 뉴스·바로가기만",
-    "어제와 동일 42%"
+    "어제와 동일 60%"
    ],
    "block": [],
-   "fetched_at": "2026-11-21T11:29:11+09:00",
-   "repeat_ratio": 0.417
+   "fetched_at": "2026-11-22T10:25:05+09:00",
+   "repeat_ratio": 0.6
   },
   "it": {
    "level": "ok",
    "count": 60,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-11-21T11:29:14+09:00",
-   "repeat_ratio": 0.0
+   "fetched_at": "2026-11-22T10:25:08+09:00",
+   "repeat_ratio": 0.067
   },
   "auto": {
    "level": "warn",
    "count": 60,
    "warn": [
-    "어제와 동일 80%"
+    "어제와 동일 97%"
    ],
    "block": [],
-   "fetched_at": "2026-11-21T11:29:17+09:00",
-   "repeat_ratio": 0.8
+   "fetched_at": "2026-11-22T10:25:12+09:00",
+   "repeat_ratio": 0.967
   },
   "publicdata": {
    "level": "ok",
    "count": 8,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-11-21T11:29:19+09:00",
+   "fetched_at": "2026-11-22T10:25:14+09:00",
    "repeat_ratio": 1.0
   },
   "leisure": {
@@ -132,63 +132,63 @@
    "count": 30,
    "warn": [
     "고캠핑 API: 키 없음(DATA_GO_KR_KEY)",
-    "어제와 동일 60%"
+    "어제와 동일 73%"
    ],
    "block": [],
-   "fetched_at": "2026-11-21T11:29:22+09:00",
-   "repeat_ratio": 0.6
+   "fetched_at": "2026-11-22T10:25:18+09:00",
+   "repeat_ratio": 0.733
   }
  },
  "must_know": [
   {
    "module": "news",
    "item_ids": [
-    "cc56cb7aeb97ca49"
+    "fc4d1884057c70f5"
    ],
-   "title": "4년 만에 대중국 무역수지 흑자의 역설...반도체 빼면 적자폭 확대",
-   "url": "https://www.hani.co.kr/arti/economy/economy_general/1288425.html",
-   "why": "매체 1곳 · IT·경제·국제",
-   "score": 10
+   "title": "출소 뒤 반년만에 국어 7→2등급... 리트 만점자, 3년 전 수능도 의혹 - 조선일보",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMFRNdVctZjRoS055SEVZS3lZMmJpVGx3MVhRUUJoUFdoZGVYWlhtSy1KbmItR2JzZTN2WkpIU0dvTk9iZWlheDB3Ti05aGFTTTIzbkNzUWZrNUU5QWcyNFE4SHBIaHZfbV9QXzExdG1UOVZlY0d2Q1JtSF9XMmwycFF2b2xGWGQwZkVHZ1BRTW8?oc=5",
+   "why": "매체 1곳 · AI·IT·사회",
+   "score": 8
   },
   {
    "module": "news",
    "item_ids": [
-    "218ef40124766811"
+    "7b9e895131c3ec5e"
    ],
-   "title": "반도체 호황에도 내수 파급은 제한적…“시차 두고 커질 수도”",
-   "url": "https://www.khan.co.kr/article/202611210933001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-   "why": "매체 1곳 · AI·IT·경제",
-   "score": 10
-  },
-  {
-   "module": "news",
-   "item_ids": [
-    "89682397dc46935a"
-   ],
-   "title": "나스닥, 기술주 매도에 5.3% 폭락‥다우·S&P500도 조정 진입 - MBC 뉴스",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1VNUNLMkdxZGRDa1ZIN3BSV1FBc0lIUnNLUlZRYXJSYi1qYjZ1b0ZmV3FibTYzZzg4X2E4MmhTbnFKbklLNmFva1hCSVc2d25fb0dtQ0Y3RV96eGwzNHZSR0tLam1Vc09na0VYWktlX3FxOW9O0gF0QVVfeXFMUDhxcmxEOFJyaXNJa0RfN0NnTllNZndfYU5RNlVRTDJMZjZZNU9YdjczSmQwSmt5S1ZMa0dFaVJlMGhtT3hIeXI1RVlJN29QUTBlck83dE9idTlySW1LQVNGSXVEandyZ2NhNFFtQTlNYlp1Njg?oc=5",
+   "title": "AI 커닝에 흔들린 국가자격시험…평가 방식도 바꿔야 하나 - 연합뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kN2QtSDFjSUhMZTEzWENoVVZqREhJTVUtOGM2RW92TUxtZ2I4YnFzTXlFRFJTUnNIZExLWDkwM0pHbl9PRG4tT1dqTUZleU5uYmxtZEVvVWJjWFHSAWBBVV95cUxPU2JHRUVTWFNUdUNidEh0dWRUYnFfUG5QMmVnd2ZaVnNWQ0llTVhOM3BmUnJua092eE8ySDhSRXZ3Um40OEpHMjhkbDZhQkMtb0RxbGd0VExVcUdZSktobm0?oc=5",
    "why": "매체 1곳 · AI·IT",
    "score": 8
   },
   {
    "module": "news",
    "item_ids": [
-    "ae6e023127ec2598"
+    "10530935fab60555"
    ],
-   "title": "‘먼작귀’ 열풍 ‘치이카와’ 300만 돌파…올해 애니 흥행 1위",
-   "url": "https://www.hani.co.kr/arti/culture/culture_general/1288426.html",
-   "why": "매체 2곳 · 국제",
-   "score": 7
+   "title": "반도체 소재 승부수 던진 미쓰이화학…주가 회복할수 있을까",
+   "url": "https://www.hankyung.com/article/202611211239i",
+   "why": "매체 1곳 · IT·신기술",
+   "score": 8
   },
   {
-   "module": "crypto",
+   "module": "news",
    "item_ids": [
-    "18c91f56d2cb940c"
+    "daf0043d072d99f1"
    ],
-   "title": "Ethereum (ETH) ₩2,181,824",
-   "url": "https://www.coingecko.com/en/coins/ethereum",
-   "why": "큰 변동 · 24시간 -5.74% · 7일 -15.99% · 시총 2위 · 이슈: 이더리움 글램스터댐 가스 비용 변경, 50개 넘는 팀 영향 가능성",
-   "score": 0
+   "title": "코스피 ‘곡소리’ 날 때 혼자 ‘잇몸미소’…삼성전자 등에 업은 로봇株, 계속 뛸까?",
+   "url": "https://www.mk.co.kr/news/business/12215429",
+   "why": "매체 1곳 · IT·신기술",
+   "score": 8
+  },
+  {
+   "module": "news",
+   "item_ids": [
+    "ef5bbacfdf31048c"
+   ],
+   "title": "눈 없이 맑은 ‘소설’…아침 최저 영하 10도, 낮 최고 12도",
+   "url": "https://www.hani.co.kr/arti/society/environment/1288454.html",
+   "why": "매체 2곳",
+   "score": 7
   }
  ],
  "banned_hits": 0
