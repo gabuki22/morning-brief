@@ -1,6 +1,6 @@
 {
- "built_at": "2026-11-22T10:25:18+09:00",
- "date": "2026-11-22",
+ "built_at": "2026-11-23T10:49:42+09:00",
+ "date": "2026-11-23",
  "site": {
   "title": "모닝브리프",
   "locations": [
@@ -55,7 +55,7 @@
    "count": 7,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-11-22T10:24:48+09:00",
+   "fetched_at": "2026-11-23T10:49:13+09:00",
    "repeat_ratio": 0.857
   },
   "fx": {
@@ -63,7 +63,7 @@
    "count": 3,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-11-22T10:24:48+09:00",
+   "fetched_at": "2026-11-23T10:49:13+09:00",
    "repeat_ratio": 1.0
   },
   "news": {
@@ -71,15 +71,15 @@
    "count": 135,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-11-22T10:24:58+09:00",
-   "repeat_ratio": 0.015
+   "fetched_at": "2026-11-23T10:49:22+09:00",
+   "repeat_ratio": 0.0
   },
   "markets": {
    "level": "ok",
    "count": 5,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-11-22T10:24:58+09:00",
+   "fetched_at": "2026-11-23T10:49:23+09:00",
    "repeat_ratio": 1.0
   },
   "crypto": {
@@ -87,44 +87,46 @@
    "count": 10,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-11-22T10:25:01+09:00",
+   "fetched_at": "2026-11-23T10:49:26+09:00",
    "repeat_ratio": 1.0
   },
   "realestate": {
    "level": "warn",
-   "count": 30,
+   "count": 28,
    "warn": [
     "LH·온비드 공공데이터 API: 키 없음(DATA_GO_KR_KEY) — 뉴스·바로가기만",
-    "어제와 동일 60%"
+    "어제와 동일 25%"
    ],
    "block": [],
-   "fetched_at": "2026-11-22T10:25:05+09:00",
-   "repeat_ratio": 0.6
+   "fetched_at": "2026-11-23T10:49:29+09:00",
+   "repeat_ratio": 0.25
   },
   "it": {
-   "level": "ok",
+   "level": "warn",
    "count": 60,
-   "warn": [],
+   "warn": [
+    "링크 확인 실패 1/3"
+   ],
    "block": [],
-   "fetched_at": "2026-11-22T10:25:08+09:00",
-   "repeat_ratio": 0.067
+   "fetched_at": "2026-11-23T10:49:34+09:00",
+   "repeat_ratio": 0.0
   },
   "auto": {
    "level": "warn",
    "count": 60,
    "warn": [
-    "어제와 동일 97%"
+    "어제와 동일 87%"
    ],
    "block": [],
-   "fetched_at": "2026-11-22T10:25:12+09:00",
-   "repeat_ratio": 0.967
+   "fetched_at": "2026-11-23T10:49:37+09:00",
+   "repeat_ratio": 0.867
   },
   "publicdata": {
    "level": "ok",
    "count": 8,
    "warn": [],
    "block": [],
-   "fetched_at": "2026-11-22T10:25:14+09:00",
+   "fetched_at": "2026-11-23T10:49:39+09:00",
    "repeat_ratio": 1.0
   },
   "leisure": {
@@ -132,63 +134,63 @@
    "count": 30,
    "warn": [
     "고캠핑 API: 키 없음(DATA_GO_KR_KEY)",
-    "어제와 동일 73%"
+    "어제와 동일 63%"
    ],
    "block": [],
-   "fetched_at": "2026-11-22T10:25:18+09:00",
-   "repeat_ratio": 0.733
+   "fetched_at": "2026-11-23T10:49:42+09:00",
+   "repeat_ratio": 0.633
   }
  },
  "must_know": [
   {
    "module": "news",
    "item_ids": [
-    "fc4d1884057c70f5"
+    "6b8f2d9c65400888"
    ],
-   "title": "출소 뒤 반년만에 국어 7→2등급... 리트 만점자, 3년 전 수능도 의혹 - 조선일보",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMFRNdVctZjRoS055SEVZS3lZMmJpVGx3MVhRUUJoUFdoZGVYWlhtSy1KbmItR2JzZTN2WkpIU0dvTk9iZWlheDB3Ti05aGFTTTIzbkNzUWZrNUU5QWcyNFE4SHBIaHZfbV9QXzExdG1UOVZlY0d2Q1JtSF9XMmwycFF2b2xGWGQwZkVHZ1BRTW8?oc=5",
-   "why": "매체 1곳 · AI·IT·사회",
-   "score": 8
+   "title": "머스크, “내년 AI 업계 심각한 현금난 닥칠 것” 경고",
+   "url": "https://www.chosun.com/economy/tech_it/2026/11/23/OLOIZESXRREYXGQHDWFYHG5UOE/",
+   "why": "매체 1곳 · AI·IT·자동차",
+   "score": 9
   },
   {
    "module": "news",
    "item_ids": [
-    "7b9e895131c3ec5e"
+    "2702740e122bd22b"
    ],
-   "title": "AI 커닝에 흔들린 국가자격시험…평가 방식도 바꿔야 하나 - 연합뉴스",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kN2QtSDFjSUhMZTEzWENoVVZqREhJTVUtOGM2RW92TUxtZ2I4YnFzTXlFRFJTUnNIZExLWDkwM0pHbl9PRG4tT1dqTUZleU5uYmxtZEVvVWJjWFHSAWBBVV95cUxPU2JHRUVTWFNUdUNidEh0dWRUYnFfUG5QMmVnd2ZaVnNWQ0llTVhOM3BmUnJua092eE8ySDhSRXZ3Um40OEpHMjhkbDZhQkMtb0RxbGd0VExVcUdZSktobm0?oc=5",
+   "title": "WSJ \"AI 주식 매도세, 닷컴버블 붕괴와 놀랄 만큼 비슷\"",
+   "url": "https://www.hankyung.com/article/2026112334917",
    "why": "매체 1곳 · AI·IT",
    "score": 8
   },
   {
    "module": "news",
    "item_ids": [
-    "10530935fab60555"
+    "5b5178e576b2e1a1"
    ],
-   "title": "반도체 소재 승부수 던진 미쓰이화학…주가 회복할수 있을까",
-   "url": "https://www.hankyung.com/article/202611211239i",
-   "why": "매체 1곳 · IT·신기술",
-   "score": 8
-  },
-  {
-   "module": "news",
-   "item_ids": [
-    "daf0043d072d99f1"
-   ],
-   "title": "코스피 ‘곡소리’ 날 때 혼자 ‘잇몸미소’…삼성전자 등에 업은 로봇株, 계속 뛸까?",
-   "url": "https://www.mk.co.kr/news/business/12215429",
-   "why": "매체 1곳 · IT·신기술",
-   "score": 8
-  },
-  {
-   "module": "news",
-   "item_ids": [
-    "ef5bbacfdf31048c"
-   ],
-   "title": "눈 없이 맑은 ‘소설’…아침 최저 영하 10도, 낮 최고 12도",
-   "url": "https://www.hani.co.kr/arti/society/environment/1288454.html",
+   "title": "삼성증권, 8241명 고객 개인정보 유출…계좌번호·주소 등 포함",
+   "url": "https://www.hani.co.kr/arti/economy/finance/1288594.html",
    "why": "매체 2곳",
    "score": 7
+  },
+  {
+   "module": "news",
+   "item_ids": [
+    "9122e1d76fab42bf"
+   ],
+   "title": "10㎞ 완주한 19세 사망···20대 이어 또 발생한 ‘마라톤 돌연사’, 막을 방법은 없나",
+   "url": "https://www.khan.co.kr/article/202611230917001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+   "why": "매체 2곳 · 사회",
+   "score": 7
+  },
+  {
+   "module": "news",
+   "item_ids": [
+    "abe038ff4235a026"
+   ],
+   "title": "대구·경북 23일 흐리고 오후부터 비…동해안·북동산지 강풍 주의 - 뉴스핌",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE40VUMwQm1zSDFEWnMyUE9rZzIxLVVZT1FPblJ5SlZGNDB5b05xbmZ0S2xJVWtPYTF1RjB3NTA5akpVZ0szVnp4a2I3Uk9fVGV1bTYteFFrVUZqblVm?oc=5",
+   "why": "매체 1곳 · 경제",
+   "score": 6
   }
  ],
  "banned_hits": 0
