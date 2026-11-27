@@ -1,6 +1,6 @@
 {
  "module": "publicdata",
- "fetched_at": "2026-11-26T12:39:56+09:00",
+ "fetched_at": "2026-11-27T12:40:26+09:00",
  "source": {
   "name": "공개 데이터 소스 실측",
   "url": "https://www.data.go.kr/",
@@ -9,27 +9,27 @@
  "items": [
   {
    "id": "3b248502eefd21f1",
-   "title": "✗ Open-Meteo (날씨)",
+   "title": "○ Open-Meteo (날씨)",
    "url": "https://open-meteo.com/",
-   "published_at": "2026-11-26",
-   "summary": "실패 · URLError",
+   "published_at": "2026-11-27",
+   "summary": "정상 · 69ms · 297B · 키 none",
    "tags": [
     "소스 상태",
     "json"
    ],
    "metrics": {
-    "ok": false
+    "ok": true
    },
    "is_new": false,
-   "streak_days": 69,
+   "streak_days": 70,
    "source_name": "실측"
   },
   {
    "id": "3d529cd44b46e3ea",
    "title": "○ Our World in Data",
    "url": "https://ourworldindata.org/",
-   "published_at": "2026-11-26",
-   "summary": "정상 · 620ms · 168,862B · 키 none",
+   "published_at": "2026-11-27",
+   "summary": "정상 · 221ms · 168,862B · 키 none",
    "tags": [
     "소스 상태",
     "csv"
@@ -38,15 +38,15 @@
     "ok": true
    },
    "is_new": false,
-   "streak_days": 69,
+   "streak_days": 70,
    "source_name": "실측"
   },
   {
    "id": "741f5c321e75223a",
    "title": "○ World Bank",
    "url": "https://data.worldbank.org/",
-   "published_at": "2026-11-26",
-   "summary": "정상 · 155ms · 290B · 키 none",
+   "published_at": "2026-11-27",
+   "summary": "정상 · 323ms · 290B · 키 none",
    "tags": [
     "소스 상태",
     "json"
@@ -55,15 +55,15 @@
     "ok": true
    },
    "is_new": false,
-   "streak_days": 69,
+   "streak_days": 70,
    "source_name": "실측"
   },
   {
    "id": "d2f8c78c516af3af",
    "title": "○ Frankfurter (환율)",
    "url": "https://frankfurter.dev/",
-   "published_at": "2026-11-26",
-   "summary": "정상 · 59ms · 70B · 키 none",
+   "published_at": "2026-11-27",
+   "summary": "정상 · 34ms · 71B · 키 none",
    "tags": [
     "소스 상태",
     "json"
@@ -72,15 +72,15 @@
     "ok": true
    },
    "is_new": false,
-   "streak_days": 69,
+   "streak_days": 70,
    "source_name": "실측"
   },
   {
    "id": "c7ca59c4cc86397a",
    "title": "○ USGS (지진)",
    "url": "https://earthquake.usgs.gov/earthquakes/map/",
-   "published_at": "2026-11-26",
-   "summary": "정상 · 358ms · 967B · 키 none",
+   "published_at": "2026-11-27",
+   "summary": "정상 · 299ms · 962B · 키 none",
    "tags": [
     "소스 상태",
     "json"
@@ -89,15 +89,15 @@
     "ok": true
    },
    "is_new": false,
-   "streak_days": 69,
+   "streak_days": 70,
    "source_name": "실측"
   },
   {
    "id": "0a85d032f7c175da",
    "title": "○ Nager.Date (공휴일)",
    "url": "https://date.nager.at/PublicHoliday/Country/KR",
-   "published_at": "2026-11-26",
-   "summary": "정상 · 200ms · 3,062B · 키 none",
+   "published_at": "2026-11-27",
+   "summary": "정상 · 243ms · 3,062B · 키 none",
    "tags": [
     "소스 상태",
     "json"
@@ -106,7 +106,7 @@
     "ok": true
    },
    "is_new": false,
-   "streak_days": 69,
+   "streak_days": 70,
    "source_name": "실측"
   },
   {
@@ -114,42 +114,40 @@
    "title": "12/25 크리스마스",
    "url": "https://date.nager.at/PublicHoliday/Country/KR",
    "published_at": "2026-12-25",
-   "summary": "29일 뒤 · 금요일",
+   "summary": "28일 뒤 · 금요일",
    "tags": [
     "공휴일"
    ],
    "metrics": {
-    "days_left": 29
+    "days_left": 28
    },
    "is_new": false,
-   "streak_days": 26,
+   "streak_days": 27,
    "source_name": "Nager.Date"
   },
   {
    "id": "be0286b6201a8c1f",
    "title": "세계 지진 (USGS, 7일)",
    "url": "https://earthquake.usgs.gov/earthquakes/map/",
-   "published_at": "2026-11-26",
-   "summary": "이번 주 규모 4.5 이상 87건 · 최대 M6.8 105 km NE of Lospalos, Timor Leste",
+   "published_at": "2026-11-27",
+   "summary": "이번 주 규모 4.5 이상 84건 · 최대 M6.8 105 km NE of Lospalos, Timor Leste",
    "tags": [
     "지진"
    ],
    "metrics": {
-    "count": 87
+    "count": 84
    },
    "is_new": false,
-   "streak_days": 69,
+   "streak_days": 70,
    "source_name": "USGS"
   }
  ],
  "status": {
   "ok": true,
   "count": 8,
-  "warn": [
-   "Open-Meteo (날씨) 실패"
-  ],
+  "warn": [],
   "error": null,
-  "level": "warn",
+  "level": "ok",
   "block": []
  }
 }
