@@ -1,6 +1,6 @@
 {
  "module": "realestate",
- "fetched_at": "2026-11-27T12:40:18+09:00",
+ "fetched_at": "2026-11-28T12:21:13+09:00",
  "source": {
   "name": "RSS 6곳",
   "url": "https://www.hankyung.com/feed/realestate",
@@ -8,44 +8,25 @@
  },
  "items": [
   {
-   "id": "a571e7127645d336",
-   "title": "[AI 쇼크 흔들린 亞증시] ②젠슨 황 복귀시킨 미국·공매도 막은 대만… 각국 ‘증시 소방수’ 성적표는",
-   "url": "https://www.chosun.com/economy/stock-finance/2026/11/27/HBRGGOBXGJSWEMRRMQ4TKYRUMI/",
-   "published_at": "2026-11-27T11:53:05+09:00",
-   "summary": "미국에서 시작된 인공지능(AI) 거품론이 아시아 증시를 강타하자 각국 정부는 서로 다른 방식의 ‘증시 소방수’를 투입했다. 대만은 공매도 규제를 강화하고 금융안정기금으로 주식 매수에 나섰고, 미국은 대통령이 직접 물러난 젠슨 황 엔비디아 최고경영자(CEO)의 복귀를 주도했다. 한국은 증",
+   "id": "5dc5628492f03fee",
+   "title": "\"새 아파트 받고 4억 받는다고?\"…집주인들 조용히 웃는 동네 [이슬기의 새집다오]",
+   "url": "https://www.hankyung.com/article/2026112738476",
+   "published_at": "2026-11-28T10:30:01+09:00",
+   "summary": "",
    "tags": [
-    "부동산",
-    "경매",
-    "AI"
+    "부동산"
    ],
    "metrics": {},
    "is_new": true,
    "streak_days": 1,
-   "source_name": "조선일보 경제"
+   "source_name": "한국경제 부동산"
   },
   {
-   "id": "1d4d4bc4361ef847",
-   "title": "[AI 쇼크 흔들린 亞증시] ①삼전·하이닉스·키옥시아 선행 PER 2배대 추락… ‘시클리컬 고점’의 경고",
-   "url": "https://www.chosun.com/economy/stock-finance/2026/11/27/MFRTAYRSG42GMOBSG4YGINZSMQ/",
-   "published_at": "2026-11-27T11:52:59+09:00",
-   "summary": "미국발 AI 거품론과 금리 경계감이 맞물리며 한·미·일·대만 주요 증시가 동반 급락세에 빠졌다. 사상 최대 이익 전망에도 주가가 반토막 난 AI 반도체 대표주들의 과매도 국면 속에서, 뒤늦게 빚투와 물타기에 뛰어든 개인투자자들은 대규모 원금 손실에 직면했다. 공매도 금지와 기업인 구원투",
-   "tags": [
-    "부동산",
-    "경매",
-    "AI",
-    "신기술"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "조선일보 경제"
-  },
-  {
-   "id": "4b4b984c1cd73af3",
-   "title": "100명중 29명 ‘내집 소유’ 역대최고…다주택자는 8년만에 최저",
-   "url": "https://www.donga.com/news/Economy/article/all/20261127/135102300/1",
-   "published_at": "2026-11-27T11:44:00+09:00",
-   "summary": "아파트·연립주택·다세대주택·오피스텔 등 집합건물을 소유한 사람 가운데 2개 이상을 보유한 사람의 비중이 8년여 만에 가장 낮아졌다. 반면 전체 국민 중 집합건물을 하나라도 보유한 사람의 비중은 통계 집계 이후 가장 높았다. 다주택 보유에 따른 세 부담을 우려해 매물을 내놓는 집주인과 전",
+   "id": "1094d231cd5124d6",
+   "title": "임대료 규제, 주택난의 해결책일까 원인일까…스페인의 교훈[딥다이브]",
+   "url": "https://www.donga.com/news/Economy/article/all/20261127/135103081/1",
+   "published_at": "2026-11-28T10:00:00+09:00",
+   "summary": "29일 총선을 앞둔 스페인. 중도좌파 산체스 정권이 8년 만에 무너질 수 있다는 관측이 나오죠. ‘87세 노인의 강제 퇴거’ 사건으로 상징되는 지독한 임대주택난으로 인해 민심이 폭발하면서 유권자들이 등을 돌렸기 때문인데요.세입자를 위한다던 정부 정책은 어떻게 스페인 주택시장을 뒤흔들었을",
    "tags": [
     "부동산"
    ],
@@ -55,14 +36,15 @@
    "source_name": "동아일보 경제"
   },
   {
-   "id": "2e116288be84595c",
-   "title": "서울 아파트값 상승률 0.01%로 뚝…금리 인상에 94주 상승세 멈추나",
-   "url": "https://www.donga.com/news/Economy/article/all/20261127/135102176/1",
-   "published_at": "2026-11-27T11:13:50+09:00",
-   "summary": "서울 아파트값이 94주 연속 상승했지만 11월 넷째 주 상승률은 0.01%까지 낮아지며 사실상 보합권에 들어섰다. 서울 25개 자치구 중 9곳은 하락했다. 한국은행이 기준금리를 연 3.00%에서 3.25%로 올리면서 서울 아파트값의 94주 연속 상승세가 다음 주에는 멈출지 주목된다.서울",
+   "id": "bc0c56f6f267e6b8",
+   "title": "1층마저 텅텅…상가 공실률 역대 최고, 경매도 찬바람",
+   "url": "https://www.donga.com/news/Economy/article/all/20261128/135106851/1",
+   "published_at": "2026-11-28T08:38:28+09:00",
+   "summary": "경기 불황을 이기지 못한 자영업자의 폐업이 늘면서 텅 빈 상가 건물도 증가하고 있다. ‘상가의 꽃’으로 불리던 1층마저 공실률이 고공행진 하고 있다. 28일 한국부동산원 통계에 따르면 올해 3분기 전국 일반상가 공실률은 13.7%를 기록했다. 이는 2015년 관련 통계 작성 이래 가장 ",
    "tags": [
     "부동산",
-    "수도권"
+    "수도권",
+    "경매"
    ],
    "metrics": {},
    "is_new": true,
@@ -70,27 +52,11 @@
    "source_name": "동아일보 경제"
   },
   {
-   "id": "109cf13e13ca3e91",
-   "title": "정부, 증시 안정 조치 점검...“공매도 특이 동향은 없어\"",
-   "url": "https://www.chosun.com/economy/economy_general/2026/11/27/UEDMAWCAABAHHMF2C6MWMZVASY/",
-   "published_at": "2026-11-27T10:51:52+09:00",
-   "summary": "최근 인공지능(AI) 수익성 우려와 미국 기준금리 인상 등으로 코스피가 등락을 거듭하는 가운데, 정부가 불법 공매도 감시 등 증권시장 안정 조치 이행 상황을 점검했다고 27일 밝혔다.",
-   "tags": [
-    "부동산",
-    "경매",
-    "AI"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "조선일보 경제"
-  },
-  {
-   "id": "7a635bd9039dc61d",
-   "title": "부동산 명의만 바꿔 종부세 회피 혐의…법인 대표 등 6명 송치",
-   "url": "https://www.yna.co.kr/view/AKR20261127057300061",
-   "published_at": "2026-11-27T10:36:02+09:00",
-   "summary": "(안산=연합뉴스) 김지원 기자 = 종합부동산세 부담을 줄이려고 부동산에 대한 실질적인 권리는 유지한 채 등기 명의만 바꾼 법인 대표 등이 공소청...",
+   "id": "2a5de519d1678aca",
+   "title": "\"땅값 10배 뛴다\"며 200억 사기…기획부동산 회장 1심 징역 12년",
+   "url": "https://www.yna.co.kr/view/AKR20261127166700004",
+   "published_at": "2026-11-28T07:00:01+09:00",
+   "summary": "(서울=연합뉴스) 김빛나 기자 = 개발제한구역(그린벨트) 등 사실상 개발이 불가능한 땅을 개발 호재가 있는 것처럼 속여 팔아 200억원을 챙긴 ...",
    "tags": [
     "부동산",
     "수도권"
@@ -101,11 +67,160 @@
    "source_name": "연합뉴스 경제"
   },
   {
-   "id": "4f02ff0d25d88198",
-   "title": "GS건설 견본주택이 달라졌다…예술 감상부터 주거 체험까지",
-   "url": "https://www.donga.com/news/Economy/article/all/20261127/135101843/1",
-   "published_at": "2026-11-27T10:27:00+09:00",
-   "summary": "GS건설이 견본주택에 예술작품과 커뮤니티 시설 등을 도입하고 분양 상담 외에 주거 서비스 체험 공간을 확대하고 있다고 27일 밝혔다.GS건설은 기존 견본주택의 분양 정보 제공과 청약 상담 기능에 전시·체험 공간을 추가하는 방식으로 운영하고 있다. 방문객이 입주 후 이용할 수 있는 커뮤니",
+   "id": "9a8b829f4527da4e",
+   "title": "[부동산캘린더] 내주 남양주 3기 신도시 등 4천215가구 분양",
+   "url": "https://www.yna.co.kr/view/AKR20261127116200003",
+   "published_at": "2026-11-28T06:01:00+09:00",
+   "summary": "(서울=연합뉴스) 오예진 기자 = 12월 첫째 주에는 남양주 3기 신도시를 포함해 전국에서 4천215가구가 공급된다.",
+   "tags": [
+    "부동산",
+    "수도권"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "연합뉴스 경제"
+  },
+  {
+   "id": "cce5cecadf2e3768",
+   "title": "17년 된 판교 국평, 28억 넘었다… 과천 신축 일부보다 비싸",
+   "url": "https://www.chosun.com/economy/real_estate/2026/11/28/MU2TGNZZHE2TCOJSG5RTIOLEGM/",
+   "published_at": "2026-11-28T06:00:01+09:00",
+   "summary": "경기 성남시 분당구 판교역 일대 국민평형(전용 84㎡) 아파트값이 25억원을 넘어섰다. 입주 17년 차 구축인데 일부 단지는 28억원대에 팔려 과천 신축 단지 시세를 웃돌았다. 판교테크노밸리에 몰린 IT·게임·반도체 설계 기업 직원들의 직주근접 수요가 집값을 밀어올렸다는 분석이 나온다.",
+   "tags": [
+    "부동산",
+    "수도권",
+    "신기술"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "조선일보 경제"
+  },
+  {
+   "id": "b531a2bd064fdb14",
+   "title": "삼성·현대·롯데까지 몰렸는데…광명 하안주공 주민들은 반발, 왜? [르포]",
+   "url": "https://www.chosun.com/economy/realty/redevelop/2026/11/28/MU4DKZRUGEZGKMLDMU4GKOLGGA/",
+   "published_at": "2026-11-28T06:00:00+09:00",
+   "summary": "[땅집고] 25일 경기 광명시 하안동. 서울 금천구와 맞닿은 이곳에 들어서자 도로 양옆으로 낡은 주공아파트가 빼곡하게 늘어섰다. 비슷한 높이의 아파트들이 줄지어 선 풍경은 한 단지를 지나도 좀처럼 끝나지 않았다. 하안주공 1~12단지 약 2만가구가 8개 구역으로 나뉘어 재건축을 추진하는",
+   "tags": [
+    "부동산",
+    "수도권"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "조선일보 경제"
+  },
+  {
+   "id": "869b19847fd3d99a",
+   "title": "공시가 12억 넘는 아파트 늘어… 왕십리-당산 1주택도 종부세",
+   "url": "https://www.donga.com/news/Economy/article/all/20261127/135106266/2",
+   "published_at": "2026-11-28T01:40:00+09:00",
+   "summary": "지난해 서울 집값이 크게 오르면서 왕십리·당산·고덕 등 비(非)강남권에서도 아파트 한 채를 보유한 1주택자가 올해 종합부동산세(종부세)를 내게 된 사례가 잇따르고 있다. 전용면적 84㎡ 아파트의 공시가격이 1주택자 과세 기준인 12억 원을 넘어섰기 때문이다. 이처럼 보유세 부담이 커지는",
+   "tags": [
+    "부동산",
+    "수도권"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "동아일보 경제"
+  },
+  {
+   "id": "142ef94a9a76c1f8",
+   "title": "“AI는 세계 경제 엔진, 계속 투자해야… 통신·전력 인프라도 유망”",
+   "url": "https://www.chosun.com/economy/economy_general/2026/11/28/3A5LJRIKSBGP7JMIN5U6KBBQAY/",
+   "published_at": "2026-11-28T00:36:00+09:00",
+   "summary": "27일 서울 강남구 세텍(SETEC)에서 열린 ‘2027 대한민국 재테크 박람회’는 최근 주식시장 급락에도 강연장을 가득 메운 투자자들로 북적였다. 참석자들은 내년 증시와 부동산 시장의 향방에 귀를 기울였다. 전문가들은 AI 관련 투자가 내년까지 이어질 것으로 봤다. 다만 유가와 금리가",
+   "tags": [
+    "부동산",
+    "수도권",
+    "AI"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "조선일보 경제"
+  },
+  {
+   "id": "303da28e777f1077",
+   "title": "정부 “공매도 특이 동향 없어…증시 변동성 확대 대응태세 유지”",
+   "url": "https://www.hani.co.kr/arti/economy/economy_general/1289398.html",
+   "published_at": "2026-11-28",
+   "summary": "",
+   "tags": [
+    "부동산",
+    "경매"
+   ],
+   "metrics": {},
+   "is_new": false,
+   "streak_days": 2,
+   "source_name": "한겨레 경제"
+  },
+  {
+   "id": "9930d3df3e6a3ea3",
+   "title": "아파트·오피스텔 55채 ‘무자본 갭투기’…전세사기 의심 88건 적발",
+   "url": "https://www.hani.co.kr/arti/economy/economy_general/1289270.html",
+   "published_at": "2026-11-28",
+   "summary": "",
+   "tags": [
+    "부동산"
+   ],
+   "metrics": {},
+   "is_new": false,
+   "streak_days": 2,
+   "source_name": "한겨레 경제"
+  },
+  {
+   "id": "faf76c955454fb0d",
+   "title": "'더샵 일산센트로' 526가구 분양",
+   "url": "https://www.hankyung.com/article/2026112752541",
+   "published_at": "2026-11-27T17:11:09+09:00",
+   "summary": "",
+   "tags": [
+    "부동산"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "한국경제 부동산"
+  },
+  {
+   "id": "711b8f20c294b892",
+   "title": "원빈, 16년째 연기 쉬는데…21억에 산 성수동 건물 몸값이 [집코노미-핫!부동산]",
+   "url": "https://www.hankyung.com/article/202611274968H",
+   "published_at": "2026-11-27T16:04:50+09:00",
+   "summary": "",
+   "tags": [
+    "부동산"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "한국경제 부동산"
+  },
+  {
+   "id": "101d5be461f91fe9",
+   "title": "행신동 첫 재건축 분양 '고양 한신더휴 퍼스트원'…27일 견본주택 개관",
+   "url": "https://www.hankyung.com/article/202611274667i",
+   "published_at": "2026-11-27T13:52:42+09:00",
+   "summary": "",
+   "tags": [
+    "부동산",
+    "수도권"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "한국경제 부동산"
+  },
+  {
+   "id": "7e84e271ac43f69a",
+   "title": "LH, 영주귀국 사할린 동포 140가구에 임대주택 공급",
+   "url": "https://www.hankyung.com/article/202611274654i",
+   "published_at": "2026-11-27T13:49:57+09:00",
+   "summary": "",
    "tags": [
     "부동산",
     "청약"
@@ -113,7 +228,35 @@
    "metrics": {},
    "is_new": true,
    "streak_days": 1,
-   "source_name": "동아일보 경제"
+   "source_name": "한국경제 부동산"
+  },
+  {
+   "id": "371a1d57245eaad2",
+   "title": "구로 고척동 모아주택 3곳 함께 재개발…627가구 아파트 단지로",
+   "url": "https://www.hankyung.com/article/202611274213i",
+   "published_at": "2026-11-27T13:39:48+09:00",
+   "summary": "",
+   "tags": [
+    "부동산"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "한국경제 부동산"
+  },
+  {
+   "id": "ef304b3a4acf0d70",
+   "title": "집 안 사고 버텼는데 어쩌나…전세족 '뜻밖의 복병' [분석+]",
+   "url": "https://www.hankyung.com/article/2026112620816",
+   "published_at": "2026-11-27T13:30:01+09:00",
+   "summary": "",
+   "tags": [
+    "부동산"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "한국경제 부동산"
   },
   {
    "id": "b9e30b0eab94a529",
@@ -125,8 +268,8 @@
     "부동산"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "한국경제 부동산"
   },
   {
@@ -139,8 +282,8 @@
     "부동산"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "한국경제 부동산"
   },
   {
@@ -155,8 +298,8 @@
     "경매"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "경향신문 경제"
   },
   {
@@ -169,128 +312,9 @@
     "부동산"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "한국경제 부동산"
-  },
-  {
-   "id": "db80d59cbe1014d7",
-   "title": "종부세 대상 35% 늘어… 한강벨트선 작년보다 3배 내는 곳도",
-   "url": "https://www.donga.com/news/Economy/article/all/20261127/135099701/2",
-   "published_at": "2026-11-27T04:30:00+09:00",
-   "summary": "올해 주택분 종합부동산세를 내는 사람이 72만6000명으로 지난해보다 18만8000명(34.9%) 늘었다. 서울 아파트 공시가격이 올해 18.6% 뛰는 등 수도권 집값 상승세로 납부 대상이 대폭 확대됐다. 이들이 내야 하는 종부세는 2조3000억 원으로 지난해(1조3000억 원)보다 7",
-   "tags": [
-    "부동산",
-    "수도권"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "동아일보 경제"
-  },
-  {
-   "id": "eb0b2a566ab88d24",
-   "title": "세부담에 재초환 겹쳐… 강남 아파트 호가 수억원씩 낮춰",
-   "url": "https://www.donga.com/news/Economy/article/all/20261127/135099703/2",
-   "published_at": "2026-11-27T04:30:00+09:00",
-   "summary": "26일 서울 서초구 반포동 래미안트리니원에서는 전용면적 112㎡ 매물이 재건축 초과이익 환수제(재초환) 부담금을 매수자가 내는 조건으로 50억 원대에 나와 있다. 올해 9월의 기존 최고가 74억5548만 원과 비교하면 25억 원가량 낮은 가격이다. 이 단지 중개를 주로 맡는 공인중개사 ",
-   "tags": [
-    "부동산",
-    "수도권"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "동아일보 경제"
-  },
-  {
-   "id": "7cf46238926caf4b",
-   "title": "1기 신도시도 재초환 반발… 분당서 폐지 촉구 공동성명",
-   "url": "https://www.donga.com/news/Economy/article/all/20261127/135099705/2",
-   "published_at": "2026-11-27T04:30:00+09:00",
-   "summary": "경기 성남시 분당신도시에서 재건축을 추진 중인 8개 사업지 대표들이 28일 재건축초과이익환수제(재초환) 폐지를 촉구하는 공동성명을 낸다. 서울의 재건축 단지들이 부담금 부과를 앞두고 집회와 소송 등을 예고하는 등 대응에 나선 데 이어 아직 부담금 예정액을 통보받지 않은 1기 신도시인 분",
-   "tags": [
-    "부동산",
-    "수도권"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "동아일보 경제"
-  },
-  {
-   "id": "303da28e777f1077",
-   "title": "정부 “공매도 특이 동향 없어…증시 변동성 확대 대응태세 유지”",
-   "url": "https://www.hani.co.kr/arti/economy/economy_general/1289398.html",
-   "published_at": "2026-11-27",
-   "summary": "",
-   "tags": [
-    "부동산",
-    "경매"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "한겨레 경제"
-  },
-  {
-   "id": "9930d3df3e6a3ea3",
-   "title": "아파트·오피스텔 55채 ‘무자본 갭투기’…전세사기 의심 88건 적발",
-   "url": "https://www.hani.co.kr/arti/economy/economy_general/1289270.html",
-   "published_at": "2026-11-27",
-   "summary": "",
-   "tags": [
-    "부동산"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "한겨레 경제"
-  },
-  {
-   "id": "c108412f288cd195",
-   "title": "서울 아파트값 떨어지나? 한강벨트까지 하락세 전환",
-   "url": "https://www.hani.co.kr/arti/economy/property/1289263.html",
-   "published_at": "2026-11-27",
-   "summary": "",
-   "tags": [
-    "부동산",
-    "수도권"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "한겨레 경제"
-  },
-  {
-   "id": "72aff7116d7e634b",
-   "title": "‘한남 3구역’ 뉴타운 지정 23년 만에 첫 삽",
-   "url": "https://www.khan.co.kr/article/202611262057045/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
-   "published_at": "2026-11-26T20:57:04+09:00",
-   "summary": "5970가구 아파트 단지로 재개발구릉지형 위로 다가구·다세대 저층주거지가 밀집했던 서울 용산구 한남3구역이 뉴타운 지정 23년 만에 첫 삽을 떴다. 서울시는 한남3재정비촉진구역에서 주택정비형 재개발사업 착공식을 열고 공사에 들어간다고 26일 밝혔다.한남동·보광동 일대로 약 38만6000",
-   "tags": [
-    "부동산",
-    "수도권"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "경향신문 경제"
-  },
-  {
-   "id": "f8a8e043f8804d74",
-   "title": "집값 급등에 종부세 대상 19만명 늘었다",
-   "url": "https://www.khan.co.kr/article/202611262047015/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
-   "published_at": "2026-11-26T20:47:01+09:00",
-   "summary": "총 73만명 육박…서울에 45만여명평균 세액은 24% 증가한 200만원서울 등 수도권 아파트 가격이 급등하면서 올해 주택분 종합부동산세(종부세) 고지 인원이 지난해보다 19만명 늘어 73만명에 육박했다. 1인당 평균 종부세액은 지난해 약 160만원에서 올해 약 200만원으로 24% 늘었",
-   "tags": [
-    "부동산",
-    "수도권"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "경향신문 경제"
   },
   {
    "id": "c2b982a3179e0a18",
@@ -302,8 +326,8 @@
     "부동산"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
+   "is_new": false,
+   "streak_days": 2,
    "source_name": "한국경제 부동산"
   },
   {
@@ -316,101 +340,29 @@
     "부동산"
    ],
    "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "한국경제 부동산"
-  },
-  {
-   "id": "ec8e0b070986b7f1",
-   "title": "서울 최대 재개발 '한남3구역' 첫삽",
-   "url": "https://www.hankyung.com/article/2026112631071",
-   "published_at": "2026-11-26T17:58:56+09:00",
-   "summary": "",
-   "tags": [
-    "부동산",
-    "수도권"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "한국경제 부동산"
-  },
-  {
-   "id": "45ec4ff75245ce0e",
-   "title": "\"대출 규제, 집값 못 잡고 수요 왜곡\"",
-   "url": "https://www.hankyung.com/article/2026112631111",
-   "published_at": "2026-11-26T17:56:59+09:00",
-   "summary": "",
-   "tags": [
-    "부동산"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "한국경제 부동산"
-  },
-  {
-   "id": "67cd084a802ad114",
-   "title": "전세계약 이용해 증여·사기…국토부, 1년간 1457건 적발",
-   "url": "https://www.hankyung.com/article/2026112631121",
-   "published_at": "2026-11-26T17:56:26+09:00",
-   "summary": "",
-   "tags": [
-    "부동산"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "한국경제 부동산"
-  },
-  {
-   "id": "31ea4a809ae3db57",
-   "title": "노원 하계동 재건축 3개 단지, 최고 49층·5580가구로 탈바꿈",
-   "url": "https://www.hankyung.com/article/202611262213i",
-   "published_at": "2026-11-26T14:01:11+09:00",
-   "summary": "",
-   "tags": [
-    "부동산"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "한국경제 부동산"
-  },
-  {
-   "id": "f057b5afe6bb32e0",
-   "title": "서울 집값 94주째 올라 또 최장 기록…성북·노원·서대문 상승 견인",
-   "url": "https://www.hankyung.com/article/2026112618876",
-   "published_at": "2026-11-26T14:00:07+09:00",
-   "summary": "",
-   "tags": [
-    "부동산",
-    "수도권"
-   ],
-   "metrics": {},
-   "is_new": true,
-   "streak_days": 1,
-   "source_name": "한국경제 부동산"
-  },
-  {
-   "id": "29620f71c9a71b6a",
-   "title": "\"10년 살아보고 분양 결정하세요\"…포스코이앤씨, 더샵일산센트로 공급",
-   "url": "https://www.hankyung.com/article/2026112613716",
-   "published_at": "2026-11-26T09:41:57+09:00",
-   "summary": "",
-   "tags": [
-    "부동산"
-   ],
-   "metrics": {},
    "is_new": false,
    "streak_days": 2,
    "source_name": "한국경제 부동산"
   },
   {
+   "id": "01369fb3e25a7c8c",
+   "title": "게임대상 사상 첫 8관왕 오른 ‘붉은사막’… 자체 개발 엔진으로 만들어져 더 뜻깊어",
+   "url": "https://www.chosun.com/economy/tech_it/2026/11/26/EHCKMGYTUZDDDPWQSTYZZPY4VE/",
+   "published_at": "2026-11-26T00:37:00+09:00",
+   "summary": "지난 18일 부산 벡스코에서 열린 ‘2026 대한민국 게임대상’에서 펄어비스의 ‘붉은사막 인핸스드(붉은사막)’가 대상을 받았습니다. 글로벌게임상과 우수개발자상, 인기성우상, 기술·창작상 4개 부문까지 휩쓴 사상 첫 8관왕입니다. 글로벌 PC·콘솔 시장에서도 출시 83일 만에 600만장이",
+   "tags": [
+    "부동산"
+   ],
+   "metrics": {},
+   "is_new": true,
+   "streak_days": 1,
+   "source_name": "조선일보 경제"
+  },
+  {
    "id": "6a0834327afccc3b",
    "title": "LH 청약플러스 — 분양·임대 공고",
    "url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancList.do?mi=1026",
-   "published_at": "2026-11-27",
+   "published_at": "2026-11-28",
    "summary": "수도권 공고는 지역 필터로",
    "tags": [
     "바로가기",
@@ -418,14 +370,14 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 70,
+   "streak_days": 71,
    "source_name": "바로가기"
   },
   {
    "id": "25744536b7c84e25",
    "title": "온비드 — 공매 물건",
    "url": "https://www.onbid.co.kr/op/cta/cltrdtl/collateralRealEstateList.do",
-   "published_at": "2026-11-27",
+   "published_at": "2026-11-28",
    "summary": "부동산 공매 검색",
    "tags": [
     "바로가기",
@@ -433,14 +385,14 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 70,
+   "streak_days": 71,
    "source_name": "바로가기"
   },
   {
    "id": "c91f39808692d334",
    "title": "법원경매정보 — 매각기일 공고",
    "url": "https://www.courtauction.go.kr/",
-   "published_at": "2026-11-27",
+   "published_at": "2026-11-28",
    "summary": "관할 법원별 기일 확인",
    "tags": [
     "바로가기",
@@ -448,15 +400,16 @@
    ],
    "metrics": {},
    "is_new": false,
-   "streak_days": 70,
+   "streak_days": 71,
    "source_name": "바로가기"
   }
  ],
  "status": {
   "ok": true,
-  "count": 30,
+  "count": 27,
   "warn": [
-   "LH·온비드 공공데이터 API: 키 없음(DATA_GO_KR_KEY) — 뉴스·바로가기만"
+   "LH·온비드 공공데이터 API: 키 없음(DATA_GO_KR_KEY) — 뉴스·바로가기만",
+   "어제와 동일 41%"
   ],
   "error": null,
   "level": "warn",
